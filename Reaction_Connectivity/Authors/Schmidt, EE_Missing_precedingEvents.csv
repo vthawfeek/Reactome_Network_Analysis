@@ -1,0 +1,10 @@
+Pathway,First Reaction,Second Reaction,Second Reaction Author
+Metabolism,"=HYPERLINK(""https://reactome.org/content/detail/R-HSA-70471"",""R-HSA-70471"")","=HYPERLINK(""https://reactome.org/content/detail/R-HSA-70475"",""R-HSA-70475"")","Schmidt, EE"
+Metabolism,"=HYPERLINK(""https://reactome.org/content/detail/R-HSA-6799604"",""R-HSA-6799604"")","=HYPERLINK(""https://reactome.org/content/detail/R-HSA-70475"",""R-HSA-70475"")","Schmidt, EE"
+Metabolism,"=HYPERLINK(""https://reactome.org/content/detail/R-HSA-70262"",""R-HSA-70262"")","=HYPERLINK(""https://reactome.org/content/detail/R-HSA-70475"",""R-HSA-70475"")","Schmidt, EE"
+Metabolism,"=HYPERLINK(""https://reactome.org/content/detail/R-HSA-71335"",""R-HSA-71335"")","=HYPERLINK(""https://reactome.org/content/detail/R-HSA-70475"",""R-HSA-70475"")","Schmidt, EE"
+Metabolism,"=HYPERLINK(""https://reactome.org/content/detail/R-HSA-71334"",""R-HSA-71334"")","=HYPERLINK(""https://reactome.org/content/detail/R-HSA-70475"",""R-HSA-70475"")","Schmidt, EE"
+Signal Transduction,"=HYPERLINK(""https://reactome.org/content/detail/R-HSA-2485182"",""R-HSA-2485182"")","=HYPERLINK(""https://reactome.org/content/detail/R-HSA-74882"",""R-HSA-74882"")","Schmidt, EE"
+Signal Transduction,"=HYPERLINK(""https://reactome.org/content/detail/R-HSA-2514865"",""R-HSA-2514865"")","=HYPERLINK(""https://reactome.org/content/detail/R-HSA-74031"",""R-HSA-74031"")","Schmidt, EE"
+Signal Transduction,"=HYPERLINK(""https://reactome.org/content/detail/R-HSA-2584246"",""R-HSA-2584246"")","=HYPERLINK(""https://reactome.org/content/detail/R-HSA-74065"",""R-HSA-74065"")","Schmidt, EE"
+Signal Transduction,"=HYPERLINK(""https://reactome.org/content/detail/R-HSA-749452"",""R-HSA-749452"")","=HYPERLINK(""https://reactome.org/content/detail/R-HSA-74101"",""R-HSA-74101"")","Schmidt, EE"

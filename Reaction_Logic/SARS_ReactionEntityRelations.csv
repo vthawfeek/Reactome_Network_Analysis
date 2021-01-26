@@ -1,0 +1,775 @@
+﻿ReactioneName,ReactionID,Category,Class,EntityName,UniprotID
+CYSLTR1 binds CYSLTR1 antagonists,R-HSA-9684627,Input,CandidateSet,UniProt:Q9Y271 CYSLTR1,Q9Y271
+CYSLTR1 binds CYSLTR1 antagonists,R-HSA-9684627,Input,EntityWithAccessionedSequence,UniProt:Q9Y271 CYSLTR1,Q9Y271
+CRBN binds IMiDs,R-HSA-9681169,Input,DefinedSet,UniProt:Q96SW2 CRBN,Q96SW2
+CRBN binds IMiDs,R-HSA-9681169,Input,EntityWithAccessionedSequence,UniProt:Q96SW2 CRBN,Q96SW2
+TYK2 binds TYK2 inhibitors,R-HSA-9678737,Input,EntityWithAccessionedSequence,UniProt:P29597 TYK2,P29597
+TYK2 binds TYK2 inhibitors,R-HSA-9678737,Input,DefinedSet,UniProt:P29597 TYK2,P29597
+AP2 binds chlorpromazine,R-HSA-9681616,Input,ChemicalDrug,UniProt:Q96CW1 AP2M1,Q96CW1
+AP2 binds chlorpromazine,R-HSA-9681616,Input,ChemicalDrug,UniProt:O94973 AP2A2,O94973
+AP2 binds chlorpromazine,R-HSA-9681616,Input,ChemicalDrug,UniProt:O95782 AP2A1,O95782
+AP2 binds chlorpromazine,R-HSA-9681616,Input,ChemicalDrug,UniProt:P63010 AP2B1,P63010
+AP2 binds chlorpromazine,R-HSA-9681616,Input,ChemicalDrug,UniProt:P53680 AP2S1,P53680
+AP2 binds chlorpromazine,R-HSA-9681616,Input,Complex,UniProt:Q96CW1 AP2M1,Q96CW1
+AP2 binds chlorpromazine,R-HSA-9681616,Input,Complex,UniProt:O94973 AP2A2,O94973
+AP2 binds chlorpromazine,R-HSA-9681616,Input,Complex,UniProt:O95782 AP2A1,O95782
+AP2 binds chlorpromazine,R-HSA-9681616,Input,Complex,UniProt:P63010 AP2B1,P63010
+AP2 binds chlorpromazine,R-HSA-9681616,Input,Complex,UniProt:P53680 AP2S1,P53680
+"JAK1 binds JAK1,2 inhibitors",R-HSA-9678935,Input,EntityWithAccessionedSequence,UniProt:P23458 JAK1,P23458
+"JAK1 binds JAK1,2 inhibitors",R-HSA-9678935,Input,DefinedSet,UniProt:P23458 JAK1,P23458
+"CQ, HCQ diffuses from cytosol to lysosomal lumen",R-HSA-9683478,Input,DefinedSet,null,null
+FURIN binds furin inhibitors,R-HSA-9683546,Input,DefinedSet,UniProt:P09958 FURIN,P09958
+FURIN binds furin inhibitors,R-HSA-9683546,Input,EntityWithAccessionedSequence,UniProt:P09958 FURIN,P09958
+BRD4 binds fedratinib,R-HSA-9680408,Input,EntityWithAccessionedSequence,UniProt:O60885 BRD4,O60885
+BRD4 binds fedratinib,R-HSA-9680408,Input,ChemicalDrug,UniProt:O60885 BRD4,O60885
+COMT binds COMT Inhibitors,R-HSA-9679775,Input,EntityWithAccessionedSequence,UniProt:P21964 COMT,P21964
+COMT binds COMT Inhibitors,R-HSA-9679775,Input,DefinedSet,UniProt:P21964 COMT,P21964
+RIPK1 binds ponatinib,R-HSA-9679839,Input,EntityWithAccessionedSequence,UniProt:Q13546 RIPK1,Q13546
+RIPK1 binds ponatinib,R-HSA-9679839,Input,ChemicalDrug,UniProt:Q13546 RIPK1,Q13546
+IMPDH tetramers binds IMPDH inhibitors,R-HSA-9678749,Input,DefinedSet,UniProt:P12268 IMPDH2,P12268
+IMPDH tetramers binds IMPDH inhibitors,R-HSA-9678749,Input,DefinedSet,UniProt:P20839 IMPDH1,P20839
+S1PR1 binds S1PR1 agonists,R-HSA-9678854,Input,EntityWithAccessionedSequence,UniProt:P21453 S1PR1,P21453
+S1PR1 binds S1PR1 agonists,R-HSA-9678854,Input,DefinedSet,UniProt:P21453 S1PR1,P21453
+TUBB binds colchicine,R-HSA-9685830,Input,EntityWithAccessionedSequence,UniProt:P07437 TUBB,P07437
+TUBB binds colchicine,R-HSA-9685830,Input,ChemicalDrug,UniProt:P07437 TUBB,P07437
+TLR9 binds HCQ,R-HSA-9679045,Input,EntityWithAccessionedSequence,UniProt:Q9NR96 TLR9,Q9NR96
+TLR9 binds HCQ,R-HSA-9679045,Input,ChemicalDrug,UniProt:Q9NR96 TLR9,Q9NR96
+FKBP1A binds FKBP1A inhibitors,R-HSA-9679044,Input,EntityWithAccessionedSequence,UniProt:P62942 FKBP1A,P62942
+FKBP1A binds FKBP1A inhibitors,R-HSA-9679044,Input,DefinedSet,UniProt:P62942 FKBP1A,P62942
+NS5B binds ribavirin,R-HSA-9680836,Input,EntityWithAccessionedSequence,UniProt:Q8JXU8 NS5B,Q8JXU8
+NS5B binds ribavirin,R-HSA-9680836,Input,ChemicalDrug,UniProt:Q8JXU8 NS5B,Q8JXU8
+"CQ, HCQ are protonated to CQ2+, HCQ2+",R-HSA-9683467,Input,SimpleEntity,null,null
+"CQ, HCQ are protonated to CQ2+, HCQ2+",R-HSA-9683467,Input,DefinedSet,null,null
+TBK1 binds amlexanox,R-HSA-9679819,Input,ChemicalDrug,UniProt:Q9UHD2 TBK1,Q9UHD2
+TBK1 binds amlexanox,R-HSA-9679819,Input,EntityWithAccessionedSequence,UniProt:Q9UHD2 TBK1,Q9UHD2
+SIGMAR1 binds dextromethorphan,R-HSA-9679816,Input,EntityWithAccessionedSequence,UniProt:Q99720 SIGMAR1,Q99720
+SIGMAR1 binds dextromethorphan,R-HSA-9679816,Input,ChemicalDrug,UniProt:Q99720 SIGMAR1,Q99720
+IL6R binds tocilizumab,R-HSA-9681294,Input,ProteinDrug,UniProt:P08887 IL6R,P08887
+IL6R binds tocilizumab,R-HSA-9681294,Input,EntityWithAccessionedSequence,UniProt:P08887 IL6R,P08887
+NR3C1 binds NR3C1 agonists,R-HSA-9678925,Input,DefinedSet,UniProt:P04150 NR3C1,P04150
+NR3C1 binds NR3C1 agonists,R-HSA-9678925,Input,EntityWithAccessionedSequence,UniProt:P04150 NR3C1,P04150
+TLR7 binds HCQ,R-HSA-9679029,Input,ChemicalDrug,UniProt:Q9NYK1 TLR7,Q9NYK1
+TLR7 binds HCQ,R-HSA-9679029,Input,EntityWithAccessionedSequence,UniProt:Q9NYK1 TLR7,Q9NYK1
+VEGFA binds VEGFA inhibitors,R-HSA-9679477,Input,EntityWithAccessionedSequence,UniProt:P15692 VEGFA,P15692
+VEGFA binds VEGFA inhibitors,R-HSA-9679477,Input,CandidateSet,UniProt:P15692 VEGFA,P15692
+JAK3 binds JAK3 inhibitors,R-HSA-9679028,Input,DefinedSet,UniProt:P52333 JAK3,P52333
+JAK3 binds JAK3 inhibitors,R-HSA-9679028,Input,EntityWithAccessionedSequence,UniProt:P52333 JAK3,P52333
+"ROCK1,2 bind ROCKi",R-HSA-9680443,Input,DefinedSet,UniProt:O75116 ROCK2,O75116
+"ROCK1,2 bind ROCKi",R-HSA-9680443,Input,DefinedSet,UniProt:Q13464 ROCK1,Q13464
+PDCD1 binds PDCD1 inhibitors,R-HSA-9679421,Input,DefinedSet,UniProt:Q15116 PDCD1,Q15116
+PDCD1 binds PDCD1 inhibitors,R-HSA-9679421,Input,EntityWithAccessionedSequence,UniProt:Q15116 PDCD1,Q15116
+ITGA4:ITGB1 binds natalizumab,R-HSA-9679740,Input,Complex,UniProt:P13612 ITGA4,P13612
+ITGA4:ITGB1 binds natalizumab,R-HSA-9679740,Input,Complex,UniProt:P05556 ITGB1,P05556
+ITGA4:ITGB1 binds natalizumab,R-HSA-9679740,Input,ProteinDrug,UniProt:P13612 ITGA4,P13612
+ITGA4:ITGB1 binds natalizumab,R-HSA-9679740,Input,ProteinDrug,UniProt:P05556 ITGB1,P05556
+IL1R1:IL1RAP binds IL1R1 inhibitors,R-HSA-9681763,Input,DefinedSet,UniProt:Q9NPH3-1 IL1RAP,Q9NPH3
+IL1R1:IL1RAP binds IL1R1 inhibitors,R-HSA-9681763,Input,DefinedSet,UniProt:P14778 IL1R1,P14778
+IL1R1:IL1RAP binds IL1R1 inhibitors,R-HSA-9681763,Input,Complex,UniProt:Q9NPH3-1 IL1RAP,Q9NPH3
+IL1R1:IL1RAP binds IL1R1 inhibitors,R-HSA-9681763,Input,Complex,UniProt:P14778 IL1R1,P14778
+"JAK2 binds JAK1,2 inhibitors",R-HSA-9678561,Input,EntityWithAccessionedSequence,UniProt:O60674 JAK2,O60674
+"JAK2 binds JAK1,2 inhibitors",R-HSA-9678561,Input,DefinedSet,UniProt:O60674 JAK2,O60674
+ACE2 is glycosylated to glycosylated-ACE2,R-HSA-9683488,Input,SimpleEntity,UniProt:Q9BYF1 ACE2,Q9BYF1
+ACE2 is glycosylated to glycosylated-ACE2,R-HSA-9683488,Input,EntityWithAccessionedSequence,UniProt:Q9BYF1 ACE2,Q9BYF1
+ATP1A1 binds cardiac glycosides,R-HSA-9684068,Input,DefinedSet,UniProt:P05023 ATP1A1,P05023
+ATP1A1 binds cardiac glycosides,R-HSA-9684068,Input,EntityWithAccessionedSequence,UniProt:P05023 ATP1A1,P05023
+SIGMAR1 binds fluvoxamine,R-HSA-9679780,Input,EntityWithAccessionedSequence,UniProt:Q99720 SIGMAR1,Q99720
+SIGMAR1 binds fluvoxamine,R-HSA-9679780,Input,ChemicalDrug,UniProt:Q99720 SIGMAR1,Q99720
+HDAC2 binds HDAC2 Inhibitors,R-HSA-9679787,Input,EntityWithAccessionedSequence,UniProt:Q92769 HDAC2,Q92769
+HDAC2 binds HDAC2 Inhibitors,R-HSA-9679787,Input,DefinedSet,UniProt:Q92769 HDAC2,Q92769
+nsp8 binds MAP1LC3B,R-HSA-9687121,Input,EntityWithAccessionedSequence,UniProt:P0C6U8 1a,P0C6U8
+nsp8 binds MAP1LC3B,R-HSA-9687121,Input,EntityWithAccessionedSequence,UniProt:P0C6X7 rep,P0C6X7
+nsp8 binds MAP1LC3B,R-HSA-9687121,Input,EntityWithAccessionedSequence,UniProt:Q9GZQ8 MAP1LC3B,Q9GZQ8
+nsp8 binds MAP1LC3B,R-HSA-9687121,Input,DefinedSet,UniProt:P0C6U8 1a,P0C6U8
+nsp8 binds MAP1LC3B,R-HSA-9687121,Input,DefinedSet,UniProt:P0C6X7 rep,P0C6X7
+nsp8 binds MAP1LC3B,R-HSA-9687121,Input,DefinedSet,UniProt:Q9GZQ8 MAP1LC3B,Q9GZQ8
+mRNA1 is translated to pp1ab,R-HSA-9684277,Input,EntityWithAccessionedSequence,null,null
+nsp3-4 is glycosylated,R-HSA-9684275,Input,SimpleEntity,UniProt:P0C6X7 rep,P0C6X7
+nsp3-4 is glycosylated,R-HSA-9684275,Input,SimpleEntity,UniProt:P0C6U8 1a,P0C6U8
+nsp3-4 is glycosylated,R-HSA-9684275,Input,DefinedSet,UniProt:P0C6X7 rep,P0C6X7
+nsp3-4 is glycosylated,R-HSA-9684275,Input,DefinedSet,UniProt:P0C6U8 1a,P0C6U8
+3CLp cleaves pp1a,R-HSA-9684273,Input,SimpleEntity,UniProt:P0C6U8 1a,P0C6U8
+3CLp cleaves pp1a,R-HSA-9684273,Input,SimpleEntity,UniProt:P0C6X7 rep,P0C6X7
+3CLp cleaves pp1a,R-HSA-9684273,Input,EntityWithAccessionedSequence,UniProt:P0C6U8 1a,P0C6U8
+3CLp cleaves pp1a,R-HSA-9684273,Input,EntityWithAccessionedSequence,UniProt:P0C6X7 rep,P0C6X7
+nsp1-4 cleaves itself,R-HSA-9684336,Input,SimpleEntity,UniProt:P0C6U8 1a,P0C6U8
+nsp1-4 cleaves itself,R-HSA-9684336,Input,SimpleEntity,UniProt:P0C6X7 rep,P0C6X7
+nsp1-4 cleaves itself,R-HSA-9684336,Input,DefinedSet,UniProt:P0C6U8 1a,P0C6U8
+nsp1-4 cleaves itself,R-HSA-9684336,Input,DefinedSet,UniProt:P0C6X7 rep,P0C6X7
+3CLp cleaves nsp6-11,R-HSA-9684309,Input,SimpleEntity,UniProt:P0C6U8 1a,P0C6U8
+3CLp cleaves nsp6-11,R-HSA-9684309,Input,SimpleEntity,UniProt:P0C6X7 rep,P0C6X7
+3CLp cleaves nsp6-11,R-HSA-9684309,Input,EntityWithAccessionedSequence,UniProt:P0C6U8 1a,P0C6U8
+3CLp cleaves nsp6-11,R-HSA-9684309,Input,EntityWithAccessionedSequence,UniProt:P0C6X7 rep,P0C6X7
+3CLp cleaves pp1ab,R-HSA-9684340,Input,SimpleEntity,UniProt:P0C6U8 1a,P0C6U8
+3CLp cleaves pp1ab,R-HSA-9684340,Input,SimpleEntity,UniProt:P0C6X7 rep,P0C6X7
+3CLp cleaves pp1ab,R-HSA-9684340,Input,EntityWithAccessionedSequence,UniProt:P0C6U8 1a,P0C6U8
+3CLp cleaves pp1ab,R-HSA-9684340,Input,EntityWithAccessionedSequence,UniProt:P0C6X7 rep,P0C6X7
+nsp9 forms a homodimer,R-HSA-9684282,Input,DefinedSet,UniProt:P0C6U8 1a,P0C6U8
+nsp9 forms a homodimer,R-HSA-9684282,Input,DefinedSet,UniProt:P0C6X7 rep,P0C6X7
+pp1a cleaves itself,R-HSA-9684351,Input,SimpleEntity,UniProt:P0C6U8 1a,P0C6U8
+pp1a cleaves itself,R-HSA-9684351,Input,EntityWithAccessionedSequence,UniProt:P0C6U8 1a,P0C6U8
+pp1a forms a dimer,R-HSA-9684350,Input,EntityWithAccessionedSequence,UniProt:P0C6U8 1a,P0C6U8
+3CLp dimer binds α-Ketoamides,R-HSA-9681596,Input,DefinedSet,UniProt:P0C6U8 1a,P0C6U8
+3CLp dimer binds α-Ketoamides,R-HSA-9681596,Input,DefinedSet,UniProt:P0C6X7 rep,P0C6X7
+3CLp dimer binds α-Ketoamides,R-HSA-9681596,Input,Complex,UniProt:P0C6U8 1a,P0C6U8
+3CLp dimer binds α-Ketoamides,R-HSA-9681596,Input,Complex,UniProt:P0C6X7 rep,P0C6X7
+3CLp forms a homodimer,R-HSA-9684323,Input,DefinedSet,UniProt:P0C6U8 1a,P0C6U8
+3CLp forms a homodimer,R-HSA-9684323,Input,DefinedSet,UniProt:P0C6X7 rep,P0C6X7
+nsp3 is glycosylated,R-HSA-9684290,Input,SimpleEntity,UniProt:P0C6X7 rep,P0C6X7
+nsp3 is glycosylated,R-HSA-9684290,Input,SimpleEntity,UniProt:P0C6U8 1a,P0C6U8
+nsp3 is glycosylated,R-HSA-9684290,Input,DefinedSet,UniProt:P0C6X7 rep,P0C6X7
+nsp3 is glycosylated,R-HSA-9684290,Input,DefinedSet,UniProt:P0C6U8 1a,P0C6U8
+nsp3 cleaves nsp1-4,R-HSA-9684321,Input,SimpleEntity,UniProt:P0C6U8 1a,P0C6U8
+nsp3 cleaves nsp1-4,R-HSA-9684321,Input,SimpleEntity,UniProt:P0C6X7 rep,P0C6X7
+nsp3 cleaves nsp1-4,R-HSA-9684321,Input,DefinedSet,UniProt:P0C6U8 1a,P0C6U8
+nsp3 cleaves nsp1-4,R-HSA-9684321,Input,DefinedSet,UniProt:P0C6X7 rep,P0C6X7
+nsp3-4 cleaves itself,R-HSA-9684352,Input,SimpleEntity,UniProt:P0C6X7 rep,P0C6X7
+nsp3-4 cleaves itself,R-HSA-9684352,Input,SimpleEntity,UniProt:P0C6U8 1a,P0C6U8
+nsp3-4 cleaves itself,R-HSA-9684352,Input,DefinedSet,UniProt:P0C6X7 rep,P0C6X7
+nsp3-4 cleaves itself,R-HSA-9684352,Input,DefinedSet,UniProt:P0C6U8 1a,P0C6U8
+nsp4 is glycosylated,R-HSA-9684261,Input,DefinedSet,UniProt:P0C6U8 1a,P0C6U8
+nsp4 is glycosylated,R-HSA-9684261,Input,DefinedSet,UniProt:P0C6X7 rep,P0C6X7
+nsp4 is glycosylated,R-HSA-9684261,Input,SimpleEntity,UniProt:P0C6U8 1a,P0C6U8
+nsp4 is glycosylated,R-HSA-9684261,Input,SimpleEntity,UniProt:P0C6X7 rep,P0C6X7
+8b binds to MAP1LC3B,R-HSA-9687109,Input,EntityWithAccessionedSequence,UniProt:Q80H93 8b,Q80H93
+8b binds to MAP1LC3B,R-HSA-9687109,Input,EntityWithAccessionedSequence,UniProt:Q9GZQ8 MAP1LC3B,Q9GZQ8
+Enhanced autophagosome formation,R-HSA-9687435,Input,EntityWithAccessionedSequence,UniProt:Q9GZQ8 MAP1LC3B,Q9GZQ8
+Enhanced autophagosome formation,R-HSA-9687435,Input,EntityWithAccessionedSequence,UniProt:P0C6U8 1a,P0C6U8
+Enhanced autophagosome formation,R-HSA-9687435,Input,EntityWithAccessionedSequence,UniProt:Q80H93 8b,Q80H93
+Enhanced autophagosome formation,R-HSA-9687435,Input,EntityWithAccessionedSequence,UniProt:Q9Y3E7 CHMP3,Q9Y3E7
+Enhanced autophagosome formation,R-HSA-9687435,Input,EntityWithAccessionedSequence,UniProt:Q96FZ7 CHMP6,Q96FZ7
+Enhanced autophagosome formation,R-HSA-9687435,Input,EntityWithAccessionedSequence,UniProt:Q9UQN3 CHMP2B,Q9UQN3
+Enhanced autophagosome formation,R-HSA-9687435,Input,EntityWithAccessionedSequence,UniProt:O43633 CHMP2A,O43633
+Enhanced autophagosome formation,R-HSA-9687435,Input,EntityWithAccessionedSequence,UniProt:Q8WUX9 CHMP7,Q8WUX9
+Enhanced autophagosome formation,R-HSA-9687435,Input,EntityWithAccessionedSequence,UniProt:Q96CF2 CHMP4C,Q96CF2
+Enhanced autophagosome formation,R-HSA-9687435,Input,EntityWithAccessionedSequence,UniProt:Q9H444 CHMP4B,Q9H444
+Enhanced autophagosome formation,R-HSA-9687435,Input,EntityWithAccessionedSequence,UniProt:Q9BY43 CHMP4A,Q9BY43
+Enhanced autophagosome formation,R-HSA-9687435,Input,EntityWithAccessionedSequence,UniProt:Q14457 BECN1,Q14457
+Enhanced autophagosome formation,R-HSA-9687435,Input,EntityWithAccessionedSequence,UniProt:Q9P2Y5 UVRAG,Q9P2Y5
+Enhanced autophagosome formation,R-HSA-9687435,Input,EntityWithAccessionedSequence,UniProt:Q99570 PIK3R4,Q99570
+Enhanced autophagosome formation,R-HSA-9687435,Input,EntityWithAccessionedSequence,UniProt:Q8NEB9 PIK3C3,Q8NEB9
+Enhanced autophagosome formation,R-HSA-9687435,Input,EntityWithAccessionedSequence,UniProt:P59636 9b,P59636
+"Nsp3, nsp4, and nsp6 produce replicative organelles",R-HSA-9686015,Input,DefinedSet,UniProt:P0C6U8 1a,P0C6U8
+"Nsp3, nsp4, and nsp6 produce replicative organelles",R-HSA-9686015,Input,DefinedSet,UniProt:P0C6X7 rep,P0C6X7
+nsp14 binds nsp12,R-HSA-9682258,Input,Complex,UniProt:P0C6U8 1a,P0C6U8
+nsp14 binds nsp12,R-HSA-9682258,Input,Complex,UniProt:P0C6X7 rep,P0C6X7
+nsp13 binds nsp12,R-HSA-9682626,Input,EntityWithAccessionedSequence,UniProt:P0C6U8 1a,P0C6U8
+nsp13 binds nsp12,R-HSA-9682626,Input,EntityWithAccessionedSequence,UniProt:P0C6X7 rep,P0C6X7
+nsp13 binds nsp12,R-HSA-9682626,Input,Complex,UniProt:P0C6U8 1a,P0C6U8
+nsp13 binds nsp12,R-HSA-9682626,Input,Complex,UniProt:P0C6X7 rep,P0C6X7
+nsp15 binds nsp8,R-HSA-9683393,Input,Complex,UniProt:P0C6X7 rep,P0C6X7
+nsp15 binds nsp8,R-HSA-9683393,Input,Complex,UniProt:P0C6U8 1a,P0C6U8
+nsp14 binds nsp10,R-HSA-9682544,Input,EntityWithAccessionedSequence,UniProt:P0C6U8 1a,P0C6U8
+nsp14 binds nsp10,R-HSA-9682544,Input,EntityWithAccessionedSequence,UniProt:P0C6X7 rep,P0C6X7
+nsp14 binds nsp10,R-HSA-9682544,Input,DefinedSet,UniProt:P0C6U8 1a,P0C6U8
+nsp14 binds nsp10,R-HSA-9682544,Input,DefinedSet,UniProt:P0C6X7 rep,P0C6X7
+nsp16 binds nsp10,R-HSA-9683429,Input,DefinedSet,UniProt:P0C6X7 rep,P0C6X7
+nsp16 binds nsp10,R-HSA-9683429,Input,DefinedSet,UniProt:P0C6U8 1a,P0C6U8
+nsp16 binds nsp10,R-HSA-9683429,Input,EntityWithAccessionedSequence,UniProt:P0C6X7 rep,P0C6X7
+nsp16 binds nsp10,R-HSA-9683429,Input,EntityWithAccessionedSequence,UniProt:P0C6U8 1a,P0C6U8
+nsp3 binds to nsp7-8 and nsp12-16,R-HSA-9686005,Input,Complex,UniProt:P0C6X7 rep,P0C6X7
+nsp3 binds to nsp7-8 and nsp12-16,R-HSA-9686005,Input,Complex,UniProt:P0C6U8 1a,P0C6U8
+nsp12 binds nsp7 and nsp8,R-HSA-9680811,Input,EntityWithAccessionedSequence,UniProt:P0C6U8 1a,P0C6U8
+nsp12 binds nsp7 and nsp8,R-HSA-9680811,Input,EntityWithAccessionedSequence,UniProt:P0C6X7 rep,P0C6X7
+nsp12 binds nsp7 and nsp8,R-HSA-9680811,Input,Complex,UniProt:P0C6U8 1a,P0C6U8
+nsp12 binds nsp7 and nsp8,R-HSA-9680811,Input,Complex,UniProt:P0C6X7 rep,P0C6X7
+nsp12 binds nsp7 and nsp8,R-HSA-9680811,Input,DefinedSet,UniProt:P0C6U8 1a,P0C6U8
+nsp12 binds nsp7 and nsp8,R-HSA-9680811,Input,DefinedSet,UniProt:P0C6X7 rep,P0C6X7
+nsp15 forms a hexamer,R-HSA-9682718,Input,EntityWithAccessionedSequence,UniProt:P0C6X7 rep,P0C6X7
+Nsp3:nsp4 binds to nsp6,R-HSA-9686013,Input,DefinedSet,UniProt:P0C6X7 rep,P0C6X7
+Nsp3:nsp4 binds to nsp6,R-HSA-9686013,Input,DefinedSet,UniProt:P0C6U8 1a,P0C6U8
+Nsp3:nsp4 binds to nsp6,R-HSA-9686013,Input,Complex,UniProt:P0C6X7 rep,P0C6X7
+Nsp3:nsp4 binds to nsp6,R-HSA-9686013,Input,Complex,UniProt:P0C6U8 1a,P0C6U8
+nsp7 binds nsp8,R-HSA-9680812,Input,DefinedSet,UniProt:P0C6U8 1a,P0C6U8
+nsp7 binds nsp8,R-HSA-9680812,Input,DefinedSet,UniProt:P0C6X7 rep,P0C6X7
+mRNA1 is translated to pp1a,R-HSA-9684301,Input,EntityWithAccessionedSequence,null,null
+E pentamer is transported to the Golgi,R-HSA-9683635,Input,Complex,UniProt:P59637 E,P59637
+Protein E forms a homopentamer,R-HSA-9683670,Input,EntityWithAccessionedSequence,UniProt:P59637 E,P59637
+E protein gets N-glycosylated,R-HSA-9683669,Input,OtherEntity,UniProt:P59637 E,P59637
+E protein gets N-glycosylated,R-HSA-9683669,Input,EntityWithAccessionedSequence,UniProt:P59637 E,P59637
+E protein gets palmitoylated,R-HSA-9683720,Input,SimpleEntity,UniProt:P59637 E,P59637
+E protein gets palmitoylated,R-HSA-9683720,Input,EntityWithAccessionedSequence,UniProt:P59637 E,P59637
+Ubiquination of protein E,R-HSA-9683679,Input,EntityWithAccessionedSequence,UniProt:P0CG48 UBC,P0CG48
+Ubiquination of protein E,R-HSA-9683679,Input,EntityWithAccessionedSequence,UniProt:P0CG47 UBB,P0CG47
+Ubiquination of protein E,R-HSA-9683679,Input,EntityWithAccessionedSequence,UniProt:P62987 UBA52,P62987
+Ubiquination of protein E,R-HSA-9683679,Input,EntityWithAccessionedSequence,UniProt:P62979 RPS27A,P62979
+Ubiquination of protein E,R-HSA-9683679,Input,EntityWithAccessionedSequence,UniProt:P59637 E,P59637
+Ubiquination of protein E,R-HSA-9683679,Input,DefinedSet,UniProt:P0CG48 UBC,P0CG48
+Ubiquination of protein E,R-HSA-9683679,Input,DefinedSet,UniProt:P0CG47 UBB,P0CG47
+Ubiquination of protein E,R-HSA-9683679,Input,DefinedSet,UniProt:P62987 UBA52,P62987
+Ubiquination of protein E,R-HSA-9683679,Input,DefinedSet,UniProt:P62979 RPS27A,P62979
+Ubiquination of protein E,R-HSA-9683679,Input,DefinedSet,UniProt:P59637 E,P59637
+mRNA3 is translated to protein 3a,R-HSA-9683618,Input,EntityWithAccessionedSequence,null,null
+mRNA9a is translated to Nucleoprotein,R-HSA-9683735,Input,EntityWithAccessionedSequence,null,null
+mRNA5 is translated to protein M,R-HSA-9683622,Input,EntityWithAccessionedSequence,null,null
+Spike trimer glycoside chains are extended,R-HSA-9683648,Input,SimpleEntity,UniProt:P26572 MGAT1,P26572
+Spike trimer glycoside chains are extended,R-HSA-9683648,Input,SimpleEntity,UniProt:P59594 S,P59594
+Spike trimer glycoside chains are extended,R-HSA-9683648,Input,Complex,UniProt:P26572 MGAT1,P26572
+Spike trimer glycoside chains are extended,R-HSA-9683648,Input,Complex,UniProt:P59594 S,P59594
+Spike protein forms a homotrimer,R-HSA-9683719,Input,EntityWithAccessionedSequence,UniProt:P59594 S,P59594
+ER-alpha glucosidases bind ER-alpha glucosidase inhibitors,R-HSA-9686790,Input,DefinedSet,UniProt:P14314 PRKCSH,P14314
+ER-alpha glucosidases bind ER-alpha glucosidase inhibitors,R-HSA-9686790,Input,DefinedSet,UniProt:Q14697 GANAB,Q14697
+ER-alpha glucosidases bind ER-alpha glucosidase inhibitors,R-HSA-9686790,Input,DefinedSet,UniProt:Q13724 MOGS,Q13724
+Spike protein gets palmitoylated,R-HSA-9683653,Input,SimpleEntity,UniProt:P59594 S,P59594
+Spike protein gets palmitoylated,R-HSA-9683653,Input,EntityWithAccessionedSequence,UniProt:P59594 S,P59594
+Spike trimer translocates to ERGIC,R-HSA-9683764,Input,Complex,UniProt:P59594 S,P59594
+Spike protein gets N-glycosylated,R-HSA-9683755,Input,OtherEntity,UniProt:P59594 S,P59594
+Spike protein gets N-glycosylated,R-HSA-9683755,Input,EntityWithAccessionedSequence,UniProt:P59594 S,P59594
+N-glycan trimming of Spike,R-HSA-9683663,Input,SimpleEntity,UniProt:P14314 PRKCSH,P14314
+N-glycan trimming of Spike,R-HSA-9683663,Input,SimpleEntity,UniProt:Q14697 GANAB,Q14697
+N-glycan trimming of Spike,R-HSA-9683663,Input,SimpleEntity,UniProt:Q13724 MOGS,Q13724
+N-glycan trimming of Spike,R-HSA-9683663,Input,SimpleEntity,UniProt:P59594 S,P59594
+N-glycan trimming of Spike,R-HSA-9683663,Input,EntityWithAccessionedSequence,UniProt:P14314 PRKCSH,P14314
+N-glycan trimming of Spike,R-HSA-9683663,Input,EntityWithAccessionedSequence,UniProt:Q14697 GANAB,Q14697
+N-glycan trimming of Spike,R-HSA-9683663,Input,EntityWithAccessionedSequence,UniProt:Q13724 MOGS,Q13724
+N-glycan trimming of Spike,R-HSA-9683663,Input,EntityWithAccessionedSequence,UniProt:P59594 S,P59594
+Trimmed spike protein binds to calnexin,R-HSA-9683772,Input,EntityWithAccessionedSequence,UniProt:P27824 CANX,P27824
+Trimmed spike protein binds to calnexin,R-HSA-9683772,Input,EntityWithAccessionedSequence,UniProt:P59594 S,P59594
+Dimerisation of nucleoprotein,R-HSA-9683634,Input,EntityWithAccessionedSequence,UniProt:P59595 N,P59595
+Unphosphorylated nucleoprotein translocates to the plasma membrane,R-HSA-9683714,Input,EntityWithAccessionedSequence,UniProt:P59595 N,P59595
+GSK3B phosphorylates Ncap,R-HSA-9683664,Input,EntityWithAccessionedSequence,UniProt:P49841 GSK3B,P49841
+GSK3B phosphorylates Ncap,R-HSA-9683664,Input,EntityWithAccessionedSequence,UniProt:P59595 N,P59595
+GSK3B phosphorylates Ncap,R-HSA-9683664,Input,SimpleEntity,UniProt:P49841 GSK3B,P49841
+GSK3B phosphorylates Ncap,R-HSA-9683664,Input,SimpleEntity,UniProt:P59595 N,P59595
+Nucleoprotein is SUMOylated,R-HSA-9683687,Input,Complex,UniProt:P59595 N,P59595
+Nucleoprotein is SUMOylated,R-HSA-9683687,Input,Complex,UniProt:P63279 UBE2I,P63279
+Nucleoprotein is SUMOylated,R-HSA-9683687,Input,Complex,UniProt:P63165 SUMO1,P63165
+Nucleoprotein is SUMOylated,R-HSA-9683687,Input,EntityWithAccessionedSequence,UniProt:P59595 N,P59595
+Nucleoprotein is SUMOylated,R-HSA-9683687,Input,EntityWithAccessionedSequence,UniProt:P63279 UBE2I,P63279
+Nucleoprotein is SUMOylated,R-HSA-9683687,Input,EntityWithAccessionedSequence,UniProt:P63165 SUMO1,P63165
+Nucleoprotein translocates to the nucleolus,R-HSA-9683606,Input,Complex,UniProt:P59595 N,P59595
+Nucleoprotein translocates to the ERGIC outer membrane,R-HSA-9683765,Input,Complex,UniProt:P59595 N,P59595
+Nucleoprotein translocates to the plasma membrane,R-HSA-9683630,Input,Complex,UniProt:P59595 N,P59595
+Nucleoprotein is ADP-ribosylated,R-HSA-9686061,Input,EntityWithAccessionedSequence,UniProt:Q460N5 PARP14,Q460N5
+Nucleoprotein is ADP-ribosylated,R-HSA-9686061,Input,EntityWithAccessionedSequence,UniProt:Q2NL67 PARP6,Q2NL67
+Nucleoprotein is ADP-ribosylated,R-HSA-9686061,Input,EntityWithAccessionedSequence,UniProt:Q8N3A8 PARP8,Q8N3A8
+Nucleoprotein is ADP-ribosylated,R-HSA-9686061,Input,EntityWithAccessionedSequence,UniProt:Q9UKK3 PARP4,Q9UKK3
+Nucleoprotein is ADP-ribosylated,R-HSA-9686061,Input,EntityWithAccessionedSequence,UniProt:Q53GL7 PARP10,Q53GL7
+Nucleoprotein is ADP-ribosylated,R-HSA-9686061,Input,EntityWithAccessionedSequence,UniProt:Q8IXQ6 PARP9,Q8IXQ6
+Nucleoprotein is ADP-ribosylated,R-HSA-9686061,Input,EntityWithAccessionedSequence,UniProt:Q8N5Y8 PARP16,Q8N5Y8
+Nucleoprotein is ADP-ribosylated,R-HSA-9686061,Input,EntityWithAccessionedSequence,UniProt:P59595 N,P59595
+Nucleoprotein is ADP-ribosylated,R-HSA-9686061,Input,SimpleEntity,UniProt:Q460N5 PARP14,Q460N5
+Nucleoprotein is ADP-ribosylated,R-HSA-9686061,Input,SimpleEntity,UniProt:Q2NL67 PARP6,Q2NL67
+Nucleoprotein is ADP-ribosylated,R-HSA-9686061,Input,SimpleEntity,UniProt:Q8N3A8 PARP8,Q8N3A8
+Nucleoprotein is ADP-ribosylated,R-HSA-9686061,Input,SimpleEntity,UniProt:Q9UKK3 PARP4,Q9UKK3
+Nucleoprotein is ADP-ribosylated,R-HSA-9686061,Input,SimpleEntity,UniProt:Q53GL7 PARP10,Q53GL7
+Nucleoprotein is ADP-ribosylated,R-HSA-9686061,Input,SimpleEntity,UniProt:Q8IXQ6 PARP9,Q8IXQ6
+Nucleoprotein is ADP-ribosylated,R-HSA-9686061,Input,SimpleEntity,UniProt:Q8N5Y8 PARP16,Q8N5Y8
+Nucleoprotein is ADP-ribosylated,R-HSA-9686061,Input,SimpleEntity,UniProt:P59595 N,P59595
+GSK3B binds GSKi,R-HSA-9687724,Input,CandidateSet,UniProt:P49841 GSK3B,P49841
+GSK3B binds GSKi,R-HSA-9687724,Input,EntityWithAccessionedSequence,UniProt:P49841 GSK3B,P49841
+3a localizes to the cell membrane,R-HSA-9685939,Input,Complex,UniProt:P59632 3a,P59632
+Protein 3a forms a homotetramer,R-HSA-9683746,Input,EntityWithAccessionedSequence,UniProt:P59632 3a,P59632
+3a translocates to the ERGIC,R-HSA-9683712,Input,EntityWithAccessionedSequence,UniProt:P59632 3a,P59632
+GalNAc is transferred onto 3a,R-HSA-9683760,Input,EntityWithAccessionedSequence,UniProt:Q10472 GALNT1,Q10472
+GalNAc is transferred onto 3a,R-HSA-9683760,Input,EntityWithAccessionedSequence,UniProt:P59632 3a,P59632
+GalNAc is transferred onto 3a,R-HSA-9683760,Input,SimpleEntity,UniProt:Q10472 GALNT1,Q10472
+GalNAc is transferred onto 3a,R-HSA-9683760,Input,SimpleEntity,UniProt:P59632 3a,P59632
+3a is externalized together with membrane structures,R-HSA-9685956,Input,OtherEntity,UniProt:P59632 3a,P59632
+3a is externalized together with membrane structures,R-HSA-9685956,Input,Complex,UniProt:P59632 3a,P59632
+O-glycosylation of 3a is terminated,R-HSA-9683769,Input,EntityWithAccessionedSequence,UniProt:Q8NDV1 ST6GALNAC3,Q8NDV1
+O-glycosylation of 3a is terminated,R-HSA-9683769,Input,EntityWithAccessionedSequence,UniProt:Q16842 ST3GAL2,Q16842
+O-glycosylation of 3a is terminated,R-HSA-9683769,Input,EntityWithAccessionedSequence,UniProt:P15907 ST6GAL1,P15907
+O-glycosylation of 3a is terminated,R-HSA-9683769,Input,EntityWithAccessionedSequence,UniProt:Q9H4F1 ST6GALNAC4,Q9H4F1
+O-glycosylation of 3a is terminated,R-HSA-9683769,Input,EntityWithAccessionedSequence,UniProt:Q11201 ST3GAL1,Q11201
+O-glycosylation of 3a is terminated,R-HSA-9683769,Input,EntityWithAccessionedSequence,UniProt:Q11206 ST3GAL4,Q11206
+O-glycosylation of 3a is terminated,R-HSA-9683769,Input,EntityWithAccessionedSequence,UniProt:Q9UJ37 ST6GALNAC2,Q9UJ37
+O-glycosylation of 3a is terminated,R-HSA-9683769,Input,EntityWithAccessionedSequence,UniProt:Q11203 ST3GAL3,Q11203
+O-glycosylation of 3a is terminated,R-HSA-9683769,Input,EntityWithAccessionedSequence,UniProt:P59632 3a,P59632
+O-glycosylation of 3a is terminated,R-HSA-9683769,Input,SimpleEntity,UniProt:Q8NDV1 ST6GALNAC3,Q8NDV1
+O-glycosylation of 3a is terminated,R-HSA-9683769,Input,SimpleEntity,UniProt:Q16842 ST3GAL2,Q16842
+O-glycosylation of 3a is terminated,R-HSA-9683769,Input,SimpleEntity,UniProt:P15907 ST6GAL1,P15907
+O-glycosylation of 3a is terminated,R-HSA-9683769,Input,SimpleEntity,UniProt:Q9H4F1 ST6GALNAC4,Q9H4F1
+O-glycosylation of 3a is terminated,R-HSA-9683769,Input,SimpleEntity,UniProt:Q11201 ST3GAL1,Q11201
+O-glycosylation of 3a is terminated,R-HSA-9683769,Input,SimpleEntity,UniProt:Q11206 ST3GAL4,Q11206
+O-glycosylation of 3a is terminated,R-HSA-9683769,Input,SimpleEntity,UniProt:Q9UJ37 ST6GALNAC2,Q9UJ37
+O-glycosylation of 3a is terminated,R-HSA-9683769,Input,SimpleEntity,UniProt:Q11203 ST3GAL3,Q11203
+O-glycosylation of 3a is terminated,R-HSA-9683769,Input,SimpleEntity,UniProt:P59632 3a,P59632
+Endocytosis of protein 3a,R-HSA-9685950,Input,Complex,UniProt:P59632 3a,P59632
+mRNA2 is translated to Spike,R-HSA-9683624,Input,EntityWithAccessionedSequence,null,null
+mRNA4 is translated to protein E,R-HSA-9683656,Input,EntityWithAccessionedSequence,null,null
+M protein gets N-glycosylated,R-HSA-9683751,Input,OtherEntity,UniProt:P59596 M,P59596
+M protein gets N-glycosylated,R-HSA-9683751,Input,EntityWithAccessionedSequence,UniProt:P59596 M,P59596
+Protein M localizes to the Golgi membrane,R-HSA-9683718,Input,EntityWithAccessionedSequence,UniProt:P59596 M,P59596
+Glycosylated M localizes to the Golgi membrane,R-HSA-9683734,Input,EntityWithAccessionedSequence,UniProt:P59596 M,P59596
+Recruitment of Spike trimer to assembling virion,R-HSA-9684241,Input,Complex,UniProt:P59595 N,P59595
+Recruitment of Spike trimer to assembling virion,R-HSA-9684241,Input,Complex,UniProt:P59637 E,P59637
+Recruitment of Spike trimer to assembling virion,R-HSA-9684241,Input,Complex,UniProt:P59596 M,P59596
+Recruitment of Spike trimer to assembling virion,R-HSA-9684241,Input,Complex,UniProt:P59594 S,P59594
+Viral release,R-HSA-9685542,Input,Complex,UniProt:P59596 M,P59596
+Viral release,R-HSA-9685542,Input,Complex,UniProt:P59637 E,P59637
+Viral release,R-HSA-9685542,Input,Complex,UniProt:P59594 S,P59594
+Viral release,R-HSA-9685542,Input,Complex,UniProt:P59632 3a,P59632
+Viral release,R-HSA-9685542,Input,Complex,UniProt:P59635 7a,P59635
+Viral release,R-HSA-9685542,Input,Complex,UniProt:P59595 N,P59595
+SUMO-p-N protein dimer binds genomic RNA,R-HSA-9684229,Input,EntityWithAccessionedSequence,UniProt:P59595 N,P59595
+SUMO-p-N protein dimer binds genomic RNA,R-HSA-9684229,Input,Complex,UniProt:P59595 N,P59595
+SARS virus buds into ERGIC lumen,R-HSA-9685531,Input,Complex,UniProt:P59635 7a,P59635
+SARS virus buds into ERGIC lumen,R-HSA-9685531,Input,Complex,UniProt:P59632 3a,P59632
+SARS virus buds into ERGIC lumen,R-HSA-9685531,Input,Complex,UniProt:P59595 N,P59595
+SARS virus buds into ERGIC lumen,R-HSA-9685531,Input,Complex,UniProt:P59637 E,P59637
+SARS virus buds into ERGIC lumen,R-HSA-9685531,Input,Complex,UniProt:P59596 M,P59596
+SARS virus buds into ERGIC lumen,R-HSA-9685531,Input,Complex,UniProt:P59594 S,P59594
+Encapsidation of SARS coronavirus genomic RNA,R-HSA-9684234,Input,Complex,UniProt:P59595 N,P59595
+M protein oligomerization,R-HSA-9684218,Input,EntityWithAccessionedSequence,UniProt:P59596 M,P59596
+E and N are recruited to the M lattice,R-HSA-9684238,Input,Complex,UniProt:P59637 E,P59637
+E and N are recruited to the M lattice,R-HSA-9684238,Input,Complex,UniProt:P59595 N,P59595
+E and N are recruited to the M lattice,R-HSA-9684238,Input,Complex,UniProt:P59596 M,P59596
+Accessory proteins are recruited to the maturing virion,R-HSA-9686174,Input,Complex,UniProt:P59635 7a,P59635
+Accessory proteins are recruited to the maturing virion,R-HSA-9686174,Input,Complex,UniProt:P59595 N,P59595
+Accessory proteins are recruited to the maturing virion,R-HSA-9686174,Input,Complex,UniProt:P59637 E,P59637
+Accessory proteins are recruited to the maturing virion,R-HSA-9686174,Input,Complex,UniProt:P59596 M,P59596
+Accessory proteins are recruited to the maturing virion,R-HSA-9686174,Input,Complex,UniProt:P59594 S,P59594
+Accessory proteins are recruited to the maturing virion,R-HSA-9686174,Input,Complex,UniProt:P59632 3a,P59632
+Accessory proteins are recruited to the maturing virion,R-HSA-9686174,Input,EntityWithAccessionedSequence,UniProt:P59635 7a,P59635
+Accessory proteins are recruited to the maturing virion,R-HSA-9686174,Input,EntityWithAccessionedSequence,UniProt:P59595 N,P59595
+Accessory proteins are recruited to the maturing virion,R-HSA-9686174,Input,EntityWithAccessionedSequence,UniProt:P59637 E,P59637
+Accessory proteins are recruited to the maturing virion,R-HSA-9686174,Input,EntityWithAccessionedSequence,UniProt:P59596 M,P59596
+Accessory proteins are recruited to the maturing virion,R-HSA-9686174,Input,EntityWithAccessionedSequence,UniProt:P59594 S,P59594
+Accessory proteins are recruited to the maturing virion,R-HSA-9686174,Input,EntityWithAccessionedSequence,UniProt:P59632 3a,P59632
+nsp8 generates RNA primers,R-HSA-9681651,Input,Complex,UniProt:P0C6X7 rep,P0C6X7
+nsp8 generates RNA primers,R-HSA-9681651,Input,Complex,UniProt:P0C6U8 1a,P0C6U8
+nsp8 generates RNA primers,R-HSA-9681651,Input,SimpleEntity,UniProt:P0C6X7 rep,P0C6X7
+nsp8 generates RNA primers,R-HSA-9681651,Input,SimpleEntity,UniProt:P0C6U8 1a,P0C6U8
+nsp14 acts as a cap N7 methyltransferase to modify SARS-CoV-1 gRNA complement (minus strand),R-HSA-9684018,Input,EntityWithAccessionedSequence,UniProt:P0C6X7 rep,P0C6X7
+nsp14 acts as a cap N7 methyltransferase to modify SARS-CoV-1 gRNA complement (minus strand),R-HSA-9684018,Input,EntityWithAccessionedSequence,UniProt:P0C6U8 1a,P0C6U8
+nsp14 acts as a cap N7 methyltransferase to modify SARS-CoV-1 gRNA complement (minus strand),R-HSA-9684018,Input,SimpleEntity,UniProt:P0C6X7 rep,P0C6X7
+nsp14 acts as a cap N7 methyltransferase to modify SARS-CoV-1 gRNA complement (minus strand),R-HSA-9684018,Input,SimpleEntity,UniProt:P0C6U8 1a,P0C6U8
+nsp14 acts as a cap N7 methyltransferase to modify SARS-CoV-1 gRNA (plus strand),R-HSA-9684017,Input,SimpleEntity,UniProt:P0C6X7 rep,P0C6X7
+nsp14 acts as a cap N7 methyltransferase to modify SARS-CoV-1 gRNA (plus strand),R-HSA-9684017,Input,SimpleEntity,UniProt:P0C6U8 1a,P0C6U8
+nsp14 acts as a cap N7 methyltransferase to modify SARS-CoV-1 gRNA (plus strand),R-HSA-9684017,Input,EntityWithAccessionedSequence,UniProt:P0C6X7 rep,P0C6X7
+nsp14 acts as a cap N7 methyltransferase to modify SARS-CoV-1 gRNA (plus strand),R-HSA-9684017,Input,EntityWithAccessionedSequence,UniProt:P0C6U8 1a,P0C6U8
+RTC synthesizes SARS-CoV-1 plus strand genomic RNA,R-HSA-9681840,Input,Complex,UniProt:P0C6X7 rep,P0C6X7
+RTC synthesizes SARS-CoV-1 plus strand genomic RNA,R-HSA-9681840,Input,Complex,UniProt:P0C6U8 1a,P0C6U8
+RTC synthesizes SARS-CoV-1 plus strand genomic RNA,R-HSA-9681840,Input,SimpleEntity,UniProt:P0C6X7 rep,P0C6X7
+RTC synthesizes SARS-CoV-1 plus strand genomic RNA,R-HSA-9681840,Input,SimpleEntity,UniProt:P0C6U8 1a,P0C6U8
+GSK3 phosphorylates N,R-HSA-9681627,Input,EntityWithAccessionedSequence,UniProt:P49841 GSK3B,P49841
+GSK3 phosphorylates N,R-HSA-9681627,Input,EntityWithAccessionedSequence,UniProt:P49840 GSK3A,P49840
+GSK3 phosphorylates N,R-HSA-9681627,Input,EntityWithAccessionedSequence,UniProt:P59595 N,P59595
+GSK3 phosphorylates N,R-HSA-9681627,Input,SimpleEntity,UniProt:P49841 GSK3B,P49841
+GSK3 phosphorylates N,R-HSA-9681627,Input,SimpleEntity,UniProt:P49840 GSK3A,P49840
+GSK3 phosphorylates N,R-HSA-9681627,Input,SimpleEntity,UniProt:P59595 N,P59595
+ZCRB1 binds 5'UTR of SARS-CoV-1 genomic RNA,R-HSA-9682009,Input,EntityWithAccessionedSequence,UniProt:Q8TBF4 ZCRB1,Q8TBF4
+SARS-CoV-1 gRNA complement (minus strand):RTC binds RTC inhibitors,R-HSA-9687384,Input,Complex,UniProt:P0C6X7 rep,P0C6X7
+SARS-CoV-1 gRNA complement (minus strand):RTC binds RTC inhibitors,R-HSA-9687384,Input,Complex,UniProt:P0C6U8 1a,P0C6U8
+SARS-CoV-1 gRNA complement (minus strand):RTC binds RTC inhibitors,R-HSA-9687384,Input,DefinedSet,UniProt:P0C6X7 rep,P0C6X7
+SARS-CoV-1 gRNA complement (minus strand):RTC binds RTC inhibitors,R-HSA-9687384,Input,DefinedSet,UniProt:P0C6U8 1a,P0C6U8
+nsp15 binds RB1,R-HSA-9682712,Input,EntityWithAccessionedSequence,UniProt:P0C6X7 rep,P0C6X7
+nsp15 binds RB1,R-HSA-9682712,Input,EntityWithAccessionedSequence,UniProt:P06400 RB1,P06400
+nsp15 binds RB1,R-HSA-9682712,Input,Complex,UniProt:P0C6X7 rep,P0C6X7
+nsp15 binds RB1,R-HSA-9682712,Input,Complex,UniProt:P06400 RB1,P06400
+nsp16 binds VHL,R-HSA-9683455,Input,EntityWithAccessionedSequence,UniProt:P0C6X7 rep,P0C6X7
+nsp16 binds VHL,R-HSA-9683455,Input,EntityWithAccessionedSequence,UniProt:P40337 VHL,P40337
+nsp16 acts as a cap 2'-O-methyltransferase to modify SARS-CoV-1 gRNA complement (minus strand),R-HSA-9684030,Input,SimpleEntity,UniProt:P0C6X7 rep,P0C6X7
+nsp16 acts as a cap 2'-O-methyltransferase to modify SARS-CoV-1 gRNA complement (minus strand),R-HSA-9684030,Input,SimpleEntity,UniProt:P0C6U8 1a,P0C6U8
+nsp16 acts as a cap 2'-O-methyltransferase to modify SARS-CoV-1 gRNA complement (minus strand),R-HSA-9684030,Input,EntityWithAccessionedSequence,UniProt:P0C6X7 rep,P0C6X7
+nsp16 acts as a cap 2'-O-methyltransferase to modify SARS-CoV-1 gRNA complement (minus strand),R-HSA-9684030,Input,EntityWithAccessionedSequence,UniProt:P0C6U8 1a,P0C6U8
+RTC binds SARS-CoV-1 genomic RNA complement (minus strand),R-HSA-9685597,Input,EntityWithAccessionedSequence,UniProt:P0C6X7 rep,P0C6X7
+RTC binds SARS-CoV-1 genomic RNA complement (minus strand),R-HSA-9685597,Input,EntityWithAccessionedSequence,UniProt:P0C6U8 1a,P0C6U8
+RTC binds SARS-CoV-1 genomic RNA complement (minus strand),R-HSA-9685597,Input,Complex,UniProt:P0C6X7 rep,P0C6X7
+RTC binds SARS-CoV-1 genomic RNA complement (minus strand),R-HSA-9685597,Input,Complex,UniProt:P0C6U8 1a,P0C6U8
+SARS-CoV-1 gRNA:RTC:nascent RNA minus strand binds RTC inhibitors,R-HSA-9687388,Input,Complex,UniProt:P0C6X7 rep,P0C6X7
+SARS-CoV-1 gRNA:RTC:nascent RNA minus strand binds RTC inhibitors,R-HSA-9687388,Input,Complex,UniProt:P0C6U8 1a,P0C6U8
+SARS-CoV-1 gRNA:RTC:nascent RNA minus strand binds RTC inhibitors,R-HSA-9687388,Input,DefinedSet,UniProt:P0C6X7 rep,P0C6X7
+SARS-CoV-1 gRNA:RTC:nascent RNA minus strand binds RTC inhibitors,R-HSA-9687388,Input,DefinedSet,UniProt:P0C6U8 1a,P0C6U8
+nsp12 misincorporates a nucleotide in nascent RNA minus strand,R-HSA-9682563,Input,SimpleEntity,UniProt:P0C6X7 rep,P0C6X7
+nsp12 misincorporates a nucleotide in nascent RNA minus strand,R-HSA-9682563,Input,SimpleEntity,UniProt:P0C6U8 1a,P0C6U8
+nsp12 misincorporates a nucleotide in nascent RNA minus strand,R-HSA-9682563,Input,Complex,UniProt:P0C6X7 rep,P0C6X7
+nsp12 misincorporates a nucleotide in nascent RNA minus strand,R-HSA-9682563,Input,Complex,UniProt:P0C6U8 1a,P0C6U8
+Replication transcription complex binds SARS-CoV-1 genomic RNA,R-HSA-9681314,Input,EntityWithAccessionedSequence,UniProt:P0C6X7 rep,P0C6X7
+Replication transcription complex binds SARS-CoV-1 genomic RNA,R-HSA-9681314,Input,EntityWithAccessionedSequence,UniProt:P0C6U8 1a,P0C6U8
+Replication transcription complex binds SARS-CoV-1 genomic RNA,R-HSA-9681314,Input,Complex,UniProt:P0C6X7 rep,P0C6X7
+Replication transcription complex binds SARS-CoV-1 genomic RNA,R-HSA-9681314,Input,Complex,UniProt:P0C6U8 1a,P0C6U8
+RTC completes synthesis of the minus strand genomic RNA complement,R-HSA-9682465,Input,Complex,UniProt:P0C6X7 rep,P0C6X7
+RTC completes synthesis of the minus strand genomic RNA complement,R-HSA-9682465,Input,Complex,UniProt:P0C6U8 1a,P0C6U8
+RTC completes synthesis of the minus strand genomic RNA complement,R-HSA-9682465,Input,SimpleEntity,UniProt:P0C6X7 rep,P0C6X7
+RTC completes synthesis of the minus strand genomic RNA complement,R-HSA-9682465,Input,SimpleEntity,UniProt:P0C6U8 1a,P0C6U8
+nsp16 acts as a cap 2'-O-methyltransferase to modify SARS-CoV-1 gRNA (plus strand),R-HSA-9684032,Input,EntityWithAccessionedSequence,UniProt:P0C6X7 rep,P0C6X7
+nsp16 acts as a cap 2'-O-methyltransferase to modify SARS-CoV-1 gRNA (plus strand),R-HSA-9684032,Input,EntityWithAccessionedSequence,UniProt:P0C6U8 1a,P0C6U8
+nsp16 acts as a cap 2'-O-methyltransferase to modify SARS-CoV-1 gRNA (plus strand),R-HSA-9684032,Input,SimpleEntity,UniProt:P0C6X7 rep,P0C6X7
+nsp16 acts as a cap 2'-O-methyltransferase to modify SARS-CoV-1 gRNA (plus strand),R-HSA-9684032,Input,SimpleEntity,UniProt:P0C6U8 1a,P0C6U8
+nsp13 helicase melts secondary structures in SARS-CoV-1 genomic RNA template,R-HSA-9682695,Input,Complex,UniProt:P0C6X7 rep,P0C6X7
+nsp13 helicase melts secondary structures in SARS-CoV-1 genomic RNA template,R-HSA-9682695,Input,Complex,UniProt:P0C6U8 1a,P0C6U8
+nsp13 helicase melts secondary structures in SARS-CoV-1 genomic RNA template,R-HSA-9682695,Input,SimpleEntity,UniProt:P0C6X7 rep,P0C6X7
+nsp13 helicase melts secondary structures in SARS-CoV-1 genomic RNA template,R-HSA-9682695,Input,SimpleEntity,UniProt:P0C6U8 1a,P0C6U8
+nsp13 binds DDX5,R-HSA-9682631,Input,EntityWithAccessionedSequence,UniProt:P17844 DDX5,P17844
+nsp13 binds DDX5,R-HSA-9682631,Input,EntityWithAccessionedSequence,UniProt:P0C6X7 rep,P0C6X7
+SARS coronavirus gRNA:RTC:RNA primer binds RTC inhibitors,R-HSA-9680262,Input,Complex,UniProt:P0C6X7 rep,P0C6X7
+SARS coronavirus gRNA:RTC:RNA primer binds RTC inhibitors,R-HSA-9680262,Input,Complex,UniProt:P0C6U8 1a,P0C6U8
+SARS coronavirus gRNA:RTC:RNA primer binds RTC inhibitors,R-HSA-9680262,Input,DefinedSet,UniProt:P0C6X7 rep,P0C6X7
+SARS coronavirus gRNA:RTC:RNA primer binds RTC inhibitors,R-HSA-9680262,Input,DefinedSet,UniProt:P0C6U8 1a,P0C6U8
+nsp14 acts as a 3'-to-5' exonuclease to remove misincorporated nucleotides from nascent RNA,R-HSA-9682603,Input,SimpleEntity,UniProt:P0C6X7 rep,P0C6X7
+nsp14 acts as a 3'-to-5' exonuclease to remove misincorporated nucleotides from nascent RNA,R-HSA-9682603,Input,SimpleEntity,UniProt:P0C6U8 1a,P0C6U8
+nsp14 acts as a 3'-to-5' exonuclease to remove misincorporated nucleotides from nascent RNA,R-HSA-9682603,Input,Complex,UniProt:P0C6X7 rep,P0C6X7
+nsp14 acts as a 3'-to-5' exonuclease to remove misincorporated nucleotides from nascent RNA,R-HSA-9682603,Input,Complex,UniProt:P0C6U8 1a,P0C6U8
+nsp12 synthesizes minus strand SARS-CoV-1 genomic RNA complement,R-HSA-9681674,Input,Complex,UniProt:P0C6X7 rep,P0C6X7
+nsp12 synthesizes minus strand SARS-CoV-1 genomic RNA complement,R-HSA-9681674,Input,Complex,UniProt:P0C6U8 1a,P0C6U8
+nsp12 synthesizes minus strand SARS-CoV-1 genomic RNA complement,R-HSA-9681674,Input,SimpleEntity,UniProt:P0C6X7 rep,P0C6X7
+nsp12 synthesizes minus strand SARS-CoV-1 genomic RNA complement,R-HSA-9681674,Input,SimpleEntity,UniProt:P0C6U8 1a,P0C6U8
+Polyadenylation of SARS-CoV-1 genomic RNA (plus strand),R-HSA-9685519,Input,EntityWithAccessionedSequence,null,null
+Polyadenylation of SARS-CoV-1 genomic RNA (plus strand),R-HSA-9685519,Input,SimpleEntity,null,null
+Polyadenylation of SARS-CoV-1 subgenomic mRNAs (plus strand),R-HSA-9685906,Input,SimpleEntity,null,null
+Polyadenylation of SARS-CoV-1 subgenomic mRNAs (plus strand),R-HSA-9685906,Input,DefinedSet,null,null
+Synthesis of SARS-CoV-1 plus strand subgenomic mRNAs,R-HSA-9685681,Input,DefinedSet,UniProt:P0C6X7 rep,P0C6X7
+Synthesis of SARS-CoV-1 plus strand subgenomic mRNAs,R-HSA-9685681,Input,DefinedSet,UniProt:P0C6U8 1a,P0C6U8
+Synthesis of SARS-CoV-1 plus strand subgenomic mRNAs,R-HSA-9685681,Input,SimpleEntity,UniProt:P0C6X7 rep,P0C6X7
+Synthesis of SARS-CoV-1 plus strand subgenomic mRNAs,R-HSA-9685681,Input,SimpleEntity,UniProt:P0C6U8 1a,P0C6U8
+nsp16 acts as a cap 2'-O-methyltransferase to modify SARS-CoV-1 mRNAs,R-HSA-9684033,Input,SimpleEntity,UniProt:P0C6X7 rep,P0C6X7
+nsp16 acts as a cap 2'-O-methyltransferase to modify SARS-CoV-1 mRNAs,R-HSA-9684033,Input,SimpleEntity,UniProt:P0C6U8 1a,P0C6U8
+nsp16 acts as a cap 2'-O-methyltransferase to modify SARS-CoV-1 mRNAs,R-HSA-9684033,Input,DefinedSet,UniProt:P0C6X7 rep,P0C6X7
+nsp16 acts as a cap 2'-O-methyltransferase to modify SARS-CoV-1 mRNAs,R-HSA-9684033,Input,DefinedSet,UniProt:P0C6U8 1a,P0C6U8
+nsp14 acts as a cap N7 methyltransferase to modify SARS-CoV-1 mRNAs,R-HSA-9684016,Input,SimpleEntity,UniProt:P0C6X7 rep,P0C6X7
+nsp14 acts as a cap N7 methyltransferase to modify SARS-CoV-1 mRNAs,R-HSA-9684016,Input,SimpleEntity,UniProt:P0C6U8 1a,P0C6U8
+nsp14 acts as a cap N7 methyltransferase to modify SARS-CoV-1 mRNAs,R-HSA-9684016,Input,DefinedSet,UniProt:P0C6X7 rep,P0C6X7
+nsp14 acts as a cap N7 methyltransferase to modify SARS-CoV-1 mRNAs,R-HSA-9684016,Input,DefinedSet,UniProt:P0C6U8 1a,P0C6U8
+Synthesis of SARS-CoV-1 minus strand subgenomic mRNAs by template switching,R-HSA-9685639,Input,Complex,UniProt:P0C6X7 rep,P0C6X7
+Synthesis of SARS-CoV-1 minus strand subgenomic mRNAs by template switching,R-HSA-9685639,Input,Complex,UniProt:P0C6U8 1a,P0C6U8
+Synthesis of SARS-CoV-1 minus strand subgenomic mRNAs by template switching,R-HSA-9685639,Input,Complex,UniProt:P59595 N,P59595
+Synthesis of SARS-CoV-1 minus strand subgenomic mRNAs by template switching,R-HSA-9685639,Input,SimpleEntity,UniProt:P0C6X7 rep,P0C6X7
+Synthesis of SARS-CoV-1 minus strand subgenomic mRNAs by template switching,R-HSA-9685639,Input,SimpleEntity,UniProt:P0C6U8 1a,P0C6U8
+Synthesis of SARS-CoV-1 minus strand subgenomic mRNAs by template switching,R-HSA-9685639,Input,SimpleEntity,UniProt:P59595 N,P59595
+Spike glycoprotein of SARS coronavirus binds ACE2 on host cell,R-HSA-9678128,Input,EntityWithAccessionedSequence,UniProt:P59596 M,P59596
+Spike glycoprotein of SARS coronavirus binds ACE2 on host cell,R-HSA-9678128,Input,EntityWithAccessionedSequence,UniProt:P59637 E,P59637
+Spike glycoprotein of SARS coronavirus binds ACE2 on host cell,R-HSA-9678128,Input,EntityWithAccessionedSequence,UniProt:P59594 S,P59594
+Spike glycoprotein of SARS coronavirus binds ACE2 on host cell,R-HSA-9678128,Input,EntityWithAccessionedSequence,UniProt:P59632 3a,P59632
+Spike glycoprotein of SARS coronavirus binds ACE2 on host cell,R-HSA-9678128,Input,EntityWithAccessionedSequence,UniProt:P59635 7a,P59635
+Spike glycoprotein of SARS coronavirus binds ACE2 on host cell,R-HSA-9678128,Input,EntityWithAccessionedSequence,UniProt:P59595 N,P59595
+Spike glycoprotein of SARS coronavirus binds ACE2 on host cell,R-HSA-9678128,Input,EntityWithAccessionedSequence,UniProt:Q9BYF1 ACE2,Q9BYF1
+Spike glycoprotein of SARS coronavirus binds ACE2 on host cell,R-HSA-9678128,Input,Complex,UniProt:P59596 M,P59596
+Spike glycoprotein of SARS coronavirus binds ACE2 on host cell,R-HSA-9678128,Input,Complex,UniProt:P59637 E,P59637
+Spike glycoprotein of SARS coronavirus binds ACE2 on host cell,R-HSA-9678128,Input,Complex,UniProt:P59594 S,P59594
+Spike glycoprotein of SARS coronavirus binds ACE2 on host cell,R-HSA-9678128,Input,Complex,UniProt:P59632 3a,P59632
+Spike glycoprotein of SARS coronavirus binds ACE2 on host cell,R-HSA-9678128,Input,Complex,UniProt:P59635 7a,P59635
+Spike glycoprotein of SARS coronavirus binds ACE2 on host cell,R-HSA-9678128,Input,Complex,UniProt:P59595 N,P59595
+Spike glycoprotein of SARS coronavirus binds ACE2 on host cell,R-HSA-9678128,Input,Complex,UniProt:Q9BYF1 ACE2,Q9BYF1
+Endocytois of SARS-CoV-1 Virion,R-HSA-9686711,Input,Complex,UniProt:P59596 M,P59596
+Endocytois of SARS-CoV-1 Virion,R-HSA-9686711,Input,Complex,UniProt:P59637 E,P59637
+Endocytois of SARS-CoV-1 Virion,R-HSA-9686711,Input,Complex,UniProt:P59594 S,P59594
+Endocytois of SARS-CoV-1 Virion,R-HSA-9686711,Input,Complex,UniProt:P59632 3a,P59632
+Endocytois of SARS-CoV-1 Virion,R-HSA-9686711,Input,Complex,UniProt:P59635 7a,P59635
+Endocytois of SARS-CoV-1 Virion,R-HSA-9686711,Input,Complex,UniProt:P59595 N,P59595
+Endocytois of SARS-CoV-1 Virion,R-HSA-9686711,Input,Complex,UniProt:Q9BYF1 ACE2,Q9BYF1
+CTSL bind teicoplanin,R-HSA-9685655,Input,Complex,UniProt:P07711 CTSL,P07711
+CTSL bind teicoplanin,R-HSA-9685655,Input,ChemicalDrug,UniProt:P07711 CTSL,P07711
+Cleavage of S protein into S1:S2,R-HSA-9686710,Input,Complex,UniProt:P07711 CTSL,P07711
+Cleavage of S protein into S1:S2,R-HSA-9686710,Input,Complex,UniProt:P59596 M,P59596
+Cleavage of S protein into S1:S2,R-HSA-9686710,Input,Complex,UniProt:P59637 E,P59637
+Cleavage of S protein into S1:S2,R-HSA-9686710,Input,Complex,UniProt:P59594 S,P59594
+Cleavage of S protein into S1:S2,R-HSA-9686710,Input,Complex,UniProt:P59632 3a,P59632
+Cleavage of S protein into S1:S2,R-HSA-9686710,Input,Complex,UniProt:P59635 7a,P59635
+Cleavage of S protein into S1:S2,R-HSA-9686710,Input,Complex,UniProt:P59595 N,P59595
+Cleavage of S protein into S1:S2,R-HSA-9686710,Input,Complex,UniProt:Q9BYF1 ACE2,Q9BYF1
+Uncoating of SARS-CoV-1 Genome,R-HSA-9686709,Input,Complex,UniProt:P59595 N,P59595
+Fusion and Release of SARS-CoV-1 Nucleocapsid,R-HSA-9686699,Input,Complex,UniProt:P59594 S,P59594
+Fusion and Release of SARS-CoV-1 Nucleocapsid,R-HSA-9686699,Input,Complex,UniProt:P59596 M,P59596
+Fusion and Release of SARS-CoV-1 Nucleocapsid,R-HSA-9686699,Input,Complex,UniProt:P59637 E,P59637
+Fusion and Release of SARS-CoV-1 Nucleocapsid,R-HSA-9686699,Input,Complex,UniProt:P59632 3a,P59632
+Fusion and Release of SARS-CoV-1 Nucleocapsid,R-HSA-9686699,Input,Complex,UniProt:P59635 7a,P59635
+Fusion and Release of SARS-CoV-1 Nucleocapsid,R-HSA-9686699,Input,Complex,UniProt:P59595 N,P59595
+Fusion and Release of SARS-CoV-1 Nucleocapsid,R-HSA-9686699,Input,Complex,UniProt:P55072 VCP,P55072
+TMPRSS2 Mediated SARS-CoV-1 Spike Protein Cleavage and Endocytosis,R-HSA-9686731,Input,Complex,UniProt:O15393 TMPRSS2,O15393
+TMPRSS2 Mediated SARS-CoV-1 Spike Protein Cleavage and Endocytosis,R-HSA-9686731,Input,Complex,UniProt:P59596 M,P59596
+TMPRSS2 Mediated SARS-CoV-1 Spike Protein Cleavage and Endocytosis,R-HSA-9686731,Input,Complex,UniProt:P59637 E,P59637
+TMPRSS2 Mediated SARS-CoV-1 Spike Protein Cleavage and Endocytosis,R-HSA-9686731,Input,Complex,UniProt:P59594 S,P59594
+TMPRSS2 Mediated SARS-CoV-1 Spike Protein Cleavage and Endocytosis,R-HSA-9686731,Input,Complex,UniProt:P59632 3a,P59632
+TMPRSS2 Mediated SARS-CoV-1 Spike Protein Cleavage and Endocytosis,R-HSA-9686731,Input,Complex,UniProt:P59635 7a,P59635
+TMPRSS2 Mediated SARS-CoV-1 Spike Protein Cleavage and Endocytosis,R-HSA-9686731,Input,Complex,UniProt:P59595 N,P59595
+TMPRSS2 Mediated SARS-CoV-1 Spike Protein Cleavage and Endocytosis,R-HSA-9686731,Input,Complex,UniProt:Q9BYF1 ACE2,Q9BYF1
+TMPRSS2 binds TMPRSS2 inhibitors,R-HSA-9681514,Input,EntityWithAccessionedSequence,UniProt:O15393 TMPRSS2,O15393
+TMPRSS2 binds TMPRSS2 inhibitors,R-HSA-9681514,Input,CandidateSet,UniProt:O15393 TMPRSS2,O15393
+CYSLTR1 binds CYSLTR1 antagonists,R-HSA-9684627,Ouput,Complex,UniProt:Q9Y271 CYSLTR1,Q9Y271
+CRBN binds IMiDs,R-HSA-9681169,Ouput,Complex,UniProt:Q96SW2 CRBN,Q96SW2
+TYK2 binds TYK2 inhibitors,R-HSA-9678737,Ouput,Complex,UniProt:P29597 TYK2,P29597
+AP2 binds chlorpromazine,R-HSA-9681616,Ouput,Complex,UniProt:Q96CW1 AP2M1,Q96CW1
+AP2 binds chlorpromazine,R-HSA-9681616,Ouput,Complex,UniProt:O94973 AP2A2,O94973
+AP2 binds chlorpromazine,R-HSA-9681616,Ouput,Complex,UniProt:O95782 AP2A1,O95782
+AP2 binds chlorpromazine,R-HSA-9681616,Ouput,Complex,UniProt:P63010 AP2B1,P63010
+AP2 binds chlorpromazine,R-HSA-9681616,Ouput,Complex,UniProt:P53680 AP2S1,P53680
+"JAK1 binds JAK1,2 inhibitors",R-HSA-9678935,Ouput,Complex,UniProt:P23458 JAK1,P23458
+"CQ, HCQ diffuses from cytosol to lysosomal lumen",R-HSA-9683478,Ouput,DefinedSet,null,null
+FURIN binds furin inhibitors,R-HSA-9683546,Ouput,Complex,UniProt:P09958 FURIN,P09958
+BRD4 binds fedratinib,R-HSA-9680408,Ouput,Complex,UniProt:O60885 BRD4,O60885
+COMT binds COMT Inhibitors,R-HSA-9679775,Ouput,Complex,UniProt:P21964 COMT,P21964
+RIPK1 binds ponatinib,R-HSA-9679839,Ouput,Complex,UniProt:Q13546 RIPK1,Q13546
+IMPDH tetramers binds IMPDH inhibitors,R-HSA-9678749,Ouput,Complex,UniProt:P12268 IMPDH2,P12268
+IMPDH tetramers binds IMPDH inhibitors,R-HSA-9678749,Ouput,Complex,UniProt:P20839 IMPDH1,P20839
+S1PR1 binds S1PR1 agonists,R-HSA-9678854,Ouput,Complex,UniProt:P21453 S1PR1,P21453
+TUBB binds colchicine,R-HSA-9685830,Ouput,Complex,UniProt:P07437 TUBB,P07437
+TLR9 binds HCQ,R-HSA-9679045,Ouput,Complex,UniProt:Q9NR96 TLR9,Q9NR96
+FKBP1A binds FKBP1A inhibitors,R-HSA-9679044,Ouput,Complex,UniProt:P62942 FKBP1A,P62942
+NS5B binds ribavirin,R-HSA-9680836,Ouput,Complex,UniProt:Q8JXU8 NS5B,Q8JXU8
+"CQ, HCQ are protonated to CQ2+, HCQ2+",R-HSA-9683467,Ouput,DefinedSet,null,null
+TBK1 binds amlexanox,R-HSA-9679819,Ouput,Complex,UniProt:Q9UHD2 TBK1,Q9UHD2
+SIGMAR1 binds dextromethorphan,R-HSA-9679816,Ouput,Complex,UniProt:Q99720 SIGMAR1,Q99720
+IL6R binds tocilizumab,R-HSA-9681294,Ouput,Complex,UniProt:P08887 IL6R,P08887
+NR3C1 binds NR3C1 agonists,R-HSA-9678925,Ouput,Complex,UniProt:P04150 NR3C1,P04150
+TLR7 binds HCQ,R-HSA-9679029,Ouput,Complex,UniProt:Q9NYK1 TLR7,Q9NYK1
+VEGFA binds VEGFA inhibitors,R-HSA-9679477,Ouput,Complex,UniProt:P15692 VEGFA,P15692
+JAK3 binds JAK3 inhibitors,R-HSA-9679028,Ouput,Complex,UniProt:P52333 JAK3,P52333
+"ROCK1,2 bind ROCKi",R-HSA-9680443,Ouput,Complex,UniProt:O75116 ROCK2,O75116
+"ROCK1,2 bind ROCKi",R-HSA-9680443,Ouput,Complex,UniProt:Q13464 ROCK1,Q13464
+PDCD1 binds PDCD1 inhibitors,R-HSA-9679421,Ouput,Complex,UniProt:Q15116 PDCD1,Q15116
+ITGA4:ITGB1 binds natalizumab,R-HSA-9679740,Ouput,Complex,UniProt:P13612 ITGA4,P13612
+ITGA4:ITGB1 binds natalizumab,R-HSA-9679740,Ouput,Complex,UniProt:P05556 ITGB1,P05556
+IL1R1:IL1RAP binds IL1R1 inhibitors,R-HSA-9681763,Ouput,Complex,UniProt:Q9NPH3-1 IL1RAP,Q9NPH3
+IL1R1:IL1RAP binds IL1R1 inhibitors,R-HSA-9681763,Ouput,Complex,UniProt:P14778 IL1R1,P14778
+"JAK2 binds JAK1,2 inhibitors",R-HSA-9678561,Ouput,Complex,UniProt:O60674 JAK2,O60674
+ACE2 is glycosylated to glycosylated-ACE2,R-HSA-9683488,Ouput,EntityWithAccessionedSequence,UniProt:Q9BYF1 ACE2,Q9BYF1
+ATP1A1 binds cardiac glycosides,R-HSA-9684068,Ouput,Complex,UniProt:P05023 ATP1A1,P05023
+SIGMAR1 binds fluvoxamine,R-HSA-9679780,Ouput,Complex,UniProt:Q99720 SIGMAR1,Q99720
+HDAC2 binds HDAC2 Inhibitors,R-HSA-9679787,Ouput,Complex,UniProt:Q92769 HDAC2,Q92769
+nsp8 binds MAP1LC3B,R-HSA-9687121,Ouput,Complex,UniProt:P0C6U8 1a,P0C6U8
+nsp8 binds MAP1LC3B,R-HSA-9687121,Ouput,Complex,UniProt:P0C6X7 rep,P0C6X7
+nsp8 binds MAP1LC3B,R-HSA-9687121,Ouput,Complex,UniProt:Q9GZQ8 MAP1LC3B,Q9GZQ8
+mRNA1 is translated to pp1ab,R-HSA-9684277,Ouput,EntityWithAccessionedSequence,UniProt:P0C6X7 rep,P0C6X7
+nsp3-4 is glycosylated,R-HSA-9684275,Ouput,SimpleEntity,UniProt:P0C6U8 1a,P0C6U8
+nsp3-4 is glycosylated,R-HSA-9684275,Ouput,SimpleEntity,UniProt:P0C6X7 rep,P0C6X7
+nsp3-4 is glycosylated,R-HSA-9684275,Ouput,DefinedSet,UniProt:P0C6U8 1a,P0C6U8
+nsp3-4 is glycosylated,R-HSA-9684275,Ouput,DefinedSet,UniProt:P0C6X7 rep,P0C6X7
+3CLp cleaves pp1a,R-HSA-9684273,Ouput,EntityWithAccessionedSequence,UniProt:P0C6U8 1a,P0C6U8
+nsp1-4 cleaves itself,R-HSA-9684336,Ouput,DefinedSet,UniProt:P0C6U8 1a,P0C6U8
+nsp1-4 cleaves itself,R-HSA-9684336,Ouput,DefinedSet,UniProt:P0C6X7 rep,P0C6X7
+3CLp cleaves nsp6-11,R-HSA-9684309,Ouput,EntityWithAccessionedSequence,UniProt:P0C6U8 1a,P0C6U8
+3CLp cleaves pp1ab,R-HSA-9684340,Ouput,EntityWithAccessionedSequence,UniProt:P0C6X7 rep,P0C6X7
+nsp9 forms a homodimer,R-HSA-9684282,Ouput,Complex,UniProt:P0C6U8 1a,P0C6U8
+nsp9 forms a homodimer,R-HSA-9684282,Ouput,Complex,UniProt:P0C6X7 rep,P0C6X7
+pp1a cleaves itself,R-HSA-9684351,Ouput,EntityWithAccessionedSequence,UniProt:P0C6U8 1a,P0C6U8
+pp1a forms a dimer,R-HSA-9684350,Ouput,Complex,UniProt:P0C6U8 1a,P0C6U8
+3CLp dimer binds α-Ketoamides,R-HSA-9681596,Ouput,Complex,UniProt:P0C6U8 1a,P0C6U8
+3CLp dimer binds α-Ketoamides,R-HSA-9681596,Ouput,Complex,UniProt:P0C6X7 rep,P0C6X7
+3CLp forms a homodimer,R-HSA-9684323,Ouput,Complex,UniProt:P0C6U8 1a,P0C6U8
+3CLp forms a homodimer,R-HSA-9684323,Ouput,Complex,UniProt:P0C6X7 rep,P0C6X7
+nsp3 is glycosylated,R-HSA-9684290,Ouput,DefinedSet,UniProt:P0C6U8 1a,P0C6U8
+nsp3 is glycosylated,R-HSA-9684290,Ouput,DefinedSet,UniProt:P0C6X7 rep,P0C6X7
+nsp3 is glycosylated,R-HSA-9684290,Ouput,SimpleEntity,UniProt:P0C6U8 1a,P0C6U8
+nsp3 is glycosylated,R-HSA-9684290,Ouput,SimpleEntity,UniProt:P0C6X7 rep,P0C6X7
+nsp3 cleaves nsp1-4,R-HSA-9684321,Ouput,DefinedSet,UniProt:P0C6U8 1a,P0C6U8
+nsp3 cleaves nsp1-4,R-HSA-9684321,Ouput,DefinedSet,UniProt:P0C6X7 rep,P0C6X7
+nsp3-4 cleaves itself,R-HSA-9684352,Ouput,DefinedSet,UniProt:P0C6X7 rep,P0C6X7
+nsp3-4 cleaves itself,R-HSA-9684352,Ouput,DefinedSet,UniProt:P0C6U8 1a,P0C6U8
+nsp4 is glycosylated,R-HSA-9684261,Ouput,SimpleEntity,UniProt:P0C6U8 1a,P0C6U8
+nsp4 is glycosylated,R-HSA-9684261,Ouput,SimpleEntity,UniProt:P0C6X7 rep,P0C6X7
+nsp4 is glycosylated,R-HSA-9684261,Ouput,DefinedSet,UniProt:P0C6U8 1a,P0C6U8
+nsp4 is glycosylated,R-HSA-9684261,Ouput,DefinedSet,UniProt:P0C6X7 rep,P0C6X7
+8b binds to MAP1LC3B,R-HSA-9687109,Ouput,Complex,UniProt:Q80H93 8b,Q80H93
+8b binds to MAP1LC3B,R-HSA-9687109,Ouput,Complex,UniProt:Q9GZQ8 MAP1LC3B,Q9GZQ8
+Enhanced autophagosome formation,R-HSA-9687435,Ouput,EntityWithAccessionedSequence,UniProt:Q9GZQ8 MAP1LC3B,Q9GZQ8
+"Nsp3, nsp4, and nsp6 produce replicative organelles",R-HSA-9686015,Ouput,DefinedSet,UniProt:P0C6X7 rep,P0C6X7
+"Nsp3, nsp4, and nsp6 produce replicative organelles",R-HSA-9686015,Ouput,DefinedSet,UniProt:P0C6U8 1a,P0C6U8
+"Nsp3, nsp4, and nsp6 produce replicative organelles",R-HSA-9686015,Ouput,Complex,UniProt:P0C6X7 rep,P0C6X7
+"Nsp3, nsp4, and nsp6 produce replicative organelles",R-HSA-9686015,Ouput,Complex,UniProt:P0C6U8 1a,P0C6U8
+nsp14 binds nsp12,R-HSA-9682258,Ouput,Complex,UniProt:P0C6U8 1a,P0C6U8
+nsp14 binds nsp12,R-HSA-9682258,Ouput,Complex,UniProt:P0C6X7 rep,P0C6X7
+nsp13 binds nsp12,R-HSA-9682626,Ouput,Complex,UniProt:P0C6U8 1a,P0C6U8
+nsp13 binds nsp12,R-HSA-9682626,Ouput,Complex,UniProt:P0C6X7 rep,P0C6X7
+nsp15 binds nsp8,R-HSA-9683393,Ouput,Complex,UniProt:P0C6X7 rep,P0C6X7
+nsp15 binds nsp8,R-HSA-9683393,Ouput,Complex,UniProt:P0C6U8 1a,P0C6U8
+nsp14 binds nsp10,R-HSA-9682544,Ouput,Complex,UniProt:P0C6U8 1a,P0C6U8
+nsp14 binds nsp10,R-HSA-9682544,Ouput,Complex,UniProt:P0C6X7 rep,P0C6X7
+nsp16 binds nsp10,R-HSA-9683429,Ouput,Complex,UniProt:P0C6X7 rep,P0C6X7
+nsp16 binds nsp10,R-HSA-9683429,Ouput,Complex,UniProt:P0C6U8 1a,P0C6U8
+nsp3 binds to nsp7-8 and nsp12-16,R-HSA-9686005,Ouput,Complex,UniProt:P0C6X7 rep,P0C6X7
+nsp3 binds to nsp7-8 and nsp12-16,R-HSA-9686005,Ouput,Complex,UniProt:P0C6U8 1a,P0C6U8
+nsp12 binds nsp7 and nsp8,R-HSA-9680811,Ouput,Complex,UniProt:P0C6U8 1a,P0C6U8
+nsp12 binds nsp7 and nsp8,R-HSA-9680811,Ouput,Complex,UniProt:P0C6X7 rep,P0C6X7
+nsp15 forms a hexamer,R-HSA-9682718,Ouput,Complex,UniProt:P0C6X7 rep,P0C6X7
+Nsp3:nsp4 binds to nsp6,R-HSA-9686013,Ouput,Complex,UniProt:P0C6X7 rep,P0C6X7
+Nsp3:nsp4 binds to nsp6,R-HSA-9686013,Ouput,Complex,UniProt:P0C6U8 1a,P0C6U8
+nsp7 binds nsp8,R-HSA-9680812,Ouput,Complex,UniProt:P0C6U8 1a,P0C6U8
+nsp7 binds nsp8,R-HSA-9680812,Ouput,Complex,UniProt:P0C6X7 rep,P0C6X7
+mRNA1 is translated to pp1a,R-HSA-9684301,Ouput,EntityWithAccessionedSequence,UniProt:P0C6U8 1a,P0C6U8
+E pentamer is transported to the Golgi,R-HSA-9683635,Ouput,Complex,UniProt:P59637 E,P59637
+Protein E forms a homopentamer,R-HSA-9683670,Ouput,Complex,UniProt:P59637 E,P59637
+E protein gets N-glycosylated,R-HSA-9683669,Ouput,SimpleEntity,UniProt:P59637 E,P59637
+E protein gets N-glycosylated,R-HSA-9683669,Ouput,EntityWithAccessionedSequence,UniProt:P59637 E,P59637
+E protein gets N-glycosylated,R-HSA-9683669,Ouput,OtherEntity,UniProt:P59637 E,P59637
+E protein gets palmitoylated,R-HSA-9683720,Ouput,EntityWithAccessionedSequence,UniProt:P59637 E,P59637
+E protein gets palmitoylated,R-HSA-9683720,Ouput,SimpleEntity,UniProt:P59637 E,P59637
+Ubiquination of protein E,R-HSA-9683679,Ouput,EntityWithAccessionedSequence,UniProt:P59637 E,P59637
+mRNA3 is translated to protein 3a,R-HSA-9683618,Ouput,EntityWithAccessionedSequence,UniProt:P59632 3a,P59632
+mRNA9a is translated to Nucleoprotein,R-HSA-9683735,Ouput,EntityWithAccessionedSequence,UniProt:P59595 N,P59595
+mRNA5 is translated to protein M,R-HSA-9683622,Ouput,EntityWithAccessionedSequence,UniProt:P59596 M,P59596
+Spike trimer glycoside chains are extended,R-HSA-9683648,Ouput,Complex,UniProt:P59594 S,P59594
+Spike trimer glycoside chains are extended,R-HSA-9683648,Ouput,SimpleEntity,UniProt:P59594 S,P59594
+Spike protein forms a homotrimer,R-HSA-9683719,Ouput,Complex,UniProt:P59594 S,P59594
+ER-alpha glucosidases bind ER-alpha glucosidase inhibitors,R-HSA-9686790,Ouput,Complex,UniProt:P14314 PRKCSH,P14314
+ER-alpha glucosidases bind ER-alpha glucosidase inhibitors,R-HSA-9686790,Ouput,Complex,UniProt:Q14697 GANAB,Q14697
+ER-alpha glucosidases bind ER-alpha glucosidase inhibitors,R-HSA-9686790,Ouput,Complex,UniProt:Q13724 MOGS,Q13724
+Spike protein gets palmitoylated,R-HSA-9683653,Ouput,EntityWithAccessionedSequence,UniProt:P59594 S,P59594
+Spike protein gets palmitoylated,R-HSA-9683653,Ouput,SimpleEntity,UniProt:P59594 S,P59594
+Spike trimer translocates to ERGIC,R-HSA-9683764,Ouput,Complex,UniProt:P59594 S,P59594
+Spike protein gets N-glycosylated,R-HSA-9683755,Ouput,SimpleEntity,UniProt:P59594 S,P59594
+Spike protein gets N-glycosylated,R-HSA-9683755,Ouput,EntityWithAccessionedSequence,UniProt:P59594 S,P59594
+Spike protein gets N-glycosylated,R-HSA-9683755,Ouput,OtherEntity,UniProt:P59594 S,P59594
+N-glycan trimming of Spike,R-HSA-9683663,Ouput,SimpleEntity,UniProt:P59594 S,P59594
+N-glycan trimming of Spike,R-HSA-9683663,Ouput,EntityWithAccessionedSequence,UniProt:P59594 S,P59594
+Trimmed spike protein binds to calnexin,R-HSA-9683772,Ouput,EntityWithAccessionedSequence,UniProt:P59594 S,P59594
+Dimerisation of nucleoprotein,R-HSA-9683634,Ouput,Complex,UniProt:P59595 N,P59595
+Unphosphorylated nucleoprotein translocates to the plasma membrane,R-HSA-9683714,Ouput,EntityWithAccessionedSequence,UniProt:P59595 N,P59595
+GSK3B phosphorylates Ncap,R-HSA-9683664,Ouput,SimpleEntity,UniProt:P59595 N,P59595
+GSK3B phosphorylates Ncap,R-HSA-9683664,Ouput,EntityWithAccessionedSequence,UniProt:P59595 N,P59595
+Nucleoprotein is SUMOylated,R-HSA-9683687,Ouput,EntityWithAccessionedSequence,UniProt:P59595 N,P59595
+Nucleoprotein is SUMOylated,R-HSA-9683687,Ouput,EntityWithAccessionedSequence,UniProt:P63279 UBE2I,P63279
+Nucleoprotein translocates to the nucleolus,R-HSA-9683606,Ouput,Complex,UniProt:P59595 N,P59595
+Nucleoprotein translocates to the ERGIC outer membrane,R-HSA-9683765,Ouput,Complex,UniProt:P59595 N,P59595
+Nucleoprotein translocates to the plasma membrane,R-HSA-9683630,Ouput,Complex,UniProt:P59595 N,P59595
+Nucleoprotein is ADP-ribosylated,R-HSA-9686061,Ouput,SimpleEntity,UniProt:P59595 N,P59595
+Nucleoprotein is ADP-ribosylated,R-HSA-9686061,Ouput,EntityWithAccessionedSequence,UniProt:P59595 N,P59595
+GSK3B binds GSKi,R-HSA-9687724,Ouput,Complex,UniProt:P49841 GSK3B,P49841
+3a localizes to the cell membrane,R-HSA-9685939,Ouput,EntityWithAccessionedSequence,UniProt:P59632 3a,P59632
+Protein 3a forms a homotetramer,R-HSA-9683746,Ouput,Complex,UniProt:P59632 3a,P59632
+3a translocates to the ERGIC,R-HSA-9683712,Ouput,EntityWithAccessionedSequence,UniProt:P59632 3a,P59632
+GalNAc is transferred onto 3a,R-HSA-9683760,Ouput,EntityWithAccessionedSequence,UniProt:P59632 3a,P59632
+GalNAc is transferred onto 3a,R-HSA-9683760,Ouput,SimpleEntity,UniProt:P59632 3a,P59632
+3a is externalized together with membrane structures,R-HSA-9685956,Ouput,Complex,UniProt:P59632 3a,P59632
+O-glycosylation of 3a is terminated,R-HSA-9683769,Ouput,EntityWithAccessionedSequence,UniProt:P59632 3a,P59632
+O-glycosylation of 3a is terminated,R-HSA-9683769,Ouput,SimpleEntity,UniProt:P59632 3a,P59632
+Endocytosis of protein 3a,R-HSA-9685950,Ouput,Complex,UniProt:P59632 3a,P59632
+mRNA2 is translated to Spike,R-HSA-9683624,Ouput,EntityWithAccessionedSequence,UniProt:P59594 S,P59594
+mRNA4 is translated to protein E,R-HSA-9683656,Ouput,EntityWithAccessionedSequence,UniProt:P59637 E,P59637
+M protein gets N-glycosylated,R-HSA-9683751,Ouput,SimpleEntity,UniProt:P59596 M,P59596
+M protein gets N-glycosylated,R-HSA-9683751,Ouput,EntityWithAccessionedSequence,UniProt:P59596 M,P59596
+M protein gets N-glycosylated,R-HSA-9683751,Ouput,OtherEntity,UniProt:P59596 M,P59596
+Protein M localizes to the Golgi membrane,R-HSA-9683718,Ouput,EntityWithAccessionedSequence,UniProt:P59596 M,P59596
+Glycosylated M localizes to the Golgi membrane,R-HSA-9683734,Ouput,EntityWithAccessionedSequence,UniProt:P59596 M,P59596
+Recruitment of Spike trimer to assembling virion,R-HSA-9684241,Ouput,Complex,UniProt:P59595 N,P59595
+Recruitment of Spike trimer to assembling virion,R-HSA-9684241,Ouput,Complex,UniProt:P59637 E,P59637
+Recruitment of Spike trimer to assembling virion,R-HSA-9684241,Ouput,Complex,UniProt:P59596 M,P59596
+Recruitment of Spike trimer to assembling virion,R-HSA-9684241,Ouput,Complex,UniProt:P59594 S,P59594
+Viral release,R-HSA-9685542,Ouput,Complex,UniProt:P59596 M,P59596
+Viral release,R-HSA-9685542,Ouput,Complex,UniProt:P59637 E,P59637
+Viral release,R-HSA-9685542,Ouput,Complex,UniProt:P59594 S,P59594
+Viral release,R-HSA-9685542,Ouput,Complex,UniProt:P59632 3a,P59632
+Viral release,R-HSA-9685542,Ouput,Complex,UniProt:P59635 7a,P59635
+Viral release,R-HSA-9685542,Ouput,Complex,UniProt:P59595 N,P59595
+SUMO-p-N protein dimer binds genomic RNA,R-HSA-9684229,Ouput,Complex,UniProt:P59595 N,P59595
+SARS virus buds into ERGIC lumen,R-HSA-9685531,Ouput,Complex,UniProt:P59596 M,P59596
+SARS virus buds into ERGIC lumen,R-HSA-9685531,Ouput,Complex,UniProt:P59637 E,P59637
+SARS virus buds into ERGIC lumen,R-HSA-9685531,Ouput,Complex,UniProt:P59594 S,P59594
+SARS virus buds into ERGIC lumen,R-HSA-9685531,Ouput,Complex,UniProt:P59632 3a,P59632
+SARS virus buds into ERGIC lumen,R-HSA-9685531,Ouput,Complex,UniProt:P59635 7a,P59635
+SARS virus buds into ERGIC lumen,R-HSA-9685531,Ouput,Complex,UniProt:P59595 N,P59595
+Encapsidation of SARS coronavirus genomic RNA,R-HSA-9684234,Ouput,Complex,UniProt:P59595 N,P59595
+M protein oligomerization,R-HSA-9684218,Ouput,Complex,UniProt:P59596 M,P59596
+E and N are recruited to the M lattice,R-HSA-9684238,Ouput,Complex,UniProt:P59595 N,P59595
+E and N are recruited to the M lattice,R-HSA-9684238,Ouput,Complex,UniProt:P59637 E,P59637
+E and N are recruited to the M lattice,R-HSA-9684238,Ouput,Complex,UniProt:P59596 M,P59596
+Accessory proteins are recruited to the maturing virion,R-HSA-9686174,Ouput,Complex,UniProt:P59635 7a,P59635
+Accessory proteins are recruited to the maturing virion,R-HSA-9686174,Ouput,Complex,UniProt:P59632 3a,P59632
+Accessory proteins are recruited to the maturing virion,R-HSA-9686174,Ouput,Complex,UniProt:P59595 N,P59595
+Accessory proteins are recruited to the maturing virion,R-HSA-9686174,Ouput,Complex,UniProt:P59637 E,P59637
+Accessory proteins are recruited to the maturing virion,R-HSA-9686174,Ouput,Complex,UniProt:P59596 M,P59596
+Accessory proteins are recruited to the maturing virion,R-HSA-9686174,Ouput,Complex,UniProt:P59594 S,P59594
+nsp8 generates RNA primers,R-HSA-9681651,Ouput,SimpleEntity,UniProt:P0C6X7 rep,P0C6X7
+nsp8 generates RNA primers,R-HSA-9681651,Ouput,SimpleEntity,UniProt:P0C6U8 1a,P0C6U8
+nsp8 generates RNA primers,R-HSA-9681651,Ouput,Complex,UniProt:P0C6X7 rep,P0C6X7
+nsp8 generates RNA primers,R-HSA-9681651,Ouput,Complex,UniProt:P0C6U8 1a,P0C6U8
+nsp14 acts as a cap N7 methyltransferase to modify SARS-CoV-1 gRNA complement (minus strand),R-HSA-9684018,Ouput,SimpleEntity,null,null
+nsp14 acts as a cap N7 methyltransferase to modify SARS-CoV-1 gRNA complement (minus strand),R-HSA-9684018,Ouput,EntityWithAccessionedSequence,null,null
+nsp14 acts as a cap N7 methyltransferase to modify SARS-CoV-1 gRNA (plus strand),R-HSA-9684017,Ouput,SimpleEntity,null,null
+nsp14 acts as a cap N7 methyltransferase to modify SARS-CoV-1 gRNA (plus strand),R-HSA-9684017,Ouput,EntityWithAccessionedSequence,null,null
+RTC synthesizes SARS-CoV-1 plus strand genomic RNA,R-HSA-9681840,Ouput,SimpleEntity,UniProt:P0C6X7 rep,P0C6X7
+RTC synthesizes SARS-CoV-1 plus strand genomic RNA,R-HSA-9681840,Ouput,SimpleEntity,UniProt:P0C6U8 1a,P0C6U8
+RTC synthesizes SARS-CoV-1 plus strand genomic RNA,R-HSA-9681840,Ouput,EntityWithAccessionedSequence,UniProt:P0C6X7 rep,P0C6X7
+RTC synthesizes SARS-CoV-1 plus strand genomic RNA,R-HSA-9681840,Ouput,EntityWithAccessionedSequence,UniProt:P0C6U8 1a,P0C6U8
+RTC synthesizes SARS-CoV-1 plus strand genomic RNA,R-HSA-9681840,Ouput,Complex,UniProt:P0C6X7 rep,P0C6X7
+RTC synthesizes SARS-CoV-1 plus strand genomic RNA,R-HSA-9681840,Ouput,Complex,UniProt:P0C6U8 1a,P0C6U8
+GSK3 phosphorylates N,R-HSA-9681627,Ouput,SimpleEntity,UniProt:P59595 N,P59595
+GSK3 phosphorylates N,R-HSA-9681627,Ouput,EntityWithAccessionedSequence,UniProt:P59595 N,P59595
+ZCRB1 binds 5'UTR of SARS-CoV-1 genomic RNA,R-HSA-9682009,Ouput,Complex,UniProt:Q8TBF4 ZCRB1,Q8TBF4
+SARS-CoV-1 gRNA complement (minus strand):RTC binds RTC inhibitors,R-HSA-9687384,Ouput,Complex,UniProt:P0C6X7 rep,P0C6X7
+SARS-CoV-1 gRNA complement (minus strand):RTC binds RTC inhibitors,R-HSA-9687384,Ouput,Complex,UniProt:P0C6U8 1a,P0C6U8
+nsp15 binds RB1,R-HSA-9682712,Ouput,Complex,UniProt:P0C6X7 rep,P0C6X7
+nsp15 binds RB1,R-HSA-9682712,Ouput,Complex,UniProt:P06400 RB1,P06400
+nsp16 binds VHL,R-HSA-9683455,Ouput,Complex,UniProt:P0C6X7 rep,P0C6X7
+nsp16 binds VHL,R-HSA-9683455,Ouput,Complex,UniProt:P40337 VHL,P40337
+nsp16 acts as a cap 2'-O-methyltransferase to modify SARS-CoV-1 gRNA complement (minus strand),R-HSA-9684030,Ouput,EntityWithAccessionedSequence,null,null
+nsp16 acts as a cap 2'-O-methyltransferase to modify SARS-CoV-1 gRNA complement (minus strand),R-HSA-9684030,Ouput,SimpleEntity,null,null
+RTC binds SARS-CoV-1 genomic RNA complement (minus strand),R-HSA-9685597,Ouput,Complex,UniProt:P0C6X7 rep,P0C6X7
+RTC binds SARS-CoV-1 genomic RNA complement (minus strand),R-HSA-9685597,Ouput,Complex,UniProt:P0C6U8 1a,P0C6U8
+SARS-CoV-1 gRNA:RTC:nascent RNA minus strand binds RTC inhibitors,R-HSA-9687388,Ouput,Complex,UniProt:P0C6X7 rep,P0C6X7
+SARS-CoV-1 gRNA:RTC:nascent RNA minus strand binds RTC inhibitors,R-HSA-9687388,Ouput,Complex,UniProt:P0C6U8 1a,P0C6U8
+nsp12 misincorporates a nucleotide in nascent RNA minus strand,R-HSA-9682563,Ouput,SimpleEntity,UniProt:P0C6X7 rep,P0C6X7
+nsp12 misincorporates a nucleotide in nascent RNA minus strand,R-HSA-9682563,Ouput,SimpleEntity,UniProt:P0C6U8 1a,P0C6U8
+nsp12 misincorporates a nucleotide in nascent RNA minus strand,R-HSA-9682563,Ouput,Complex,UniProt:P0C6X7 rep,P0C6X7
+nsp12 misincorporates a nucleotide in nascent RNA minus strand,R-HSA-9682563,Ouput,Complex,UniProt:P0C6U8 1a,P0C6U8
+Replication transcription complex binds SARS-CoV-1 genomic RNA,R-HSA-9681314,Ouput,Complex,UniProt:P0C6X7 rep,P0C6X7
+Replication transcription complex binds SARS-CoV-1 genomic RNA,R-HSA-9681314,Ouput,Complex,UniProt:P0C6U8 1a,P0C6U8
+RTC completes synthesis of the minus strand genomic RNA complement,R-HSA-9682465,Ouput,EntityWithAccessionedSequence,UniProt:P0C6X7 rep,P0C6X7
+RTC completes synthesis of the minus strand genomic RNA complement,R-HSA-9682465,Ouput,EntityWithAccessionedSequence,UniProt:P0C6U8 1a,P0C6U8
+RTC completes synthesis of the minus strand genomic RNA complement,R-HSA-9682465,Ouput,SimpleEntity,UniProt:P0C6X7 rep,P0C6X7
+RTC completes synthesis of the minus strand genomic RNA complement,R-HSA-9682465,Ouput,SimpleEntity,UniProt:P0C6U8 1a,P0C6U8
+RTC completes synthesis of the minus strand genomic RNA complement,R-HSA-9682465,Ouput,Complex,UniProt:P0C6X7 rep,P0C6X7
+RTC completes synthesis of the minus strand genomic RNA complement,R-HSA-9682465,Ouput,Complex,UniProt:P0C6U8 1a,P0C6U8
+nsp16 acts as a cap 2'-O-methyltransferase to modify SARS-CoV-1 gRNA (plus strand),R-HSA-9684032,Ouput,EntityWithAccessionedSequence,null,null
+nsp16 acts as a cap 2'-O-methyltransferase to modify SARS-CoV-1 gRNA (plus strand),R-HSA-9684032,Ouput,SimpleEntity,null,null
+nsp13 helicase melts secondary structures in SARS-CoV-1 genomic RNA template,R-HSA-9682695,Ouput,SimpleEntity,UniProt:P0C6X7 rep,P0C6X7
+nsp13 helicase melts secondary structures in SARS-CoV-1 genomic RNA template,R-HSA-9682695,Ouput,SimpleEntity,UniProt:P0C6U8 1a,P0C6U8
+nsp13 helicase melts secondary structures in SARS-CoV-1 genomic RNA template,R-HSA-9682695,Ouput,Complex,UniProt:P0C6X7 rep,P0C6X7
+nsp13 helicase melts secondary structures in SARS-CoV-1 genomic RNA template,R-HSA-9682695,Ouput,Complex,UniProt:P0C6U8 1a,P0C6U8
+nsp13 binds DDX5,R-HSA-9682631,Ouput,Complex,UniProt:P17844 DDX5,P17844
+nsp13 binds DDX5,R-HSA-9682631,Ouput,Complex,UniProt:P0C6X7 rep,P0C6X7
+SARS coronavirus gRNA:RTC:RNA primer binds RTC inhibitors,R-HSA-9680262,Ouput,Complex,UniProt:P0C6X7 rep,P0C6X7
+SARS coronavirus gRNA:RTC:RNA primer binds RTC inhibitors,R-HSA-9680262,Ouput,Complex,UniProt:P0C6U8 1a,P0C6U8
+nsp14 acts as a 3'-to-5' exonuclease to remove misincorporated nucleotides from nascent RNA,R-HSA-9682603,Ouput,SimpleEntity,UniProt:P0C6X7 rep,P0C6X7
+nsp14 acts as a 3'-to-5' exonuclease to remove misincorporated nucleotides from nascent RNA,R-HSA-9682603,Ouput,SimpleEntity,UniProt:P0C6U8 1a,P0C6U8
+nsp14 acts as a 3'-to-5' exonuclease to remove misincorporated nucleotides from nascent RNA,R-HSA-9682603,Ouput,Complex,UniProt:P0C6X7 rep,P0C6X7
+nsp14 acts as a 3'-to-5' exonuclease to remove misincorporated nucleotides from nascent RNA,R-HSA-9682603,Ouput,Complex,UniProt:P0C6U8 1a,P0C6U8
+nsp12 synthesizes minus strand SARS-CoV-1 genomic RNA complement,R-HSA-9681674,Ouput,SimpleEntity,UniProt:P0C6X7 rep,P0C6X7
+nsp12 synthesizes minus strand SARS-CoV-1 genomic RNA complement,R-HSA-9681674,Ouput,SimpleEntity,UniProt:P0C6U8 1a,P0C6U8
+nsp12 synthesizes minus strand SARS-CoV-1 genomic RNA complement,R-HSA-9681674,Ouput,Complex,UniProt:P0C6X7 rep,P0C6X7
+nsp12 synthesizes minus strand SARS-CoV-1 genomic RNA complement,R-HSA-9681674,Ouput,Complex,UniProt:P0C6U8 1a,P0C6U8
+Polyadenylation of SARS-CoV-1 genomic RNA (plus strand),R-HSA-9685519,Ouput,SimpleEntity,null,null
+Polyadenylation of SARS-CoV-1 genomic RNA (plus strand),R-HSA-9685519,Ouput,EntityWithAccessionedSequence,null,null
+Polyadenylation of SARS-CoV-1 subgenomic mRNAs (plus strand),R-HSA-9685906,Ouput,SimpleEntity,null,null
+Polyadenylation of SARS-CoV-1 subgenomic mRNAs (plus strand),R-HSA-9685906,Ouput,DefinedSet,null,null
+Synthesis of SARS-CoV-1 plus strand subgenomic mRNAs,R-HSA-9685681,Ouput,SimpleEntity,null,null
+Synthesis of SARS-CoV-1 plus strand subgenomic mRNAs,R-HSA-9685681,Ouput,DefinedSet,null,null
+nsp16 acts as a cap 2'-O-methyltransferase to modify SARS-CoV-1 mRNAs,R-HSA-9684033,Ouput,SimpleEntity,null,null
+nsp16 acts as a cap 2'-O-methyltransferase to modify SARS-CoV-1 mRNAs,R-HSA-9684033,Ouput,DefinedSet,null,null
+nsp14 acts as a cap N7 methyltransferase to modify SARS-CoV-1 mRNAs,R-HSA-9684016,Ouput,SimpleEntity,null,null
+Synthesis of SARS-CoV-1 minus strand subgenomic mRNAs by template switching,R-HSA-9685639,Ouput,SimpleEntity,null,null
+Synthesis of SARS-CoV-1 minus strand subgenomic mRNAs by template switching,R-HSA-9685639,Ouput,DefinedSet,null,null
+Spike glycoprotein of SARS coronavirus binds ACE2 on host cell,R-HSA-9678128,Ouput,Complex,UniProt:P59596 M,P59596
+Spike glycoprotein of SARS coronavirus binds ACE2 on host cell,R-HSA-9678128,Ouput,Complex,UniProt:P59637 E,P59637
+Spike glycoprotein of SARS coronavirus binds ACE2 on host cell,R-HSA-9678128,Ouput,Complex,UniProt:P59594 S,P59594
+Spike glycoprotein of SARS coronavirus binds ACE2 on host cell,R-HSA-9678128,Ouput,Complex,UniProt:P59632 3a,P59632
+Spike glycoprotein of SARS coronavirus binds ACE2 on host cell,R-HSA-9678128,Ouput,Complex,UniProt:P59635 7a,P59635
+Spike glycoprotein of SARS coronavirus binds ACE2 on host cell,R-HSA-9678128,Ouput,Complex,UniProt:P59595 N,P59595
+Spike glycoprotein of SARS coronavirus binds ACE2 on host cell,R-HSA-9678128,Ouput,Complex,UniProt:Q9BYF1 ACE2,Q9BYF1
+Endocytois of SARS-CoV-1 Virion,R-HSA-9686711,Ouput,Complex,UniProt:P59596 M,P59596
+Endocytois of SARS-CoV-1 Virion,R-HSA-9686711,Ouput,Complex,UniProt:P59637 E,P59637
+Endocytois of SARS-CoV-1 Virion,R-HSA-9686711,Ouput,Complex,UniProt:P59594 S,P59594
+Endocytois of SARS-CoV-1 Virion,R-HSA-9686711,Ouput,Complex,UniProt:P59632 3a,P59632
+Endocytois of SARS-CoV-1 Virion,R-HSA-9686711,Ouput,Complex,UniProt:P59635 7a,P59635
+Endocytois of SARS-CoV-1 Virion,R-HSA-9686711,Ouput,Complex,UniProt:P59595 N,P59595
+Endocytois of SARS-CoV-1 Virion,R-HSA-9686711,Ouput,Complex,UniProt:Q9BYF1 ACE2,Q9BYF1
+CTSL bind teicoplanin,R-HSA-9685655,Ouput,Complex,UniProt:P07711 CTSL,P07711
+Cleavage of S protein into S1:S2,R-HSA-9686710,Ouput,Complex,UniProt:Q9BYF1 ACE2,Q9BYF1
+Cleavage of S protein into S1:S2,R-HSA-9686710,Ouput,Complex,UniProt:P59594 S,P59594
+Cleavage of S protein into S1:S2,R-HSA-9686710,Ouput,Complex,UniProt:P59596 M,P59596
+Cleavage of S protein into S1:S2,R-HSA-9686710,Ouput,Complex,UniProt:P59637 E,P59637
+Cleavage of S protein into S1:S2,R-HSA-9686710,Ouput,Complex,UniProt:P59632 3a,P59632
+Cleavage of S protein into S1:S2,R-HSA-9686710,Ouput,Complex,UniProt:P59635 7a,P59635
+Cleavage of S protein into S1:S2,R-HSA-9686710,Ouput,Complex,UniProt:P59595 N,P59595
+Cleavage of S protein into S1:S2,R-HSA-9686710,Ouput,EntityWithAccessionedSequence,UniProt:Q9BYF1 ACE2,Q9BYF1
+Cleavage of S protein into S1:S2,R-HSA-9686710,Ouput,EntityWithAccessionedSequence,UniProt:P59594 S,P59594
+Cleavage of S protein into S1:S2,R-HSA-9686710,Ouput,EntityWithAccessionedSequence,UniProt:P59596 M,P59596
+Cleavage of S protein into S1:S2,R-HSA-9686710,Ouput,EntityWithAccessionedSequence,UniProt:P59637 E,P59637
+Cleavage of S protein into S1:S2,R-HSA-9686710,Ouput,EntityWithAccessionedSequence,UniProt:P59632 3a,P59632
+Cleavage of S protein into S1:S2,R-HSA-9686710,Ouput,EntityWithAccessionedSequence,UniProt:P59635 7a,P59635
+Cleavage of S protein into S1:S2,R-HSA-9686710,Ouput,EntityWithAccessionedSequence,UniProt:P59595 N,P59595
+Uncoating of SARS-CoV-1 Genome,R-HSA-9686709,Ouput,EntityWithAccessionedSequence,UniProt:P59595 N,P59595
+Uncoating of SARS-CoV-1 Genome,R-HSA-9686709,Ouput,Complex,UniProt:P59595 N,P59595
+Fusion and Release of SARS-CoV-1 Nucleocapsid,R-HSA-9686699,Ouput,Complex,UniProt:P59594 S,P59594
+Fusion and Release of SARS-CoV-1 Nucleocapsid,R-HSA-9686699,Ouput,Complex,UniProt:P59596 M,P59596
+Fusion and Release of SARS-CoV-1 Nucleocapsid,R-HSA-9686699,Ouput,Complex,UniProt:P59637 E,P59637
+Fusion and Release of SARS-CoV-1 Nucleocapsid,R-HSA-9686699,Ouput,Complex,UniProt:P59632 3a,P59632
+Fusion and Release of SARS-CoV-1 Nucleocapsid,R-HSA-9686699,Ouput,Complex,UniProt:P59635 7a,P59635
+Fusion and Release of SARS-CoV-1 Nucleocapsid,R-HSA-9686699,Ouput,Complex,UniProt:P59595 N,P59595
+TMPRSS2 Mediated SARS-CoV-1 Spike Protein Cleavage and Endocytosis,R-HSA-9686731,Ouput,Complex,UniProt:P59594 S,P59594
+TMPRSS2 Mediated SARS-CoV-1 Spike Protein Cleavage and Endocytosis,R-HSA-9686731,Ouput,Complex,UniProt:P59596 M,P59596
+TMPRSS2 Mediated SARS-CoV-1 Spike Protein Cleavage and Endocytosis,R-HSA-9686731,Ouput,Complex,UniProt:P59637 E,P59637
+TMPRSS2 Mediated SARS-CoV-1 Spike Protein Cleavage and Endocytosis,R-HSA-9686731,Ouput,Complex,UniProt:P59632 3a,P59632
+TMPRSS2 Mediated SARS-CoV-1 Spike Protein Cleavage and Endocytosis,R-HSA-9686731,Ouput,Complex,UniProt:P59635 7a,P59635
+TMPRSS2 Mediated SARS-CoV-1 Spike Protein Cleavage and Endocytosis,R-HSA-9686731,Ouput,Complex,UniProt:P59595 N,P59595
+TMPRSS2 binds TMPRSS2 inhibitors,R-HSA-9681514,Ouput,Complex,UniProt:O15393 TMPRSS2,O15393

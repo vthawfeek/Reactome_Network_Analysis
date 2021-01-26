@@ -1,0 +1,1754 @@
+﻿Name,ref0.identifier
+GTP [ChEBI:15996],15996
+ATP(4-) [ChEBI:30616],30616
+ADP(3-) [ChEBI:456216],456216
+phosphatidylinositol 3-phosphate [ChEBI:26034],26034
+1-phosphatidyl-1D-myo-inositol [ChEBI:16749],16749
+phosphatidylethanolamine [ChEBI:16038],16038
+1-phosphatidyl-1D-myo-inositol 3-phosphate [ChEBI:17283],17283
+phosphate(3-) [ChEBI:18367],18367
+reactive oxygen species [ChEBI:26523],26523
+water [ChEBI:15377],15377
+phospholipid [ChEBI:16247],16247
+S-adenosyl-L-methionine [ChEBI:15414],15414
+S-adenosyl-L-homocysteine [ChEBI:16680],16680
+coenzyme A [ChEBI:15346],15346
+acetyl-CoA [ChEBI:15351],15351
+NAD(1-) [ChEBI:57540],57540
+2''-O-acetyl-ADP-D-ribose [ChEBI:76279],76279
+nicotinamide [ChEBI:17154],17154
+hydron [ChEBI:15378],15378
+GDP [ChEBI:17552],17552
+"1,2-diacyl-sn-glycerol 3-phosphate [ChEBI:29089]",29089
+"1,2-diacyl-sn-glycerol [ChEBI:17815]",17815
+calcium(2+) [ChEBI:29108],29108
+dioxygen [ChEBI:15379],15379
+2-oxoglutarate(2-) [ChEBI:16810],16810
+succinate(2-) [ChEBI:30031],30031
+carbon dioxide [ChEBI:16526],16526
+formaldehyde [ChEBI:16842],16842
+diphosphoric acid [ChEBI:29888],29888
+cytidine 5'-monophosphate [ChEBI:17361],17361
+guanosine 5'-monophosphate [ChEBI:17345],17345
+adenosine 5'-monophosphate [ChEBI:16027],16027
+uridine 5'-monophosphate [ChEBI:16695],16695
+CTP [ChEBI:17677],17677
+UTP [ChEBI:15713],15713
+dATP [ChEBI:16284],16284
+dGTP [ChEBI:16497],16497
+dCTP [ChEBI:16311],16311
+dTTP [ChEBI:18077],18077
+methanol [ChEBI:17790],17790
+hydrogen peroxide [ChEBI:16240],16240
+glutathione [ChEBI:16856],16856
+glutathione disulfide [ChEBI:17858],17858
+NADPH [ChEBI:16474],16474
+NADP(+) [ChEBI:18009],18009
+superoxide [ChEBI:18421],18421
+peroxynitrite [ChEBI:25941],25941
+nitrite [ChEBI:16301],16301
+zinc(2+) [ChEBI:29105],29105
+nitric oxide [ChEBI:16480],16480
+"P(1),P(4)-bis(5'-guanosyl) tetraphosphate [ChEBI:15883]",15883
+electron [ChEBI:10545],10545
+alpha-particle [ChEBI:30216],30216
+proton [ChEBI:24636],24636
+photon [ChEBI:30212],30212
+iron(2+) [ChEBI:29033],29033
+testosterone [ChEBI:17347],17347
+17beta-hydroxy-5alpha-androstan-3-one [ChEBI:16330],16330
+11-deoxycorticosterone [ChEBI:16973],16973
+cortisol [ChEBI:17650],17650
+aldosterone [ChEBI:27584],27584
+progesterone [ChEBI:17026],17026
+L-argininium(1+) [ChEBI:32682],32682
+L-leucine zwitterion [ChEBI:57427],57427
+ferriheme b [ChEBI:36144],36144
+arsenic(3+) [ChEBI:35828],35828
+cadmium(2+) [ChEBI:48775],48775
+copper(1+) [ChEBI:49552],49552
+copper(2+) [ChEBI:29036],29036
+ammonia [ChEBI:16134],16134
+acetate [ChEBI:30089],30089
+all-trans-retinoic acid [ChEBI:15367],15367
+keratan sulfate [ChEBI:60924],60924
+hexadecanoic acid [ChEBI:15756],15756
+"1-phosphatidyl-1D-myo-inositol 4,5-bisphosphate [ChEBI:18348]",18348
+diglyceride [ChEBI:18035],18035
+"1D-myo-inositol 1,4,5-trisphosphate [ChEBI:16595]",16595
+triglyceride [ChEBI:17855],17855
+carboxylic acid [ChEBI:33575],33575
+phosphate monoester [ChEBI:7794],7794
+alcohol [ChEBI:30879],30879
+long-chain fatty acid [ChEBI:15904],15904
+monoglyceride [ChEBI:17408],17408
+cholesteryl ester [ChEBI:17002],17002
+cholesterol [ChEBI:16113],16113
+all-trans-retinyl palmitate [ChEBI:17616],17616
+all-trans-retinol [ChEBI:17336],17336
+glycerol [ChEBI:17754],17754
+quercetin [ChEBI:16243],16243
+"2-(3,4-dihydroxybenzoyloxy)-4,6-dihydroxybenzoic acid [ChEBI:16068]",16068
+carbon monoxide [ChEBI:17245],17245
+isomaltose [ChEBI:28189],28189
+alpha-D-glucose [ChEBI:17925],17925
+lactose [ChEBI:17716],17716
+aldehydo-D-galactose [ChEBI:17118],17118
+maltose [ChEBI:17306],17306
+limit dextrin [ChEBI:28912],28912
+alpha-maltotriose [ChEBI:27931],27931
+sucrose [ChEBI:17992],17992
+D-fructose [ChEBI:15824],15824
+N-acetyl-beta-D-glucosaminyl-(1->4)-N-acetyl-beta-D-glucosaminyl group [ChEBI:86361],86361
+N-acetyl-beta-D-glucosaminyl-(1->4)-N-acetyl-beta-D-glucosaminyl-(1->4)-N-acetyl-beta-D-glucosaminyl group [ChEBI:86362],86362
+"alpha,alpha-trehalose [ChEBI:16551]",16551
+chitotriose [ChEBI:84373],84373
+2-amino-2-deoxy-D-glucopyranose [ChEBI:47977],47977
+sodium(1+) [ChEBI:29101],29101
+ezetimibe [ChEBI:49040],49040
+phytosterols [ChEBI:26125],26125
+"1-phosphatidyl-1D-myo-inositol 3,4,5-trisphosphate [ChEBI:16618]",16618
+"3',5'-cyclic AMP [ChEBI:17489]",17489
+glucocorticoid [ChEBI:24261],24261
+leukotriene C4 [ChEBI:16978],16978
+leukotriene D4 [ChEBI:28666],28666
+leukotriene E4 [ChEBI:15650],15650
+glycine zwitterion [ChEBI:57305],57305
+L-glutamate(1-) [ChEBI:29985],29985
+adenosine [ChEBI:16335],16335
+"1-phosphatidyl-1D-myo-inositol 3,4-bisphosphate [ChEBI:16152]",16152
+UDP [ChEBI:17659],17659
+CDP [ChEBI:17239],17239
+nucleoside triphosphate [ChEBI:17326],17326
+nucleoside diphosphate [ChEBI:16862],16862
+asbestos [ChEBI:46661],46661
+hyaluronic acid [ChEBI:16336],16336
+silicon dioxide [ChEBI:30563],30563
+NMN(-) [ChEBI:14649],14649
+N-ribosylnicotinamide [ChEBI:15927],15927
+2'-deoxyribonucleoside triphosphate [ChEBI:16516],16516
+myristoyl-CoA [ChEBI:15532],15532
+ganglioside GT1b [ChEBI:60913],60913
+alpha-N-acetylneuraminosyl-(2->3)-[beta-D-galactosyl-(1->3)-N-acetyl-beta-D-galactosaminyl-(1->4)]-beta-D-galactosyl-(1->4)-beta-D-glucosyl-(1<->1')-N-acylsphingosine [ChEBI:18216],18216
+alpha-Neu5NAc-(2->8)-alpha-Neu5NAc-(2->3)-beta-D-Gal-(1->4)-beta-D-Glc-(1<->1')-Cer [ChEBI:28424],28424
+beta-D-GalNAc-(1->4)-[alpha-Neu5Ac-(2->8)-alpha-Neu5Ac-(2->3)]-beta-D-Gal-(1->4)-beta-D-Glc-(1<->1')-Cer [ChEBI:28648],28648
+heparan sulfate proteoglycan [ChEBI:24499],24499
+sialic acid [ChEBI:26667],26667
+carboxymycobactin [ChEBI:62579],62579
+desferrimycobactin T [ChEBI:61168],61168
+iron(3+) [ChEBI:29034],29034
+mycothiol [ChEBI:16768],16768
+oxidonitrogen(1+) [ChEBI:29120],29120
+S-nitrosomycothiol [ChEBI:59637],59637
+nitrate [ChEBI:17632],17632
+NADH(2-) [ChEBI:57945],57945
+mycothione [ChEBI:16086],16086
+S-nitrosoglutathione [ChEBI:50091],50091
+5-L-glutamyl amino acid [ChEBI:15857],15857
+S-nitroso-L-cysteinylglycine [ChEBI:61088],61088
+F420(red.) [ChEBI:141635],141635
+nitrogen dioxide [ChEBI:33101],33101
+F420(ox.) [ChEBI:141634],141634
+alpha-D-glucose 6-phosphate(2-) [ChEBI:58225],58225
+"6-O-phosphono-D-glucono-1,5-lactone [ChEBI:16938]",16938
+lipoarabinomannan [ChEBI:59524],59524
+ADP-D-ribose [ChEBI:16960],16960
+heparan sulfate [ChEBI:28815],28815
+biotin [ChEBI:15956],15956
+biocytin [ChEBI:27870],27870
+cobamamide [ChEBI:18408],18408
+cob(III)alamin [ChEBI:28911],28911
+cyanocob(III)alamin [ChEBI:17439],17439
+(R)-methylmalonyl-CoA [ChEBI:15465],15465
+cob(I)alamin [ChEBI:15982],15982
+5-methyltetrahydrofolic acid [ChEBI:15641],15641
+homocysteine [ChEBI:17230],17230
+UDP-alpha-D-glucuronic acid [ChEBI:17200],17200
+bilirubin IXalpha [ChEBI:16990],16990
+mono(glucosyluronic acid)bilirubin [ChEBI:16427],16427
+17beta-estradiol [ChEBI:16469],16469
+L-gamma-glutamyl-L-cysteine [ChEBI:17515],17515
+Aflatoxin B1 endo-N-acetylcysteine conjugate [ChEBI:78580],78580
+Aflatoxin B1 exo-N-acetylcysteine conjugate [ChEBI:78585],78585
+9-cis-retinoic acid [ChEBI:50648],50648
+"(5Z,9E,12S,14Z)-8,11,12-trihydroxyicosa-5,9,14-trienoic acid [ChEBI:15630]",15630
+purine-6-thiol [ChEBI:2208],2208
+5-oxo-L-proline [ChEBI:18183],18183
+L-cysteine zwitterion [ChEBI:35235],35235
+"(24S)-5beta-cholestane-3alpha,7alpha,24-triol [ChEBI:63831]",63831
+"5beta-cholestane-3alpha,7alpha,12alpha-triol [ChEBI:16496]",16496
+trimethylamine [ChEBI:18139],18139
+11-deoxycortisol [ChEBI:28324],28324
+UDP-N-acetyl-alpha-D-glucosamine [ChEBI:16264],16264
+calcitriol [ChEBI:17823],17823
+arachidonic acid [ChEBI:15843],15843
+corticosterone [ChEBI:16827],16827
+18-hydroxycorticosterone [ChEBI:16485],16485
+calcidiol [ChEBI:17933],17933
+serotonin [ChEBI:28790],28790
+25-hydroxycholesterol [ChEBI:42977],42977
+prostaglandin H2 [ChEBI:15554],15554
+Aflatoxin B1 endo glutathione conjugate [ChEBI:78581],78581
+Aflatoxin B1 exo glutathione conjugate [ChEBI:78587],78587
+"(20R,22R)-20,22-dihydroxycholesterol [ChEBI:1294]",1294
+calciol [ChEBI:28940],28940
+L-methionine zwitterion [ChEBI:57844],57844
+"androst-4-ene-3,17-dione [ChEBI:16422]",16422
+pregnenolone [ChEBI:16581],16581
+17alpha-hydroxyprogesterone [ChEBI:17252],17252
+L-glutamine zwitterion [ChEBI:58359],58359
+beta-D-fructofuranose 6-phosphate(2-) [ChEBI:57634],57634
+alpha-N-acetylneuraminyl-(2->3)-D-galactosyl group [ChEBI:75127],75127
+alpha-N-acetylneuraminyl-(2->8)-alpha-N-acetylneuraminyl group [ChEBI:75130],75130
+alpha-N-acetylneuraminyl-(2->6)-D-galactosyl group [ChEBI:75129],75129
+alpha-N-acetylneuraminyl-(2->6)-N-acetyl-alpha-D-galactosaminyl group [ChEBI:62634],62634
+dolichyl diphosphate [ChEBI:15750],15750
+GDP-alpha-D-mannose [ChEBI:15820],15820
+UDP-D-galactose [ChEBI:18307],18307
+aldehydo-N-acetyl-D-mannosamine [ChEBI:17122],17122
+UDP-D-glucose [ChEBI:18066],18066
+alpha-D-galactose 1-phosphate [ChEBI:17973],17973
+"2-trans,6-trans-farnesyl diphosphate [ChEBI:17407]",17407
+isopentenyl diphosphate [ChEBI:16584],16584
+"ditrans,polycis-polyprenol [ChEBI:67132]",67132
+dolichol [ChEBI:16091],16091
+D-mannose 6-phosphate [ChEBI:17369],17369
+CMP-N-acetyl-beta-neuraminic acid [ChEBI:16556],16556
+5'-adenylyl sulfate [ChEBI:17709],17709
+sulfate [ChEBI:16189],16189
+beta-D-GlcpNAc-(1->3)-beta-D-Galp-(1->4)-beta-D-GlcpNAc6S-(1->3)-D-Galp [ChEBI:63852],63852
+beta-D-GalNAc-(1->4)-beta-D-IdoA-(1->3)-beta-D-GalNAc4S-(1->4)-beta-D-GlcA-(1->3)-beta-D-Gal-(1->3)-beta-D-Gal-(1->4)-beta-D-Xyl-yl group [ChEBI:63516],63516
+3'-phospho-5'-adenylyl sulfate [ChEBI:17980],17980
+UDP-N-acetyl-D-galactosamine [ChEBI:16650],16650
+dolichyl D-mannosyl phosphate [ChEBI:15809],15809
+D-glucuronate [ChEBI:15748],15748
+UDP-alpha-D-xylose [ChEBI:16082],16082
+beta-D-mannosyldiacetylchitobiosyldiphosphodolichol [ChEBI:18396],18396
+alpha-Man-(1->2)-alpha-Man-(1->2)-alpha-Man-(1->3)-[alpha-Man-(1->2)-alpha-Man-(1->3)-alpha-Man-(1->6)]-beta-Man-(1->4)-beta-GlcNAc-(1->4)-alpha-GlcNAc(PP-Dol) [ChEBI:59088],59088
+diacetylchitobiosyldiphosphodolichol [ChEBI:18341],18341
+N-glycan [ChEBI:59520],59520
+dolichyl beta-D-glucosyl phosphate [ChEBI:15812],15812
+alpha-Man-(1->2)-alpha-Man-(1->2)-alpha-Man-(1->3)-[alpha-Man-(1->2)-alpha-Man-(1->3)-[alpha-Man-(1->2)-alpha-Man-(1->6)]-alpha-Man-(1->6)]-beta-Man-(1->4)-beta-GlcNAc-(1->4)-alpha-GlcNAc(PP-Dol) [ChEBI:37637],37637
+dolichyl phosphate [ChEBI:16214],16214
+N(4)-{beta-D-GlcNAc-(1->2)-alpha-D-Man-(1->3)-[alpha-D-Man-(1->6)]-beta-D-Man-(1->4)-beta-D-GlcNAc-(1->4)-beta-D-GlcNAc}-Asn residue [ChEBI:60615],60615
+alpha-Gal-(1->3)-alpha-Glc-(1->3)-alpha-Man-(1->2)-alpha-Man-(1->2)-alpha-Man-(1->3)-[alpha-Man-(1->2)-alpha-Man-(1->3)-[alpha-Man-(1->2)-alpha-Man-(1->6)]-alpha-Man-(1->6)]-beta-Man-(1->4)-beta-GlcNAc-(1->4)-alpha-GlcNAc(PP-Dol) [ChEBI:59081],59081
+alpha-Man-(1->2)-alpha-Man-(1->2)-alpha-Man-(1->3)-[alpha-Man-(1->6)-[alpha-Man-(1->2)-alpha-Man-(1->3)]-alpha-Man-(1->6)]-beta-Man-(1->4)-beta-GlcNAc-(1->4)-alpha-GlcNAc(PP-Dol) [ChEBI:59091],59091
+glycan G10595 [ChEBI:53023],53023
+glycan G00006 [ChEBI:53022],53022
+alpha-D-Man-(1->3)-[alpha-D-Man-(1->6)]-beta-D-Man-(1->4)-beta-D-GlcNAc-(1->4)-2-alpha-D-GlcNAc(PP-Dol) [ChEBI:53742],53742
+N-acetyl-D-glucosaminyldiphosphodolichol [ChEBI:18278],18278
+(R)-2-hydroxyglutaric acid [ChEBI:32796],32796
+L-phenylalanine zwitterion [ChEBI:58095],58095
+"5,6,7,8-tetrahydrobiopterin [ChEBI:15372]",15372
+L-xylulose [ChEBI:17399],17399
+beta-D-GlcpNAc6S-(1->3)-beta-D-Galp-(1->4)-beta-D-GlcpNAc6S-(1->3)-D-Galp [ChEBI:63851],63851
+alpha-D-GlcNS3S-(1->4)-beta-D-GlcA-(1->3)-beta-D-Gal-(1->3)-beta-D-Gal-(1->4)-beta-D-Xyl-yl group [ChEBI:63810],63810
+alpha-D-GlcNS6S-(1->4)-beta-D-IdoA2S-(1->4)-alpha-D-GlcNS3S-(1->4)-beta-D-GlcA-(1->3)-beta-D-Gal-(1->3)-beta-D-Gal-(1->4)-beta-D-Xyl-yl group [ChEBI:63805],63805
+alpha-D-GlcN-(1->4)-beta-D-IdoA2S-(1->4)-alpha-D-GlcNS3S-(1->4)-beta-D-GlcA-(1->3)-beta-D-Gal-(1->3)-beta-D-Gal-(1->4)-beta-D-Xyl-yl group [ChEBI:63806],63806
+alpha-D-GlcN-(1->4)-beta-D-GlcA-(1->3)-beta-D-Gal-(1->3)-beta-D-Gal-(1->4)-beta-D-Xyl-yl group [ChEBI:63811],63811
+beta-D-Galp6S-(1->4)-beta-D-GlcpNAc6S-(1->3)-beta-D-Galp-(1->4)-beta-D-GlcpNAc6S-(1->3)-D-Galp [ChEBI:63846],63846
+beta-D-Gal-(1->3)-beta-D-Gal-(1->4)-beta-D-Xyl-yl group [ChEBI:63503],63503
+beta-D-Galp-(1->4)-beta-D-GlcpNAc6S-(1->3)-beta-D-Galp-(1->4)-beta-D-GlcpNAc6S-(1->3)-D-Galp [ChEBI:63850],63850
+beta-D-GlcpA-(1->3)-D-GlcpNAc [ChEBI:64024],64024
+beta-D-GlcA-(1->3)-beta-D-Gal-(1->3)-beta-D-Gal-(1->4)-beta-D-Xyl-yl group [ChEBI:63505],63505
+beta-D-GalNAc-(1->4)-beta-D-IdoA2S-(1->3)-beta-D-GalNAc4S-(1->4)-beta-D-GlcA-(1->3)-beta-D-Gal-(1->3)-beta-D-Gal-(1->4)-beta-D-Xyl-yl group [ChEBI:63517],63517
+beta-D-IdoA2S-(1->4)-alpha-D-GlcNS3S-(1->4)-beta-D-GlcA-(1->3)-beta-D-Gal-(1->3)-beta-D-Gal-(1->4)-beta-D-Xyl-yl group [ChEBI:63808],63808
+beta-D-GalNAc-(1->4)-beta-D-GlcA-(1->3)-beta-D-GalNAc6S-(1->4)-beta-D-GlcA-(1->3)-beta-D-Gal-(1->3)-beta-D-Gal-(1->4)-beta-D-Xyl-yl group [ChEBI:63512],63512
+beta-D-GalNAc-(1->4)-beta-D-GlcA-(1->3)-beta-D-GalNAc4S-(1->4)-beta-D-GlcA-(1->3)-beta-D-Gal-(1->3)-beta-D-Gal-(1->4)-beta-D-Xyl-yl group [ChEBI:63513],63513
+"beta-D-GalNAc-(1->4)-beta-D-GlcA-(1->3)-beta-D-GalNAc4,6S2-(1->4)-beta-D-GlcA-(1->3)-beta-D-Gal-(1->3)-beta-D-Gal-(1->4)-beta-D-Xyl-yl group [ChEBI:63515]",63515
+beta-D-GalNAc-(1->4)-beta-D-GlcA-(1->3)-beta-D-GalNAc-(1->4)-beta-D-GlcA-(1->3)-beta-D-Gal-(1->3)-beta-D-Gal-(1->4)-beta-D-Xyl-yl group [ChEBI:63511],63511
+alpha-D-GlcNAc-(1->4)-beta-D-IdoA2S-(1->4)-alpha-D-GlcNS3S-(1->4)-beta-D-GlcA-(1->3)-beta-D-Gal-(1->3)-beta-D-Gal-(1->4)-beta-D-Xyl-yl group [ChEBI:63807],63807
+alpha-D-GlcNAc-(1->4)-beta-D-GlcA-(1->3)-beta-D-Gal-(1->3)-beta-D-Gal-(1->4)-beta-D-Xyl-yl group [ChEBI:63645],63645
+beta-D-GalNAc4S-(1->4)-beta-D-IdoA2S-(1->3)-beta-D-GalNAc4S-(1->4)-beta-D-GlcA-(1->3)-beta-D-Gal-(1->3)-beta-D-Gal-(1->4)-beta-D-Xyl-yl group [ChEBI:63519],63519
+beta-D-IdopA-(1->3)-beta-D-GalpNAc4S-(1->4)-beta-D-GlcpA-(1->3)-beta-D-Galp-(1->3)-beta-D-Galp-(1->4)-beta-D-Xylp [ChEBI:63873],63873
+beta-D-IdoA-(1->4)-alpha-D-GlcNS3S-(1->4)-beta-D-GlcA-(1->3)-beta-D-Gal-(1->3)-beta-D-Gal-(1->4)-beta-D-Xyl-yl group [ChEBI:63809],63809
+beta-D-IdoA-(1->4)-alpha-D-GlcNS6S-(1->4)-beta-D-IdoA2S-(1->4)-alpha-D-GlcNS3S-(1->4)-beta-D-GlcA-(1->3)-beta-D-Gal-(1->3)-beta-D-Gal-(1->4)-beta-D-Xyl-yl group [ChEBI:63666],63666
+keto-D-fructose 1-phosphate [ChEBI:18105],18105
+D-erythrose 4-phosphate(2-) [ChEBI:16897],16897
+D-ribulose 5-phosphate [ChEBI:17363],17363
+D-glyceraldehyde 3-phosphate(2-) [ChEBI:59776],59776
+sedoheptulose 7-phosphate [ChEBI:15721],15721
+D-ribose 5-phosphate [ChEBI:78679],78679
+hydrogenphosphate [ChEBI:43474],43474
+"1,2-diacyl-sn-glycero-3-phosphocholine(1+) [ChEBI:16110]",16110
+phosphatidylglycerol [ChEBI:17517],17517
+oleoyl group [ChEBI:25667],25667
+linoleoyl group [ChEBI:32386],32386
+stearoyl group [ChEBI:26753],26753
+palmitoyl group [ChEBI:45021],45021
+11-cis-retinal [ChEBI:16066],16066
+all-trans-retinal [ChEBI:17898],17898
+N-retinylidenephosphatidylethanolamine [ChEBI:71063],71063
+N-retinylidene-N-retinylethanolamine [ChEBI:71980],71980
+N-retinylidene-N-retinylphosphatidylethanolamine [ChEBI:52592],52592
+phosphatidic acid [ChEBI:16337],16337
+lipid [ChEBI:18059],18059
+potassium(1+) [ChEBI:29103],29103
+glycocholic acid [ChEBI:17687],17687
+glycochenodeoxycholic acid [ChEBI:36274],36274
+taurochenodeoxycholic acid [ChEBI:16525],16525
+taurocholic acid [ChEBI:28865],28865
+bis(beta-glucosyluronic acid)bilirubin [ChEBI:18392],18392
+organic anion [ChEBI:25696],25696
+chloride [ChEBI:17996],17996
+porphyrin [ChEBI:8337],8337
+iodide [ChEBI:16382],16382
+L-proline zwitterion [ChEBI:60039],60039
+L-alanine zwitterion [ChEBI:57972],57972
+L-tryptophan zwitterion [ChEBI:57912],57912
+L-isoleucine zwitterion [ChEBI:58045],58045
+L-histidinium(1+) [ChEBI:32513],32513
+L-serine zwitterion [ChEBI:33384],33384
+beta-alanine [ChEBI:16958],16958
+L-lysinium(1+) [ChEBI:32551],32551
+L-valine zwitterion [ChEBI:57762],57762
+prostaglandin F2alpha [ChEBI:15553],15553
+prostaglandin E1 [ChEBI:15544],15544
+prostaglandin D2 [ChEBI:15555],15555
+prostaglandin E2 [ChEBI:15551],15551
+hydrogencarbonate [ChEBI:17544],17544
+carnitine [ChEBI:17126],17126
+ammonium [ChEBI:28938],28938
+"7,9-dihydro-1H-purine-2,6,8(3H)-trione [ChEBI:17775]",17775
+L-tyrosine zwitterion [ChEBI:58315],58315
+choline [ChEBI:15354],15354
+chloroquine [ChEBI:3638],3638
+quinidine [ChEBI:28593],28593
+L-aspartate(1-) [ChEBI:29991],29991
+D-aspartic acid [ChEBI:17364],17364
+pyruvate [ChEBI:15361],15361
+(S)-lactic acid [ChEBI:422],422
+acetoacetic acid [ChEBI:15344],15344
+3-hydroxybutyrate [ChEBI:37054],37054
+inosine [ChEBI:17596],17596
+uridine [ChEBI:16704],16704
+guanosine [ChEBI:16750],16750
+cytidine [ChEBI:17562],17562
+thymidine [ChEBI:17748],17748
+adenine [ChEBI:16708],16708
+N-acetylneuraminic acid [ChEBI:17012],17012
+L-cystine [ChEBI:16283],16283
+GDP-L-fucose [ChEBI:17009],17009
+dopamine [ChEBI:18243],18243
+(R)-noradrenaline [ChEBI:18357],18357
+decanoic acid [ChEBI:30813],30813
+magnesium distearate [ChEBI:9254],9254
+icosanoic acid [ChEBI:28822],28822
+tetradecanoic acid [ChEBI:28875],28875
+dodecanoic acid [ChEBI:30805],30805
+tetracosanoic acid [ChEBI:28866],28866
+linoleic acid [ChEBI:17351],17351
+oleic acid [ChEBI:16196],16196
+acetaldehyde [ChEBI:15343],15343
+N(6)-methyladenosine [ChEBI:21891],21891
+ribonucleoside triphosphate [ChEBI:17972],17972
+8-oxoguanine [ChEBI:44605],44605
+5-guanidinohydantoin [ChEBI:142614],142614
+spiroiminodihydantoin [ChEBI:142623],142623
+3-methyladenine [ChEBI:38635],38635
+hypoxanthine [ChEBI:17368],17368
+"1H-imidazo[2,1-i]purine [ChEBI:29146]",29146
+"2,6-diamino-5-formamido-4-hydroxypyrimidine [ChEBI:29145]",29145
+uracil [ChEBI:17568],17568
+5-hydroxyuracil [ChEBI:29115],29115
+thymine glycol [ChEBI:29128],29128
+thymine [ChEBI:17821],17821
+"5,6-dihydrouracil [ChEBI:15901]",15901
+cytosine glycol [ChEBI:29127],29127
+"4,6-diamino-5-formamidopyrimidine [ChEBI:27983]",27983
+"3,N(4)-ethenocytosine [ChEBI:29147]",29147
+phospho sugar [ChEBI:33447],33447
+ADP-D-ribose(2-) [ChEBI:57967],57967
+galactosylceramide sulfate [ChEBI:18318],18318
+magnesium(2+) [ChEBI:18420],18420
+erythro-5-phosphonooxy-L-lysine [ChEBI:16752],16752
+L-allysine [ChEBI:17917],17917
+heparins [ChEBI:24505],24505
+chondroitin sulfate [ChEBI:37397],37397
+manganese(2+) [ChEBI:29035],29035
+hydroxylapatite [ChEBI:52255],52255
+acetic acid [ChEBI:15366],15366
+"beta-D-fructofuranose 2,6-bisphosphate [ChEBI:28602]",28602
+semiquinone [ChEBI:15817],15817
+"1,2-Naphthoquinone [ChEBI:34055]",34055
+1-phosphatidyl-1D-myo-inositol 5-phosphate [ChEBI:16500],16500
+5-formylcytosine [ChEBI:76794],76794
+L-ascorbate [ChEBI:38290],38290
+5-carboxycytosine [ChEBI:76793],76793
+single-stranded DNA [ChEBI:9160],9160
+"1D-myo-inositol 3,4,5,6-tetrakisphosphate [ChEBI:15844]",15844
+"myo-inositol 1,3,4,5,6-pentakisphosphate [ChEBI:16322]",16322
+"1D-myo-inositol 1,3,4-trisphosphate [ChEBI:18228]",18228
+"1D-myo-inositol 1,3,4,5-tetrakisphosphate [ChEBI:16783]",16783
+"myo-inositol 1,3,4,6-tetrakisphosphate [ChEBI:16155]",16155
+thromboxane A2 [ChEBI:15627],15627
+phosphatidyl-L-serine [ChEBI:18303],18303
+(R)-adrenaline [ChEBI:28918],28918
+2-arachidonoylglycerol [ChEBI:52392],52392
+fatty acid [ChEBI:35366],35366
+3-arachidonoyl-sn-glycerol [ChEBI:75571],75571
+2-O-acetyl-1-O-octadecyl-sn-glycero-3-phosphocholine [ChEBI:52450],52450
+1-octadecylglycero-3-phosphocholine [ChEBI:91144],91144
+prostaglandin I2 [ChEBI:15552],15552
+L-citrulline [ChEBI:16349],16349
+"3',5'-cyclic GMP [ChEBI:16356]",16356
+glycosaminoglycan [ChEBI:18085],18085
+9-O-acetylneuraminic acid [ChEBI:28879],28879
+ceramide [ChEBI:17761],17761
+oligopeptide [ChEBI:25676],25676
+L-alpha-amino acid zwitterion [ChEBI:59869],59869
+peptide [ChEBI:16670],16670
+lipopolysaccharide [ChEBI:16412],16412
+resiquimod [ChEBI:36706],36706
+imiquimod [ChEBI:36704],36704
+triacyl lipopeptide [ChEBI:60192],60192
+lipoteichoic acid [ChEBI:28640],28640
+diacyl lipopeptide [ChEBI:46896],46896
+peptidoglycan [ChEBI:8005],8005
+oxidised phospholipid [ChEBI:60156],60156
+N-acetyl-beta-D-glucosamine [ChEBI:28009],28009
+(1->3)-beta-D-glucan [ChEBI:37671],37671
+N-acetyl-alpha-D-galactosamine [ChEBI:40356],40356
+D-fucose [ChEBI:28847],28847
+muramyl dipeptide [ChEBI:59414],59414
+deoxyribonucleic acid [ChEBI:16991],16991
+gamma-D-glutamyl-meso-diaminopimelic acid [ChEBI:59271],59271
+ADP-L-glycero-D-manno-heptose [ChEBI:15915],15915
+nitrous acid [ChEBI:25567],25567
+dinitrogen trioxide [ChEBI:29799],29799
+nitrosoperoxycarbonate(1-) [ChEBI:62726],62726
+hypochlorous acid [ChEBI:24757],24757
+nitryl chloride [ChEBI:142774],142774
+thiocyanate [ChEBI:18022],18022
+hypothiocyanous acid [ChEBI:133907],133907
+ferroheme b [ChEBI:17627],17627
+hydroxyl [ChEBI:29191],29191
+2'-deoxyguanosine [ChEBI:17172],17172
+2'-deoxyadenosine [ChEBI:17256],17256
+"8,5'-cyclo-2'-deoxyadenosine [ChEBI:131825]",131825
+hydroperoxyl [ChEBI:25935],25935
+hydroxide [ChEBI:16234],16234
+beta-GlcNAc-(1->4)-MurNAc-L-Ala-gamma-D-Glu-L-Lys-(D-Ala)2 [ChEBI:55424],55424
+carbonate [ChEBI:41609],41609
+L-alanyl-gamma-D-glutamyl-L-lysyl-D-alanine [ChEBI:61626],61626
+L-glycero-alpha-D-manno-heptopyranose [ChEBI:42976],42976
+beta-D-galactofuranosyl group [ChEBI:59496],59496
+3-deoxy-alpha-D-manno-oct-2-ulosonate [ChEBI:85986],85986
+anionic phospholipid [ChEBI:62643],62643
+lipid II [ChEBI:27692],27692
+1-O-acyl-sn-glycero-3-phosphocholine(1+) [ChEBI:17504],17504
+"trehalose 6,6'-dimycolate [ChEBI:82624]",82624
+mannan [ChEBI:28808],28808
+2'-deoxycytosine 5'-monophosphate [ChEBI:15918],15918
+dTMP [ChEBI:17013],17013
+2'-deoxyadenosine 5'-monophosphate [ChEBI:17713],17713
+2'-deoxyguanosine 5'-monophosphate [ChEBI:16192],16192
+c-GMP-AMP [ChEBI:71580],71580
+c-di-GMP [ChEBI:49537],49537
+cyclic purine dinucleotide [ChEBI:47037],47037
+"1-diphospho-1D-myo-inositol 2,3,4,5,6-pentakisphosphate [ChEBI:62919]",62919
+"3-diphospho-1D-myo-inositol 1,2,4,5,6-pentakisphosphate [ChEBI:62922]",62922
+myo-inositol hexakisphosphate [ChEBI:17401],17401
+"1,5-bis(diphospho)-1D-myo-inositol 2,3,4,6-tetrakisphosphate [ChEBI:62923]",62923
+"3,5-bis(diphospho)-1D-myo-inositol 1,2,4,6-tetrakisphosphate [ChEBI:62924]",62924
+5-diphospho-1D-myo-inositol pentakisphosphate [ChEBI:30164],30164
+"1-diphospho-1D-myo-inositol 3,4,5,6-tetrakisphosphate [ChEBI:62926]",62926
+"5-diphospho-myo-inositol 1,3,4,6-tetrakisphosphate [ChEBI:62928]",62928
+"3-diphospho-1D-myo-inositol 1,4,5,6-tetrakisphosphate [ChEBI:62927]",62927
+"1,5-bis(diphospho)-1D-myo-inositol 3,4,6-trisphosphate [ChEBI:62931]",62931
+"5-triphospho-1D-myo-inositol 1,2,3,4,6-pentakisphosphate [ChEBI:62985]",62985
+"1D-myo-inositol 1,2,4,5,6-pentakisphosphate [ChEBI:16507]",16507
+"1D-myo-inositol 1,4,5,6-tetrakisphosphate [ChEBI:16067]",16067
+myo-inositol [ChEBI:17268],17268
+"1D-myo-inositol 1,4-bisphosphate [ChEBI:17816]",17816
+1D-myo-inositol 1-phosphate [ChEBI:18297],18297
+"myo-inositol 1,3-bisphosphate [ChEBI:18225]",18225
+1D-myo-inositol 4-phosphate [ChEBI:18384],18384
+D-glucopyranose 6-phosphate [ChEBI:4170],4170
+1D-myo-inositol 3-phosphate [ChEBI:18169],18169
+"1D-myo-inositol 3,4-bisphosphate [ChEBI:28858]",28858
+"1D-myo-inositol 3,4,6-trisphosphate [ChEBI:62918]",62918
+rosiglitazone [ChEBI:50122],50122
+pentadecanoic acid [ChEBI:42504],42504
+palmitoyl-CoA [ChEBI:15525],15525
+diphosphate(3-) [ChEBI:33019],33019
+acetylcholine [ChEBI:15355],15355
+D-xylulose 5-phosphate(2-) [ChEBI:57737],57737
+succinyl-CoA(5-) [ChEBI:57292],57292
+5-ammoniolevulinate [ChEBI:356416],356416
+uroporphyrinogen I [ChEBI:28766],28766
+coproporphyrinogen I [ChEBI:28607],28607
+heme o [ChEBI:24480],24480
+heme a [ChEBI:24479],24479
+protoporphyrinogen [ChEBI:15435],15435
+protoporphyrin [ChEBI:15430],15430
+coproporphyrinogen III [ChEBI:15439],15439
+preuroporphyrinogen(8-) [ChEBI:57845],57845
+uroporphyrinogen III [ChEBI:15437],15437
+lead(0) [ChEBI:27889],27889
+porphobilinogen(1-) [ChEBI:58126],58126
+electron acceptor [ChEBI:17654],17654
+D-Urobilinogen [ChEBI:4260],4260
+biliverdin [ChEBI:17033],17033
+stercobilin [ChEBI:26756],26756
+urobilin [ChEBI:36378],36378
+fatty acyl-CoA [ChEBI:37554],37554
+alkylglycerol [ChEBI:52575],52575
+fatty aldehyde [ChEBI:35746],35746
+"D-erythro-7,8-dihydrobiopterin [ChEBI:15375]",15375
+acyl-CoA [ChEBI:17984],17984
+2-monoglyceride [ChEBI:17389],17389
+sn-glycerol 3-phosphate [ChEBI:15978],15978
+1-acyl-sn-glycerol 3-phosphate [ChEBI:16975],16975
+hexadecanoate [ChEBI:7896],7896
+long-chain fatty acid anion [ChEBI:57560],57560
+FAD [ChEBI:16238],16238
+glycerone phosphate(2-) [ChEBI:57642],57642
+FADH2 [ChEBI:17877],17877
+calcitroic acid [ChEBI:47828],47828
+"cholesta-5,7-dien-3beta-ol [ChEBI:17759]",17759
+cortisone [ChEBI:16962],16962
+17alpha-hydroxypregnenolone [ChEBI:28750],28750
+"17alpha-hydroxypregn-5-ene-3,20-dione [ChEBI:63843]",63843
+dehydroepiandrosterone [ChEBI:28689],28689
+estrone [ChEBI:17263],17263
+formic acid [ChEBI:30751],30751
+"pregn-5-ene-3,20-dione [ChEBI:63837]",63837
+(22S)-22-hydroxycholesterol [ChEBI:1301],1301
+4-methylpentanal [ChEBI:17998],17998
+4-methylpentan-1-ol [ChEBI:63910],63910
+cholic acid [ChEBI:16359],16359
+chenodeoxycholic acid [ChEBI:16755],16755
+taurochenodeoxycholate [ChEBI:9407],9407
+lithocholic acid [ChEBI:16325],16325
+deoxycholic acid [ChEBI:28834],28834
+choloyl-CoA [ChEBI:15519],15519
+chenodeoxycholoyl-CoA [ChEBI:28701],28701
+taurine [ChEBI:15891],15891
+"7alpha,25-dihydroxycholesterol [ChEBI:37623]",37623
+1-phosphatidyl-1D-myo-inositol 4-phosphate [ChEBI:17526],17526
+"3alpha,7alpha-dihydroxy-24-oxo-5beta-cholestan-26-oyl-CoA [ChEBI:28533]",28533
+propionyl-CoA [ChEBI:15539],15539
+"3alpha,7alpha-dihydroxy-5beta-cholest-24-enoyl-CoA [ChEBI:27393]",27393
+"3alpha,7alpha,24-trihydroxy-5beta-cholestan-26-oyl-CoA [ChEBI:27403]",27403
+"3alpha,7alpha-dihydroxy-5beta-cholestan-26-oic acid [ChEBI:16577]",16577
+"3alpha,7alpha-dihydroxy-5beta-cholestan-26-oyl-CoA [ChEBI:15494]",15494
+"5beta-cholestane-3alpha,7alpha,12alpha,26-tetrol [ChEBI:17278]",17278
+"3alpha,7alpha,12alpha-trihydroxy-5beta-cholestan-26-oic acid [ChEBI:18402]",18402
+"(25R)-3alpha,7alpha,12alpha-trihydroxy-5beta-cholestan-26-oyl-CoA [ChEBI:37642]",37642
+"(25S)-3alpha,7alpha,12alpha-trihydroxy-5beta-cholestanoyl-CoA [ChEBI:37643]",37643
+"3alpha,7alpha-dihydroxy-5beta-cholestan-26-al [ChEBI:27428]",27428
+"3alpha,7alpha,12alpha-trihydroxy-5beta-cholestan-26-al [ChEBI:16466]",16466
+"5beta-cholestane-3alpha,7alpha-diol [ChEBI:28047]",28047
+"5beta-cholestane-3alpha,7alpha,26-triol [ChEBI:28540]",28540
+7alpha-hydroxycholesterol [ChEBI:17500],17500
+"(24R,25R)-3alpha,7alpha,12alpha,24-tetrahydroxy-5beta-cholestan-26-oyl-CoA [ChEBI:52050]",52050
+"3alpha,7alpha,12alpha-trihydroxy-24-oxo-5beta-cholestan-26-oyl-CoA [ChEBI:27379]",27379
+"7alpha,12alpha-dihydroxy-5beta-cholestan-3-one [ChEBI:2288]",2288
+7alpha-hydroxycholest-4-en-3-one [ChEBI:17899],17899
+7alpha-hydroxy-5beta-cholestan-3-one [ChEBI:2290],2290
+"7alpha,12alpha-dihydroxycholest-4-en-3-one [ChEBI:28477]",28477
+"3alpha,7alpha,12alpha-trihydroxy-5beta-cholest-24-en-26-oyl-CoA [ChEBI:27505]",27505
+"(24S)-7alpha,24-dihydroxycholesterol [ChEBI:37640]",37640
+"(24S)-7alpha,24-dihydroxycholest-4-en-3-one [ChEBI:63838]",63838
+(24S)-24-hydroxycholesterol [ChEBI:34310],34310
+"(24S)-3alpha,7alpha,12alpha,24-tetrahydroxy-5beta-cholestan-26-oate [ChEBI:63824]",63824
+"3alpha,7alpha,12alpha,24-tetrahydroxy-5beta-cholestan-26-oyl-CoA [ChEBI:27458]",27458
+"(24S)-5beta-cholestane-3alpha,7alpha,12alpha,24-tetrol [ChEBI:63834]",63834
+"(24S)-5beta-cholestane-3alpha,7alpha,12alpha,24,26-pentol [ChEBI:63835]",63835
+"3alpha,7alpha,24-trihydroxy-5beta-cholestan-26-oic acid [ChEBI:48736]",48736
+"(24S)-7alpha,12alpha,24-trihydroxy-5beta-cholestan-3-one [ChEBI:63830]",63830
+"(24S)-3alpha,7alpha,12alpha,24-tetrahydroxy-5beta-cholestan-26-al [ChEBI:63849]",63849
+"(24S)-5beta-cholestane-3alpha,7alpha,24,26-tetrol [ChEBI:63833]",63833
+"(24S)-3alpha,7alpha,24-trihydroxy-5beta-cholestan-26-al [ChEBI:63848]",63848
+"(24S)-7alpha,12alpha,24-trihydroxycholest-4-en-3-one [ChEBI:63839]",63839
+"(24S)-7alpha,24-dihydroxy-5beta-cholestan-3-one [ChEBI:63829]",63829
+"7alpha,26-dihydroxycholest-4-en-3-one [ChEBI:48825]",48825
+"7alpha,26-dihydroxy-5beta-cholestan-3-one [ChEBI:48778]",48778
+26-hydroxycholesterol [ChEBI:17703],17703
+"7alpha,26-dihydroxycholesterol [ChEBI:18431]",18431
+"7alpha,12alpha,26-trihydroxycholest-4-en-3-one [ChEBI:48833]",48833
+"7alpha,12alpha,26-trihydroxy-5beta-cholestan-3-one [ChEBI:48834]",48834
+(R)-5-phosphomevalonic acid [ChEBI:17436],17436
+(R)-5-diphosphomevalonic acid [ChEBI:15899],15899
+(3S)-3-hydroxy-3-methylglutaryl-CoA [ChEBI:15467],15467
+(R)-mevalonic acid [ChEBI:17710],17710
+lanosterol [ChEBI:16521],16521
+"4,4-dimethyl-5alpha-cholesta-8,14,24-trien-3beta-ol [ChEBI:17813]",17813
+5alpha-cholest-7-en-3beta-ol [ChEBI:17168],17168
+5alpha-cholest-8-en-3beta-ol [ChEBI:16608],16608
+zymosterol [ChEBI:18252],18252
+14-demethyllanosterol [ChEBI:18364],18364
+4-methylzymosterol [ChEBI:63841],63841
+4-carboxyzymosterol [ChEBI:63844],63844
+presqualene diphosphate [ChEBI:15442],15442
+squalene [ChEBI:15440],15440
+7-dehydrodesmosterol [ChEBI:27910],27910
+desmosterol [ChEBI:17737],17737
+"5alpha-cholesta-7,24-dien-3beta-ol [ChEBI:16290]",16290
+zymosterol intermediate 2 [ChEBI:52386],52386
+acetoacetyl-CoA [ChEBI:15345],15345
+prenyl diphosphate [ChEBI:16057],16057
+geranyl diphosphate [ChEBI:17211],17211
+4-carboxy-4-methylzymosterol [ChEBI:63842],63842
+3-dehydro-4-methylzymosterol [ChEBI:50593],50593
+"(S)-2,3-epoxysqualene [ChEBI:15441]",15441
+presqualene monophosphate [ChEBI:134117],134117
+(R)-3-hydroxybutyric acid [ChEBI:17066],17066
+acetoacetate [ChEBI:13705],13705
+(R)-3-hydroxybutyrate [ChEBI:10983],10983
+sphinganine 1-phosphate [ChEBI:16893],16893
+sphinganine [ChEBI:16566],16566
+hexadecanal [ChEBI:17600],17600
+sphingosine [ChEBI:16393],16393
+sphingosine 1-phosphate [ChEBI:37550],37550
+trans-hexadec-2-enal [ChEBI:17585],17585
+ceramide phosphoethanolamine [ChEBI:73204],73204
+N-acylsphinganine [ChEBI:31488],31488
+N-acylphytosphingosine [ChEBI:31998],31998
+phytosphingosine [ChEBI:46961],46961
+sphingomyelin d18:1 [ChEBI:17636],17636
+stearoyl-CoA [ChEBI:15541],15541
+3-dehydrosphinganine [ChEBI:17862],17862
+N-(2-hydroxyacyl)sphingoid [ChEBI:85781],85781
+O-phosphoethanolamine [ChEBI:17553],17553
+phosphocholine [ChEBI:18132],18132
+N-acylsphingosine [ChEBI:52639],52639
+N-acyl-beta-D-galactosylsphingosine [ChEBI:18390],18390
+glycerophospholipid [ChEBI:37739],37739
+glycosphingolipid [ChEBI:24402],24402
+alpha-D-galactosyl-(1->4)-beta-D-galactosyl-(1->4)-beta-D-glucosylceramide [ChEBI:18313],18313
+beta-D-galactosyl-(1->4)-beta-D-glucosyl-(1<->1)-N-acylsphingosine [ChEBI:17950],17950
+alpha-D-galactose [ChEBI:28061],28061
+D-glucosyl-N-acylsphingosine [ChEBI:18368],18368
+dehydroepiandrosterone sulfate [ChEBI:16814],16814
+N-acylsphingosine 1-phosphate [ChEBI:16197],16197
+ganglioside GM1 [ChEBI:61048],61048
+beta-D-GalNAc-(1->4)-[alpha-Neu5Ac-(2->3)]-beta-D-Gal-(1->4)-beta-D-Glc-(1<->1')-Cer [ChEBI:51013],51013
+alpha-N-acetylneuraminyl-(2->3)-beta-D-galactosyl-(1->4)-beta-D-glucosyl-(1<->1')-ceramide [ChEBI:15681],15681
+globoside [ChEBI:61360],61360
+N-acetyl-D-galactosamine [ChEBI:28037],28037
+N-acetyl-beta-D-galactosaminyl-(1->3)-alpha-D-galactosyl-(1->4)-beta-D-galactosyl-(1->4)-beta-D-glucosylceramide [ChEBI:18259],18259
+hydrogen sulfide [ChEBI:16136],16136
+malonyl-CoA [ChEBI:15531],15531
+protein [ChEBI:36080],36080
+very long-chain fatty acid [ChEBI:27283],27283
+very long-chain fatty acyl-CoA [ChEBI:61910],61910
+arachidonoyl-CoA [ChEBI:15514],15514
+3-oxooctadecanoyl-CoA [ChEBI:50571],50571
+tetracosanoyl-CoA [ChEBI:52974],52974
+3-oxohexacosanoyl-CoA [ChEBI:52977],52977
+icosanoyl-CoA [ChEBI:15527],15527
+3-oxodocosanoyl-CoA [ChEBI:52328],52328
+trans-2-octadecenoyl-CoA [ChEBI:50570],50570
+"(7Z,10Z,13Z,16Z)-3-oxodocosatetraenoyl-CoA [ChEBI:63821]",63821
+3-hydroxyoctadecanoyl-CoA [ChEBI:50583],50583
+(R)-3-hydroxyacyl-CoA [ChEBI:15456],15456
+trans-2-enoyl-CoA [ChEBI:50998],50998
+(S)-malic acid [ChEBI:30797],30797
+citric acid [ChEBI:30769],30769
+oxaloacetic acid [ChEBI:30744],30744
+3-oxoacyl-[acyl-carrier-protein] [ChEBI:84646],84646
+(3R)-3-hydroxyacyl-[acyl-carrier-protein] [ChEBI:84648],84648
+ferrocytochrome b5 [ChEBI:16518],16518
+oleoyl-CoA [ChEBI:15534],15534
+ferricytochrome b5 [ChEBI:18097],18097
+5(S)-HETE [ChEBI:28209],28209
+5-oxo-ETE [ChEBI:52449],52449
+meadowlactone [ChEBI:132873],132873
+5-HETE [ChEBI:60943],60943
+5(S)-HPETE [ChEBI:15632],15632
+17-HETE [ChEBI:63995],63995
+16-HETE [ChEBI:63994],63994
+18-HETE [ChEBI:63579],63579
+20-HETE [ChEBI:34306],34306
+19-HETE [ChEBI:63998],63998
+anandamide [ChEBI:2700],2700
+ethanolamine [ChEBI:16000],16000
+20-oxoleukotriene B4 [ChEBI:63979],63979
+20-hydroxy-20-oxoleukotriene B4 [ChEBI:27562],27562
+leukotriene B4 [ChEBI:15647],15647
+20-hydroxy-leukotriene B4 [ChEBI:15646],15646
+leukotriene A4 [ChEBI:15651],15651
+eoxin A4 [ChEBI:63983],63983
+eoxin C4 [ChEBI:63984],63984
+6-trans-leukotriene B4 [ChEBI:63981],63981
+Delta(6)-trans-12-epi-leukotriene B4 [ChEBI:63982],63982
+eoxin D4 [ChEBI:63985],63985
+eoxin E4 [ChEBI:63986],63986
+18-hydroxy-18-oxo-dinorleukotriene B4 [ChEBI:63980],63980
+12-dehydro-leukotriene B4 [ChEBI:27814],27814
+hepoxilin A3 [ChEBI:36190],36190
+hepoxilin B3 [ChEBI:34784],34784
+trioxilin B3 [ChEBI:35032],35032
+15-dehydro-prostaglandin E2 [ChEBI:15547],15547
+15-oxoprostaglandin F2alpha [ChEBI:28442],28442
+"13,14-dihydro-15-oxo-prostaglandin E2 [ChEBI:15550]",15550
+"13,14-dihydro-15-keto-PGF2alpha [ChEBI:63976]",63976
+prostaglandin J2 [ChEBI:27485],27485
+"13,14-dihydro-Delta(12)-prostaglandin J2 [ChEBI:28130]",28130
+prostaglandin G2 [ChEBI:27647],27647
+6-oxoprostaglandin F1alpha [ChEBI:28158],28158
+thromboxane B2 [ChEBI:28728],28728
+celecoxib [ChEBI:41423],41423
+11-epi-prostaglandin F2alpha [ChEBI:27595],27595
+1-methylnicotinamide [ChEBI:16797],16797
+malonaldehyde [ChEBI:566274],566274
+12S-HHTrE [ChEBI:63977],63977
+thioredoxin dithiol [ChEBI:15967],15967
+thioredoxin disulfide [ChEBI:18191],18191
+"15-deoxy-Delta(12,14)-prostaglandin D2 [ChEBI:63999]",63999
+prostaglandin C2 [ChEBI:27555],27555
+prostaglandin B2 [ChEBI:28099],28099
+11-dehydro-thromboxane B2 [ChEBI:28667],28667
+prostaglandin A2 [ChEBI:27820],27820
+"15-deoxy-Delta(12,14)-prostaglandin A2 [ChEBI:63975]",63975
+15-dehydro-prostaglandin D2 [ChEBI:15557],15557
+acetylsalicylate [ChEBI:13719],13719
+salicylate [ChEBI:30762],30762
+"15-deoxy-Delta(12,14)-prostaglandin J2 [ChEBI:34159]",34159
+"5,6-EET [ChEBI:34450]",34450
+"11,12-EET [ChEBI:34130]",34130
+"8,9-EET [ChEBI:34490]",34490
+"14,15-EET [ChEBI:34157]",34157
+"5,6-DHET [ChEBI:63974]",63974
+"(5Z,8Z,14Z)-11,12-dihydroxyicosatrienoic acid [ChEBI:63969]",63969
+"(5Z,11Z,14Z)-8,9-dihydroxyicosatrienoic acid [ChEBI:63970]",63970
+"(5Z,8Z,11Z)-14,15-dihydroxyicosatrienoic acid [ChEBI:63966]",63966
+15(S)-HPETE [ChEBI:15628],15628
+15(S)-HETE [ChEBI:15558],15558
+15-oxo-ETE [ChEBI:15559],15559
+15(R)-HETE [ChEBI:63989],63989
+12(R)-HPETE [ChEBI:34145],34145
+12(R)-HETE [ChEBI:34144],34144
+12(S)-HPETE [ChEBI:15626],15626
+12-oxo-ETE [ChEBI:34151],34151
+12(S)-HETE [ChEBI:34146],34146
+icosan-1-ol [ChEBI:75627],75627
+wax ester [ChEBI:10036],10036
+long-chain fatty acyl-CoA [ChEBI:33184],33184
+medium-chain fatty acyl-CoA [ChEBI:61907],61907
+hexacosanoyl-CoA [ChEBI:52966],52966
+trans-2-hexacosenoyl-CoA [ChEBI:52975],52975
+cis-3-octenoyl-CoA [ChEBI:85939],85939
+trans-oct-2-enoyl-CoA [ChEBI:27537],27537
+3-hydroxyhexacosanoyl-CoA [ChEBI:64972],64972
+"long-chain 2,3-trans-enoyl CoA(4-) [ChEBI:83727]",83727
+trans-3-enoyl-CoA [ChEBI:27700],27700
+octanoyl-CoA [ChEBI:15533],15533
+medium-chain fatty acid [ChEBI:59554],59554
+2-hydroxyhexadecanoic acid [ChEBI:65101],65101
+2-oxopalmitic acid [ChEBI:86988],86988
+phytanoyl-CoA [ChEBI:15538],15538
+2-hydroxyphytanoyl-CoA [ChEBI:15475],15475
+phytanic acid [ChEBI:16285],16285
+pristanate [ChEBI:77268],77268
+pristanoyl-CoA [ChEBI:51341],51341
+formyl-CoA [ChEBI:15522],15522
+pristanal [ChEBI:49189],49189
+"4,8,12-trimethyltridecanoyl-CoA [ChEBI:15495]",15495
+"4,8-dimethylnonanoyl-CoA [ChEBI:63856]",63856
+(2S)-pristanoyl-CoA [ChEBI:64039],64039
+"(E)-2,3-didehydropristanoyl-CoA [ChEBI:63803]",63803
+3-oxopristanoyl-CoA [ChEBI:15371],15371
+O-acetylcarnitinium [ChEBI:15960],15960
+3-hydroxypristanoyl-CoA [ChEBI:63914],63914
+O-propanoylcarnitine [ChEBI:28867],28867
+"O-(4,8-dimethylnonanoyl)carnitine [ChEBI:63874]",63874
+"adenosine 3',5'-bisphosphate [ChEBI:37240]",37240
+pantetheine 4'-phosphate [ChEBI:16858],16858
+S-acylpantetheine 4'-phosphate group [ChEBI:47983],47983
+"(6Z,9Z,12Z,15Z,18Z,21Z)-3-oxotetracosahexaenoyl-CoA [ChEBI:65131]",65131
+"(4Z,7Z,10Z,13Z,16Z,19Z)-docosahexaenoyl-CoA [ChEBI:65132]",65132
+"(6Z,9Z,12Z,15Z,18Z,21Z)-3-hydroxytetracosahexaenoyl-CoA [ChEBI:65130]",65130
+"all-cis-docosa-4,7,10,13,16,19-hexaenoic acid [ChEBI:28125]",28125
+"(2E,6Z,9Z,12Z,15Z,18Z,21Z)-tetracosaheptaenoyl-CoA [ChEBI:65139]",65139
+"(5Z,8Z,11Z,14Z,17Z)-icosapentaenoyl-CoA [ChEBI:63539]",63539
+"(7Z,10Z,13Z,16Z,19Z)-docosapentaenoyl-CoA [ChEBI:63541]",63541
+"(9Z,12Z,15Z,18Z,21Z)-tetracosapentaenoyl-CoA [ChEBI:63543]",63543
+"(6Z,9Z,12Z,15Z,18Z,21Z)-tetracosahexaenoyl-CoA [ChEBI:63540]",63540
+"(8Z,11Z,14Z,17Z)-icosatetraenoyl-CoA [ChEBI:63542]",63542
+"(6Z,9Z,12Z,15Z)-octadecatetraenoyl-CoA [ChEBI:63545]",63545
+alpha-linolenic acid [ChEBI:27432],27432
+alpha-linolenoyl-CoA [ChEBI:51985],51985
+"(7Z,10Z,13Z,16Z)-docosatetraenoyl-CoA [ChEBI:63544]",63544
+"(9Z,12Z,15Z,18Z)-tetracosatetraenoyl-CoA [ChEBI:63548]",63548
+gamma-linolenoyl-CoA [ChEBI:15508],15508
+"all-cis-icosa-8,11,14-trienoyl-CoA [ChEBI:27979]",27979
+"(4Z,7Z,10Z,13Z,16Z)-docosa-4,7,10,13,16-pentaenoic acid [ChEBI:65136]",65136
+"(6Z,9Z,12Z,15Z,18Z)-tetracosapentaenoyl-CoA [ChEBI:63546]",63546
+linoleoyl-CoA [ChEBI:15530],15530
+docosanoyl-CoA [ChEBI:65088],65088
+"2,3-dehydrobehenoyl-CoA [ChEBI:85880]",85880
+decanoyl-CoA [ChEBI:28493],28493
+trans-dec-2-enoyl-CoA [ChEBI:10723],10723
+(S)-3-hydroxydecanoyl-CoA [ChEBI:28325],28325
+3-oxodecanoyl-CoA [ChEBI:28528],28528
+(S)-3-hydroxytetradecanoyl-CoA [ChEBI:27466],27466
+3-oxotetradecanoyl-CoA [ChEBI:28726],28726
+lauroyl-CoA [ChEBI:15521],15521
+trans-tetradec-2-enoyl-CoA [ChEBI:27721],27721
+3-oxooctanoyl-CoA [ChEBI:28264],28264
+hexanoyl-CoA [ChEBI:27540],27540
+(S)-3-hydroxyoctanoyl-CoA [ChEBI:28632],28632
+3-oxohexanoyl-CoA [ChEBI:27648],27648
+butyryl-CoA [ChEBI:15517],15517
+(S)-3-hydroxyhexanoyl-CoA [ChEBI:28276],28276
+trans-hex-2-enoyl-CoA [ChEBI:28706],28706
+(E)-hexadec-2-enoyl-CoA [ChEBI:28935],28935
+(S)-3-hydroxypalmitoyl-CoA [ChEBI:27402],27402
+3-oxopalmitoyl-CoA [ChEBI:15491],15491
+(S)-3-hydroxybutanoyl-CoA [ChEBI:15453],15453
+butyric acid [ChEBI:30772],30772
+crotonoyl-CoA [ChEBI:15473],15473
+(S)-3-hydroxylauroyl-CoA [ChEBI:27668],27668
+3-oxolauroyl-CoA [ChEBI:27868],27868
+trans-dodec-2-enoyl-CoA [ChEBI:15471],15471
+"(3Z,6Z)-dodecadienoyl-CoA [ChEBI:28002]",28002
+"(2-trans,6-cis)-dodeca-2,6-dienoyl-CoA [ChEBI:28387]",28387
+cis-dec-4-enoyl-CoA [ChEBI:29140],29140
+"(2E,4Z)-deca-2,4-dienoyl-CoA [ChEBI:29119]",29119
+trans-dec-3-enoyl-CoA [ChEBI:29126],29126
+(S)-methylmalonyl-CoA [ChEBI:15466],15466
+2-methylpentadecenoyl-CoA [ChEBI:85944],85944
+2-methylpentadec-2-enoyl-CoA [ChEBI:85945],85945
+3-oxo-fatty acyl-CoA [ChEBI:15489],15489
+O-palmitoyl-L-carnitine [ChEBI:17490],17490
+2-acyl-sn-glycero-3-phosphoethanolamine [ChEBI:28936],28936
+1-acyl-sn-glycero-3-phosphoethanolamine [ChEBI:29017],29017
+N-acylphosphatidylethanolamine [ChEBI:61232],61232
+acyl group [ChEBI:22221],22221
+N-arachidonoylphosphatidylethanolamine [ChEBI:52571],52571
+1-O-acyl-sn-glycero-3-phosphocholine [ChEBI:58168],58168
+phosphocholines [ChEBI:36700],36700
+lysophosphatidylcholine 22:6 [ChEBI:64567],64567
+lysophosphatidylcholine 14:0 [ChEBI:64483],64483
+1-acylglycerophosphocholine(1+) [ChEBI:11230],11230
+CDP-choline [ChEBI:16436],16436
+sn-glycero-3-phosphoethanolamine [ChEBI:16929],16929
+1-acyl-sn-glycero-3-phosphoserine [ChEBI:52603],52603
+2-acyl-sn-glycero-3-phosphoserine [ChEBI:37646],37646
+1-alkylglycerone 3-phosphate [ChEBI:17197],17197
+cardiolipin [ChEBI:28494],28494
+1-myristoyl-sn-glycerol 3-phosphate [ChEBI:62833],62833
+1-monomyristoylglycerol [ChEBI:75562],75562
+2-acyl-sn-glycero-3-phosphate [ChEBI:17936],17936
+CDP-diacylglycerol [ChEBI:17962],17962
+2-acyl-sn-glycero-3-phosphocholine(1+) [ChEBI:16728],16728
+1-O-(alk-1-enyl)-2-O-acyl-sn-glycero-3-phosphocholine [ChEBI:17810],17810
+1-(alk-1-enyl)-2-acyl-sn-glycero-3-phosphoethanolamine [ChEBI:17476],17476
+glycerophosphocholine [ChEBI:36313],36313
+glycerophosphoethanolamine [ChEBI:36314],36314
+lysobisphosphatidic acid [ChEBI:60815],60815
+2-monolysocardiolipin [ChEBI:60430],60430
+"2,2'-dilysocardiolipin [ChEBI:60431]",60431
+1-(3-sn-phosphatidyl)-sn-glycerol 3-phosphate [ChEBI:37393],37393
+CDP-ethanolamine [ChEBI:16732],16732
+1-acyl-sn-glycero-3-phosphoglycerol [ChEBI:62747],62747
+2-acyl-sn-glycero-3-phosphoglycerol [ChEBI:27923],27923
+1-acyl-sn-glycero-3-phospho-D-myo-inositol [ChEBI:28914],28914
+2-acyl-sn-glycero-3-phospho-D-myo-inositol [ChEBI:62746],62746
+1-octadec-9-enoylglycero-3-phosphate [ChEBI:52288],52288
+choline alfoscerate [ChEBI:16870],16870
+lysophosphatidylcholine [ChEBI:60479],60479
+"1-phosphatidyl-1D-myo-inositol 3,5-bisphosphate [ChEBI:16851]",16851
+1-(sn-glycero-3-O-phosphonato)-1D-myo-inositol [ChEBI:58444],58444
+1-palmitoylglycerone 3-phosphate [ChEBI:17868],17868
+1-hexadecyl-sn-glycerol 3-phosphate [ChEBI:63818],63818
+hexadecan-1-ol [ChEBI:16125],16125
+palmityl palmitate [ChEBI:75584],75584
+"(4Z,7Z,10Z,12E,14S,16Z)-14-hydroxydocosapentaenoic acid [ChEBI:140218]",140218
+"10(S),17(S)-dihydroxy-omega 6-docosapentaenoic acid [ChEBI:138674]",138674
+"(4Z,7Z,10Z,13Z,15E,17S)-17-hydroxydocosapentaenoic acid [ChEBI:138673]",138673
+"(7Z,10Z,13Z,16Z,19Z)-docosapentaenoic acid [ChEBI:53488]",53488
+"(7Z,10Z,13R,14E,16Z,19Z)-13-hydroxydocosapentaenoic acid [ChEBI:91274]",91274
+"7,16,17-trihydroxy-(14E,19Z)-docosa-8,10,12,14,19-pentaenoic acid [ChEBI:140272]",140272
+"(7S,8,17S)-trihydroxy-(15E,19Z)-docosa-9,11,13,15,19-pentaenoic acid [ChEBI:140271]",140271
+"7,17-dihydroxy-(8Z,15E,19Z)-docosa-8,10,13,15,19-pentaenoic acid [ChEBI:140273]",140273
+"7,8-epoxy,17-hydroxy-(9E,11E,13Z,15E,19Z)-docosapentaenoic acid [ChEBI:140234]",140234
+"(10R,17S)-dihydroxy-(7Z,11E,13E,15Z,19Z)-docosapentaenoic acid [ChEBI:140265]",140265
+"16,17(S)-dihydroxy-(7Z,10Z,13E,14E,19Z)-docosapentaenoic acid [ChEBI:140266]",140266
+"(8E,10Z,13Z,15E,19Z)-7,17-bis(hydroperoxy)docosapentaenoic acid [ChEBI:140248]",140248
+"(7Z,10Z,13Z,15E,17S,19Z)-17-hydroperoxydocosapentaenoic acid [ChEBI:140226]",140226
+"(16S,17S)-epoxy-(7Z,10Z,12E,14E,19Z)-docosapentaenoic acid [ChEBI:140224]",140224
+resolvin T4 [ChEBI:137020],137020
+resolvin T1 [ChEBI:137011],137011
+resolvin T2 [ChEBI:137018],137018
+resolvin T3 [ChEBI:137019],137019
+"(7Z,9E,11E,16Z,19Z)-13,14-epoxydocosapentaenoic acid [ChEBI:140200]",140200
+"(7R,14S)-dihydroxy-(8E,10E,12Z,16Z,19Z)-docosapentaenoic acid [ChEBI:140256]",140256
+"13,14(S)-dihydroxy-(7Z,9E,11E,16Z,19Z)-docosapentaenoic acid [ChEBI:140257]",140257
+"(7Z,10Z,12E,14S,16Z,19Z)-14-hydroperoxydocosapentaenoic acid [ChEBI:140222]",140222
+"14(S),21-dihydroxy-(7Z,10Z,12E,16Z,19Z)-docosapentaenoic acid [ChEBI:140258]",140258
+"(4Z,8E,10Z,12E,14S,16Z,19Z)-14-hydroperoxydocosahexaenoic acid [ChEBI:140220]",140220
+15-epi-lipoxin B4 [ChEBI:63991],63991
+6-epi-lipoxin A4 [ChEBI:63990],63990
+lipoxin A4 [ChEBI:6498],6498
+15-oxolipoxin A4 [ChEBI:63992],63992
+"13,14-dihydro-15-oxolipoxin A4 [ChEBI:63993]",63993
+lipoxin B4 [ChEBI:6499],6499
+17(R)-HDoHE [ChEBI:91137],91137
+7(S)-hydroperoxy-17(R)-hydroxydocosahexaenoic acid [ChEBI:138602],138602
+aspirin-triggered resolvin D6 [ChEBI:138618],138618
+aspirin-triggered resolvin D1 [ChEBI:138179],138179
+aspirin-triggered resolvin D5 [ChEBI:138617],138617
+aspirin-triggered resolvin D3 [ChEBI:138615],138615
+aspirin-triggered resolvin D4 [ChEBI:138616],138616
+aspirin-triggered resolvin D2 [ChEBI:138614],138614
+"7S,8S-epoxy-17R-hydroxydocosahexaenoic acid [ChEBI:138613]",138613
+"(4Z,7Z,10Z,13Z,15E,17R,19Z)-17-hydroperoxydocosahexaenoic acid [ChEBI:138590]",138590
+4S(5)-epoxy-17R-hydroxydocosahexaenoic acid [ChEBI:138612],138612
+4(S)-hydroperoxy-17(R)-hydroxydocosahexaenoic acid [ChEBI:138601],138601
+"(4Z,7Z,10Z,13Z,15E,17S,19Z)-17-hydroperoxydocosahexaenoic acid [ChEBI:136113]",136113
+"(4Z,7Z,10S,11E,13Z,15E,17S,19Z)-10,17-dihydroxydocosahexaenoic acid [ChEBI:138653]",138653
+"(16S,17S)-epoxy-(4Z,7Z,10Z,12E,14E,19Z)-docosahexaenoic acid [ChEBI:140225]",140225
+protectin D1 [ChEBI:138655],138655
+22-hydroxyprotectin D1 [ChEBI:140243],140243
+aspirin-triggered protectin D1 [ChEBI:140202],140202
+"17R,(16)-epoxy-(4Z,7Z,10Z,13Z,19Z)-docosahexa-4,7,10,13,15,19-enoic acid [ChEBI:140192]",140192
+"(13S,14S)-epoxy-(4Z,7Z,9E,11E,16Z,19Z)-docosahexaenoic acid [ChEBI:132228]",132228
+"(13R)-S-glutathionyl-(14S)-hydroxy-(4Z,7Z,9E,11E,16Z,19Z)-docosahexaenoic acid [ChEBI:138202]",138202
+"(13R)-S-cysteinylglycinyl-(14S)-hydroxy-(4Z,7Z,9E,11E,16Z,19Z)-docosahexaenoic acid [ChEBI:138206]",138206
+"(13R)-S-cysteinyl-(14S)-hydroxy-(4Z,7Z,9E,11E,16Z,19Z)-docosahexaenoic acid [ChEBI:138209]",138209
+"16(S)-glycinylcystein-S-yl-17(R)-hydroxy-(4Z,7Z,10,12,14,19Z)-docosahexaenoic acid [ChEBI:140263]",140263
+"16(S)-cystein-S-yl,17(R)-hydroxy-(4Z,7Z,10,12,14,19Z)-docosahexaenoic acid [ChEBI:140264]",140264
+7S(8)-epoxy-17(S)-hydroxydocosahexaenoic acid [ChEBI:138646],138646
+"(8S)-glutathionyl-(7R,17S)-dihydroxy-(4Z,9,11,13Z,15E,19Z)-docosahexaenoic acid [ChEBI:140268]",140268
+"(8S)-glycinylcystein-S-yl-(7R,17S)-dihydroxy-(4Z,9,11,13Z,15E,19Z)-docosahexaenoic acid [ChEBI:140269]",140269
+"16(S)-glutathionyl-17(R)-hydroxy-(4Z,7Z,10,12,14,19Z)-docosahexaenoic acid [ChEBI:140262]",140262
+"(7S,17S)-bis(hydroperoxy)-(4Z,8E,10Z,13Z,15E,19Z)-docosahexaenoic acid [ChEBI:140245]",140245
+"(8S)-cystein-S-yl-(7R,17S)-dihydroxy-(4Z,9,11,13Z,15E,19Z)-docosahexaenoic acid [ChEBI:140270]",140270
+(14S)-HDoHE [ChEBI:137347],137347
+(14R)-HDoHE [ChEBI:137346],137346
+"(4Z,7Z,10Z,12E,14R,16Z,19Z,21S)-dihydroxydocosahexaenoic acid [ChEBI:137368]",137368
+"(4Z,7Z,10Z,12E,14R,16Z,19Z,21R)-dihydroxydocosahexaenoic acid [ChEBI:137361]",137361
+"(4Z,7Z,10Z,12E,14S,16Z,19Z,21S)-dihydroxydocosahexaenoic acid [ChEBI:137360]",137360
+"(4Z,7Z,10Z,12E,14S,16Z,19Z,21R)-dihydroxydocosahexaenoic acid [ChEBI:137354]",137354
+"(4Z,7Z,10Z,12E,14S,16Z,19Z)-14,22-dihydroxydocosahexaenoic acid [ChEBI:137349]",137349
+"(4Z,7Z,10Z,12E,14R,16Z,19Z)-14,22-dihydroxydocosahexaenoic acid [ChEBI:137350]",137350
+"(7R,14S)-dihydroxy-(4Z,8E,10E,12Z,16Z,19Z)-docosahexaenoic acid [ChEBI:138249]",138249
+"(7S,14S)-dihydroxy-(4Z,8E,10E,12Z,16Z,19Z)-docosahexaenoic acid [ChEBI:140193]",140193
+"(13R,14S)-dihydroxy-(4Z,7Z,9E,11E,16Z,19Z)-docosahexaenoic acid [ChEBI:138248]",138248
+"(7S,14S)-bis(hydroperoxy)-(4Z,8E,10Z,12E,16Z,19Z)-docosahexaenoic acid [ChEBI:140196]",140196
+4(S)-hydroperoxy-17(S)-hydroxydocosahexaenoic acid [ChEBI:138641],138641
+resolvin D6 [ChEBI:138643],138643
+17(S)-HDoHE [ChEBI:138640],138640
+7(S)-hydroperoxy-17(S)-hydroxydocosahexaenoic acid [ChEBI:138642],138642
+4S(5)-epoxy-17(S)-hydroxydocosahexaenoic acid [ChEBI:138647],138647
+resolvin D4 [ChEBI:138649],138649
+resolvin D3 [ChEBI:138648],138648
+resolvin D1 [ChEBI:81564],81564
+8-oxoresolvin D1 [ChEBI:132797],132797
+17-oxoresolvin D1 [ChEBI:132800],132800
+resolvin D2 [ChEBI:81565],81565
+resolvin D5 [ChEBI:138645],138645
+"(8E,10Z,13Z,16Z,19Z)-7-hydroxydocosapentaenoic acid [ChEBI:140250]",140250
+"(8E,10Z,13Z,16Z,19Z)-7-oxodocosapentaenoic acid [ChEBI:140253]",140253
+"(4Z,8E,10Z,13Z,16Z,19Z)-7-hydroxydocosahexaenoic acid [ChEBI:72623]",72623
+"(4Z,7Z,10Z,14E,16Z,19Z)-13-hydroxydocosahexaenoic acid [ChEBI:72608]",72608
+"(4Z,7Z,10Z,14E,16Z,19Z)-13-oxodocosahexaenoic acid [ChEBI:140204]",140204
+"(4Z,7Z,10Z,13Z,15E,19Z)-17-hydroxydocosahexaenoic acid [ChEBI:72637]",72637
+"(4Z,7Z,10Z,13Z,15E,19Z)-17-oxodocosahexaenoic acid [ChEBI:140238]",140238
+"all-cis-5,8,11,14,17-icosapentaenoic acid [ChEBI:28364]",28364
+5-HEPE [ChEBI:72801],72801
+"(4Z,8E,10Z,13Z,16Z,19Z)-7-oxodocosahexaenoic acid [ChEBI:140252]",140252
+"(7Z,10Z,14E,16Z,19Z)-13-oxodocosapentaenoic acid [ChEBI:140205]",140205
+"(7Z,10Z,13Z,15E,19Z)-17-oxodocosapentaenoic acid [ChEBI:140239]",140239
+Delta(12)-prostaglandin J3 [ChEBI:140274],140274
+"15-deoxy-Delta(12,14)-prostaglandin J3 [ChEBI:140223]",140223
+prostaglandin J3 [ChEBI:140267],140267
+"(6E,8Z,11Z,14Z,17Z)-5-oxoicosapentaenoic acid [ChEBI:140244]",140244
+prostaglandin H3 [ChEBI:134407],134407
+"(7Z,10Z,13Z,15E,19Z)-17-hydroperoxydocosapentaenoic acid [ChEBI:136352]",136352
+18(R)-HEPE [ChEBI:81563],81563
+(18R)-resolvin E3 [ChEBI:138542],138542
+5S(6)-epoxy-18(R)-HEPE [ChEBI:138563],138563
+resolvin E1 [ChEBI:81559],81559
+"(5Z,8Z,11Z,14Z,16E,18R)-18-hydroperoxyicosapentaenoic acid [ChEBI:138565]",138565
+"5(S)-hydroperoxy-18(R)-hydroxy-(6E,8Z,11Z,14Z,16E)-icosapentaenoic acid [ChEBI:132908]",132908
+resolvin E2 [ChEBI:81560],81560
+(18S)-hydroperoxyicosapentaenoic acid [ChEBI:138387],138387
+"(5S)-hydroperoxy-(18S)-hydroxy-(6E,8Z,11Z,14Z,16E)-icosapentaenoic acid [ChEBI:132802]",132802
+5(S)6-epoxy-18(S)-HEPE [ChEBI:138490],138490
+18(S)-HEPE [ChEBI:132801],132801
+(18S)-resolvin E2 [ChEBI:137034],137034
+(18S)-resolvin E1 [ChEBI:137038],137038
+resolvin E3 [ChEBI:138477],138477
+18-oxoresolvin E1 [ChEBI:131617],131617
+"N(omega),N'(omega)-dimethyl-L-arginine [ChEBI:25682]",25682
+dimethylamine [ChEBI:17170],17170
+sepiapterin [ChEBI:16095],16095
+ubiquinol [ChEBI:17976],17976
+coenzyme Q10 [ChEBI:46245],46245
+FMN [ChEBI:17621],17621
+fatty acid anion [ChEBI:28868],28868
+N-oleoyl-L-phenylalaninate [ChEBI:134020],134020
+oleate [ChEBI:30823],30823
+cobalt atom [ChEBI:27638],27638
+4-hydroxybutyrate [ChEBI:16724],16724
+4-oxobutanoate [ChEBI:57706],57706
+(S)-2-hydroxyglutaric acid [ChEBI:32797],32797
+fumaric acid [ChEBI:18012],18012
+D-threo-isocitric acid [ChEBI:151],151
+methylglyoxal [ChEBI:17158],17158
+(R)-S-lactoylglutathione [ChEBI:15694],15694
+hydrogen chloride [ChEBI:17883],17883
+glyoxylic acid [ChEBI:16891],16891
+sulfanilamide [ChEBI:45373],45373
+4-aminobenzoic acid [ChEBI:30753],30753
+N-hydroxy-4-aminobiphenyl [ChEBI:16580],16580
+4-aminosalicylic acid [ChEBI:27565],27565
+sulfacetamide [ChEBI:63845],63845
+"N-acetoxy-1,1'-biphenyl-4-amine [ChEBI:16395]",16395
+4-acetamidobenzoate [ChEBI:63815],63815
+4-acetamidosalicylate [ChEBI:63817],63817
+isoniazide [ChEBI:6030],6030
+"1,7-dimethylxanthine [ChEBI:25858]",25858
+N'-acetylisoniazid [ChEBI:7207],7207
+5-acetamido-6-formamido-3-methyluracil [ChEBI:32643],32643
+6-methylthiopurine [ChEBI:28279],28279
+methylarsonite [ChEBI:14597],14597
+dimethylarsinate [ChEBI:16223],16223
+mercaptoethanol [ChEBI:41218],41218
+2-methylthioethanol [ChEBI:63861],63861
+arsenite(3-) [ChEBI:29866],29866
+methylarsonate(2-) [ChEBI:16005],16005
+"3,4-dihydroxybenzoic acid [ChEBI:36062]",36062
+3-hydroxy-4-methoxybenzoate [ChEBI:63797],63797
+pyridine [ChEBI:16227],16227
+N-methylpyridinium [ChEBI:15761],15761
+methylarsonous acid [ChEBI:17826],17826
+dimethylarsinic acid [ChEBI:48765],48765
+phenyl acetate [ChEBI:8082],8082
+phenylacetyl-CoA [ChEBI:15537],15537
+N(2)-phenylacetyl-L-glutamine [ChEBI:17884],17884
+2-hydroxybenzoyl-CoA [ChEBI:32587],32587
+salicyluric acid [ChEBI:9008],9008
+salicylic acid [ChEBI:16914],16914
+benzoic acid [ChEBI:30746],30746
+benzoyl-CoA [ChEBI:15515],15515
+N-benzoylglycine [ChEBI:18089],18089
+phenol [ChEBI:15882],15882
+phenyl hydrogen sulfate [ChEBI:27905],27905
+"adenosine 3',5'-bismonophosphate [ChEBI:17985]",17985
+cholesterol sulfate [ChEBI:41321],41321
+4-nitrophenol [ChEBI:16836],16836
+4-nitrophenyl hydrogen sulfate [ChEBI:35422],35422
+paracetamol [ChEBI:46195],46195
+paracetamol sulfate [ChEBI:32635],32635
+pregnenolone sulfate [ChEBI:35420],35420
+p-nitrophenyl butyrate [ChEBI:85867],85867
+"3,3',5'-triiodothyronine [ChEBI:28774]",28774
+"3,3',5-triiodo-L-thyronine sulfate [ChEBI:35432]",35432
+17beta-estradiol 3-sulfate [ChEBI:4866],4866
+26-hydroxycholesterol 3-sulfate [ChEBI:35419],35419
+N-hydroxy-4-aminobiphenyl O-sulfate [ChEBI:32701],32701
+lithocholic acid sulfate [ChEBI:35421],35421
+lithium(1+) [ChEBI:49713],49713
+"3,3'-diiodothyronine [ChEBI:35430]",35430
+"3,3'-diiodo-L-thyronine sulfate [ChEBI:35431]",35431
+estrone 3-sulfate [ChEBI:17474],17474
+dopamine 3-O-sulfate [ChEBI:37946],37946
+taurolithocholate [ChEBI:17179],17179
+taurolithocholic acid sulfate [ChEBI:17864],17864
+N-hydroxy-2-acetamidofluorene [ChEBI:17931],17931
+2-acetamidofluorene N-sulfate [ChEBI:35424],35424
+L-cysteinylglycine [ChEBI:4047],4047
+"N-acetyl-1,4-benzoquinone imine [ChEBI:29132]",29132
+"1-chloro-2,4-dinitrobenzene [ChEBI:34718]",34718
+benzo[a]pyrene diol epoxide I [ChEBI:30614],30614
+"S-(2,4-dinitrophenyl)glutathione [ChEBI:8927]",8927
+acetaminophen glutathione conjugate [ChEBI:32639],32639
+"7,8-dihydro-7-hydroxy-8S-glutathionylbenzo[a]pyrene [ChEBI:34479]",34479
+"aflatoxin B1 exo-8,9-epoxide [ChEBI:30725]",30725
+oxirane [ChEBI:27561],27561
+"8,9-dihydro-8-(S-glutathionyl)-9-hydroxyaflatoxin B1 [ChEBI:2505]",2505
+S-(2-hydroxyethyl)glutathione [ChEBI:35896],35896
+S-formylglutathione [ChEBI:16225],16225
+"benzo[a]pyrene-cis-7,8-dihydrodiol [ChEBI:81626]",81626
+"benzo[a]pyrene-7,8-dione [ChEBI:87752]",87752
+debrisoquin [ChEBI:34665],34665
+N-hydroxy-4-aminobiphenyl O-glucuronide [ChEBI:32649],32649
+N-hydroxydebrisoquine O-glucuronide [ChEBI:65137],65137
+phenol O-(beta-D-glucuronide) [ChEBI:64681],64681
+acetaminophen O-beta-D-glucosiduronic acid [ChEBI:32636],32636
+mycophenolic acid O-acyl-glucuronide [ChEBI:64689],64689
+mycophenolic acid [ChEBI:168396],168396
+tamoxifen [ChEBI:41774],41774
+(S)-nicotine [ChEBI:17688],17688
+(S)-nicotinium N-alpha-D-glucosiduronate [ChEBI:63860],63860
+tamoxifen N-beta-D-glucosiduronic acid [ChEBI:32663],32663
+D-glucopyranose 1-phosphate [ChEBI:16077],16077
+glycitein [ChEBI:34778],34778
+glycitein 4'-O-glucuronide [ChEBI:133667],133667
+phenacetin [ChEBI:8050],8050
+4-ethoxyaniline [ChEBI:85505],85505
+acetyl group [ChEBI:40574],40574
+all-trans-4-hydroxyretinoic acid [ChEBI:63795],63795
+1H-indole [ChEBI:16881],16881
+indolin-2-one [ChEBI:31697],31697
+6beta-hydroxytestosterone [ChEBI:34477],34477
+3-hydroxypalmitic acid [ChEBI:37248],37248
+"3,16-dihydroxyhexadecanoate [ChEBI:63904]",63904
+"(5Z,9E,12S,14Z)-8,11,12,20-tetrahydroxyicosa-5,9,14-trienoic acid [ChEBI:83782]",83782
+19-hydroxyprostaglandin H2 [ChEBI:63912],63912
+4-hydroxy-17beta-estradiol [ChEBI:62845],62845
+docosahexaenoic acid [ChEBI:36005],36005
+hydroxydocosahexaenoic acid [ChEBI:72790],72790
+12-hydroxylauric acid [ChEBI:39567],39567
+18-HETE(1-) [ChEBI:63590],63590
+12-HETE [ChEBI:19138],19138
+coumarin [ChEBI:28794],28794
+umbelliferone [ChEBI:27510],27510
+paclitaxel [ChEBI:45863],45863
+6-hydroxypaclitaxel [ChEBI:63859],63859
+skatole [ChEBI:9171],9171
+3-methyleneindolenine [ChEBI:63905],63905
+phenytoin [ChEBI:8107],8107
+4-hydroxyphenytoin [ChEBI:63804],63804
+dextromethorphan [ChEBI:4470],4470
+dextrorphan [ChEBI:29133],29133
+loperamide [ChEBI:6532],6532
+desmethyl loperamide [ChEBI:64043],64043
+cyclophosphamide hydrate [ChEBI:4026],4026
+4-hydroxycyclophosphamide [ChEBI:1864],1864
+aflatoxin B1 [ChEBI:2504],2504
+biphenyl-4-amine [ChEBI:1784],1784
+caffeine [ChEBI:27732],27732
+tolbutamide [ChEBI:27999],27999
+4-hydroxytolbutamide [ChEBI:63799],63799
+ethene [ChEBI:18153],18153
+omeprazole [ChEBI:7772],7772
+5'-hydroxyomeprazole [ChEBI:63840],63840
+benzene [ChEBI:16716],16716
+tetrachloromethane [ChEBI:27385],27385
+chloroethene [ChEBI:28509],28509
+2-chlorooxirane [ChEBI:29129],29129
+halothane [ChEBI:5615],5615
+trifluoroacetyl chloride [ChEBI:29138],29138
+hydrogen bromide [ChEBI:47266],47266
+dihydrogen [ChEBI:18276],18276
+ethanol [ChEBI:16236],16236
+4-hydroxydebrisoquin [ChEBI:63800],63800
+9-cis-4-hydroxyretinoic acid [ChEBI:63802],63802
+"(24S)-1alpha,24,25-trihydroxyvitamin D3 [ChEBI:63911]",63911
+S-(hydroxymethyl)glutathione [ChEBI:48926],48926
+valacyclovir [ChEBI:35854],35854
+acyclovir [ChEBI:2453],2453
+histamine [ChEBI:18295],18295
+imidazole-4-acetaldehyde [ChEBI:27398],27398
+trimethylamine N-oxide [ChEBI:15724],15724
+tamoxifen N-oxide [ChEBI:63825],63825
+methimazole [ChEBI:50673],50673
+methimazole S-oxide [ChEBI:63828],63828
+N(omega)-hydroxyarginine [ChEBI:47823],47823
+N(1)-acetylspermine [ChEBI:17312],17312
+3-acetamidopropanal [ChEBI:30322],30322
+spermidine [ChEBI:16610],16610
+N(1)-acetylspermidine [ChEBI:17927],17927
+putrescine [ChEBI:17148],17148
+spermine [ChEBI:15746],15746
+3-aminopropanal [ChEBI:18090],18090
+tyramine [ChEBI:15760],15760
+(4-hydroxyphenyl)acetaldehyde [ChEBI:15621],15621
+(5-hydroxyindol-3-yl)acetaldehyde [ChEBI:50157],50157
+2-phenylethylamine [ChEBI:18397],18397
+phenylacetaldehyde [ChEBI:16424],16424
+"2,3,7,8-tetrachlorodibenzodioxine [ChEBI:28119]",28119
+quinone [ChEBI:36141],36141
+"1-(beta-D-ribofuranosyl)-1,4-dihydronicotinamide [ChEBI:55458]",55458
+hydroquinone [ChEBI:17594],17594
+resveratrol [ChEBI:27881],27881
+melatonin [ChEBI:16796],16796
+cocaine [ChEBI:27958],27958
+ecgonine benzoate [ChEBI:41001],41001
+4-hydroperoxycyclophosphamide [ChEBI:196991],196991
+Carboxyphosphamide [ChEBI:3410],3410
+"Benzo[a]pyrene-4,5-oxide [ChEBI:34560]",34560
+"Benzo[a]pyrene-cis-4,5-dihydrodiol [ChEBI:81621]",81621
+Olmesartan medoxomil [ChEBI:31932],31932
+diketone [ChEBI:46640],46640
+olmesartan [ChEBI:48416],48416
+doxorubicin [ChEBI:28748],28748
+doxorubicinol [ChEBI:133817],133817
+benzylamine [ChEBI:40538],40538
+benzaldehyde [ChEBI:17169],17169
+Aflatoxin B1 exo-cysteinyl-conjugate [ChEBI:78583],78583
+Aflatoxin B1 endo-cysteinyl-conjugate [ChEBI:78578],78578
+aflatoxin Q1 [ChEBI:78582],78582
+Aflatoxin B1 endo-cysteinylglycine conjugate [ChEBI:78579],78579
+Aflatoxin B1 exo-cysteinylglycine conjugate [ChEBI:78584],78584
+aflatoxin B1 dialdehyde [ChEBI:53107],53107
+aflatoxin B1 triol [ChEBI:53108],53108
+"aflatoxin B1 endo-8,9-oxide [ChEBI:78586]",78586
+aflatoxin M1 [ChEBI:78576],78576
+"aflatoxin M1 8,9-epoxide [ChEBI:78577]",78577
+"aflatoxin B1 8,9-dihydrodiol [ChEBI:53106]",53106
+carbovir diphosphate [ChEBI:64172],64172
+carbovir triphosphate [ChEBI:64174],64174
+IMP [ChEBI:17202],17202
+(-)-carbovir [ChEBI:421843],421843
+carbovir monophosphate [ChEBI:64116],64116
+abacavir [ChEBI:421707],421707
+abacavir 5'-glucuronide [ChEBI:64189],64189
+abacavir monophosphate [ChEBI:64112],64112
+cyclopropylamine [ChEBI:34660],34660
+abacavir 5'-carboxylic acid [ChEBI:64192],64192
+thiamine(1+) triphosphate [ChEBI:9534],9534
+thiamine(1+) diphosphate(3-) [ChEBI:58937],58937
+thiamine(1+) [ChEBI:18385],18385
+pyridoxamine [ChEBI:16410],16410
+pyridoxamine 5'-phosphate [ChEBI:18335],18335
+pyridoxal [ChEBI:17310],17310
+pyridoxal 5'-phosphate [ChEBI:18405],18405
+pyridoxine 5'-phosphate [ChEBI:28803],28803
+4-pyridoxic acid [ChEBI:17405],17405
+pyridoxine [ChEBI:16709],16709
+5'-deoxyadenosine [ChEBI:17319],17319
+precursor Z(1-) [ChEBI:59648],59648
+molybdopterin(3-) [ChEBI:58698],58698
+molybdate [ChEBI:36264],36264
+molybdopterin cofactor [ChEBI:25372],25372
+sulfurated eukaryotic molybdenum cofactor(2-) [ChEBI:60102],60102
+2-amino-3-(3-oxoprop-1-enyl)but-2-enedioate [ChEBI:29044],29044
+quinolinate(2-) [ChEBI:29959],29959
+D-ribosylnicotinate [ChEBI:58527],58527
+nicotinic acid D-ribonucleotide [ChEBI:15763],15763
+deamido-NAD(+) [ChEBI:18304],18304
+(S)-NADPHX [ChEBI:64084],64084
+NMNH [ChEBI:74452],74452
+(ADP-D-ribosyl)(n)-acceptor [ChEBI:133202],133202
+(ADP-D-ribosyl)(n+1)-acceptor [ChEBI:133203],133203
+5-O-phosphono-alpha-D-ribofuranosyl diphosphate [ChEBI:17111],17111
+nicotinic acid [ChEBI:15940],15940
+(R)-NADPHX [ChEBI:64085],64085
+6-hydro-beta-NAD [ChEBI:90174],90174
+2-hydro-beta-NAD [ChEBI:90171],90171
+nicotinate [ChEBI:32544],32544
+propionic acid [ChEBI:30768],30768
+hydrogen cyanide [ChEBI:18407],18407
+cob(II)alamin [ChEBI:16304],16304
+triphosphate ion [ChEBI:15266],15266
+"(6S)-5,6,7,8-tetrahydrofolic acid [ChEBI:15635]",15635
+"5,10-methylenetetrahydrofolate(2-) [ChEBI:12071]",12071
+folic acid [ChEBI:27470],27470
+5-methyltetrahydrofolyl polyglutamate macromolecule [ChEBI:63907],63907
+tetrahydrofolyl-poly(glutamic acid) macromolecule [ChEBI:28624],28624
+"5,10-methenyltetrahydrofolate polyglutamate macromolecule [ChEBI:65049]",65049
+10-formyltetrahydrofolyl polyglutamate macromolecule [ChEBI:28010],28010
+"5,10-methylenetetrahydrofolate polyglutamate macromolecule [ChEBI:60473]",60473
+10-formyltetrahydrofolic acid [ChEBI:15637],15637
+"(6R)-5,10-methenyltetrahydrofolic acid [ChEBI:15638]",15638
+dihydrofolic acid [ChEBI:15633],15633
+L-dehydroascorbate [ChEBI:58539],58539
+"2,3-diketogulonate [ChEBI:57441]",57441
+L-erythrulose [ChEBI:27913],27913
+oxalate(2-) [ChEBI:30623],30623
+monodehydro-L-ascorbate(1-) [ChEBI:59513],59513
+L-threonate [ChEBI:57561],57561
+pantetheine [ChEBI:16753],16753
+cysteamine [ChEBI:17141],17141
+pantothenic acid [ChEBI:7916],7916
+(R)-4'-phosphopantothenic acid [ChEBI:15905],15905
+3'-dephospho-CoA [ChEBI:15468],15468
+N-[(R)-4-phosphopantothenoyl]-L-cysteine [ChEBI:15769],15769
+riboflavin [ChEBI:17015],17015
+all-trans-retinyl linoleate [ChEBI:70762],70762
+all-trans-retinyl oleate [ChEBI:70760],70760
+all-trans-retinyl stearate [ChEBI:70761],70761
+beta-carotene [ChEBI:17579],17579
+10'-apo-beta-carotenal [ChEBI:53153],53153
+beta-ionone [ChEBI:32325],32325
+"all-trans-13,14-dihydroretinol [ChEBI:52075]",52075
+(+)-alpha-tocopherol [ChEBI:18145],18145
+"2,3-epoxymenatetrenone [ChEBI:90152]",90152
+menatetrenone [ChEBI:78277],78277
+geranylgeranyl diphosphate(3-) [ChEBI:57533],57533
+menadione [ChEBI:28869],28869
+dyspropterin [ChEBI:17804],17804
+"5,6,7,8-tetrahydrobiopterin radical cation [ChEBI:62772]",62772
+"7,8-dihydroneopterin 3'-triphosphate [ChEBI:18372]",18372
+4-hydroxybenzoic acid [ChEBI:30763],30763
+all-trans-decaprenyl diphosphate [ChEBI:61011],61011
+4-hydroxy-3-all-trans-decaprenylbenzoic acid [ChEBI:64136],64136
+"3-decaprenyl-4,5-dihydroxybenzoic acid [ChEBI:50775]",50775
+3-decaprenyl-4-hydroxy-5-methoxybenzoic acid [ChEBI:50776],50776
+2-decaprenyl-6-methoxy-3-methylhydroquinone [ChEBI:64181],64181
+3-demethylubiquinol-10 [ChEBI:64182],64182
+2-decaprenyl-6-methoxyphenol [ChEBI:50774],50774
+ubiquinol-10 [ChEBI:64183],64183
+2-decaprenyl-6-methoxyhydroquinone [ChEBI:64180],64180
+sulfur atom [ChEBI:26833],26833
+iron atom [ChEBI:18248],18248
+xylitol [ChEBI:17151],17151
+D-xylulose [ChEBI:17140],17140
+L-gulonate [ChEBI:13115],13115
+3-dehydro-L-gulonate [ChEBI:57655],57655
+alpha-D-Man-(1->3)-[alpha-D-Man-(1->3)-[alpha-D-Man-(1->6)]-alpha-D-Man-(1->6)]-beta-D-Man-(1->4)-beta-D-GlcNAc [ChEBI:91280],91280
+D-mannopyranose [ChEBI:4208],4208
+alpha-D-Man-(1->3)-[alpha-D-Man-(1->6)]-beta-D-Man-(1->4)-beta-D-GlcNAc [ChEBI:91279],91279
+beta-D-Manp-(1->4)-beta-D-GlcpNAc [ChEBI:71553],71553
+aldehydo-N-acetyl-D-glucosamine [ChEBI:17411],17411
+alpha-D-Man-(1->2)-alpha-D-Man-(1->2)-alpha-D-Man-(1->3)-[alpha-D-Man-(1->2)-alpha-D-Man-(1->3)-[alpha-D-Man-(1->2)-alpha-D-Man-(1->6)]-alpha-D-Man-(1->6)]-beta-D-Man-(1->4)-beta-D-GlcNAc [ChEBI:91284],91284
+D-glucitol [ChEBI:17924],17924
+D-glyceric acid [ChEBI:32398],32398
+3-phosphonato-D-glycerate(3-) [ChEBI:58272],58272
+D-glyceraldehyde [ChEBI:17378],17378
+beta-D-Gal-(1->3)-beta-D-GlcNAc-(1->3)-alpha-D-Gal-yl group [ChEBI:140162],140162
+Lewis A antigen [ChEBI:140878],140878
+Type 2 monosialylgalactosylgloboside [ChEBI:140918],140918
+sialyl-Lewis X antigen [ChEBI:140916],140916
+Type 1 monosialylgalactosylgloboside [ChEBI:140917],140917
+alpha-D-Gal-(1->3)-alpha-D-GlcNAc-(1->4)-D-Gal-yl group [ChEBI:139350],139350
+Lewis X antigen [ChEBI:140911],140911
+Type 1 disialyl-paragloboside [ChEBI:140919],140919
+"GlcNAc-beta1,3-Gal-R [ChEBI:140876]",140876
+Lewis B antigen [ChEBI:140910],140910
+Lewis Y antigen [ChEBI:140912],140912
+disialyl-Lewis A antigen [ChEBI:140915],140915
+Sda antigen [ChEBI:140913],140913
+sialyl Lewis A antigen [ChEBI:140914],140914
+alpha-L-Fuc-(1->2)-beta-D-Gal-(1->4)-beta-D-GlcNAc-(1->3)-alpha-D-Gal-yl group [ChEBI:139351],139351
+alpha-D-Gal-(1->3)-[alpha-L-Fuc-(1->2)]-beta-D-Gal-(1->4)-beta-D-GlcNAc-(1->3)-alpha-D-Gal-yl group [ChEBI:139353],139353
+alpha-L-Fuc-(1->2)-beta-D-Gal-(1->3)-beta-D-GlcNAc-(1->3)-alpha-D-Gal-yl group [ChEBI:140180],140180
+alpha-L-Fuc-(1->2)-[alpha-D-GalNAc-(1->3)]-beta-D-Gal-(1->3)-beta-D-GlcNAc-(1->3)-alpha-D-Gal-yl group [ChEBI:140186],140186
+alpha-L-Fuc-(1->2)-[alpha-D-Gal-(1->3)]-beta-D-Gal-(1->3)-beta-D-GlcNAc-(1->3)-alpha-D-Gal-yl group [ChEBI:140187],140187
+alpha-D-GalNAc-(1->3)-[alpha-L-Fuc-(1->2)]-beta-D-Gal-(1->4)-beta-D-GlcNAc-(1->3)-alpha-D-Gal-yl group [ChEBI:139352],139352
+D-glucuronic acid [ChEBI:4178],4178
+aldehydo-L-iduronic acid [ChEBI:28481],28481
+beta-D-GalpNAc4S-(1->4)-beta-D-GlcpA-(1->3)-beta-D-Galp-(1->3)-beta-D-Galp-(1->4)-beta-D-Xylp [ChEBI:63868],63868
+aldehydo-D-xylose [ChEBI:15936],15936
+beta-D-Galp-(1->4)-beta-D-GlcpNAc6S-(1->3)-D-Galp [ChEBI:63853],63853
+phosphonatoenolpyruvate [ChEBI:58702],58702
+2-phosphonato-D-glycerate(3-) [ChEBI:58289],58289
+3-phosphonato-D-glyceroyl phosphate(4-) [ChEBI:57604],57604
+"beta-D-fructofuranose 1,6-bisphosphate(4-) [ChEBI:32966]",32966
+D-glucitol 6-phosphate [ChEBI:17044],17044
+alpha-D-glucosamine 6-phosphate [ChEBI:15873],15873
+"2,3-bisphosphoglycerate [ChEBI:19324]",19324
+"alpha-D-glucose 1,6-bisphosphate [ChEBI:18148]",18148
+2-deoxy-D-ribose 5-phosphate [ChEBI:16132],16132
+sedoheptulose [ChEBI:16802],16802
+D-ribofuranose [ChEBI:47013],47013
+D-ribose 1-phosphate [ChEBI:35425],35425
+2-deoxy-alpha-D-ribose 1-phosphate [ChEBI:11563],11563
+6-phospho-D-gluconate [ChEBI:16863],16863
+4-hydroxy-L-proline [ChEBI:18240],18240
+(S)-1-pyrroline-5-carboxylate [ChEBI:17388],17388
+L-glutamic 5-semialdehyde [ChEBI:17232],17232
+3-(indol-3-yl)pyruvic acid [ChEBI:29750],29750
+aspartame [ChEBI:2877],2877
+4a-hydroxytetrahydrobiopterin [ChEBI:15374],15374
+"6,7-dihydrobiopterin [ChEBI:20680]",20680
+keto-phenylpyruvate [ChEBI:18005],18005
+(4-hydroxyphenyl)pyruvic acid [ChEBI:15999],15999
+4-maleylacetoacetate [ChEBI:17105],17105
+4-fumarylacetoacetate(2-) [ChEBI:18034],18034
+homogentisate [ChEBI:16169],16169
+fumarate(1-) [ChEBI:37154],37154
+Ac-Asp-Glu(3-) [ChEBI:76931],76931
+N-acetyl-L-aspartate(2-) [ChEBI:16953],16953
+N-acetyl-L-aspartic acid [ChEBI:21547],21547
+L-asparagine zwitterion [ChEBI:58048],58048
+3-sulfino-L-alanine [ChEBI:16345],16345
+L-cysteic acid [ChEBI:17285],17285
+hypotaurine [ChEBI:16668],16668
+agmatine [ChEBI:17431],17431
+urea [ChEBI:16199],16199
+S-adenosylmethioninamine [ChEBI:15625],15625
+L-ornithine [ChEBI:15729],15729
+5'-S-methyl-5'-thioadenosine [ChEBI:17509],17509
+trans-urocanic acid [ChEBI:30817],30817
+carnosine [ChEBI:15727],15727
+anserine [ChEBI:18323],18323
+"3-(4-oxo-4,5-dihydro-1H-imidazol-5-yl)propanoic acid [ChEBI:27384]",27384
+N-formimidoyl-L-glutamate(2-) [ChEBI:18327],18327
+5-formimidoyltetrahydrofolic acid [ChEBI:15639],15639
+N(tele)-methylhistamine [ChEBI:29009],29009
+N-formylkynurenine [ChEBI:18377],18377
+L-kynurenine [ChEBI:16946],16946
+3-hydroxy-L-kynurenine [ChEBI:17380],17380
+"4-(2-aminophenyl)-2,4-dioxobutanoic acid [ChEBI:17442]",17442
+kynurenic acid [ChEBI:18344],18344
+2-aminomuconic 6-semialdehyde [ChEBI:15745],15745
+2-aminomuconic acid [ChEBI:16886],16886
+3-hydroxyanthranilic acid [ChEBI:15793],15793
+(R)-indole-3-lactic acid [ChEBI:55528],55528
+3-(1H-indol-3-yl)propanoic acid [ChEBI:43580],43580
+(N(omega)-L-arginino)succinic acid [ChEBI:15682],15682
+carbamoyl phosphate [ChEBI:17672],17672
+N-acetyl-L-glutamic acid [ChEBI:17533],17533
+O-phospho-L-serine [ChEBI:15811],15811
+D-serine [ChEBI:16523],16523
+3-phosphonooxypyruvic acid [ChEBI:30933],30933
+trans-3-methylglutaconyl-CoA [ChEBI:15488],15488
+(S)-3-hydroxyisobutyryl-CoA [ChEBI:28259],28259
+3-hydroxyisobutyrate [ChEBI:11805],11805
+3-methyl-2-oxovalerate [ChEBI:28654],28654
+4-methyl-2-oxopentanoate [ChEBI:17865],17865
+3-methyl-2-oxobutanoic acid [ChEBI:16530],16530
+2-methyl-3-oxopropanoic acid [ChEBI:16256],16256
+isobutyryl-CoA [ChEBI:15479],15479
+methacrylyl-CoA [ChEBI:27754],27754
+2-methylcrotonoyl-CoA [ChEBI:15478],15478
+"(2S,3S)-3-hydroxy-2-methylbutanoyl-CoA [ChEBI:15449]",15449
+2-methylbutanoyl-CoA [ChEBI:15477],15477
+3-methylbut-2-enoyl-CoA [ChEBI:15486],15486
+2-methylacetoacetyl-CoA [ChEBI:15476],15476
+isovaleryl-CoA [ChEBI:15487],15487
+methylseleninic acid [ChEBI:77012],77012
+methylselenenic acid [ChEBI:77062],77062
+methylselenol [ChEBI:64685],64685
+3'-phosphoadenylyl selenate [ChEBI:28450],28450
+selenite(2-) [ChEBI:18212],18212
+glutathioselenol [ChEBI:64729],64729
+selane [ChEBI:16503],16503
+adenylyl selenate [ChEBI:2485],2485
+selenodiglutathione [ChEBI:26634],26634
+selenic acid [ChEBI:18170],18170
+L-selenomethionine [ChEBI:30021],30021
+N-acetyl-beta-D-galactosaminyl group [ChEBI:17806],17806
+1beta-glutathionylseleno-N-acetyl-D-galactosamine [ChEBI:77008],77008
+1beta-methylseleno-N-acetyl-D-galactosamine [ChEBI:77010],77010
+N-acetyl-beta-D-galactosamine [ChEBI:28497],28497
+2-acetamidoglucal [ChEBI:73979],73979
+L-adenosylselenohomocysteine [ChEBI:77028],77028
+L-selenohomocysteine [ChEBI:9096],9096
+L-adenosylselenomethionine [ChEBI:9066],9066
+sarcosine [ChEBI:15611],15611
+L-selenocysteine [ChEBI:16633],16633
+L-selenocystathionine [ChEBI:27760],27760
+2-oxobutanoic acid [ChEBI:30831],30831
+Se-methyl-L-selenocysteine [ChEBI:27812],27812
+selenophosphate [ChEBI:16144],16144
+phosphoric acid [ChEBI:26078],26078
+dimethylselenide [ChEBI:4610],4610
+trimethylselenonium [ChEBI:77058],77058
+2-aminoacrylate [ChEBI:58020],58020
+L-threonine zwitterion [ChEBI:57926],57926
+L-2-amino-3-oxobutanoate [ChEBI:16944],16944
+2-oxoglutaramic acid [ChEBI:30882],30882
+S-methyl-L-methionine [ChEBI:17728],17728
+L-cystathionine [ChEBI:17482],17482
+glycine betaine [ChEBI:17750],17750
+"N,N-dimethylglycine [ChEBI:17724]",17724
+L-lanthionine [ChEBI:21347],21347
+thiosulfate(2-) [ChEBI:16094],16094
+thiocyanic acid [ChEBI:29200],29200
+sulfite [ChEBI:17359],17359
+3-mercaptopyruvic acid [ChEBI:16208],16208
+hydrogensulfite [ChEBI:17137],17137
+L-homolanthionine [ChEBI:62856],62856
+S-methyl-5-thio-D-ribulose 1-phosphate(2-) [ChEBI:58548],58548
+S-methyl-5-thio-alpha-D-ribose 1-phosphate(2-) [ChEBI:58533],58533
+"5-(methylsulfanyl)-2,3-dioxopentyl phosphate(2-) [ChEBI:58828]",58828
+1-hydroxy-5-(methylthio)-3-oxopent-1-en-2-olate [ChEBI:58795],58795
+4-methylthio-2-oxobutanoate [ChEBI:16723],16723
+2-oxo monocarboxylic acid anion [ChEBI:35179],35179
+L-dopa [ChEBI:15765],15765
+diiodine [ChEBI:17606],17606
+3-iodo-L-tyrosine [ChEBI:27847],27847
+"3,5-diiodo-L-tyrosine [ChEBI:15768]",15768
+L-thyroxine [ChEBI:18332],18332
+hydrogen iodide [ChEBI:43451],43451
+5-hydroxy-L-tryptophan [ChEBI:17780],17780
+N-acetylserotonin [ChEBI:17697],17697
+betaine aldehyde [ChEBI:15710],15710
+4-hydroxy-2-oxoglutarate(2-) [ChEBI:17742],17742
+oxalic acid [ChEBI:16995],16995
+1-pyrroline-3-hydroxy-5-carboxylic acid [ChEBI:27391],27391
+glycolate [ChEBI:29805],29805
+L-4-hydroxyglutamate semialdehyde zwitterion [ChEBI:62637],62637
+4-hydroxy-L-glutamate(1-) [ChEBI:32812],32812
+L-dopaquinone [ChEBI:16852],16852
+dopachrome [ChEBI:49108],49108
+"5,6-dihydroxyindole-2-carboxylic acid [ChEBI:2003]",2003
+"5,6-Indolequinone-2-carboxylic acid [ChEBI:81394]",81394
+"5,6-dihydroxyindole [ChEBI:27404]",27404
+leucodopachrome [ChEBI:60872],60872
+"2,5-S,S'-dicysteinyldopa [ChEBI:84298]",84298
+Cysteinyldopa [ChEBI:81392],81392
+2-S-cysteinyl-DOPA [ChEBI:84296],84296
+6-(2-amino-2-carboxyethyl)-4-hydroxybenzothiazole [ChEBI:84343],84343
+benzothiazine [ChEBI:46899],46899
+"7-(2-amino-2-carboxyethyl)-5-hydroxy-2H-1,4-benzothiazine-3-carboxylic acid [ChEBI:84301]",84301
+"7-(2-amino-2-carboxyethyl)-5-hydroxy-3,4-dihydro-2H-1,4-benzothiazin-3-one [ChEBI:84344]",84344
+5-hydroxylysine [ChEBI:60175],60175
+2-oxoadipic acid [ChEBI:15753],15753
+glutaryl-CoA [ChEBI:15524],15524
+L-2-aminoadipate(2-) [ChEBI:17082],17082
+(S)-1-piperideine-6-carboxylate [ChEBI:58769],58769
+L-pipecolic acid [ChEBI:30913],30913
+1-piperideine-2-carboxylate [ChEBI:16187],16187
+L-saccharopine [ChEBI:16927],16927
+creatine [ChEBI:16919],16919
+N-phosphocreatine [ChEBI:17287],17287
+creatinine [ChEBI:16737],16737
+guanidinoacetic acid [ChEBI:16344],16344
+"3-hydroxy-N(6),N(6),N(6)-trimethyl-L-lysine [ChEBI:15786]",15786
+4-trimethylammoniobutanal [ChEBI:18020],18020
+"N(6),N(6),N(6)-trimethyl-L-lysine [ChEBI:17311]",17311
+4-(trimethylammonio)butanoate [ChEBI:16244],16244
+nucleoside 5'-diphosphate(3-) [ChEBI:57930],57930
+2'-deoxyribonucleoside 5'-diphosphate(3-) [ChEBI:73316],73316
+dUMP [ChEBI:17622],17622
+dGDP [ChEBI:28862],28862
+dCDP [ChEBI:28846],28846
+dADP [ChEBI:16174],16174
+dUDP [ChEBI:28850],28850
+dTDP [ChEBI:18075],18075
+dUTP [ChEBI:17625],17625
+5-iododeoxycytidine triphosphate [ChEBI:86351],86351
+5-iododeoxycytidine monophosphate [ChEBI:43263],43263
+"P(1),P(6)-bis(5'-adenosyl)hexaphosphate [ChEBI:63689]",63689
+adenosine 5'-tetraphosphate(5-) [ChEBI:58450],58450
+XTP [ChEBI:10049],10049
+5'-xanthylic acid [ChEBI:15652],15652
+2'-deoxyinosine [ChEBI:28997],28997
+2-deoxy-D-ribofuranose 1-phosphate [ChEBI:28542],28542
+ITP [ChEBI:16039],16039
+9H-xanthine [ChEBI:17712],17712
+guanine [ChEBI:16235],16235
+dITP [ChEBI:28807],28807
+2'-deoxyinosine-5'-monophosphate [ChEBI:28806],28806
+8-oxo-dGDP [ChEBI:63728],63728
+8-oxo-dGMP [ChEBI:63223],63223
+2-hydroxy-ATP [ChEBI:65119],65119
+2-hydroxy-AMP [ChEBI:65129],65129
+8-oxo-GDP [ChEBI:65134],65134
+8-oxo-GMP [ChEBI:65135],65135
+aldehydo-D-ribose 5-phosphate [ChEBI:17797],17797
+2'-deoxyinosine-5'-diphosphate [ChEBI:28823],28823
+8-oxo-dGTP [ChEBI:63220],63220
+2-hydroxy-dATP [ChEBI:63208],63208
+2-hydroxy-dAMP [ChEBI:63211],63211
+8-hydroxy-dADP [ChEBI:70963],70963
+8-hydroxy-dAMP [ChEBI:70964],70964
+IDP [ChEBI:17808],17808
+2-deoxyribose phosphate [ChEBI:19569],19569
+2'-deoxycytidine [ChEBI:15698],15698
+2'-deoxyuridine [ChEBI:16450],16450
+uridine 2'-phosphate [ChEBI:28070],28070
+3'-UMP [ChEBI:28895],28895
+2'-deoxyuridine 3'-monophosphate [ChEBI:46322],46322
+"5,6-dihydrothymine [ChEBI:27468]",27468
+3-ureidoisobutyric acid [ChEBI:1670],1670
+N-carbamoyl-beta-alanine [ChEBI:18261],18261
+(R)-3-aminoisobutyric acid [ChEBI:16320],16320
+3-oxopropanoic acid [ChEBI:17960],17960
+ribonucleoside monophosphate [ChEBI:26558],26558
+2'-deoxyribonucleoside 5'-triphosphate(4-) [ChEBI:61560],61560
+triphosphate(5-) [ChEBI:18036],18036
+2'-deoxyribonucleoside [ChEBI:18274],18274
+(S)-dihydroorotic acid [ChEBI:17025],17025
+orotic acid [ChEBI:16742],16742
+N-carbamoyl-L-aspartic acid [ChEBI:15859],15859
+orotidine 5'-phosphate [ChEBI:15842],15842
+5-formamido-1-(5-phospho-D-ribosyl)imidazole-4-carboxamide [ChEBI:18381],18381
+"N(6)-(1,2-dicarboxyethyl)-AMP [ChEBI:15919]",15919
+AICA ribonucleotide [ChEBI:18406],18406
+SAICAR [ChEBI:18319],18319
+5-amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxylic acid [ChEBI:28413],28413
+5-amino-1-(5-phospho-D-ribosyl)imidazole [ChEBI:28843],28843
+2-formamido-N(1)-(5-phospho-D-ribosyl)acetamidine [ChEBI:18413],18413
+N(1)-(5-phospho-D-ribosyl)glycinamide [ChEBI:18349],18349
+N(2)-formyl-N(1)-(5-phospho-D-ribosyl)glycinamide [ChEBI:18272],18272
+5-phospho-D-ribosylamine [ChEBI:17284],17284
+N(6)-methyl-AMP [ChEBI:40196],40196
+methylamine [ChEBI:16830],16830
+pseudouridine 5'-phosphate [ChEBI:18116],18116
+pseudouridine [ChEBI:17802],17802
+isoaspartate [ChEBI:85309],85309
+N-methyl-D-aspartic acid [ChEBI:31882],31882
+L-methionine (R)-S-oxide [ChEBI:49032],49032
+L-methionine (S)-S-oxide [ChEBI:49031],49031
+L-methionine sulfone [ChEBI:21363],21363
+"2-trans,6-trans,10-trans-geranylgeranyl diphosphate [ChEBI:48861]",48861
+psicosamine [ChEBI:87176],87176
+ribulosamine [ChEBI:87177],87177
+ribulosamine 3-phosphate [ChEBI:87180],87180
+psicosamine 3-phosphate [ChEBI:87179],87179
+trimethylenediamine [ChEBI:15725],15725
+fructosamine [ChEBI:24103],24103
+fructosamine 3-phosphate [ChEBI:87178],87178
+"S-[(2E,6E)-farnesyl]-L-cysteine residue [ChEBI:86019]",86019
+"S-[(2E,6E)-farnesyl]-L-cysteine methyl ester [ChEBI:87167]",87167
+(ethanolamineP) mannose (a1-2) (ethanolamineP) mannose (a1-6) (ethanolamineP) mannose (a1-4) glucosaminyl-acyl-PI [ChEBI:77364],77364
+6-O-{alpha-D-mannosyl-(1->6)-2-O-[(2-aminoethyl)phosphoryl]-alpha-D-mannosyl-(1->4)-alpha-D-glucosaminyl}-O-acyl-1-phosphatidyl-1D-myo-inositol [ChEBI:53058],53058
+6-O-{alpha-D-mannosyl-(1->2)-alpha-D-mannosyl-(1->6)-2-O-[(2-aminoethyl)phosphoryl]-alpha-D-mannosyl-(1->4)-alpha-D-glucosaminyl}-O-acyl-1-phosphatidyl-1D-myo-inositol [ChEBI:53059],53059
+N-acetyl-D-glucosaminylphosphatidylinositol [ChEBI:15935],15935
+glucosaminylphosphatidylinositol [ChEBI:24275],24275
+acylglucosaminylphosphatidylinositol [ChEBI:52572],52572
+6-O-[alpha-D-mannosyl-(1->4)-alpha-D-glucosaminyl]-O-acyl-1-phosphatidyl-1D-myo-inositol [ChEBI:53056],53056
+beta-D-galactosyl-(1->3)-N-acetyl-D-glucosaminyl group [ChEBI:18915],18915
+beta-D-galactosyl-(1->3)-[alpha-L-fucosyl-(1->4)]-N-acetyl-D-glucosaminyl group [ChEBI:18914],18914
+beta-D-glucuronosyl-(1->3)-beta-D-galactosyl-(1->4)-beta-D-glucosaminyl group [ChEBI:86336],86336
+3-O-sulfo-beta-D-glucuronosyl-(1->3)-beta-D-galactosyl-(1->4)-beta-D-glucosaminyl group [ChEBI:86335],86335
+N(4)-{beta-D-GlcNAc-(1->2)-alpha-D-Man-(1->3)-[alpha-D-Man-(1->3)-[alpha-D-Man-(1->6)]-alpha-D-Man-(1->6)]-beta-D-Man-(1->4)-beta-D-GlcNAc-(1->4)-beta-D-GlcNAc}-Asn residue [ChEBI:60625],60625
+L-fucopyranose [ChEBI:2181],2181
+N(4)-{beta-D-GlcNAc-(1->2)-alpha-D-Man-(1->3)-[beta-D-GlcNAc-(1->2)-alpha-D-Man-(1->6)]-beta-D-Man-(1->4)-beta-D-GlcNAcl-(1->4)-beta-D-GlcNAc}-Asn residue [ChEBI:60651],60651
+N(4)-{alpha-D-Man-(1->2)-alpha-D-Man-(1->3)-[alpha-D-Man-(1->3)-[alpha-D-Man-(1->2)-alpha-D-Man-(1->6)]-alpha-D-Man-(1->6)]-beta-D-Man-(1->4)-beta-D-GlcNAc-(1->4)-beta-D-GlcNAc}-Asn residue [ChEBI:60637],60637
+N-{alpha-Man-(1->3)-[alpha-Man-(1->3)-[alpha-Man-(1->6)]-alpha-Man-(1->6)]-beta-Man-(1->4)-beta-GlcNAc-(1->4)-beta-GlcNac}-L-Asn residue [ChEBI:59087],59087
+N(4)-{alpha-D-Man-(1->2)-alpha-D-Man-(1->2)-alpha-D-Man-(1->3)-[alpha-D-Man-(1->6)-[alpha-D-Man-(1->2)-alpha-D-Man-(1->3)]-alpha-D-Man-(1->6)]-beta-D-Man-(1->4)-beta-D-GlcNAc-(1->4)-beta-D-GlcNAc}-Asn residue [ChEBI:60629],60629
+N(4)-{alpha-D-Manp-(1->2)-alpha-D-Manp-(1->2)-alpha-D-Manp-(1->3)-[alpha-D-Manp-(1->3)-[alpha-D-Manp-(1->2)-alpha-D-Manp-(1->6)]-alpha-D-Manp-(1->6)]-beta-D-Manp-(1->4)-beta-D-GlcpNAc-(1->4)-beta-D-GlcpNAc}-Asn residue [ChEBI:60628],60628
+N(4)-{alpha-D-Man-(1->2)-alpha-D-Man-(1->3)-[alpha-D-Man-(1->2)-alpha-D-Man-(1->3)-[alpha-D-Man-(1->2)-alpha-D-Man-(1->6)]-alpha-D-Man-(1->6)]-beta-D-Man-(1->4)-beta-D-GlcNAc-(1->4)-beta-D-GlcNAc}-Asn residue [ChEBI:60627],60627
+N-{alpha-Man-(1->3)-[alpha-Man-(1->2)-alpha-Man-(1->6)]-alpha-Man-(1->6)-[alpha-Man-(1->6)-[alpha-Man-(1->2)-alpha-Man-(1->2)]-alpha-Man-(1->3)]-beta-Man-(1->4)-beta-GlcnAc-(1->4)-beta-GlcNAc}-L-Asn residue [ChEBI:59092],59092
+N-{alpha-Glc-(1->2)-alpha-Glc-(1->3)-alpha-Glc-(1->3)-alpha-Man-(1->2)-alpha-Man-(1->2)-alpha-Man-(1->3)-[alpha-Man-(1->2)-alpha-Man-(1->3)-[alpha-Man-(1->2)-alpha-Man-(1->6)]-alpha-Man-(1->6)]-beta-Man-(1->4)-beta-GlcNAc-(1->4)-beta-GlcNAc}-L-Asn residue [ChEBI:59084],59084
+N-{alpha-Man-(1->4)-alpha-Man-(1->4)-alpha-Man-(1->3)-[alpha-Man-(1->3)-[alpha-Man-(1->4)-alpha-Man-(1->6)]-alpha-Man-(1->6)]-beta-Man-(1->4)-beta-GlcNAc-(1->4)-beta-GlcNAc}-L-Asn residue [ChEBI:59089],59089
+proteoglycan [ChEBI:37396],37396
+glycan G00008 [ChEBI:53019],53019
+alpha-D-Man-(1->6)-beta-D-Man-(1->4)-beta-D-GlcNAc-(1->4)-D-GlcNAc(PP-Dol) [ChEBI:59085],59085
+glycan G10599 [ChEBI:53020],53020
+GDP-4-dehydro-6-deoxy-alpha-D-mannose [ChEBI:16955],16955
+GDP-4-dehydro-beta-L-fucose [ChEBI:86476],86476
+beta-L-fucose [ChEBI:42589],42589
+beta-L-fucose 1-phosphate [ChEBI:12387],12387
+alpha-L-fucose [ChEBI:42548],42548
+polyprenyl diphosphate [ChEBI:37531],37531
+N-acetyl-D-glucosamine 6-phosphate [ChEBI:15784],15784
+N-glycolyl-D-mannosamine [ChEBI:28255],28255
+N-glycoloyl-D-glucosamine [ChEBI:27459],27459
+N-glycoloyl-D-glucosamine 6-phosphate [ChEBI:88130],88130
+2-acetamido-2-deoxy-D-glucopyranose 1-phosphate [ChEBI:7125],7125
+N-acetylneuraminic acid 9-phosphate [ChEBI:27438],27438
+alpha-D-galactosyl group [ChEBI:61248],61248
+N-acetyl-D-galactosaminyl group [ChEBI:21507],21507
+N-acetylneuraminyl group [ChEBI:75133],75133
+aldehydo-N-acetyl-D-mannosamine 6-phosphate [ChEBI:28273],28273
+N-glycoloylneuraminate [ChEBI:29025],29025
+D-mannose 1-phosphate [ChEBI:35374],35374
+alpha-D-Man-(1->2)-alpha-D-Man-(1->2)-alpha-D-Man-(1->3)-[alpha-D-Man-(1->6)-[alpha-D-Man-(1->2)-alpha-D-Man-(1->3)]-alpha-D-Man-(1->6)]-beta-D-Man-(1->4)-beta-D-GlcNAc [ChEBI:91283],91283
+alpha-D-Man-(1->2)-alpha-D-Man-(1->2)-alpha-D-Man-(1->3)-[alpha-D-Man-(1->3)-[alpha-D-Man-(1->2)-alpha-D-Man-(1->6)]-alpha-D-Man-(1->6)]-beta-D-Man-(1->4)-beta-D-GlcNAc [ChEBI:91282],91282
+alpha-D-Man-(1->2)-alpha-D-Man-(1->3)-[alpha-D-Man-(1->2)-alpha-D-Man-(1->3)-[alpha-D-Man-(1->2)-alpha-D-Man-(1->6)]-alpha-D-Man-(1->6)]-beta-D-Man-(1->4)-beta-D-GlcNAc [ChEBI:91281],91281
+alpha-D-Xyl-(1->3)-beta-D-GlcA [ChEBI:91124],91124
+beta-D-GlcA-(1->3)-alpha-D-Xyl-(1->3)-beta-D-GlcA [ChEBI:91125],91125
+alpha-D-Xyl-(1->3)-beta-D-GlcA-(1->3)-alpha-D-Xyl-(1->3)-beta-D-GlcA [ChEBI:133015],133015
+octanoic acid [ChEBI:28837],28837
+aliskiren [ChEBI:601027],601027
+N-terminal N-acetyl-L-serine residue [ChEBI:83690],83690
+L-threonylcarbamoyladenylate [ChEBI:73687],73687
+queuine [ChEBI:17433],17433
+7-methylguanosine 5'-phosphate(1+) [ChEBI:17825],17825
+7-methylguanosine [ChEBI:20794],20794
+uridine residue [ChEBI:73747],73747
+(5-hydroxyindol-3-yl)acetic acid [ChEBI:27823],27823
+bufotenin [ChEBI:3210],3210
+3-methoxytyramine [ChEBI:1582],1582
+gamma-aminobutyric acid zwitterion [ChEBI:59888],59888
+"L-2,4-diaminobutyric acid [ChEBI:48950]",48950
+"3,4-dihydroxymandelaldehyde [ChEBI:27852]",27852
+oleoyl ethanolamide [ChEBI:71466],71466
+N-(octadecanoyl)ethanolamine [ChEBI:85299],85299
+N-(dodecanoyl)ethanolamine [ChEBI:85263],85263
+palmitoyl ethanolamide [ChEBI:71464],71464
+N-(tetradecanoyl)ethanolamine [ChEBI:85262],85262
+heparan sulfate alpha-D-glucosaminide [ChEBI:18137],18137
+heparan sulfate N-acetyl-alpha-D-glucosaminide [ChEBI:17421],17421
+"(25R)-cholest-5-ene-3beta,26-diol [ChEBI:76591]",76591
+estrogen [ChEBI:50114],50114
+11-cis-retinol [ChEBI:16302],16302
+9-cis-retinal [ChEBI:78273],78273
+(22R)-22-hydroxycholesterol [ChEBI:67237],67237
+"24(S),25-epoxycholesterol [ChEBI:41633]",41633
+N-formyl-L-methionyl-L-leucyl-L-phenylalanine [ChEBI:53490],53490
+3-hydroxybutyric acid [ChEBI:20067],20067
+N-arachidonoylglycine [ChEBI:58961],58961
+brucine [ChEBI:3193],3193
+Cnicin [ChEBI:3768],3768
+yohimbine [ChEBI:10093],10093
+salicin [ChEBI:17814],17814
+picrotoxinin [ChEBI:8206],8206
+erythromycin [ChEBI:48923],48923
+strychnine [ChEBI:28973],28973
+arglabin [ChEBI:73228],73228
+colchicine [ChEBI:23359],23359
+papaverine [ChEBI:28241],28241
+arborescin [ChEBI:73226],73226
+allyl isothiocyanate [ChEBI:73224],73224
+andrographolide [ChEBI:65408],65408
+cucurbitacin E [ChEBI:3944],3944
+helicin [ChEBI:73235],73235
+crispolide [ChEBI:73231],73231
+limonin [ChEBI:16226],16226
+amygdalin [ChEBI:27613],27613
+Grosshemin [ChEBI:5547],5547
+aristolochic acid [ChEBI:2825],2825
+ethylpyrazine [ChEBI:73232],73232
+hydroquinone O-beta-D-glucopyranoside [ChEBI:18305],18305
+Cascarillin [ChEBI:3445],3445
+camphor [ChEBI:36773],36773
+amarogentin [ChEBI:2622],2622
+(-)-noscapine [ChEBI:73237],73237
+absinthin [ChEBI:2366],2366
+cucurbitacin B [ChEBI:3941],3941
+parthenolide [ChEBI:7939],7939
+phenethyl isothiocyanate [ChEBI:351346],351346
+Quassin [ChEBI:8692],8692
+tatridin B [ChEBI:73239],73239
+quinine [ChEBI:15854],15854
+sinigrin(1-) [ChEBI:9162],9162
+thiamine [ChEBI:26948],26948
+alpha-thujone [ChEBI:50042],50042
+falcarindiol [ChEBI:69236],69236
+aloin [ChEBI:73222],73222
+chloramphenicol [ChEBI:17698],17698
+(+)-cis-isohumulone [ChEBI:73236],73236
+artemorin [ChEBI:2853],2853
+saccharin [ChEBI:32111],32111
+D-tryptophan [ChEBI:16296],16296
+3-hydroxyoctanoic acid [ChEBI:37098],37098
+11-cis-retinyl palmitate [ChEBI:16254],16254
+farnesyl diphosphate [ChEBI:50277],50277
+(5Z)-tetradecenoyl-CoA [ChEBI:70712],70712
+"cis,cis-tetradeca-5,8-dienoyl-CoA [ChEBI:70713]",70713
+hexanoate [ChEBI:17120],17120
+valerate [ChEBI:31011],31011
+(9Z)-hexadecenoic acid [ChEBI:28716],28716
+"all-cis-icosa-11,14,17-trienoic acid [ChEBI:53460]",53460
+elaidic acid [ChEBI:27997],27997
+"all-cis-docosa-7,10,13,16-tetraenoic acid [ChEBI:53487]",53487
+"all-cis-icosa-8,11,14-trienoic acid [ChEBI:53486]",53486
+gamma-linolenic acid [ChEBI:28661],28661
+palmitoleoyl-CoA [ChEBI:53152],53152
+bromide [ChEBI:15858],15858
+fluoride [ChEBI:17051],17051
+xenobiotic [ChEBI:35703],35703
+1D-chiro-inositol [ChEBI:27372],27372
+procainamide [ChEBI:8428],8428
+tetramethylammonium [ChEBI:46020],46020
+guanidine [ChEBI:42820],42820
+N-methyl-4-phenylpyridinium [ChEBI:641],641
+metformin [ChEBI:6801],6801
+cimetidine [ChEBI:3699],3699
+p-aminohippuric acid [ChEBI:104011],104011
+imipramine [ChEBI:47499],47499
+desipramine [ChEBI:47781],47781
+clonidine [ChEBI:46631],46631
+4-[4-(dimethylamino)styryl]-N-methylpyridinium iodide [ChEBI:65133],65133
+ergothioneine [ChEBI:4828],4828
+oxaliplatin [ChEBI:31941],31941
+cytosine [ChEBI:16040],16040
+bromosulfophthalein [ChEBI:63836],63836
+digoxin [ChEBI:4551],4551
+lipoic acid [ChEBI:16494],16494
+N(omega)-methyl-L-arginine [ChEBI:28229],28229
+L-homoarginine [ChEBI:27747],27747
+D-alanine [ChEBI:15570],15570
+dipeptide zwitterion [ChEBI:90799],90799
+dipeptide [ChEBI:46761],46761
+tripeptide [ChEBI:47923],47923
+torcetrapib [ChEBI:49203],49203
+calcium phosphate [ChEBI:77635],77635
+iron(III) oxide-hydroxide(1-) [ChEBI:78619],78619
+nicotinic acid-adenine dinucleotide phosphate [ChEBI:76072],76072
+amiloride [ChEBI:2639],2639
+non-steroidal anti-inflammatory drug [ChEBI:35475],35475
+divalent metal cation [ChEBI:60240],60240
+cation [ChEBI:36916],36916
+heme b [ChEBI:26355],26355
+dextran sulfate [ChEBI:34674],34674
+carrageenan [ChEBI:3435],3435
+cholesterol beta-epoxide [ChEBI:28164],28164
+titanium dioxide nanoparticle [ChEBI:51050],51050
+hematite nanoparticle [ChEBI:50824],50824
+silicon dioxide nanoparticle [ChEBI:50828],50828

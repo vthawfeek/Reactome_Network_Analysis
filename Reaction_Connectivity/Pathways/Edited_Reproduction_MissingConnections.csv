@@ -1,0 +1,5 @@
+First_Reaction,Second_Reaction,First Reaction,Second Reaction,Second Reaction Author
+R-HSA-912389,R-HSA-912505,"=HYPERLINK(""https://reactome.org/content/detail/R-HSA-912389"",""Formation of axial/lateral elements of Synaptonemal Complex"")","=HYPERLINK(""https://reactome.org/content/detail/R-HSA-912505"",""Synapsis"")","May, B"
+R-HSA-912429,R-HSA-912503,"=HYPERLINK(""https://reactome.org/content/detail/R-HSA-912429"",""Resolution of meiotic holliday junction"")","=HYPERLINK(""https://reactome.org/content/detail/R-HSA-912503"",""Formation of meiotic single-stranded DNA invasion complex"")","May, B"
+R-HSA-912429,R-HSA-912496,"=HYPERLINK(""https://reactome.org/content/detail/R-HSA-912429"",""Resolution of meiotic holliday junction"")","=HYPERLINK(""https://reactome.org/content/detail/R-HSA-912496"",""Formation of meiotic holliday junction"")","May, B"
+R-HSA-912496,R-HSA-912503,"=HYPERLINK(""https://reactome.org/content/detail/R-HSA-912496"",""Formation of meiotic holliday junction"")","=HYPERLINK(""https://reactome.org/content/detail/R-HSA-912503"",""Formation of meiotic single-stranded DNA invasion complex"")","May, B"

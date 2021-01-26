@@ -1,0 +1,5 @@
+Pathway,First Reaction,Second Reaction,Second Reaction Author
+Gene expression (Transcription),"=HYPERLINK(""https://reactome.org/content/detail/R-HSA-380927"",""R-HSA-380927"")","=HYPERLINK(""https://reactome.org/content/detail/R-HSA-380979"",""R-HSA-380979"")","Wu, J"
+Signal Transduction,"=HYPERLINK(""https://reactome.org/content/detail/R-HSA-165680"",""R-HSA-165680"")","=HYPERLINK(""https://reactome.org/content/detail/R-HSA-447074"",""R-HSA-447074"")","Wu, J"
+Signal Transduction,"=HYPERLINK(""https://reactome.org/content/detail/R-HSA-165680"",""R-HSA-165680"")","=HYPERLINK(""https://reactome.org/content/detail/R-HSA-380979"",""R-HSA-380979"")","Wu, J"
+Signal Transduction,"=HYPERLINK(""https://reactome.org/content/detail/R-HSA-380927"",""R-HSA-380927"")","=HYPERLINK(""https://reactome.org/content/detail/R-HSA-380979"",""R-HSA-380979"")","Wu, J"

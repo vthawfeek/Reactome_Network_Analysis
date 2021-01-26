@@ -1,0 +1,5 @@
+Pathway,First Reaction,Second Reaction,Second Reaction Author
+Disease,"=HYPERLINK(""https://reactome.org/content/detail/R-HSA-9610954"",""R-HSA-9610954"")","=HYPERLINK(""https://reactome.org/content/detail/R-HSA-9610942"",""R-HSA-9610942"")","Guerreiro, C"
+Disease,"=HYPERLINK(""https://reactome.org/content/detail/R-HSA-9611147"",""R-HSA-9611147"")","=HYPERLINK(""https://reactome.org/content/detail/R-HSA-9610942"",""R-HSA-9610942"")","Guerreiro, C"
+Disease,"=HYPERLINK(""https://reactome.org/content/detail/R-HSA-9611147"",""R-HSA-9611147"")","=HYPERLINK(""https://reactome.org/content/detail/R-HSA-9610954"",""R-HSA-9610954"")","Guerreiro, C"
+Disease,"=HYPERLINK(""https://reactome.org/content/detail/R-HSA-9611158"",""R-HSA-9611158"")","=HYPERLINK(""https://reactome.org/content/detail/R-HSA-9610942"",""R-HSA-9610942"")","Guerreiro, C"

@@ -1,0 +1,5 @@
+Pathway,First Reaction,Second Reaction,Second Reaction Author
+Disease,"=HYPERLINK(""https://reactome.org/content/detail/R-HSA-168860"",""R-HSA-168860"")","=HYPERLINK(""https://reactome.org/content/detail/R-HSA-168870"",""R-HSA-168870"")","Marsh, G"
+Disease,"=HYPERLINK(""https://reactome.org/content/detail/R-HSA-168895"",""R-HSA-168895"")","=HYPERLINK(""https://reactome.org/content/detail/R-HSA-195926"",""R-HSA-195926"")","Marsh, G"
+Disease,"=HYPERLINK(""https://reactome.org/content/detail/R-HSA-195730"",""R-HSA-195730"")","=HYPERLINK(""https://reactome.org/content/detail/R-HSA-195926"",""R-HSA-195926"")","Marsh, G"
+Disease,"=HYPERLINK(""https://reactome.org/content/detail/R-HSA-195926"",""R-HSA-195926"")","=HYPERLINK(""https://reactome.org/content/detail/R-HSA-168860"",""R-HSA-168860"")","Marsh, G"

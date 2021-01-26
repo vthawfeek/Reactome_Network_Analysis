@@ -1,0 +1,11 @@
+Thawfeek:
+1. Connectivity: This project aims to interconnect reactions systematically by reliably using computational methods and curator knowledge
+2. Boolean connections: This project aims to computationally assign Boolean logic (AND/OR) to precedingEvent relations of reactions
+3. Pathway functional annotation: This project aims to annotate start/end reactions of pathways based on their biological function. The computational approach will assist curators by suggesting start/end reactions. 
+4. Network analysis: This project aims to build networks on Reactome data and perform various analyses such as in silico drug target identification and knock out effects.
+
+Benefits of the computational approaches:
+1. Using approach 1, gaps in reaction connections can be systematically identified and curated with minimal curator effort. 
+2. The current reaction connection model in Reactome is quite basic. Additional information such as the type of connection (positive/negative/neutral) and the significance of the preceding event (AND/OR) are missing. This information can be computationally derived using approach 2. We could discuss about how to incorporate this in the curator tool. This exercise will add value to the existing curated information in Reactome.
+3. As a pathway database, it would be useful to annotate process functions in terms of start and end points of the pathway. Based on network properties, approach 3 can suggest possible start and end reactions in a pathway, which can then be reviewed by a curator. Ideally, some reactions in a pathway will be tagged with start or end labels. At the moment there is no way to do this annotation. We could discuss about how to implement this in the curator tool.
+4. Approach 4 is primarily for an Open Target suggestion to be able to analyse experimental data that is generated in the team. I’m not sure if this work can be used to add information in Reactome.

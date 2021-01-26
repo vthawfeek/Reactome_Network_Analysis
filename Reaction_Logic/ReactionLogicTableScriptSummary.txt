@@ -1,0 +1,49 @@
+The purpose of the reaction_logic_table.pl is to obtain a set of reactions from a provided database and produce a tab-delimited text file (i.e. a table) which represents a directed graph (i.e. a graph of nodes connected by edges with directionality) of relationships in Reactome.  The nodes of the directed graph are the reactions and the physical entities involved in the reactions.  The connections between nodes are described using boolean logic with one relationship between a parent and child node per row of the text file.  The columns of the text file are "Parent Node", "Child Node", "Value", and "Logic".  
+	"Parent Node" and "Child Node" are the start and end node in the directed relationship, respectively.  
+	"Value" represents the connection of movement from the "Parent Node" is either a positive or negative influence on the "Child Node" (with "1" being positive and "-1" being negative).  
+	"Logic" represents the boolean logic of a "Parent Node" connecting to a "Child Node" with an "AND" relationship represented as "0" and an "OR" relationship represented by "1".  An "AND" relationship is one in which the "Parent Node" is one of the requirements (possibly the only requirement) necessary to lead to a "Child Node".  An "OR" relationship is one in which the "Parent Node" is one of several possibilities to lead to a "Child Node" and is sufficient if present, but is not required if other possible "Parent Node"s are also present.
+
+The script begins by retrieving all reactions from all pathways, or subset of selected pathways, within a Reactome relational database.  This is either a "curation" database (containing both published and unpublished pathways and reactions) or a "release" database (containing only published pathways and reactions).  The reactions are then filtered to ensure only those without a disease tag (i.e. normal or non-disease reactions) are included in the logic table.
+
+Each reaction is then broken down, one at a time, into its component parts: inputs, outputs, catalysts, and regulators.  Inputs and outputs are obtained directly from the reaction.  Catalysts are obtained by getting the physical entity from all catalyst activities associated with the reaction.  Regulators are obtained by first getting all regulation instances associated with a reaction and then getting the regulator physical entity of each regulation instance.  The regulator physical entity is obtained from the "activeUnit" attribute slot of each instance if that slot is filled or the "regulator" slot, if not.  All unique relationships are recorded in an in memory data structure as each reaction is processed, but, to allow for alterations to the data structure (discussed below), the relationships are not written to the text file until all reactions have been processed.  
+
+For all reactions and physical entities recorded as nodes in these relationships, specific naming (a label) is applied.  If the instance being recorded has a reference entity, the display name and reference entity database id (separated by underscores) is used.  If there is no reference entity, the instance's database id is used (with "_RLE" appended if the instance is a reaction).  For all labels, any commas or plus signs (i.e. , and +) are replaced by underscores.  
+
+For each input and catalyst physical entity, an entry is made into the data structure where the "Parent Node" is the input or catalyst, the "Child Node" is the reaction, the "Value" is "1", and the "Logic" is "0" (i.e. "AND").  As well, if the input/catalyst is a set, complex, or polymer and NOT an output of a reaction, it is broken down into its constituents recursively.  For each level of constituent and its containing set/complex/polymer, an entry is made into the data structure.  For these entries, the "Parent Node" is the constituent, the "Child Node" is the set/complex/polymer, the "Value" is "1", and the "Logic" is "0" (i.e. "AND") for complexes and polymers but "1" (i.e. "OR") for sets.  Logic of "AND" is used for complexes and polymers because all constitutents are necessary for the complex/polymer, but "OR" is used for sets since only one constituent is necessary for the set to fulfill its role.
+
+For each output physical entity, processing begins with two groups of associated reactions being found - those that produce the physical entity as an output and those that take the physical entity as an input (i.e. reactions which take the output physical entity as input).  If there are no reactions using the output physical entity as an input, an entry for each reaction which produces the physical entity as an output is recorded in the data structure.  For these entries, the "Parent Node" is the reaction, the "Child Node" is the output physical entity, the "Value" is "1", and the "Logic" is "0" (i.e. "AND") if there is only one reaction producing the output physical entity but "1" (i.e. "OR") if there are many reactions producing it.  If, however, there are reactions using the output physical entity as an input, any reactions that produce the output physical entity and are a preceding event of any of these reactions (taking the entity as an input) are skipped and not recorded in the data structure.  This was implemented to handle cycles/infinite loops in the directed graph represented in the text file as a logic table and is further refined manually after the script is run.  Additionally, if all reactions producing the output physical entity are skipped (because the are preceding reactions which take the output physical entity as an input) and the output physical entity is a set/complex/polymer, it will broken down recursively as it is for input and catalyst physical entities above.  This is to show the components necessary for its formation as there will be no record of a reaction producing it as an output in the data structure.
+
+For each regulator physical entity, an entry is made in the data structure where the "Parent Node" is the regulator physical entity, the "Child Node" is the reaction, the "Value" is either "1" or "-1" ("-1" if the regulation instance from which the regulator physical entity was obtained derives from the "NegativeRegulation" class or one of its sub-classes, but "1" otherwise), and the "Logic" is "0" (i.e. "AND").  Additionally, if the regulator physical entity is a set/complex/polymer and it is not an produced by (i.e. an output of) a reaction, it is broken down recursively as it is for input and catalyst physical entities above.
+
+Once all reactions have been processed, the data structure storing all the relationships is used to write the relationships to the text file.  Before the relationships are written, however, two changes are made.  
+
+1) All "Child Node"s are checked to see if they have both "AND" and "OR" relationships to "Parent Node"s associated with them in their entries.  If so, these are separated into the two groups (i.e. "AND" and "OR") and two so-called "dummy nodes" are introduced to refer to each group as intermediaries between the "Child Node" and the "Parent Node"s.  These dummy nodes have the structure "child_name_AND" and "child_name_OR" where 'child_name' is the label of the specific "Child Node".  The "Child Node" is then attached to both "dummy nodes" (in such a way that each "dummy node" is a parent and the "Child Node" is the child). The "'child_name_AND' dummy node" is then attached as a child to each node in the "AND" group of "Parent Node"s & "'child_name_OR' dummy node" is then attached as a child to each node in the "OR" group of "Parent Node"s.  This has the following effects on creating entries in the text file:
+
+- Each "dummy node" and the "Child Node" will be associated as parent and child, respectively.  This relationship will always have "Value" of "1" and "Logic" of "0" (i.e. "AND") because it is binding the "Child Node" and its dummy nodes together.  
+
+- Each "Parent Node" (for each group of "AND" and "OR") will be associated with the corresponding dummy node as parent and child, respectively.  The "Logic" of the "dummy node" to "Parent Node" relationships will be "AND" and "OR" depending on the "dummy node" used for grouping and the "Value" will be the same as the original "Parent Node" to "Child Node" relationship (this is also the same as the "dummy node" used - "AND" or "OR").
+
+2) Certain combinations of "Parent Node" and "Child Node" are filtered out/excluded, according to their dbId, in the text file.  This includes the following:
+
+"D-loop dissociation and strand annealing (5693589)" to "Sister Chromosomal Arm (1638790)"
+"BLM mediates dissolution of double Holliday junction (5686410)" to "Sister Chromosomal Arm (1638790)"
+"dsDNA (5649637)" to "DSB inducing agents induce double strand DNA breaks (3785704)"
+"PRLR ligands:p-S349- PRLR:JAK2 dimer:SCF beta-TrCP complex (1369085)" to any entity
+
+Any combinations including the following small molecules are also excluded:
+
+"ATP (114729)" - ChEBI:15422
+"ADP (114735)" - ChEBI:16761
+"phosphate(3-) (114736)" - ChEBI:18367
+"GTP (114754)" - ChEBI:15996
+"GDP (114749)" - ChEBI:17552
+"water (114728)" - ChEBI:15377
+"disphosphoric acid (114925)" - ChEBI:29888
+"phosphate (5316201)" - unknown:unknown
+"NADP(+) (114733)" - ChEBI:18009
+"NADPH (114732)" - ChEBI:16474
+"2'-deoxyribonucleoside triphosphate (114964)" - ChEBI:16516
+
+
+
+Finally, after these changes to the data structure, each entry is written out in a tab delimited row of four columns as "Parent Node", "Child Node", "Value", and "Logic".

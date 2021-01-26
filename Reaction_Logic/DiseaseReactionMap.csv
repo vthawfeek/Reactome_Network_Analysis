@@ -1,0 +1,2151 @@
+﻿ReactionID,ReactionName,DiseaseID,DiseaseName
+R-HSA-9670049,Defects in F8 A1 domain accelerate dissociation of the A2 domain,12134,factor VIII deficiency
+R-HSA-9670054,Defects in F8 A2 domain accelerate dissociation of the A2 domain,12134,factor VIII deficiency
+R-HSA-9668148,F8 variant is not sulfonated at Y1699,12134,factor VIII deficiency
+R-HSA-9666383,F8 variant is not cleaved by thrombin,12134,factor VIII deficiency
+R-HSA-9670189,F8 variant does not bind the cell membrane,12134,factor VIII deficiency
+R-HSA-9665809,F8 variant does not bind von Willebrand factor,12134,factor VIII deficiency
+R-HSA-9661980,F8 variant is not secreted,12134,factor VIII deficiency
+R-HSA-9668365,FVIIIa variant:FIXa does not convert FX to the active FXa,12134,factor VIII deficiency
+R-HSA-9670888,F9 variant is not secreted,12259,hemophilia B
+R-HSA-9670874,FIXa variant:FVIIIa does not convert FX to the active FXa,12259,hemophilia B
+R-HSA-9673223,FIX(29-461) variant is not activated (factor XIa catalyst),12259,hemophilia B
+R-HSA-9673231,GGCX does not gamma-carboxylate 3D-F9(29-461) (pro-factor IX),12259,hemophilia B
+R-HSA-9651456,SERPING1 variant does not bind factor XIIa,0060002,C1 inhibitor deficiency
+R-HSA-9651467,SERPING1 variant does not bind kallikrein,0060002,C1 inhibitor deficiency
+R-HSA-9650447,SERPING1 variant is not secreted,0060002,C1 inhibitor deficiency
+R-HSA-9653249,Cleavage of factor XII variant by activated thrombin,14735,hereditary angioedema
+R-HSA-9655046,Cleavage of FXII variant by KLKB1,14735,hereditary angioedema
+R-HSA-9668253,Hyperactivation of factor X by FVIIIa:FIXa R384L,2452,thrombophilia
+R-HSA-9664275,Src phosphorylates CD3 dimers in IgG:Lma antigens:FCGR3A:CD3 dimers,9111,cutaneous leishmaniasis
+R-HSA-9664273,SYK binds IgG:Lma antigens:FCGR3A:p-CD3 dimers,9111,cutaneous leishmaniasis
+R-HSA-9664278,Phosphorylation and activation of PLCG due to FCGR3A effect,9111,cutaneous leishmaniasis
+R-HSA-9664285,IgG binds the surface of the amastigote form of Leishmania,9111,cutaneous leishmaniasis
+R-HSA-9664261,Src phosphorylate SYK in IgG:Leishmania surface:p-FCGR3A:SYK,9111,cutaneous leishmaniasis
+R-HSA-9664271,Release of PLCG from FCGR3A,9111,cutaneous leishmaniasis
+R-HSA-9664270,Recruitment of PLCgamma to membrane due to FCGR3A effect,9111,cutaneous leishmaniasis
+R-HSA-9664397,IgG binds LPG1G2 in the amastigote form of Leishmania,9111,cutaneous leishmaniasis
+R-HSA-9664268,Opsonized leishmania amastigote binds FCGR3,9111,cutaneous leishmaniasis
+R-HSA-9664406,IgG:Lma antigens binds FCGR3A:CD3 dimers,9111,cutaneous leishmaniasis
+R-HSA-9666458,IgG:Leishmania surface:FCGR3A translocates from plasma membrane to the parasitophorous vacuole,9111,cutaneous leishmaniasis
+R-HSA-9666435,"VAV1,2,3:PI(3,4,5)P3 binds p-6Y-SYK",9111,cutaneous leishmaniasis
+R-HSA-9666433,IgG binds the surface of the amastigote form of Leishmania,9111,cutaneous leishmaniasis
+R-HSA-9666426,CRKII:DOCK180:ELMO binds FCGR3A,9111,cutaneous leishmaniasis
+R-HSA-9666425,"p-6Y-SYK phosphorylates VAV1,2,3",9111,cutaneous leishmaniasis
+R-HSA-9666430,"p-VAV1,2,3 exchanges GTP for GDP on RAC1:GDP",9111,cutaneous leishmaniasis
+R-HSA-9666428,DOCK180 exchanges GTP for GDP on RAC1:GDP,9111,cutaneous leishmaniasis
+R-HSA-9687121,nsp8 binds MAP1LC3B,2945,severe acute respiratory syndrome
+R-HSA-9684277,mRNA1 is translated to pp1ab,2945,severe acute respiratory syndrome
+R-HSA-9684275,nsp3-4 is glycosylated,2945,severe acute respiratory syndrome
+R-HSA-9684273,3CLp cleaves pp1a,2945,severe acute respiratory syndrome
+R-HSA-9684336,nsp1-4 cleaves itself,2945,severe acute respiratory syndrome
+R-HSA-9684309,3CLp cleaves nsp6-11,2945,severe acute respiratory syndrome
+R-HSA-9684340,3CLp cleaves pp1ab,2945,severe acute respiratory syndrome
+R-HSA-9684282,nsp9 forms a homodimer,2945,severe acute respiratory syndrome
+R-HSA-9684351,pp1a cleaves itself,2945,severe acute respiratory syndrome
+R-HSA-9684350,pp1a forms a dimer,2945,severe acute respiratory syndrome
+R-HSA-9681596,3CLp dimer binds α-Ketoamides,2945,severe acute respiratory syndrome
+R-HSA-9684323,3CLp forms a homodimer,2945,severe acute respiratory syndrome
+R-HSA-9684290,nsp3 is glycosylated,2945,severe acute respiratory syndrome
+R-HSA-9684321,nsp3 cleaves nsp1-4,2945,severe acute respiratory syndrome
+R-HSA-9684352,nsp3-4 cleaves itself,2945,severe acute respiratory syndrome
+R-HSA-9684261,nsp4 is glycosylated,2945,severe acute respiratory syndrome
+R-HSA-9687109,8b binds to MAP1LC3B,2945,severe acute respiratory syndrome
+R-HSA-9687435,Enhanced autophagosome formation,2945,severe acute respiratory syndrome
+R-HSA-9686015,"Nsp3, nsp4, and nsp6 produce replicative organelles",2945,severe acute respiratory syndrome
+R-HSA-9682258,nsp14 binds nsp12,2945,severe acute respiratory syndrome
+R-HSA-9682626,nsp13 binds nsp12,2945,severe acute respiratory syndrome
+R-HSA-9683393,nsp15 binds nsp8,2945,severe acute respiratory syndrome
+R-HSA-9682544,nsp14 binds nsp10,2945,severe acute respiratory syndrome
+R-HSA-9683429,nsp16 binds nsp10,2945,severe acute respiratory syndrome
+R-HSA-9686005,nsp3 binds to nsp7-8 and nsp12-16,2945,severe acute respiratory syndrome
+R-HSA-9680811,nsp12 binds nsp7 and nsp8,2945,severe acute respiratory syndrome
+R-HSA-9682718,nsp15 forms a hexamer,2945,severe acute respiratory syndrome
+R-HSA-9686013,Nsp3:nsp4 binds to nsp6,2945,severe acute respiratory syndrome
+R-HSA-9680812,nsp7 binds nsp8,2945,severe acute respiratory syndrome
+R-HSA-9684301,mRNA1 is translated to pp1a,2945,severe acute respiratory syndrome
+R-HSA-9683635,E pentamer is transported to the Golgi,2945,severe acute respiratory syndrome
+R-HSA-9683670,Protein E forms a homopentamer,2945,severe acute respiratory syndrome
+R-HSA-9683669,E protein gets N-glycosylated,2945,severe acute respiratory syndrome
+R-HSA-9683720,E protein gets palmitoylated,2945,severe acute respiratory syndrome
+R-HSA-9683679,Ubiquination of protein E,2945,severe acute respiratory syndrome
+R-HSA-9683618,mRNA3 is translated to protein 3a,2945,severe acute respiratory syndrome
+R-HSA-9683735,mRNA9a is translated to Nucleoprotein,2945,severe acute respiratory syndrome
+R-HSA-9683622,mRNA5 is translated to protein M,2945,severe acute respiratory syndrome
+R-HSA-9683648,Spike trimer glycoside chains are extended,2945,severe acute respiratory syndrome
+R-HSA-9683719,Spike protein forms a homotrimer,2945,severe acute respiratory syndrome
+R-HSA-9683653,Spike protein gets palmitoylated,2945,severe acute respiratory syndrome
+R-HSA-9683764,Spike trimer translocates to ERGIC,2945,severe acute respiratory syndrome
+R-HSA-9683755,Spike protein gets N-glycosylated,2945,severe acute respiratory syndrome
+R-HSA-9683663,N-glycan trimming of Spike,2945,severe acute respiratory syndrome
+R-HSA-9683772,Trimmed spike protein binds to calnexin,2945,severe acute respiratory syndrome
+R-HSA-9683634,Dimerisation of nucleoprotein,2945,severe acute respiratory syndrome
+R-HSA-9683714,Unphosphorylated nucleoprotein translocates to the plasma membrane,2945,severe acute respiratory syndrome
+R-HSA-9683664,GSK3B phosphorylates Ncap,2945,severe acute respiratory syndrome
+R-HSA-9683687,Nucleoprotein is SUMOylated,2945,severe acute respiratory syndrome
+R-HSA-9683606,Nucleoprotein translocates to the nucleolus,2945,severe acute respiratory syndrome
+R-HSA-9683765,Nucleoprotein translocates to the ERGIC outer membrane,2945,severe acute respiratory syndrome
+R-HSA-9683630,Nucleoprotein translocates to the plasma membrane,2945,severe acute respiratory syndrome
+R-HSA-9686061,Nucleoprotein is ADP-ribosylated,2945,severe acute respiratory syndrome
+R-HSA-9685939,3a localizes to the cell membrane,2945,severe acute respiratory syndrome
+R-HSA-9683746,Protein 3a forms a homotetramer,2945,severe acute respiratory syndrome
+R-HSA-9683712,3a translocates to the ERGIC,2945,severe acute respiratory syndrome
+R-HSA-9683760,GalNAc is transferred onto 3a,2945,severe acute respiratory syndrome
+R-HSA-9685956,3a is externalized together with membrane structures,2945,severe acute respiratory syndrome
+R-HSA-9683769,O-glycosylation of 3a is terminated,2945,severe acute respiratory syndrome
+R-HSA-9685950,Endocytosis of protein 3a,2945,severe acute respiratory syndrome
+R-HSA-9683624,mRNA2 is translated to Spike,2945,severe acute respiratory syndrome
+R-HSA-9683656,mRNA4 is translated to protein E,2945,severe acute respiratory syndrome
+R-HSA-9683751,M protein gets N-glycosylated,2945,severe acute respiratory syndrome
+R-HSA-9683718,Protein M localizes to the Golgi membrane,2945,severe acute respiratory syndrome
+R-HSA-9683734,Glycosylated M localizes to the Golgi membrane,2945,severe acute respiratory syndrome
+R-HSA-9684241,Recruitment of Spike trimer to assembling virion,2945,severe acute respiratory syndrome
+R-HSA-9685542,Viral release,2945,severe acute respiratory syndrome
+R-HSA-9684229,SUMO-p-N protein dimer binds genomic RNA,2945,severe acute respiratory syndrome
+R-HSA-9685531,SARS virus buds into ERGIC lumen,2945,severe acute respiratory syndrome
+R-HSA-9684234,Encapsidation of SARS coronavirus genomic RNA,2945,severe acute respiratory syndrome
+R-HSA-9684218,M protein oligomerization,2945,severe acute respiratory syndrome
+R-HSA-9684238,E and N are recruited to the M lattice,2945,severe acute respiratory syndrome
+R-HSA-9686174,Accessory proteins are recruited to the maturing virion,2945,severe acute respiratory syndrome
+R-HSA-9681651,nsp8 generates RNA primers,2945,severe acute respiratory syndrome
+R-HSA-9684018,nsp14 acts as a cap N7 methyltransferase to modify SARS-CoV-1 gRNA complement (minus strand),2945,severe acute respiratory syndrome
+R-HSA-9684017,nsp14 acts as a cap N7 methyltransferase to modify SARS-CoV-1 gRNA (plus strand),2945,severe acute respiratory syndrome
+R-HSA-9681840,RTC synthesizes SARS-CoV-1 plus strand genomic RNA,2945,severe acute respiratory syndrome
+R-HSA-9681627,GSK3 phosphorylates N,2945,severe acute respiratory syndrome
+R-HSA-9682009,ZCRB1 binds 5'UTR of SARS-CoV-1 genomic RNA,2945,severe acute respiratory syndrome
+R-HSA-9687384,SARS-CoV-1 gRNA complement (minus strand):RTC binds RTC inhibitors,2945,severe acute respiratory syndrome
+R-HSA-9682712,nsp15 binds RB1,2945,severe acute respiratory syndrome
+R-HSA-9683455,nsp16 binds VHL,2945,severe acute respiratory syndrome
+R-HSA-9684030,nsp16 acts as a cap 2'-O-methyltransferase to modify SARS-CoV-1 gRNA complement (minus strand),2945,severe acute respiratory syndrome
+R-HSA-9685597,RTC binds SARS-CoV-1 genomic RNA complement (minus strand),2945,severe acute respiratory syndrome
+R-HSA-9687388,SARS-CoV-1 gRNA:RTC:nascent RNA minus strand binds RTC inhibitors,2945,severe acute respiratory syndrome
+R-HSA-9682563,nsp12 misincorporates a nucleotide in nascent RNA minus strand,2945,severe acute respiratory syndrome
+R-HSA-9681314,Replication transcription complex binds SARS-CoV-1 genomic RNA,2945,severe acute respiratory syndrome
+R-HSA-9682465,RTC completes synthesis of the minus strand genomic RNA complement,2945,severe acute respiratory syndrome
+R-HSA-9684032,nsp16 acts as a cap 2'-O-methyltransferase to modify SARS-CoV-1 gRNA (plus strand),2945,severe acute respiratory syndrome
+R-HSA-9682695,nsp13 helicase melts secondary structures in SARS-CoV-1 genomic RNA template,2945,severe acute respiratory syndrome
+R-HSA-9682631,nsp13 binds DDX5,2945,severe acute respiratory syndrome
+R-HSA-9680262,SARS coronavirus gRNA:RTC:RNA primer binds RTC inhibitors,2945,severe acute respiratory syndrome
+R-HSA-9682603,nsp14 acts as a 3'-to-5' exonuclease to remove misincorporated nucleotides from nascent RNA,2945,severe acute respiratory syndrome
+R-HSA-9681674,nsp12 synthesizes minus strand SARS-CoV-1 genomic RNA complement,2945,severe acute respiratory syndrome
+R-HSA-9685519,Polyadenylation of SARS-CoV-1 genomic RNA (plus strand),2945,severe acute respiratory syndrome
+R-HSA-9685906,Polyadenylation of SARS-CoV-1 subgenomic mRNAs (plus strand),2945,severe acute respiratory syndrome
+R-HSA-9685681,Synthesis of SARS-CoV-1 plus strand subgenomic mRNAs,2945,severe acute respiratory syndrome
+R-HSA-9684033,nsp16 acts as a cap 2'-O-methyltransferase to modify SARS-CoV-1 mRNAs,2945,severe acute respiratory syndrome
+R-HSA-9684016,nsp14 acts as a cap N7 methyltransferase to modify SARS-CoV-1 mRNAs,2945,severe acute respiratory syndrome
+R-HSA-9685639,Synthesis of SARS-CoV-1 minus strand subgenomic mRNAs by template switching,2945,severe acute respiratory syndrome
+R-HSA-9678128,Spike glycoprotein of SARS coronavirus binds ACE2 on host cell,2945,severe acute respiratory syndrome
+R-HSA-9686711,Endocytois of SARS-CoV-1 Virion,2945,severe acute respiratory syndrome
+R-HSA-9686710,Cleavage of S protein into S1:S2,2945,severe acute respiratory syndrome
+R-HSA-9686709,Uncoating of SARS-CoV-1 Genome,2945,severe acute respiratory syndrome
+R-HSA-9686699,Fusion and Release of SARS-CoV-1 Nucleocapsid,2945,severe acute respiratory syndrome
+R-HSA-9686731,TMPRSS2 Mediated SARS-CoV-1 Spike Protein Cleavage and Endocytosis,2945,severe acute respiratory syndrome
+R-HSA-8876230,InlB:MET dimer trans-autophophorylates,11573,listeriosis
+R-HSA-8876246,InlB-activated MET phosphorylates CBL,11573,listeriosis
+R-HSA-8876262,EPS15 and HGS bind CBL-monoubiquitinated MET engaged with Listeria InlB,11573,listeriosis
+R-HSA-8876210,InlB promotes MET dimerization,11573,listeriosis
+R-HSA-8876258,CBL monoubiquitinates InlB-bound MET,11573,listeriosis
+R-HSA-8876240,CBL binds InlB-activated MET,11573,listeriosis
+R-HSA-8876255,CBL recruits CIN85:endophilin complex to InlB-bound MET,11573,listeriosis
+R-HSA-8875371,InlB binds MET,11573,listeriosis
+R-HSA-8876948,SRC phosphorylates InlA-bound CDH1 and CTNNB1,11573,listeriosis
+R-HSA-8876497,InlA binds CDH1,11573,listeriosis
+R-HSA-8876993,CBLL1 binds SRC-phosphorylated CDH1 complex,11573,listeriosis
+R-HSA-112333,SRC autophosphorylation is positively regulated by InlA-bound CDH1,11573,listeriosis
+R-HSA-8877003,CBLL1 ubiqutinates the InlA-bound CDH1 complex,11573,listeriosis
+R-HSA-164515,Fusogenic activation of gp41,526,Human immunodeficiency virus infectious disease
+R-HSA-164500,Conformational changes in gp120 exposes gp41,526,Human immunodeficiency virus infectious disease
+R-HSA-164507,CD4:gp120  binds to chemokine co-receptor CCR5/CXCR4,526,Human immunodeficiency virus infectious disease
+R-HSA-164521,Insertion of gp41 fusion peptide into the target membrane,526,Human immunodeficiency virus infectious disease
+R-HSA-164510,Conformational change in gp120 of Env oligomer,526,Human immunodeficiency virus infectious disease
+R-HSA-164508,N and C terminal heptad repeat helices of gp41 form six-helix bundle,526,Human immunodeficiency virus infectious disease
+R-HSA-164524,Fusion of viral membrane with host cell membrane,526,Human immunodeficiency virus infectious disease
+R-HSA-164509,Binding of gp120 of ENV oligomer to the host CD4,526,Human immunodeficiency virus infectious disease
+R-HSA-164514,Integrase binds viral DNA ends,526,Human immunodeficiency virus infectious disease
+R-HSA-175250,Suicidal integration leading to smaller circles of viral DNA,526,Human immunodeficiency virus infectious disease
+R-HSA-164845,Suicidal integration leading to inverted circle formation,526,Human immunodeficiency virus infectious disease
+R-HSA-8951690,Formation of RTC with integration competent viral DNA:BANF1:HMGA1:PSIP1,526,Human immunodeficiency virus infectious disease
+R-HSA-164522,Terminal (3' end) cleavage of viral DNA,526,Human immunodeficiency virus infectious disease
+R-HSA-173115,Formation of Pre-Integration Complex (PIC),526,Human immunodeficiency virus infectious disease
+R-HSA-175174,Association of Ku heterodimer with viral DNA ends,526,Human immunodeficiency virus infectious disease
+R-HSA-175258,2-LTR formation due to circularization of viral DNA,526,Human immunodeficiency virus infectious disease
+R-HSA-175177,Association of  XRCC4:DNA ligase IV complex with viral DNA ends,526,Human immunodeficiency virus infectious disease
+R-HSA-162590,Import of PIC to the Host Nucleus,526,Human immunodeficiency virus infectious disease
+R-HSA-175108,Target DNA binding,526,Human immunodeficiency virus infectious disease
+R-HSA-164506,Gap repair completes provirus integration,526,Human immunodeficiency virus infectious disease
+R-HSA-164523,Transesterification to connect viral DNA 3' ends to host DNA 5' ends,526,Human immunodeficiency virus infectious disease
+R-HSA-175117,1-LTR circle formation,526,Human immunodeficiency virus infectious disease
+R-HSA-173771,Formation of RTC (Reverse Transcription Complex),526,Human immunodeficiency virus infectious disease
+R-HSA-173111,Disassembly of viral capsid,526,Human immunodeficiency virus infectious disease
+R-HSA-173642,Disintegration of matrix layer,526,Human immunodeficiency virus infectious disease
+R-HSA-164527,Annealing of 3'-end of unwound transfer RNA primer with genomic RNA,526,Human immunodeficiency virus infectious disease
+R-HSA-182876,Removal of plus-strand flap and gap closure complete synthesis of linear duplex viral DNA,526,Human immunodeficiency virus infectious disease
+R-HSA-164528,RNase H-mediated cleavage of the template strand,526,Human immunodeficiency virus infectious disease
+R-HSA-164519,RNase H-mediated cleavage of the RNA strand of the -sssDNA:RNA duplex,526,Human immunodeficiency virus infectious disease
+R-HSA-164503,First strand transfer mediated by Repeated (R) sequence,526,Human immunodeficiency virus infectious disease
+R-HSA-182859,RNase H-mediated degradation of the RNA strand of the -sssDNA:RNA duplex,526,Human immunodeficiency virus infectious disease
+R-HSA-182795,RNase H-mediated degradation of the template strand,526,Human immunodeficiency virus infectious disease
+R-HSA-164504,Synthesis of minus strand strong stop DNA (-sssDNA),526,Human immunodeficiency virus infectious disease
+R-HSA-164520,Minus strand DNA synthesis resumes,526,Human immunodeficiency virus infectious disease
+R-HSA-164512,Second strand transfer by annealing complementary PBS sequences,526,Human immunodeficiency virus infectious disease
+R-HSA-164513,3' PPT-primed initiation of plus-strand DNA synthesis ,526,Human immunodeficiency virus infectious disease
+R-HSA-173769,"RNase H-mediated digestion of tRNA, 3'PPT and cPPT RNA primers",526,Human immunodeficiency virus infectious disease
+R-HSA-164505,Synthesis of full-length duplex viral DNA with a discontinuous plus strand,526,Human immunodeficiency virus infectious disease
+R-HSA-162914,Myristoylation of Nef,526,Human immunodeficiency virus infectious disease
+R-HSA-3149440,Transport of VPU to Golgi apparatus,526,Human immunodeficiency virus infectious disease
+R-HSA-3149432,Transport of VPU to Plasma Membrane,526,Human immunodeficiency virus infectious disease
+R-HSA-187211,Splicing of HIV RNA transcript,526,Human immunodeficiency virus infectious disease
+R-HSA-171291,Folding and Oligomerization of ENV glycoprotein,526,Human immunodeficiency virus infectious disease
+R-HSA-174491,Transport of trimeric ENV precursor to Golgi apparatus,526,Human immunodeficiency virus infectious disease
+R-HSA-3149433,Synthesis of VPU protein,526,Human immunodeficiency virus infectious disease
+R-HSA-171288,Cleavage of the viral Env gp160 precursor polyprotein,526,Human immunodeficiency virus infectious disease
+R-HSA-174494,Synthesis of ENV polyprotein,526,Human immunodeficiency virus infectious disease
+R-HSA-173647,Transport of trimeric gp41:gp120 to plasma membrane,526,Human immunodeficiency virus infectious disease
+R-HSA-174493,Glycosylation of ENV polyprotein,526,Human immunodeficiency virus infectious disease
+R-HSA-184323,Monoubiquitination of N-myristoyl GAG polyprotein,526,Human immunodeficiency virus infectious disease
+R-HSA-184392,N-myristoylation of GAG polyprotein by NMT2,526,Human immunodeficiency virus infectious disease
+R-HSA-3149434,Transport of GAG to the Plasma Membrane,526,Human immunodeficiency virus infectious disease
+R-HSA-184269,Monoubiquitinated N-myristoyl GAG polyprotein is targeted to the late endosomal vesicle membrane by the ESCRT-I complex,526,Human immunodeficiency virus infectious disease
+R-HSA-187213,Synthesis of GAG polyprotein,526,Human immunodeficiency virus infectious disease
+R-HSA-3149454,Packaging of HIV virion on the host cell plasma membrane,526,Human immunodeficiency virus infectious disease
+R-HSA-167077,Recruitment of elongation factors to form HIV-1 elongation complex,526,Human immunodeficiency virus infectious disease
+R-HSA-167084,Hyperphosphorylation (Ser2) of RNA Pol II CTD by P-TEFb complex,526,Human immunodeficiency virus infectious disease
+R-HSA-167072,Hypophosphorylation of RNA Pol II CTD by FCP1P protein,526,Human immunodeficiency virus infectious disease
+R-HSA-167089,Recognition and binding of the HIV-1 mRNA cap by the cap-binding complex,526,Human immunodeficiency virus infectious disease
+R-HSA-167478,Abortive termination of HIV-1 early transcription elongation by DSIF:NELF,526,Human immunodeficiency virus infectious disease
+R-HSA-167083,DSIF complex binds to RNA Pol II (hypophosphorylated),526,Human immunodeficiency virus infectious disease
+R-HSA-167085,Formation of DSIF:NELF:HIV-1 early elongation complex,526,Human immunodeficiency virus infectious disease
+R-HSA-167147,Separation of abortive HIV-1 transcript from template,526,Human immunodeficiency virus infectious disease
+R-HSA-167087,Limited elongation of the HIV-1 transcript,526,Human immunodeficiency virus infectious disease
+R-HSA-167234,Association of Tat with P-TEFb(Cyclin T1:Cdk9),526,Human immunodeficiency virus infectious disease
+R-HSA-170706,Phosphorylation of  NEFL by the P-TEFb(Cyclin T1:Cdk9) complex,526,Human immunodeficiency virus infectious disease
+R-HSA-170704,Phosphorylation of DSIF by the P-TEFb(Cyclin T1:Cdk9) complex,526,Human immunodeficiency virus infectious disease
+R-HSA-167191,Hyperphosphorylation (Ser2) of RNA Pol II CTD by the P-TEFb(Cyclin T1:Cdk9) complex,526,Human immunodeficiency virus infectious disease
+R-HSA-167196,Recruitment of elongation factors to form HIV-1 elongation complex,526,Human immunodeficiency virus infectious disease
+R-HSA-167192,Pol II elongation complex moves on the HIV-1 template as transcript elongates,526,Human immunodeficiency virus infectious disease
+R-HSA-167181,Addition of nucleotides leads to HIV-1 transcript elongation,526,Human immunodeficiency virus infectious disease
+R-HSA-167197,Separation of elongating HIV-1 transcript from template,526,Human immunodeficiency virus infectious disease
+R-HSA-167076,2-4 nt.backtracking of Pol II complex on the HIV-1 template leading to elongation pausing,526,Human immunodeficiency virus infectious disease
+R-HSA-167150,Resumption of elongation of HIV-1 transcript after recovery from pausing,526,Human immunodeficiency virus infectious disease
+R-HSA-167284,7-14 nt. Backtracking of Pol II complex on the HIV-1 template leading to elongation arrest,526,Human immunodeficiency virus infectious disease
+R-HSA-167288,TFIIS-mediated recovery of HIV-1 elongation from arrest,526,Human immunodeficiency virus infectious disease
+R-HSA-167481,Abortive termination of HIV-1 elongation after arrest,526,Human immunodeficiency virus infectious disease
+R-HSA-9613490,Unwinding of DNA for the nascent HIV-1 transcript: Second Transition,526,Human immunodeficiency virus infectious disease
+R-HSA-167474,Abortive HIV-1 Initiation Before Second Transition,526,Human immunodeficiency virus infectious disease
+R-HSA-167136,Addition of nucleotides 5 through 9 on the growing HIV-1 transcript,526,Human immunodeficiency virus infectious disease
+R-HSA-167121,Addition of the third nucleotide on the nascent HIV-1 transcript,526,Human immunodeficiency virus infectious disease
+R-HSA-9613498,Unwinding of DNA for the nascent HIV-1 transcript,526,Human immunodeficiency virus infectious disease
+R-HSA-167115,Addition of nucleotides between position +11 and +30 on HIV-1 transcript,526,Human immunodeficiency virus infectious disease
+R-HSA-167113,Addition of the fourth nucleotide on the nascent HIV-1 transcript: Second Transition,526,Human immunodeficiency virus infectious disease
+R-HSA-167468,Abortive HIV-1 Initiation After Second Transition,526,Human immunodeficiency virus infectious disease
+R-HSA-167117,Addition of nucleotides 10 and 11 on the growing HIV-1 transcript: Third Transition,526,Human immunodeficiency virus infectious disease
+R-HSA-167282,2-4 nt.backtracking of Pol II complex on the HIV-1 template leading to elongation pausing,526,Human immunodeficiency virus infectious disease
+R-HSA-167292,Resumption of elongation of HIV-1 transcript after recovery from pausing,526,Human immunodeficiency virus infectious disease
+R-HSA-167090,7-14 nt. Backtracking of Pol II complex on the HIV-1 template leading to elongation arrest,526,Human immunodeficiency virus infectious disease
+R-HSA-167459,Abortive  termination of HIV-1 elongation after arrest (Tat-containing elongation complex),526,Human immunodeficiency virus infectious disease
+R-HSA-167148,TFIIS-mediated recovery of elongation from arrest,526,Human immunodeficiency virus infectious disease
+R-HSA-167153,SPT5 subunit of Pol II binds the RNA triphosphatase (RTP),526,Human immunodeficiency virus infectious disease
+R-HSA-167111,Extrusion of 5'-end of 30 nt long HIV-1 transcript through the pore in Pol II complex,526,Human immunodeficiency virus infectious disease
+R-HSA-167098,Phosphorylation (Ser5) of RNA pol II CTD,526,Human immunodeficiency virus infectious disease
+R-HSA-167128,RNA Polymerase II CTD (phosphorylated) binds to CE,526,Human immunodeficiency virus infectious disease
+R-HSA-167133,Activation of GT,526,Human immunodeficiency virus infectious disease
+R-HSA-167097,HIV Promoter Opening: First Transition,526,Human immunodeficiency virus infectious disease
+R-HSA-167477,Abortive HIV-1 initiation after formation of the first phosphodiester bond,526,Human immunodeficiency virus infectious disease
+R-HSA-167130,Nucleophillic attack by 3'-hydroxyl oxygen of nascent HIV-1 transcript on the Alpha phosphate of NTP,526,Human immunodeficiency virus infectious disease
+R-HSA-167118,NTP binds active site of RNA Polymerase II in HIV-1 open pre-initiation complex,526,Human immunodeficiency virus infectious disease
+R-HSA-167134,Newly formed phosphodiester bond stabilized and PPi released,526,Human immunodeficiency virus infectious disease
+R-HSA-167484,Fall Back to Closed Pre-initiation Complex,526,Human immunodeficiency virus infectious disease
+R-HSA-165027,Rev molecules assemble onto the RRE RNA sequence through their ARM sequence,526,Human immunodeficiency virus infectious disease
+R-HSA-165043,Rev multimer-bound HIV mRNA:Crm1:Ran:GTP complex associates with the NPC,526,Human immunodeficiency virus infectious disease
+R-HSA-180739,Association of RanBP1 with Ran-GTP:CRM1:Rev:mRNA complex,526,Human immunodeficiency virus infectious disease
+R-HSA-165047,Translocation of nuclear RNA transport complex to cytoplasm,526,Human immunodeficiency virus infectious disease
+R-HSA-165028,Release of the HIV mRNA and Crm1 from Rev in the cytoplasm,526,Human immunodeficiency virus infectious disease
+R-HSA-180885,Rev multimer-bound HIV mRNA associates with Crm1,526,Human immunodeficiency virus infectious disease
+R-HSA-165034,Rev multimer-bound  HIV mRNA:CRM1 complex associates with Ran:GTP,526,Human immunodeficiency virus infectious disease
+R-HSA-165033,Multimerization of Rev,526,Human immunodeficiency virus infectious disease
+R-HSA-165055,Hydrolysis of Ran:GTP to Ran:GDP,526,Human immunodeficiency virus infectious disease
+R-HSA-3159232,Recruitment Of HIV Virion Budding Machinery,526,Human immunodeficiency virus infectious disease
+R-HSA-3159227,HIV Virion Budding,526,Human immunodeficiency virus infectious disease
+R-HSA-3139027,Maturation of HIV Virion,526,Human immunodeficiency virus infectious disease
+R-HSA-167235,Formation of the P-TEFb(Cyclin T1:Cdk9) complex,526,Human immunodeficiency virus infectious disease
+R-HSA-180855,Translocation of Vpr to the mitochondria,526,Human immunodeficiency virus infectious disease
+R-HSA-180905,Association of Vpr with ANT1,526,Human immunodeficiency virus infectious disease
+R-HSA-180627,Interaction of Vpr with importin alpha,526,Human immunodeficiency virus infectious disease
+R-HSA-180622,Vpr binds nucleoporins,526,Human immunodeficiency virus infectious disease
+R-HSA-180630,Association of APOBEC3G with Gag,526,Human immunodeficiency virus infectious disease
+R-HSA-180634,Association of APOBEC3G with single-stranded region of forming HIV-1 minus strand,526,Human immunodeficiency virus infectious disease
+R-HSA-180632,Deamination of C residues during synthesis of HIV-1 reverse transcript minus-strand,526,Human immunodeficiency virus infectious disease
+R-HSA-180599,The Vpu:CD4:beta-TrCP complex recruits SKP1,526,Human immunodeficiency virus infectious disease
+R-HSA-180597,Ubiquitination of CD4 by Vpu:CD4:beta-TrCP:SKP1 complex,526,Human immunodeficiency virus infectious disease
+R-HSA-180606,Association of Vpu with CD4,526,Human immunodeficiency virus infectious disease
+R-HSA-180591,Vpu:CD4 associates with beta-TrCP,526,Human immunodeficiency virus infectious disease
+R-HSA-180573,Degradation of ubiquitinated CD4,526,Human immunodeficiency virus infectious disease
+R-HSA-180736,Disassembly of the Rev-importin beta-B23:Ran-GTP complex,526,Human immunodeficiency virus infectious disease
+R-HSA-180710,Rev:importin beta:B23 recruited to the nuclear pore,526,Human immunodeficiency virus infectious disease
+R-HSA-180709,Association of multimerized Rev with beta-importin,526,Human immunodeficiency virus infectious disease
+R-HSA-180725,Rev associates with B23,526,Human immunodeficiency virus infectious disease
+R-HSA-180728,Association of Ran-GTP with importin-beta,526,Human immunodeficiency virus infectious disease
+R-HSA-180732,Translocation of Rev:importin-beta:B23 to the nucleus,526,Human immunodeficiency virus infectious disease
+R-HSA-200858,Nef Binds and activates the Src-family tyrosine kinase Hck,526,Human immunodeficiency virus infectious disease
+R-HSA-200954,Nef Binds and activates the Src-family tyrosine kinase Lck,526,Human immunodeficiency virus infectious disease
+R-HSA-200952,"Nef binds a ternary complex comprising DOCK2 guanine nucleotide exchange factor for small Rho-family GTPase Rac, its cofactor ELMO1, and Rac, and activates Rac through this interaction",526,Human immunodeficiency virus infectious disease
+R-HSA-164943,Nef mediated activation of the T-cell receptor,526,Human immunodeficiency virus infectious disease
+R-HSA-200908,Nef Binds and activates the Src-family tyrosine kinase Fyn,526,Human immunodeficiency virus infectious disease
+R-HSA-167537,Formation of CD4:Nef:AP-2 Complex:v-ATPase Complex,526,Human immunodeficiency virus infectious disease
+R-HSA-167601,Degradation of CD4,526,Human immunodeficiency virus infectious disease
+R-HSA-167566,Nef mediated disruption of CD4:Lck Complex,526,Human immunodeficiency virus infectious disease
+R-HSA-200879,Formation of a Nef:ARF1:CD4 complex,526,Human immunodeficiency virus infectious disease
+R-HSA-167597,Internalization of the CD4:Nef:AP-2 Complex:v-ATPase Complex,526,Human immunodeficiency virus infectious disease
+R-HSA-182198,Internalization of the CD8:Nef:AP-2 Complex:v-ATPase Complex,526,Human immunodeficiency virus infectious disease
+R-HSA-182186,Formation of CD8:Nef:AP-2 Complex:v-ATPase Complex,526,Human immunodeficiency virus infectious disease
+R-HSA-182171,Degradation of CD8,526,Human immunodeficiency virus infectious disease
+R-HSA-167633,Formation of Nef:Cd28:Clathrin-coated Pit Adapter Protein complex,526,Human immunodeficiency virus infectious disease
+R-HSA-167637,Internalization of Nef:CD28:Clathrin-Coated Pit Adapter Protein Complex,526,Human immunodeficiency virus infectious disease
+R-HSA-167630,Formation of Nef CD28 cytoplasmic tail complex,526,Human immunodeficiency virus infectious disease
+R-HSA-182243,Formation of MHC I:Nef Complex,526,Human immunodeficiency virus infectious disease
+R-HSA-182279,Formation of MHC I:Nef:AP-1:PACS-1 Complex,526,Human immunodeficiency virus infectious disease
+R-HSA-182263,Degradation of MHC I Complex,526,Human immunodeficiency virus infectious disease
+R-HSA-182286,Transport of MHC I:Nef:AP-1:PACS-1 Complex,526,Human immunodeficiency virus infectious disease
+R-HSA-180602,Association of Vif with APOBEC3G,526,Human immunodeficiency virus infectious disease
+R-HSA-180555,Association of APOBEC3G:Vif with the Cul5-SCF complex,526,Human immunodeficiency virus infectious disease
+R-HSA-180603,Proteosome-mediated degradation of APOBEC3G,526,Human immunodeficiency virus infectious disease
+R-HSA-180540,Multi-ubiquitination of APOBEC3G,526,Human immunodeficiency virus infectious disease
+R-HSA-8936356,GUCY2C trimer binds sta1,12384,dysentery
+R-HSA-5210959,Endocytosis of EF:LF:PA63:ANTXR2 (plasma membrane to endosome membrane),7427,anthrax disease
+R-HSA-5211405,Anthrax LF cleaves target cell MAP2K6 (MEK6),7427,anthrax disease
+R-HSA-5210892,EF and LF bind to PA63:ANTXR2 oligomer,7427,anthrax disease
+R-HSA-5211340,Anthrax LF cleaves target cell MAP2K1 (MEK1),7427,anthrax disease
+R-HSA-5210923,EF and LF bind to PA63:ANTXR1 oligomer,7427,anthrax disease
+R-HSA-5210921,PA83 binds ANTXR1,7427,anthrax disease
+R-HSA-5211400,Anthrax LF cleaves target cell MAP2K3 (MEK3),7427,anthrax disease
+R-HSA-5210918,PA83 binds ANTXR2,7427,anthrax disease
+R-HSA-5210947,PA63:ANTRX1 oligomer transports EF and LF (target cell endosome to cytosol),7427,anthrax disease
+R-HSA-5210912,Furin cleaves ANTXR2-bound PA83 to yield PA63,7427,anthrax disease
+R-HSA-5210944,Endocytosis of EF:LF:PA63:ANTXR1 (plasma membrane to endosome membrane),7427,anthrax disease
+R-HSA-5210943,PA63:ANTRX2 oligomer transports EF and LF (target cell endosome to cytosol),7427,anthrax disease
+R-HSA-5211391,Anthrax LF cleaves target cell MAP2K4 (MEK4),7427,anthrax disease
+R-HSA-5210909,ANTXR1-bound PA63 forms oligomers,7427,anthrax disease
+R-HSA-5211356,Anthrax LF cleaves target cell MAP2K2 (MEK2),7427,anthrax disease
+R-HSA-5211387,Anthrax LF cleaves target cell MAP2K7 (MEK7),7427,anthrax disease
+R-HSA-5211224,Anthrax EF catalyzes the conversion of ATP to cAMP,7427,anthrax disease
+R-HSA-5210935,Furin cleaves ANTXR1-bound PA83 to yield PA63,7427,anthrax disease
+R-HSA-5210932,ANTXR2-bound PA63 forms oligomers,7427,anthrax disease
+R-HSA-5228941,Transcytosis and dissociation of BoNT/E:NTNHA,11976,botulism
+R-HSA-194800,BoNT/E LC cleaves target cell SNAP25,11976,botulism
+R-HSA-5244500,BoNT/E:SV2:GT1b internalized from target cell plasma membrane to synaptic vesicle membrane,11976,botulism
+R-HSA-5244503,BoNT/E HC:LC binds SV2A or B and GT1b on the target cell surface,11976,botulism
+R-HSA-5244506,BoNT/E HC transports BoNT/E LC from target cell synaptic vesicle membrane into cytosol,11976,botulism
+R-HSA-5250880,BoNT/F HC:LC binds SV2A or B or C and GT1b on the target cell surface,11976,botulism
+R-HSA-5250884,BoNT/F HC transports BoNT/F LC from target cell synaptic vesicle membrane into cytosol,11976,botulism
+R-HSA-194808,BoNT/F LC cleaves target cell VAMP1,11976,botulism
+R-HSA-5250875,BoNT/F:SV2:GT1b internalized from target cell plasma membrane to synaptic vesicle membrane,11976,botulism
+R-HSA-5250892,BoNT/F LC cleaves target cell VAMP2,11976,botulism
+R-HSA-5228411,Clathrin-mediated endocytosis of TeNT HC:LC:gangliosides,11338,tetanus
+R-HSA-5228408,Retrograde transport of internalized TeNT HC:LC:gangliosides,11338,tetanus
+R-HSA-5228407,TeNT HC:LC binds target cell-surface gangliosides,11338,tetanus
+R-HSA-5228406,TeNT HC transports TeNT LC from target cell endosome membrane into cytosol,11338,tetanus
+R-HSA-5228578,TeNT LC cleaves target cell VAMP2,11338,tetanus
+R-HSA-5228943,Transcytosis and dissociation of BoNT/A:NTNHA:HA,11976,botulism
+R-HSA-194818,BoNT/A LC cleaves target cell SNAP25,11976,botulism
+R-HSA-5244424,BoNT/A:SV2:GT1b internalized from target cell plasma membrane to synaptic vesicle membrane,11976,botulism
+R-HSA-5244428,BoNT/A HC transports BoNT/A LC from target cell synaptic vesicle membrane into cytosol,11976,botulism
+R-HSA-5244415,"BoNT/A HC:LC binds SV2A, B, or C and GT1b on the target cell surface",11976,botulism
+R-HSA-5246514,BoNT/C HC transports BoNT/C LC from target cell synaptic vesicle membrane to cytosol,11976,botulism
+R-HSA-5246506,BoNT/C HC:LC binds GT1b on the target cell surface,11976,botulism
+R-HSA-194793,BoNT/C LC cleaves target cell SNAP25,11976,botulism
+R-HSA-5246509,BoNT/C:GT1b internalized from target cell plasma membrane to synaptic vesicle membrane,11976,botulism
+R-HSA-181567,BoNT/C LC cleaves target cell STX1,11976,botulism
+R-HSA-5250600,BoNT/D:SV2:GD2 internalized from target cell plasma membrane to synaptic vesicle membrane,11976,botulism
+R-HSA-5250616,BoNT/D HC transports BoNT/D LC from target cell synaptic vesicle membrane into cytosol,11976,botulism
+R-HSA-194809,BoNT/D LC cleaves target cell VAMP1,11976,botulism
+R-HSA-5250606,BoNT/D LC cleaves target cell VAMP2,11976,botulism
+R-HSA-5250607,BoNT/D HC:LC binds SV2A or B or C and GD2 on the target cell surface,11976,botulism
+R-HSA-5250978,BoNT/G LC cleaves target cell VAMP1,11976,botulism
+R-HSA-5250962,BoNT/G LC cleaves target cell VAMP2,11976,botulism
+R-HSA-5250979,BoNT/G:SYT1:GT1b internalized from target cell plasma membrane to synaptic vesicle membrane,11976,botulism
+R-HSA-5250986,BoNT/G HC:LC binds SYT1 and GT1b on the target cell surface,11976,botulism
+R-HSA-5250972,BoNT/G HC transports BoNT/G LC from target cell synaptic vesicle membrane into cytosol,11976,botulism
+R-HSA-5244402,BoNT/B:SYT:GT1b internalized from target cell plasma membrane to synaptic vesicle membrane,11976,botulism
+R-HSA-5228940,Transcytosis and dissociation of BoNT/B:NTNHA:HA,11976,botulism
+R-HSA-5244404,BoNT/B HC transports BoNT/B LC from target cell synaptic vesicle membrane into cytosol,11976,botulism
+R-HSA-5244397,BoNT/B HC:LC binds SYT1 or 2 and GT1b on the target cell surface,11976,botulism
+R-HSA-194796,BoNT/B LC cleaves target cell VAMP2,11976,botulism
+R-HSA-5336417,DT A:B binds HBEGF and CD9 on the target cell surface,11405,diphtheria
+R-HSA-5336421,DT fragment A ADP-ribosylates target cell EEF,11405,diphtheria
+R-HSA-5336420,DT fragment B transports DT fragment A from target cell endosome membrane,11405,diphtheria
+R-HSA-5336422,Clathrin-mediated endocytosis of DT:HBEGF:CD9,11405,diphtheria
+R-HSA-5336413,DT:HBEGF:CD9 is transported from clathrin-coated vesicle to endosome,11405,diphtheria
+R-HSA-9610867,HCMV Binds Host Cell Receptor - Endocytic Pathway,934,viral infectious disease
+R-HSA-9614816,Latent Transcriptinally Repressed HCMV Genome,934,viral infectious disease
+R-HSA-9614369,Transport of HCMV DNA Into the Nucleus,934,viral infectious disease
+R-HSA-9621073,Immediate Early (IE) Gene Expression,0050117,disease by infectious agent
+R-HSA-9611158,Fusion of HCMV Envelope with Plasma Membrane,934,viral infectious disease
+R-HSA-9614343,Viral UL47:UL48 Proteins Bind HCMV Tegumented Virion to Host Microtuble and Dynein complexs,934,viral infectious disease
+R-HSA-9614810,Activation of Latent HCMV Genome,934,viral infectious disease
+R-HSA-9611147,Endocytic Uptake of HCMV Virion,934,viral infectious disease
+R-HSA-9614811,Transcriptional Activation of the HCMV Genome,934,viral infectious disease
+R-HSA-9623096,Delayed Early (DE) Gene Expression,0050117,disease by infectious agent
+R-HSA-9609689,HCMV Binds to the Host Cell via heparan sulfate proteoglycans (HSPG),934,viral infectious disease
+R-HSA-9614367,HCMV Nuclear Pore Docking,934,viral infectious disease
+R-HSA-9640368,Addition of Tegument to HCMV Nucleocapsid C,934,viral infectious disease
+R-HSA-9610388,HCMV translocates from the endosome lumen to the extracellular region,934,viral infectious disease
+R-HSA-9610942,HCMV Formation of Final Envelopment Complex,934,viral infectious disease
+R-HSA-9624033,Initiation of HCMV DNA Replication,0050117,disease by infectious agent
+R-HSA-9636128,"Translocation of SCP, Triplex (TRI) complex, CVC complex, and Accessory Proteins from the cytoplasm into the nucleous",934,viral infectious disease
+R-HSA-9610954,HCMV Final Envelopment,934,viral infectious disease
+R-HSA-9629004,Transport of MCP:pPR-AP:pAP Complex into the Nucleous,934,viral infectious disease
+R-HSA-192677,Newly synthesized vRNP for export,8469,influenza
+R-HSA-192746,Binding of M1 to vRNP,8469,influenza
+R-HSA-168893,Binding of NEP/NS2 to vRNP:M1,8469,influenza
+R-HSA-168880,vRNP Export through the nuclear pore,8469,influenza
+R-HSA-168857,Binding of vRNP:M1:NEP complex to CRM1 export receptor,8469,influenza
+R-HSA-168285,Clathrin-Mediated Pit Formation And Endocytosis Of The Influenza Virion,8469,influenza
+R-HSA-168272,Binding of the influenza virion to the host cell,8469,influenza
+R-HSA-192704,Synthesis of PB1-F2,8469,influenza
+R-HSA-192841,Viral Protein Synthesis,8469,influenza
+R-HSA-192627,Viral mRNA Export,8469,influenza
+R-HSA-168326,Assembly of an Active Transcription Complex,8469,influenza
+R-HSA-168280,Priming and Initiation of Transcription,8469,influenza
+R-HSA-168301,"Elongation, Polyadenylation and Termination",8469,influenza
+R-HSA-192781,"Viral mRNA Splicing (M, NS segments)",8469,influenza
+R-HSA-192925,Export of Spliced Viral mRNA,8469,influenza
+R-HSA-192832,Initiation of cRNA Synthesis,8469,influenza
+R-HSA-192624,cRNA Extension,8469,influenza
+R-HSA-192912,NP binds vRNA,8469,influenza
+R-HSA-192830,Viral Polymerase Assembly,8469,influenza
+R-HSA-192851,vRNA Extension,8469,influenza
+R-HSA-192916,Initiation of vRNA Synthesis,8469,influenza
+R-HSA-168891,Binding of NS1 to dsRNA,8469,influenza
+R-HSA-168883,Binding of NS1 to poly(A)-binding protein II (PABII),8469,influenza
+R-HSA-168859,Binding of NS1 to cleavage and host polyadenylation specificity factor (CPSF),8469,influenza
+R-HSA-168896,Binding of NS1 to PKR,8469,influenza
+R-HSA-1176059,Translocation of Influenza A virus nonstructural protein 1 (NS1A) into the nucleus,8469,influenza
+R-HSA-6791035,Release of NS1 homodimer,8469,influenza
+R-HSA-168865,NA activation of TGF-beta,8469,influenza
+R-HSA-168878,"PB1-F2 binds to the mitochondrial adenine nucleotide translocator 3 ANT3, inducing apoptosis",8469,influenza
+R-HSA-168306,Concerted hemagglutinin pore formation,8469,influenza
+R-HSA-168324,Conformation change in hemagglutinin freeing the fusion peptide of HA2,8469,influenza
+R-HSA-168312,Fusion of the influenza virion HA2 protein transmembrane domain to the host cell endosome membrane,8469,influenza
+R-HSA-168299,Ribonucleoprotein release from M1 proteins,8469,influenza
+R-HSA-168313,Virion-associated M2 protein mediated ion infusion,8469,influenza
+R-HSA-168337,Docking and transport of the RNP:Karyopherin complex through the nuclear pore,8469,influenza
+R-HSA-168310,Release of the RNP into the host cell nucleus,8469,influenza
+R-HSA-168297,Recognition of the Nuclear Localization Signal (NLS) by a Karyopherin Alpha Family Protein,8469,influenza
+R-HSA-168317,Recruitment of Karyopherin Beta to form a Trimeric Complex,8469,influenza
+R-HSA-168870,Neuraminidase enzymatic release from sialic acid,8469,influenza
+R-HSA-168860,Membrane fusion,8469,influenza
+R-HSA-195926,Association with M1 at cell membrane,8469,influenza
+R-HSA-168895,RNP association,8469,influenza
+R-HSA-188544,Assembly of M2 tetramers,8469,influenza
+R-HSA-169921,Glycosylation and Folding of HA,8469,influenza
+R-HSA-168871,"Fusion of vesicle containing the HA trimer, NA tetramer and M2 tetramer to the Golgi apparatus",8469,influenza
+R-HSA-168869,"Budding of vesicle with the HA trimer, NA tetramer and M2 tetramer from the endoplasmic reticulum into the cytosol",8469,influenza
+R-HSA-168875,Trimerization of HA,8469,influenza
+R-HSA-195726,Association of  NA into rafts,8469,influenza
+R-HSA-168882,Association of NP into rafts,8469,influenza
+R-HSA-195730,Transport of processed viral proteins to the cell membrane,8469,influenza
+R-HSA-195734,Neuraminidase (NA) synthesis,8469,influenza
+R-HSA-169847,Assembly of NA tetramers,8469,influenza
+R-HSA-168884,Hemagglutinin (HA) protein synthesis,8469,influenza
+R-HSA-195733,M2 protein synthesis,8469,influenza
+R-HSA-168858,Palmitoylation of cysteine residues on HA in the cis-Golgi network,8469,influenza
+R-HSA-195739,Palmitoylation of cysteine residues on M2 in the cis-golgi network,8469,influenza
+R-HSA-168862,Association of HA into rafts,8469,influenza
+R-HSA-168894,Accumulation of M1 at the inner leaflet of the lipid bilayer,8469,influenza
+R-HSA-169919,Glycosylation of NA,8469,influenza
+R-HSA-1222704,KatG reduces H2O2,399,tuberculosis
+R-HSA-1222469,SodC reduces superoxide to H2O2,399,tuberculosis
+R-HSA-1222341,H2O2 gets scavenged by unsaturated lipid,399,tuberculosis
+R-HSA-1222346,AhpC reduces H2O2,399,tuberculosis
+R-HSA-1222523,SodB gets secreted,399,tuberculosis
+R-HSA-1222462,SodB reduces superoxide to H2O2,399,tuberculosis
+R-HSA-1222526,AhpC reduces peroxidated lipids,399,tuberculosis
+R-HSA-1222738,Carboxymycobactin gets secreted,399,tuberculosis
+R-HSA-1222722,Mycobactin is exported,399,tuberculosis
+R-HSA-1222641,Carboxymycobactin binds LTF:2xFe3+:2xCO3(2-),399,tuberculosis
+R-HSA-8951549,Carbocymycobactin binds Fe3+ from LTF:2xFe3+:2xCO3(2-),399,tuberculosis
+R-HSA-1222325,Carboxymycobactin and mycobactin exchange their iron load,399,tuberculosis
+R-HSA-1222597,Loaded mycobactin gets imported,399,tuberculosis
+R-HSA-8951552,LTF:2xCO3(2-) dissociates from Carbocymycobactin:Fe3+,399,tuberculosis
+R-HSA-1562604,BfrA stores iron,399,tuberculosis
+R-HSA-1562603,BfrB stores iron,399,tuberculosis
+R-HSA-1222399,Iron is reduced and separates from mycobactin,399,tuberculosis
+R-HSA-1222594,Mycothiol scavenges nitrosyl,399,tuberculosis
+R-HSA-1222723,Nitric oxide is oxidized to nitrate,399,tuberculosis
+R-HSA-1222755,Peroxynitrite is reduced to nitrite by Tpx,399,tuberculosis
+R-HSA-1500804,Peroxynitrite is reduced by AhpE,399,tuberculosis
+R-HSA-1222583,MscR reduces nitrosomycothiol to ammonia,399,tuberculosis
+R-HSA-1500817,Glutathione is taken up by the bacterium,399,tuberculosis
+R-HSA-1222363,MsrA/B reduces peptide-methionine S/R-sulfoxides,399,tuberculosis
+R-HSA-1222712,Nitrosoglutathione gets cleaved to Cys(NO)-Gly,399,tuberculosis
+R-HSA-1222431,Peroxynitrite is reduced to nitrite by AhpC,399,tuberculosis
+R-HSA-1500761,Nitrogen dioxide is reduced to NO by F420,399,tuberculosis
+R-HSA-1222690,DlaT reactivates AhpD,399,tuberculosis
+R-HSA-1222417,TrxA reactivates AhpC,399,tuberculosis
+R-HSA-1222644,TrxA/B1 reactivates Tpx,399,tuberculosis
+R-HSA-1222485,TrxB reactivates TrxA,399,tuberculosis
+R-HSA-1500781,Fgd1 reactivates F420,399,tuberculosis
+R-HSA-1222655,AhpD reactivates AhpC,399,tuberculosis
+R-HSA-1222412,lpdC dimer reactivates dlaT,399,tuberculosis
+R-HSA-9636397,PtpA binds ATP6V1H,399,tuberculosis
+R-HSA-9636242,"PPE2:KPNA1:KPNB1 dissociates, releasing PPE2 into the nucleus",399,tuberculosis
+R-HSA-9636240,PPE2 binds NOS2 gene,399,tuberculosis
+R-HSA-9636247,PPE2:KPNA1:KPNB1 translocates to the nucleus,399,tuberculosis
+R-HSA-9636261,NOS2 gene produces NOS2 protein,399,tuberculosis
+R-HSA-9636251,PPE2 binds KPNA1:KPNB1,399,tuberculosis
+R-HSA-9635667,esxG:esxH binds HGS,399,tuberculosis
+R-HSA-9636439,PtpA:Ub dephosphorylates p-Y133-VPS33B,399,tuberculosis
+R-HSA-9636375,SecA2 transports SapM from cytoplasm to cytosol,399,tuberculosis
+R-HSA-9636404,LAM translocates from the cell wall to the plasma membrane,399,tuberculosis
+R-HSA-9636457,SapM dephosphorylates PI3P,399,tuberculosis
+R-HSA-9636461,PtpA binds Ubiquitin,399,tuberculosis
+R-HSA-9636396,lpdC binds to CORO1A,399,tuberculosis
+R-HSA-9636684,"ndkA dephosphorylates RAB5A:GTP,RAB7A:GTP",399,tuberculosis
+R-HSA-9636658,esxA binds PGK1,399,tuberculosis
+R-HSA-9636669,esxA binds ENO1,399,tuberculosis
+R-HSA-9635424,Rv3364c binds cathepsin G,399,tuberculosis
+R-HSA-9636304,Mce3E binds MAPK3,399,tuberculosis
+R-HSA-9635446,Rv3654c binds SFPQ,399,tuberculosis
+R-HSA-9635461,PtpA dephosphorylates GSK3A,399,tuberculosis
+R-HSA-9635609,Rv3655c binds RNF213,399,tuberculosis
+R-HSA-9636297,PtpA binds TRIM27,399,tuberculosis
+R-HSA-9636296,Mce3E binds MAPK1,399,tuberculosis
+R-HSA-9636560,Eis acetylates DUSP16,399,tuberculosis
+R-HSA-9636564,SapM binds RAB7A,399,tuberculosis
+R-HSA-9635666,esxG:esxH translocates from MTb cytosol to host phagosomal lumen,399,tuberculosis
+R-HSA-9637699,CpnT hydrolyses NAD+,399,tuberculosis
+R-HSA-9637651,esxA translocates from Mtb cytosol to the host's ER,399,tuberculosis
+R-HSA-9637635,esxA binds B2M,399,tuberculosis
+R-HSA-9637638,esxA binds TLR2,399,tuberculosis
+R-HSA-9637605,PstS1 binds MRC1,399,tuberculosis
+R-HSA-9637641,Rv2779c binds TLR2,399,tuberculosis
+R-HSA-9672177,PI3K catalyses the phosphorylation of PIP2 to PIP3 downstream of mutant PDGFR,162,cancer
+R-HSA-9672176,STAT binds to the mutant PDGFRA receptor,162,cancer
+R-HSA-9672164,GRB2:SOS1 complex binds to mutant PDGFR receptor,162,cancer
+R-HSA-9672170,SOS-mediated nucleotide exchange of RAS downstream of mutant PDGFR receptors,162,cancer
+R-HSA-9672168,Ligand-independent dimerization of PDGFR mutants,162,cancer
+R-HSA-9672175,Autophosphorylation of PDGFR mutant dimers,162,cancer
+R-HSA-9672172,PI3-kinase binds to mutant PDGFR receptor,162,cancer
+R-HSA-9673757,Ligand-independent dimerization of cytosolic PDGFRA and PDGFRB fusion proteins,162,cancer
+R-HSA-9673756,Autophosphorylation of cytosolic PDGFRA and PDGFRB fusion proteins,162,cancer
+R-HSA-9672163,SOS-mediated nucleotide exchange on RAS downstream of PDGFRA extracellular domain dimers,162,cancer
+R-HSA-9672178,PI3-kinase binds to PDGFRA extracellular domain dimers,162,cancer
+R-HSA-9672162,PI3K catalyses the phosphorylation of PIP2 to PIP3 downstream of PDGFRA extracellular domain dimers,162,cancer
+R-HSA-9672159,STAT binds to p-11Y PDGFRA extracellular domain dimers ,162,cancer
+R-HSA-9672174,Ligand-independent dimerization of PDGFRA extracellular domain mutants,162,cancer
+R-HSA-9672158,GRB2:SOS1 complex binds to PDGFRA extracellular domain dimers,162,cancer
+R-HSA-9672173,Autophosphorylation of PDGFRA extracellular domain dimers,162,cancer
+R-HSA-9673761,Autophosphorylation of membrane-tethered fusions of PDGFRA or PDGFRB,162,cancer
+R-HSA-9673760,Ligand-independent dimerization of membrane-tethered fusions of PDGFRA or PDGFRB,162,cancer
+R-HSA-9674408,Regorafenib-resistant PDGFR mutants don't bind regorafenib,162,cancer
+R-HSA-9674398,D842V PDGFRA doesn't bind sunitinib,162,cancer
+R-HSA-9674414,Sorafenib-resistant PDGFR mutants don't bind sorefenib,162,cancer
+R-HSA-9674397,Imatinib-resistant PDGFR mutants don't bind imatinib,162,cancer
+R-HSA-9674427,PDGFR mutants bind type I TKIs,162,cancer
+R-HSA-9674430,PDGFR mutants bind type II TKIs,162,cancer
+R-HSA-1839100,p-4Y- PLCG1 dissociates from activated FGFR1 mutants and fusions,162,cancer
+R-HSA-5655269,Activated FGFR1 mutants bind FRS2,162,cancer
+R-HSA-5655269,Activated FGFR1 mutants bind FRS2,0080006,bone development disease
+R-HSA-5655266,Activated FGFR1 mutants:p-FRS2 binds GRB2-SOS1,162,cancer
+R-HSA-5655266,Activated FGFR1 mutants:p-FRS2 binds GRB2-SOS1,0080006,bone development disease
+R-HSA-1839098,Activated FGFR1 mutants and fusions phosphorylate PLCG1,162,cancer
+R-HSA-1839102,BCR-FGFR1 fusion:GRB2:p-GAB2:PIK3R1 binds PIK3CA ,162,cancer
+R-HSA-1839102,BCR-FGFR1 fusion:GRB2:p-GAB2:PIK3R1 binds PIK3CA ,8552,chronic myeloid leukemia
+R-HSA-1839039,Tyrosine kinase inhibitors bind and inhibit cytosolic FGFR1 fusion dimer phosphorylation,3264,subacute leukemia
+R-HSA-1839039,Tyrosine kinase inhibitors bind and inhibit cytosolic FGFR1 fusion dimer phosphorylation,5600,precursor lymphoblastic lymphoma/leukemia
+R-HSA-1839039,Tyrosine kinase inhibitors bind and inhibit cytosolic FGFR1 fusion dimer phosphorylation,4972,myelodysplastic myeloproliferative cancer
+R-HSA-1839039,Tyrosine kinase inhibitors bind and inhibit cytosolic FGFR1 fusion dimer phosphorylation,162,cancer
+R-HSA-1839039,Tyrosine kinase inhibitors bind and inhibit cytosolic FGFR1 fusion dimer phosphorylation,8552,chronic myeloid leukemia
+R-HSA-1839065,Phosphorylation of cytosolic FGFR1 fusion dimers,162,cancer
+R-HSA-1839067,Phosphorylation of BCR moiety of BCR-FGFR1,162,cancer
+R-HSA-1839067,Phosphorylation of BCR moiety of BCR-FGFR1,8552,chronic myeloid leukemia
+R-HSA-1839031,Dimerization of cytosolic FGFR1 fusion proteins,162,cancer
+R-HSA-1839095,p-BCR-pFGFR1 binds GRB2:GAB2,162,cancer
+R-HSA-1839095,p-BCR-pFGFR1 binds GRB2:GAB2,8552,chronic myeloid leukemia
+R-HSA-1839091,Cytosolic FGFR1 fusion protein-associated PI3K phosphorylates PIP2 to PIP3,162,cancer
+R-HSA-1839080,Activated cytosolic FGFR1 fusions bind PIK3CA,162,cancer
+R-HSA-1839112,Phosphorylation of STAT5 by cytosolic FGFR1 fusions,3264,subacute leukemia
+R-HSA-1839112,Phosphorylation of STAT5 by cytosolic FGFR1 fusions,5600,precursor lymphoblastic lymphoma/leukemia
+R-HSA-1839112,Phosphorylation of STAT5 by cytosolic FGFR1 fusions,4972,myelodysplastic myeloproliferative cancer
+R-HSA-1839112,Phosphorylation of STAT5 by cytosolic FGFR1 fusions,162,cancer
+R-HSA-1839114,BCR-FGFR1:GRB2:p-GAB2 binds PIK3R1,162,cancer
+R-HSA-1839114,BCR-FGFR1:GRB2:p-GAB2 binds PIK3R1,8552,chronic myeloid leukemia
+R-HSA-1839078,Cytosolic FGFR1 fusion proteins bind PIK3R1,162,cancer
+R-HSA-1839110,p-BCR-p-FGFR1 phosphorylates GAB2,162,cancer
+R-HSA-1839110,p-BCR-p-FGFR1 phosphorylates GAB2,8552,chronic myeloid leukemia
+R-HSA-1888198,FGFR1OP-FGFR1 phosphorylates STAT1 and STAT3,3264,subacute leukemia
+R-HSA-1888198,FGFR1OP-FGFR1 phosphorylates STAT1 and STAT3,5600,precursor lymphoblastic lymphoma/leukemia
+R-HSA-1888198,FGFR1OP-FGFR1 phosphorylates STAT1 and STAT3,4972,myelodysplastic myeloproliferative cancer
+R-HSA-1888198,FGFR1OP-FGFR1 phosphorylates STAT1 and STAT3,162,cancer
+R-HSA-1839107,BCR-FGFR1-associated PI3K phosphorylates PIP2 to PIP3.,162,cancer
+R-HSA-1839107,BCR-FGFR1-associated PI3K phosphorylates PIP2 to PIP3.,8552,chronic myeloid leukemia
+R-HSA-5654544,Ligand-independent dimerization of overexpressed FGFR1c,162,cancer
+R-HSA-5654545,Ligand-independent phosphorylation of overexpressed FGFR1c,162,cancer
+R-HSA-2023462,Tyrosine kinase inhibitors bind and inhibit overexpressed FGFR1 dimers,162,cancer
+R-HSA-1982066,Ligand-independent phosphorylation of overexpressed FGFR1,162,cancer
+R-HSA-1982065,Ligand-independent dimerization of overexpressed FGFR1b,162,cancer
+R-HSA-2023455,Autocatalytic phosphorylation of FGFR1c P252X mutant dimers,162,cancer
+R-HSA-2023455,Autocatalytic phosphorylation of FGFR1c P252X mutant dimers,0080006,bone development disease
+R-HSA-2023451,FGFR1c P252X mutants bind ligand with enhanced affinity,162,cancer
+R-HSA-2023460,Autocatalytic phosphorylation of FGFR1 mutants with enhanced kinase activity,3068,glioblastoma
+R-HSA-2023460,Autocatalytic phosphorylation of FGFR1 mutants with enhanced kinase activity,162,cancer
+R-HSA-2023456,Dimerization of FGFR1 point mutants with enhanced kinase activity,3068,glioblastoma
+R-HSA-2023456,Dimerization of FGFR1 point mutants with enhanced kinase activity,162,cancer
+R-HSA-8853325,Plasma membrane FGFR1 fusions autophosphorylate,162,cancer
+R-HSA-8853322,Plasma membrane FGFR1 fusions dimerize,162,cancer
+R-HSA-5655278,Activated FGFR1 mutants phosphorylate FRS2,162,cancer
+R-HSA-5655278,Activated FGFR1 mutants phosphorylate FRS2,0080006,bone development disease
+R-HSA-5655326,Activated FGFR1 mutants:p-FRS2:GRB2:SOS1 activates RAS nucleotide exchange,162,cancer
+R-HSA-5655326,Activated FGFR1 mutants:p-FRS2:GRB2:SOS1 activates RAS nucleotide exchange,0080006,bone development disease
+R-HSA-5655263,Activated FGFR1 mutants:p-FRS2:GRB2:GAB1:PIK3R1 binds PIK3CA,162,cancer
+R-HSA-5655263,Activated FGFR1 mutants:p-FRS2:GRB2:GAB1:PIK3R1 binds PIK3CA,0080006,bone development disease
+R-HSA-1839094,Activated FGFR1 mutants and fusions bind PLCG1,162,cancer
+R-HSA-5655290,Activated FGFR1 mutant-associated PI3K phosphorylates PIP2 to PIP3,162,cancer
+R-HSA-5655290,Activated FGFR1 mutant-associated PI3K phosphorylates PIP2 to PIP3,0080006,bone development disease
+R-HSA-5655240,Activated FGFR1 mutants:p-FRS2 binds GRB2:GAB1:PIK3R1,162,cancer
+R-HSA-5655240,Activated FGFR1 mutants:p-FRS2 binds GRB2:GAB1:PIK3R1,0080006,bone development disease
+R-HSA-8853317,FGFR3 fusions dimerize,162,cancer
+R-HSA-8853316,Activated FGFR3 fusions:p-FRS2 binds GRB2:GAB1:PIK3R1,162,cancer
+R-HSA-8853315,Activated FGFR3 fusions phosphorylate FRS2,162,cancer
+R-HSA-8853314,Activated FGFR3 fusions:p-FRS2 bind GRB2-SOS1,162,cancer
+R-HSA-8853310,Activated FGFR3 fusions bind FRS2,162,cancer
+R-HSA-8853309,Autocatalytic phosphorylation of FGFR3 fusions,162,cancer
+R-HSA-8853308,Activated FGFR3 fusions:p-FRS2:GRB2:GAB1:PIK3R1 binds PIK3CA,162,cancer
+R-HSA-8853307,FGFR3 fusions:p-FRS2:GRB2:SOS1 activates RAS nucleotide exchange,162,cancer
+R-HSA-8853323,Activated FGFR3 fusion-associated PI3K phosphorylates PIP2 to PIP3,162,cancer
+R-HSA-5655270,Activated FGFR3 mutants phosphorylate FRS2,162,cancer
+R-HSA-5655270,Activated FGFR3 mutants phosphorylate FRS2,0080006,bone development disease
+R-HSA-5655285,Activated FGFR3 mutants:p-FRS2:GRB2:GAB1:PIK3R1 binds PIK3CA,162,cancer
+R-HSA-5655285,Activated FGFR3 mutants:p-FRS2:GRB2:GAB1:PIK3R1 binds PIK3CA,0080006,bone development disease
+R-HSA-2077420,FGFR3 mutants bind and are inactivated by tyrosine kinase inhibitors,162,cancer
+R-HSA-2038387,Autocatalytic phosphorylation of FGFR3 t(4;14) translocation mutants,9538,multiple myeloma
+R-HSA-2038387,Autocatalytic phosphorylation of FGFR3 t(4;14) translocation mutants,162,cancer
+R-HSA-2038386,Dimerization of FGFR3 t(4;14) translocation mutants,9538,multiple myeloma
+R-HSA-2038386,Dimerization of FGFR3 t(4;14) translocation mutants,162,cancer
+R-HSA-2033485,Autocatalytic phosphorylation of FGFR3 point mutants with enhanced kinase activity,162,cancer
+R-HSA-2033485,Autocatalytic phosphorylation of FGFR3 point mutants with enhanced kinase activity,0080006,bone development disease
+R-HSA-2012074,FGFR3c P250R mutant binds to ligand with enhanced affinity,2340,craniosynostosis
+R-HSA-2012074,FGFR3c P250R mutant binds to ligand with enhanced affinity,12960,acrocephalosyndactylia
+R-HSA-2012073,Autocatalytic phosphorylation of FGFR3c P250R mutant,2340,craniosynostosis
+R-HSA-2012073,Autocatalytic phosphorylation of FGFR3c P250R mutant,0080006,bone development disease
+R-HSA-2012073,Autocatalytic phosphorylation of FGFR3c P250R mutant,12960,acrocephalosyndactylia
+R-HSA-2012084,Constitutive dimerization of FGFR3 cysteine mutants,162,cancer
+R-HSA-2012084,Constitutive dimerization of FGFR3 cysteine mutants,0080006,bone development disease
+R-HSA-2033476,Dimerization of FGFR3 point mutants with enhanced kinase activity,162,cancer
+R-HSA-2033476,Dimerization of FGFR3 point mutants with enhanced kinase activity,0080006,bone development disease
+R-HSA-2012082,Autocatalytic phosphorylation of FGFR3 cysteine mutants,162,cancer
+R-HSA-2012082,Autocatalytic phosphorylation of FGFR3 cysteine mutants,0080006,bone development disease
+R-HSA-5655315,Activated FGFR3 mutants:p-FRS2 binds GRB2:GAB1:PIK3R1,162,cancer
+R-HSA-5655315,Activated FGFR3 mutants:p-FRS2 binds GRB2:GAB1:PIK3R1,0080006,bone development disease
+R-HSA-5655262,Activated FGFR3 mutants bind FRS2,162,cancer
+R-HSA-5655262,Activated FGFR3 mutants bind FRS2,0080006,bone development disease
+R-HSA-5655295,Activated FGFR3 mutants:p-FRS2 binds GRB2-SOS1,162,cancer
+R-HSA-5655295,Activated FGFR3 mutants:p-FRS2 binds GRB2-SOS1,0080006,bone development disease
+R-HSA-5655247,p-4Y-PLCG1 dissociates from activated FGFR3 mutants,162,cancer
+R-HSA-5655247,p-4Y-PLCG1 dissociates from activated FGFR3 mutants,0080006,bone development disease
+R-HSA-5655244,Activated FGFR3 mutants bind PLCG1,162,cancer
+R-HSA-5655244,Activated FGFR3 mutants bind PLCG1,0080006,bone development disease
+R-HSA-5655277,Activated FGFR3 mutants:p-FRS2:GRB2:SOS1 activates RAS nucleotide exchange,162,cancer
+R-HSA-5655277,Activated FGFR3 mutants:p-FRS2:GRB2:SOS1 activates RAS nucleotide exchange,0080006,bone development disease
+R-HSA-5655243,Activated FGFR3 mutants phosphorylate PLCG1,162,cancer
+R-HSA-5655243,Activated FGFR3 mutants phosphorylate PLCG1,0080006,bone development disease
+R-HSA-5655289,Activated FGFR3 mutant-associated PI3K phosphorylates PIP2 to PIP3,162,cancer
+R-HSA-5655289,Activated FGFR3 mutant-associated PI3K phosphorylates PIP2 to PIP3,0080006,bone development disease
+R-HSA-5655268,Activated FGFR2 mutants phosphorylate FRS2,162,cancer
+R-HSA-5655268,Activated FGFR2 mutants phosphorylate FRS2,0080006,bone development disease
+R-HSA-5655301,Activated FGFR2 mutants phosphorylate PLCG1,162,cancer
+R-HSA-5655301,Activated FGFR2 mutants phosphorylate PLCG1,0080006,bone development disease
+R-HSA-5655233,Activated FGFR2 mutants:p-FRS2 binds GRB2-SOS1,162,cancer
+R-HSA-5655233,Activated FGFR2 mutants:p-FRS2 binds GRB2-SOS1,0080006,bone development disease
+R-HSA-5655343,Activated FGFR2 mutants bind PLCG1,162,cancer
+R-HSA-5655343,Activated FGFR2 mutants bind PLCG1,0080006,bone development disease
+R-HSA-2029983,Dimerization of FGFR2 ligand-independent mutants,162,cancer
+R-HSA-2033486,Autocatalytic phosphorylation of FGFR2c mutants with enhanced ligand binding,3001,female reproductive endometrioid cancer
+R-HSA-2033486,Autocatalytic phosphorylation of FGFR2c mutants with enhanced ligand binding,2394,ovarian cancer
+R-HSA-2033486,Autocatalytic phosphorylation of FGFR2c mutants with enhanced ligand binding,162,cancer
+R-HSA-2033486,Autocatalytic phosphorylation of FGFR2c mutants with enhanced ligand binding,0080006,bone development disease
+R-HSA-2077421,FP-1039 acts as a ligand-trap for FGFR2b-binding ligands in endometrial cancer,3001,female reproductive endometrioid cancer
+R-HSA-2077421,FP-1039 acts as a ligand-trap for FGFR2b-binding ligands in endometrial cancer,162,cancer
+R-HSA-2033479,Dimerization of FGFR2 point mutants with enhanced kinase activity,162,cancer
+R-HSA-2033479,Dimerization of FGFR2 point mutants with enhanced kinase activity,0080006,bone development disease
+R-HSA-2033474,FGFR2b mutants bind an expanded range of ligands,162,cancer
+R-HSA-2033474,FGFR2b mutants bind an expanded range of ligands,0080006,bone development disease
+R-HSA-2033490,Autocatalytic phosphorylation of FGFR2 point mutants with enhanced kinase activity,162,cancer
+R-HSA-2033490,Autocatalytic phosphorylation of FGFR2 point mutants with enhanced kinase activity,0080006,bone development disease
+R-HSA-2029984,Autocatalytic phosphorylation of FGFR2 ligand-independent  mutants,162,cancer
+R-HSA-2033488,Autocatalytic phosphorylation of FGFR2b mutants with enhanced ligand binding,3001,female reproductive endometrioid cancer
+R-HSA-2033488,Autocatalytic phosphorylation of FGFR2b mutants with enhanced ligand binding,2394,ovarian cancer
+R-HSA-2033488,Autocatalytic phosphorylation of FGFR2b mutants with enhanced ligand binding,162,cancer
+R-HSA-2033472,FGFR2c mutants bind an expanded range of ligands,3001,female reproductive endometrioid cancer
+R-HSA-2033472,FGFR2c mutants bind an expanded range of ligands,2394,ovarian cancer
+R-HSA-2033472,FGFR2c mutants bind an expanded range of ligands,162,cancer
+R-HSA-2033472,FGFR2c mutants bind an expanded range of ligands,0080006,bone development disease
+R-HSA-2077424,Point mutants of FGFR2 bind and are inactivated by tyrosine kinase inhibitors,162,cancer
+R-HSA-8853319,FGFR2 fusions dimerize,162,cancer
+R-HSA-8853313,FGFR2 fusions autophosphorylate,162,cancer
+R-HSA-2029992,Tyrosine kinase inhibitors bind to overexpressed FGFR2 variants,10534,stomach cancer
+R-HSA-2029992,Tyrosine kinase inhibitors bind to overexpressed FGFR2 variants,162,cancer
+R-HSA-2029992,Tyrosine kinase inhibitors bind to overexpressed FGFR2 variants,1612,breast cancer
+R-HSA-2029988,Dimerization of overexpressed FGFR2,162,cancer
+R-HSA-2029989,Autocatalytic phosphorylation of overexpressed FGFR2 variants,10534,stomach cancer
+R-HSA-2029989,Autocatalytic phosphorylation of overexpressed FGFR2 variants,162,cancer
+R-HSA-2029989,Autocatalytic phosphorylation of overexpressed FGFR2 variants,1612,breast cancer
+R-HSA-2067713,GP369 inhibits activation of amplified FGFR2 signaling,162,cancer
+R-HSA-8851710,Aberrant alternative splicing yields a secreted FGFR2 IIIa TM disease variant,12960,acrocephalosyndactylia
+R-HSA-8853320,FGFR2IIIa TM binds ligand and full length receptors to inhibit signaling,12960,acrocephalosyndactylia
+R-HSA-5654748,p-4Y-PLCG1 dissociates from activated FGFR2 mutants,162,cancer
+R-HSA-5654748,p-4Y-PLCG1 dissociates from activated FGFR2 mutants,0080006,bone development disease
+R-HSA-5655245,Activated FGFR2 mutants:p-FRS2:GRB2:GAB1:PIK3R1 binds PIK3CA,162,cancer
+R-HSA-5655245,Activated FGFR2 mutants:p-FRS2:GRB2:GAB1:PIK3R1 binds PIK3CA,0080006,bone development disease
+R-HSA-5655339,Activated FGFR2 mutants bind FRS2,162,cancer
+R-HSA-5655339,Activated FGFR2 mutants bind FRS2,0080006,bone development disease
+R-HSA-5655323,Activated FGFR2 mutant-associated PI3K phosphorylates PIP2 to PIP3,162,cancer
+R-HSA-5655323,Activated FGFR2 mutant-associated PI3K phosphorylates PIP2 to PIP3,0080006,bone development disease
+R-HSA-5655320,Activated FGFR2 mutants:p-FRS2 binds GRB2:GAB1:PIK3R1,162,cancer
+R-HSA-5655320,Activated FGFR2 mutants:p-FRS2 binds GRB2:GAB1:PIK3R1,0080006,bone development disease
+R-HSA-5655241,Activated FGFR2 mutants:p-FRS2:GRB2:SOS1 activates RAS nucleotide exchange,162,cancer
+R-HSA-5655241,Activated FGFR2 mutants:p-FRS2:GRB2:SOS1 activates RAS nucleotide exchange,0080006,bone development disease
+R-HSA-5655351,Activated FGFR4 mutants bind FRS2,162,cancer
+R-HSA-5655351,Activated FGFR4 mutants bind FRS2,0080006,bone development disease
+R-HSA-5655284,Activated FGFR4 mutants phosphorylate FRS2,162,cancer
+R-HSA-5655284,Activated FGFR4 mutants phosphorylate FRS2,0080006,bone development disease
+R-HSA-5655348,Activated FGFR4 mutants:p-FRS2 binds GRB2-SOS1,162,cancer
+R-HSA-5655348,Activated FGFR4 mutants:p-FRS2 binds GRB2-SOS1,0080006,bone development disease
+R-HSA-5655252,Activated FGFR4 mutants:p-FRS2:GRB2:GAB1:PIK3R1 binds PIK3CA,162,cancer
+R-HSA-5655252,Activated FGFR4 mutants:p-FRS2:GRB2:GAB1:PIK3R1 binds PIK3CA,0080006,bone development disease
+R-HSA-2046363,FGFR4 kinase mutants are inhibited by PD170734,3247,rhabdomyosarcoma
+R-HSA-2046363,FGFR4 kinase mutants are inhibited by PD170734,162,cancer
+R-HSA-2012086,Constitutive dimerization of FGFR4 Y367C mutant,162,cancer
+R-HSA-2012086,Constitutive dimerization of FGFR4 Y367C mutant,1612,breast cancer
+R-HSA-2012087,Autocatalytic phosphorylation of FGFR4 Y367C mutant,162,cancer
+R-HSA-2012087,Autocatalytic phosphorylation of FGFR4 Y367C mutant,1612,breast cancer
+R-HSA-2038946,Dimerization of FGFR4 mutants with enhanced kinase activity,3247,rhabdomyosarcoma
+R-HSA-2038946,Dimerization of FGFR4 mutants with enhanced kinase activity,162,cancer
+R-HSA-2038944,Autocatalytic phosphorylation of FGFR4 mutants with enhanced kinase activity,3247,rhabdomyosarcoma
+R-HSA-2038944,Autocatalytic phosphorylation of FGFR4 mutants with enhanced kinase activity,162,cancer
+R-HSA-5655347,Activated FGFR4 mutants:p-FRS2:GRB2:SOS1 activates RAS nucleotide exchange,162,cancer
+R-HSA-5655347,Activated FGFR4 mutants:p-FRS2:GRB2:SOS1 activates RAS nucleotide exchange,0080006,bone development disease
+R-HSA-5655235,Activated FGFR4 mutant-associated PI3K phosphorylates PIP2 to PIP3,162,cancer
+R-HSA-5655235,Activated FGFR4 mutant-associated PI3K phosphorylates PIP2 to PIP3,0080006,bone development disease
+R-HSA-5655248,Activated FGFR4 mutants:p-FRS2 binds GRB2:GAB1:PIK3R1,162,cancer
+R-HSA-5655248,Activated FGFR4 mutants:p-FRS2 binds GRB2:GAB1:PIK3R1,0080006,bone development disease
+R-HSA-5655313,Activated FGFR4 mutants bind PLCG1,162,cancer
+R-HSA-5655313,Activated FGFR4 mutants bind PLCG1,0080006,bone development disease
+R-HSA-5655341,Activated FGFR4 mutants phosphorylate PLCG1,162,cancer
+R-HSA-5655341,Activated FGFR4 mutants phosphorylate PLCG1,0080006,bone development disease
+R-HSA-5655336,p-4Y-PLCG1 dissociates from activated FGFR4 mutants,162,cancer
+R-HSA-5655336,p-4Y-PLCG1 dissociates from activated FGFR4 mutants,0080006,bone development disease
+R-HSA-9681382,KIT mutants bind ripretinib,162,cancer
+R-HSA-9681382,KIT mutants bind ripretinib,9253,gastrointestinal stromal tumor
+R-HSA-9669898,KIT mutants bind type I TKIs,162,cancer
+R-HSA-9669900,KIT mutants bind type II TKIs,162,cancer
+R-HSA-9669874,Sorafenib-resistant KIT mutants do not bind sorafenib,162,cancer
+R-HSA-9669868,Nilotinib-resistant KIT mutants do not bind nilotinib,162,cancer
+R-HSA-9669863,Masitinib-resistant KIT mutants do not bind masitinib,162,cancer
+R-HSA-9669855,Dasatinib-resistant KIT mutants do not bind dasatinib,162,cancer
+R-HSA-9669870,Regorafenib-resistant KIT mutants do not bind regorafenib,162,cancer
+R-HSA-9669878,Sunitinib-resistant KIT mutants do not bind sunitinib,162,cancer
+R-HSA-9669859,Imatinib-resistant KIT mutants do not bind imatinib,162,cancer
+R-HSA-9670418,Phosphorylation of JAK2 downstream of KIT mutants,162,cancer
+R-HSA-9670433,KIT mutants:PI3K catalyze synthesis of PIP3,162,cancer
+R-HSA-9670417,Dimerization of STATs downstream of KIT mutants,162,cancer
+R-HSA-9670416,Recruitment of STATs by KIT mutants,162,cancer
+R-HSA-9670436,p-KIT mutants:GRB2:SOS catalyzes nucleotide exchange on RAS,162,cancer
+R-HSA-9670426,Disassociation and translocation of STATs to the nucleus downstream of KIT mutants,162,cancer
+R-HSA-9670431,Phosphorylated KIT mutants bind PI3K,162,cancer
+R-HSA-9670414,KIT mutants bind SFKs,162,cancer
+R-HSA-9670413,JAK2 binds to p-KIT mutants,162,cancer
+R-HSA-9670428,KIT mutants bind GRB2-SOS,162,cancer
+R-HSA-9670412,Phosphorylation of STATs downstream of KIT mutants,162,cancer
+R-HSA-9680242,Ligand-independent dimerization of KIT extracellular domain mutants,162,cancer
+R-HSA-9680248,Phosphorylation of extracellular domain KIT mutants,162,cancer
+R-HSA-9669906,Ligand-independent dimerization of KIT juxtamembrane domain mutants,162,cancer
+R-HSA-9669911,Phosphorylation of juxtamembrane domain KIT mutants,162,cancer
+R-HSA-9669890,Constitutive phosphorylation of kinase domain KIT mutants,162,cancer
+R-HSA-5339711,misspliced mutants of LRP5 support enhanced beta-catenin-dependent signaling,162,cancer
+R-HSA-5339711,misspliced mutants of LRP5 support enhanced beta-catenin-dependent signaling,1540,parathyroid carcinoma
+R-HSA-5339711,misspliced mutants of LRP5 support enhanced beta-catenin-dependent signaling,1612,breast cancer
+R-HSA-5339713,Misspliced GSK3beta mutants stabilize beta-catenin levels,8552,chronic myeloid leukemia
+R-HSA-5334052,TFC7L2 mutants don't bind CTBP,9256,colorectal cancer
+R-HSA-4839638,CTNNB1 T41 mutants aren't phosphorylated by GSK3beta,162,cancer
+R-HSA-4839634,CTNNB1 S33 mutants aren't phosphorylated by GSK3beta,162,cancer
+R-HSA-4839635,CTNNB1 S37 mutants aren't phosphorylated by GSK3beta,162,cancer
+R-HSA-4827388,CTNNB1 S45 mutants aren't phosphorylated by CK1alpha,162,cancer
+R-HSA-5262606,XAV939 binds tankyrase to stabilize axin and inhibit WNT signaling,162,cancer
+R-HSA-5246696,APC truncation mutants are not K63 polyubiquitinated,9256,colorectal cancer
+R-HSA-4791278,APC truncation mutants have impaired AXIN binding,9256,colorectal cancer
+R-HSA-4791278,APC truncation mutants have impaired AXIN binding,162,cancer
+R-HSA-5340560,PORCN-inhibitor LGK974 prevents WNT ligand palmitoyltation and secretion,162,cancer
+R-HSA-4839746,Truncated AMER1 mutants destabilize the destruction complex,162,cancer
+R-HSA-4839746,Truncated AMER1 mutants destabilize the destruction complex,263,kidney cancer
+R-HSA-4839746,Truncated AMER1 mutants destabilize the destruction complex,2154,nephroblastoma
+R-HSA-5251559,Deletions of the AMER1 gene prevent expression of AMER1 protein,263,kidney cancer
+R-HSA-5251559,Deletions of the AMER1 gene prevent expression of AMER1 protein,2154,nephroblastoma
+R-HSA-5340587,RNF43 frameshift mutants show enhanced WNT siganling,1793,pancreatic cancer
+R-HSA-5251562,Deletions in the AXIN1 gene prevent expression of AXIN1 protein,684,hepatocellular carcinoma
+R-HSA-4839734,AXIN mutants destabilize the destruction complex,684,hepatocellular carcinoma
+R-HSA-4839734,AXIN mutants destabilize the destruction complex,162,cancer
+R-HSA-2660815,NOTCH1 t(7;9)(NOTCH1:M1580_K2555) does not bind DLL4,162,cancer
+R-HSA-2660815,NOTCH1 t(7;9)(NOTCH1:M1580_K2555) does not bind DLL4,715,T-cell leukemia
+R-HSA-2660816,NOTCH1 t(7;9)(NOTCH1:M1580_K2555) does not bind JAG2,162,cancer
+R-HSA-2660816,NOTCH1 t(7;9)(NOTCH1:M1580_K2555) does not bind JAG2,715,T-cell leukemia
+R-HSA-2660819,NOTCH1 t(7;9)(NOTCH1:M1580_K2555) does not bind DLL1,162,cancer
+R-HSA-2660819,NOTCH1 t(7;9)(NOTCH1:M1580_K2555) does not bind DLL1,715,T-cell leukemia
+R-HSA-2660822,NOTCH1 t(7;9)(NOTCH1:M1580_K2555) does not bind JAG1,162,cancer
+R-HSA-2660822,NOTCH1 t(7;9)(NOTCH1:M1580_K2555) does not bind JAG1,715,T-cell leukemia
+R-HSA-2666278,NOTCH1 t(7;9)(NOTCH1:M1580_K2555) is cleaved to produce NEXT1,162,cancer
+R-HSA-2666278,NOTCH1 t(7;9)(NOTCH1:M1580_K2555) is cleaved to produce NEXT1,715,T-cell leukemia
+R-HSA-2769000,NOTCH1 PEST domain mutants bind DLL4,162,cancer
+R-HSA-2769000,NOTCH1 PEST domain mutants bind DLL4,715,T-cell leukemia
+R-HSA-2769007,Ubiquitination of DLL/JAG ligands upon binding to NOTCH1 PEST domain mutants,162,cancer
+R-HSA-2769007,Ubiquitination of DLL/JAG ligands upon binding to NOTCH1 PEST domain mutants,715,T-cell leukemia
+R-HSA-2220964,NICD1 PEST domain mutants in complex with RBPJ (CSL) bind MAML,162,cancer
+R-HSA-2220964,NICD1 PEST domain mutants in complex with RBPJ (CSL) bind MAML,715,T-cell leukemia
+R-HSA-2220967,p-NICD1 PEST domain mutants do not bind FBXW7,162,cancer
+R-HSA-2220967,p-NICD1 PEST domain mutants do not bind FBXW7,715,T-cell leukemia
+R-HSA-2220966,NOTCH1 PEST domain mutants stimulate HES5 transcription,162,cancer
+R-HSA-2220966,NOTCH1 PEST domain mutants stimulate HES5 transcription,715,T-cell leukemia
+R-HSA-4396393,NOTCH1 PEST domain mutants bind MYC promoter,162,cancer
+R-HSA-4396393,NOTCH1 PEST domain mutants bind MYC promoter,715,T-cell leukemia
+R-HSA-2220971,CDK8 phosphorylates NICD1 PEST domain mutants ,162,cancer
+R-HSA-2220971,CDK8 phosphorylates NICD1 PEST domain mutants ,715,T-cell leukemia
+R-HSA-2768993,NOTCH1 PEST domain mutants bind JAG2,162,cancer
+R-HSA-2768993,NOTCH1 PEST domain mutants bind JAG2,715,T-cell leukemia
+R-HSA-4396392,NOTCH1 PEST domain mutants bind HES1 promoter,162,cancer
+R-HSA-4396392,NOTCH1 PEST domain mutants bind HES1 promoter,715,T-cell leukemia
+R-HSA-2768999,NOTCH1 PEST domain mutants bind JAG1,162,cancer
+R-HSA-2768999,NOTCH1 PEST domain mutants bind JAG1,715,T-cell leukemia
+R-HSA-2220944,ADAM10/17 cleaves ligand-bound NOTCH1 PEST domain mutants to produce NEXT1 PEST domain mutants,162,cancer
+R-HSA-2220944,ADAM10/17 cleaves ligand-bound NOTCH1 PEST domain mutants to produce NEXT1 PEST domain mutants,715,T-cell leukemia
+R-HSA-4396402,NOTCH1 PEST domain mutants bind promoters of HEY genes,162,cancer
+R-HSA-4396402,NOTCH1 PEST domain mutants bind promoters of HEY genes,715,T-cell leukemia
+R-HSA-2220979,NOTCH1 PEST domain mutants stimulate HES1 transcription,162,cancer
+R-HSA-2220979,NOTCH1 PEST domain mutants stimulate HES1 transcription,715,T-cell leukemia
+R-HSA-4396401,NOTCH1 PEST domain mutants bind HES5 promoter,162,cancer
+R-HSA-4396401,NOTCH1 PEST domain mutants bind HES5 promoter,715,T-cell leukemia
+R-HSA-2220981,NOTCH1 PEST domain mutants stimulate HEY transcription,162,cancer
+R-HSA-2220981,NOTCH1 PEST domain mutants stimulate HEY transcription,715,T-cell leukemia
+R-HSA-2220982,NICD1 PEST domain mutants displace co-repressor complex from RBPJ (CSL),162,cancer
+R-HSA-2220982,NICD1 PEST domain mutants displace co-repressor complex from RBPJ (CSL),715,T-cell leukemia
+R-HSA-2220985,NOTCH1 PEST domain mutants stimulate MYC transcription,162,cancer
+R-HSA-2220985,NOTCH1 PEST domain mutants stimulate MYC transcription,715,T-cell leukemia
+R-HSA-2769008,NOTCH1 PEST domain mutants bind DLL1 ,162,cancer
+R-HSA-2769008,NOTCH1 PEST domain mutants bind DLL1 ,715,T-cell leukemia
+R-HSA-2220957,NOTCH1 PEST domain mutants coactivator complex binds CDK8:CCNC,162,cancer
+R-HSA-2220957,NOTCH1 PEST domain mutants coactivator complex binds CDK8:CCNC,715,T-cell leukemia
+R-HSA-2220988,NEXT1 PEST domain mutants are cleaved to produce NICD1 PEST domain mutants,162,cancer
+R-HSA-2220988,NEXT1 PEST domain mutants are cleaved to produce NICD1 PEST domain mutants,715,T-cell leukemia
+R-HSA-2769015,NICD1 PEST domain mutants translocate from cytosol to nucleus,162,cancer
+R-HSA-2769015,NICD1 PEST domain mutants translocate from cytosol to nucleus,715,T-cell leukemia
+R-HSA-2220978,FBXW7 WD mutants do not bind NICD1,162,cancer
+R-HSA-2220978,FBXW7 WD mutants do not bind NICD1,715,T-cell leukemia
+R-HSA-2900748,NOTCH1 HD+PEST domain mutants bind DLL1,162,cancer
+R-HSA-2900748,NOTCH1 HD+PEST domain mutants bind DLL1,715,T-cell leukemia
+R-HSA-2900747,NOTCH1 HD+PEST domain mutants bind DLL4,162,cancer
+R-HSA-2900747,NOTCH1 HD+PEST domain mutants bind DLL4,715,T-cell leukemia
+R-HSA-2900743,NOTCH1 HD+PEST domain mutants bind JAG1,162,cancer
+R-HSA-2900743,NOTCH1 HD+PEST domain mutants bind JAG1,715,T-cell leukemia
+R-HSA-2900765,Ubiquitination of DLL/JAG ligands upon binding to NOTCH1 HD+PEST domain mutants,162,cancer
+R-HSA-2900765,Ubiquitination of DLL/JAG ligands upon binding to NOTCH1 HD+PEST domain mutants,715,T-cell leukemia
+R-HSA-2220976,NOTCH1 HD+PEST domain mutants are cleaved by ADAM10/17 irrespective of ligand binding,162,cancer
+R-HSA-2220976,NOTCH1 HD+PEST domain mutants are cleaved by ADAM10/17 irrespective of ligand binding,715,T-cell leukemia
+R-HSA-2900756,NOTCH1 HD+PEST domain mutants bind JAG2,162,cancer
+R-HSA-2900756,NOTCH1 HD+PEST domain mutants bind JAG2,715,T-cell leukemia
+R-HSA-2691211,NOTCH1 HD domain mutants bind DLL4,162,cancer
+R-HSA-2691211,NOTCH1 HD domain mutants bind DLL4,715,T-cell leukemia
+R-HSA-2691226,NOTCH1 HD domain mutants bind JAG1,162,cancer
+R-HSA-2691226,NOTCH1 HD domain mutants bind JAG1,715,T-cell leukemia
+R-HSA-2691214,NOTCH1 HD domain mutants bind JAG2,162,cancer
+R-HSA-2691214,NOTCH1 HD domain mutants bind JAG2,715,T-cell leukemia
+R-HSA-2737728,Ubiquitination of DLL/JAG ligands upon binding to NOTCH1 HD domain mutants,162,cancer
+R-HSA-2737728,Ubiquitination of DLL/JAG ligands upon binding to NOTCH1 HD domain mutants,715,T-cell leukemia
+R-HSA-2730752,NOTCH1 HD domain mutants are cleaved to produce NEXT1 irrespective of ligand binding,162,cancer
+R-HSA-2730752,NOTCH1 HD domain mutants are cleaved to produce NEXT1 irrespective of ligand binding,715,T-cell leukemia
+R-HSA-2691219,NOTCH1 HD domain mutants bind DLL1,162,cancer
+R-HSA-2691219,NOTCH1 HD domain mutants bind DLL1,715,T-cell leukemia
+R-HSA-9665699,Phosphorylated heterodimers of ERBB2 TMD/JMD mutants recruit GRB2:SOS1 through SHC1,162,cancer
+R-HSA-9665698,Phosphorylated heterodimers of ERBB2 TMD/JMD mutants and EGFR bind GRB2:SOS1,162,cancer
+R-HSA-9665697,ERBB2 TMD/JMD mutants hetrodimerize,162,cancer
+R-HSA-9665696,ERBB2 TMD/JMD mutants bind trastuzumab,162,cancer
+R-HSA-9665703,ERBB2 TMD/JMD mutants bind pertuzumab,162,cancer
+R-HSA-9665702,ERBB2 TMD/JMD mutants bind TKIs,162,cancer
+R-HSA-9665701,Phosphorylated ERBB2 TMD/JMD heterodimers bind SHC1,162,cancer
+R-HSA-9665700,RAS activation by SOS1 bound to phosphorylated heterodimers of ERBB2 TMD/JMD mutants,162,cancer
+R-HSA-9665707,RAS activation by SOS1 bound to phosphorylated heterodimers of ERBB2 TMD/JMD mutants and EGFR,162,cancer
+R-HSA-9665706,Phosphorylated heterodimers of ERBB2 TMD/JMD mutants and EGFR bind PLCG1,162,cancer
+R-HSA-9665705,Phosphorylated heterodimers of ERBB2 TMD/JMD mutants phosphorylate SHC1,162,cancer
+R-HSA-9665704,Phosphorylated heterodimers of ERBB2 TMD/JMD mutants and EGFR phosphorylate PLCG1,162,cancer
+R-HSA-9665709,ERBB2 TMD/JMD heterodimers trans-autophosphorylate,162,cancer
+R-HSA-9664940,PI3K bound to phosphorylated heterodimers of ERBB2 KD mutants and EGFR converts PIP2 to PIP3,162,cancer
+R-HSA-9664588,ERBB2 KD mutants trans-autophosphorylate,162,cancer
+R-HSA-9665032,Phosphorylated heterodimers of ERBB2 KD mutants and EGFR phosphorylate PLCG1,162,cancer
+R-HSA-9665000,Phosphorylated heterodimers of ERBB2 KD mutants and EGFR bind GRB2:SOS1,162,cancer
+R-HSA-9665034,Phosphorylated heterodimers of ERBB2 KD mutants and EGFR bind PLCG1,162,cancer
+R-HSA-9664933,"Phosphorylated heterodimers of ERBB2 KD mutants and EGFR, in complex with GRB2:GAB1, bind PI3K",162,cancer
+R-HSA-9664646,Phosphorylated heterodimers of ERBB2 KD mutants and ERBB3 bind PI3K,162,cancer
+R-HSA-9665121,ERBB2 KD mutants bind TKIs,162,cancer
+R-HSA-9664991,RAS activation by SOS1 bound to phosphorylated heterodimers of ERBB2 KD mutants,162,cancer
+R-HSA-9664664,PI3K bound to phosphorylated heterodimers of ERBB2 KD mutants and ERBB3 converts PIP2 to PIP3,162,cancer
+R-HSA-9664950,Phosphorylated heterodimers of ERBB2 KD mutants bind SHC1,162,cancer
+R-HSA-9664918,Phosphorylated heterodimers of ERBB2 KD mutants and EGFR bind GRB2:GAB1,162,cancer
+R-HSA-9664983,Phosphorylated heterodimers of ERBB2 KD mutants recruit GRB2:SOS1 through SHC1,162,cancer
+R-HSA-9664567,ERBB2 KD mutants heterodimerize,162,cancer
+R-HSA-9664976,Phosphorylated heterodimers of ERBB2 KD mutants phosphorylate SHC1,162,cancer
+R-HSA-9649393,ERBB2 KD mutants bind trastuzumab,162,cancer
+R-HSA-9665009,RAS activation by SOS1 bound to phosphorylated heterodimers of ERBB2 KD mutants and EGFR,162,cancer
+R-HSA-9665407,PI3K bound to phosphorylated heterodimers of ERBB2 ECD mutants and EGFR converts PIP2 to PIP3,162,cancer
+R-HSA-9665406,Phosphorylated heterodimers of ERBB2 ECD mutants and EGFR phosphorylate SHC1,162,cancer
+R-HSA-9665405,ERBB2 ECD mutants bind trastuzumab,162,cancer
+R-HSA-9665404,RAS guanyl nucleotide exchange mediated by the p-6Y- ERBB2 ECD mutants:EGF:p-6Y-EGFR:p-SHC1:GRB2:SOS1,162,cancer
+R-HSA-9665411,Phosphorylated heterodimers of ERBB2 ECD mutants and EGFR phosphorylate PLCG1,162,cancer
+R-HSA-9665410,Phosphorylated heterodimers of ERBB2 ECD mutants and EGFR bind PLCG1,162,cancer
+R-HSA-9665409,GRB2:SOS1 binds to phosphorylated heterodimers of ERBB2 ECD mutants and EGFR,162,cancer
+R-HSA-9665408,RAS activation by SOS1 bound to phosphorylated heterodimers of ERBB2 ECD mutants and EGFR through GRB2,162,cancer
+R-HSA-9665415,"Phosphorylated heterodimers of ERBB2 ECD mutants and EGFR, in complex with GRB2:GAB1, bind PI3K",162,cancer
+R-HSA-9665413,Phosphorylated heterodimers of ERBB2 ECD mutants and EGFR recruit GRB2:SOS1 through SHC1 ,162,cancer
+R-HSA-9665412,ERBB2 ECD mutants bind TKIs,162,cancer
+R-HSA-9665417,Phosphorylated heterodimers of ERBB2 ECD mutants and EGFR bind GRB2:GAB1,162,cancer
+R-HSA-9665416,Phosphorylated heterodimers of ERBB2 ECD mutants and EGFR bind SHC1,162,cancer
+R-HSA-9665389,Heterodimers of ERBB2 ECD mutants and EGFR trans-autophosphorylate,162,cancer
+R-HSA-9665388,ERBB2 ECD mutants heterodimerize with EGFR,162,cancer
+R-HSA-9665708,ERBB2 TMD/JMD mutants do not bind pertuzumab,162,cancer
+R-HSA-9665284,Resistant ERBB2 KD mutants do not bind lapatinib,162,cancer
+R-HSA-9665278,Resistant ERBB2 KD mutants do not bind AEE788,162,cancer
+R-HSA-9665232,Resistant ERBB2 KD mutants do not bind trastuzumab,162,cancer
+R-HSA-9665311,ERBB2 T798M does not bind afatinib,162,cancer
+R-HSA-9665280,ERBB2 KD mutants do not bind osimertinib,162,cancer
+R-HSA-9665286,Resistant ERBB2 KD mutants do not bind neratinib,162,cancer
+R-HSA-9665315,ERBB2 T733I does not bind tesevatinib,162,cancer
+R-HSA-9665304,ERBB2 T862A does not bind sapitinib,162,cancer
+R-HSA-9634402,Recruitment of GRB2:SOS1 to p-SHC1 in complex with phosphorylated ERBB2 homodimer,162,cancer
+R-HSA-9634418,RAS guanyl-nucleotide exchange mediated by SOS1 in complex with GRB2 and ERBB2 homodimer:p-SHC1,162,cancer
+R-HSA-9634391,SHC1 binds phosphorylated ERBB2 homodimer,162,cancer
+R-HSA-1248694,Trans-autophosphorylation of ERBB2 homodimer,162,cancer
+R-HSA-9634390,ERBB2 homodimer phosphorylates SHC1,162,cancer
+R-HSA-9652277,ERBB2 binds trastuzumab,162,cancer
+R-HSA-1227964,ERBB2 homodimerization,162,cancer
+R-HSA-1218833,Binding of ligand-responsive EGFR mutants to chaperoning proteins HSP90 and CDC37,162,cancer
+R-HSA-1225947,Binding of SHC1 to p-6Y-EGFR mutants,162,cancer
+R-HSA-1225950,Binding of GRB2:SOS1 complex to phosphorylated ligand-responsive EGFR mutants,162,cancer
+R-HSA-1226014,Conversion of PIP2 to PIP3 by PI3K bound to ligand-responsive p-6Y-EGFR mutants,162,cancer
+R-HSA-1225951,SOS-mediated nucleotide exchange of RAS (mediated by GRB2:SOS1 in complex with ligand-responsive p-6Y-EGFR mutants),162,cancer
+R-HSA-1226012,Binding of PI3K to complex of GRB2:GAB1 and ligand-responsive p-6Y-EGFR mutants,162,cancer
+R-HSA-1225949,Binding of CBL to ligand-responsive p-6Y-EGFR mutants,162,cancer
+R-HSA-1220610,Non-covalent tyrosine kinase inhibitors bind and inactivate sensitive ligand-responsive EGFR cancer mutants,162,cancer
+R-HSA-1247842,Dissociation of phosphorylated PLCG1 from ligand-responsive p-6Y-EGFR mutants,162,cancer
+R-HSA-1220611,Covalent tyrosine kinase inhibitors bind and inactivate EGFR kinase domain mutant dimers resistant to non-covalent tyrosine kinase inhibitors,162,cancer
+R-HSA-1225952,Phosphorylation of SHC1 by ligand-responsive p-6Y-EGFR mutants,162,cancer
+R-HSA-1226016,Binding of GRB2:GAB1 complex to ligand-responsive p-6Y-EGFR mutants,162,cancer
+R-HSA-1247841,PLCG1 binds to ligand-responsive p-6Y-EGFR mutants,162,cancer
+R-HSA-1220614,Spontaneous dimerization of ligand-responsive EGFR mutants,162,cancer
+R-HSA-1220612,Binding of EGF to ligand-responsive EGFR mutants,162,cancer
+R-HSA-1225956,Inefficient ubiquitination of ligand-responsive p-6Y-EGFR mutants by p-Y371-CBL,162,cancer
+R-HSA-1220613,EGF-induced dimerization of ligand-responsive EGFR mutants,162,cancer
+R-HSA-1225957,SOS-mediated nucleotide exchange of RAS (mediated by GRB2:SOS1 in complex with phosphorylated SHC1 and ligand-responsive p-6Y-EGFR mutants),162,cancer
+R-HSA-1247844,Phosphorylation of PLCG1 by ligand-responsive p-6Y-EGFR mutants,162,cancer
+R-HSA-1225960,Phosphorylation of CBL by ligand-responsive p-6Y-EGFR mutants,162,cancer
+R-HSA-1218824,HSP90 is inactivated by binding to benzaquinoid ansamycins,162,cancer
+R-HSA-1225961,Phosphorylated SHC1 in complex with ligand-responsive p-6Y-EGFR mutants recruits GRB2:SOS1 complex,162,cancer
+R-HSA-1169421,Trans-autophosphorylation of activated ligand-responsive EGFR mutant dimers,162,cancer
+R-HSA-5637808,SOS-mediated nucleotide exchange of RAS (mediated by GRB2:SOS1 in complex with phosphorylated SHC1 and p-EGFRvIII),162,cancer
+R-HSA-1247999,EGFRvIII mutant binds chaperone proteins HSP90 and CDC37.,162,cancer
+R-HSA-5638137,EGFRvIII cancer variant does not bind EGF ligand,162,cancer
+R-HSA-5637766,Binding of SHC1 to p-5Y-EGFRvIII,162,cancer
+R-HSA-5637798,Phosphorylated SHC1 in complex with p-5Y-EGFRvIII recruits GRB2:SOS1 complex,162,cancer
+R-HSA-1248002,Ligand-independent dimerization of EGFRvIII mutant,162,cancer
+R-HSA-5637796,Phosphorylation of SHC1 by p-5Y-EGFRvIII,162,cancer
+R-HSA-5637764,Binding of GRB2:GAB1 complex to p-EGFRvIII mutant,162,cancer
+R-HSA-5637765,Binding of PI3K to complex of GRB2:GAB1 and p-EGFRvIII,162,cancer
+R-HSA-5637794,EGFRvIII does not bind CBL,162,cancer
+R-HSA-5637795,Phosphorylation of PLC-gamma 1 by p-EGFRvIII mutant,162,cancer
+R-HSA-5637792,PLC-gamma 1 binds to p-EGFRvIII mutant,162,cancer
+R-HSA-5637806,SOS-mediated nucleotide exchange of RAS (mediated by GRB2:SOS1 in complex with p-EGFRvIII),162,cancer
+R-HSA-1248655,Trans-autophosphorylation of EGFRvIII mutant dimers,162,cancer
+R-HSA-5637770,Binding of GRB2:SOS1 complex to phosphorylated EGFRvIII,162,cancer
+R-HSA-5637800,Dissociation of phosphorylated PLC-gamma 1 from p-EGFRvIII mutant,162,cancer
+R-HSA-5637801,Conversion of PIP2 to PIP3 by PI3K bound to phosphorylated EGFRvIII,162,cancer
+R-HSA-1248677,Inactivation of over-expressed wild type EGFR by Cetuximab recombinant antibody,162,cancer
+R-HSA-1248677,Inactivation of over-expressed wild type EGFR by Cetuximab recombinant antibody,5520,head and neck squamous cell carcinoma
+R-HSA-1248677,Inactivation of over-expressed wild type EGFR by Cetuximab recombinant antibody,5672,large intestine cancer
+R-HSA-1225978,Covalent tyrosine kinase inhibitors bind and inhibit wild-type EGF:EGFR dimers,162,cancer
+R-HSA-2317387,PTEN cancer mutants do not dephosphorylate PIP3,162,cancer
+R-HSA-2243938,AKT1 E17K mutant is phosphorylated by TORC2 complex,2394,ovarian cancer
+R-HSA-2243938,AKT1 E17K mutant is phosphorylated by TORC2 complex,162,cancer
+R-HSA-2243938,AKT1 E17K mutant is phosphorylated by TORC2 complex,1612,breast cancer
+R-HSA-2243938,AKT1 E17K mutant is phosphorylated by TORC2 complex,5672,large intestine cancer
+R-HSA-2399941,AKT1 E17K mutant phosphorylates BAD,162,cancer
+R-HSA-2243937,PIP2-bound p-S473-AKT1 mutant binds PIP2-bound PDPK1,2394,ovarian cancer
+R-HSA-2243937,PIP2-bound p-S473-AKT1 mutant binds PIP2-bound PDPK1,162,cancer
+R-HSA-2243937,PIP2-bound p-S473-AKT1 mutant binds PIP2-bound PDPK1,1612,breast cancer
+R-HSA-2243937,PIP2-bound p-S473-AKT1 mutant binds PIP2-bound PDPK1,5672,large intestine cancer
+R-HSA-2243942,PDPK1 phosphorylates AKT1 E17K mutant,2394,ovarian cancer
+R-HSA-2243942,PDPK1 phosphorylates AKT1 E17K mutant,162,cancer
+R-HSA-2243942,PDPK1 phosphorylates AKT1 E17K mutant,1612,breast cancer
+R-HSA-2243942,PDPK1 phosphorylates AKT1 E17K mutant,5672,large intestine cancer
+R-HSA-2399969,AKT1 E17K mutant phosphorylates p21Cip1 and p27Kip1,162,cancer
+R-HSA-2400001,AKT1 E17K mutant phosphorylates CHUK (IKKalpha),162,cancer
+R-HSA-2399981,AKT1 E17K mutant phosphorylates MDM2,162,cancer
+R-HSA-2399982,"AKT1 E17K mutant phosphorylates TSC2, inhibiting it",162,cancer
+R-HSA-2399977,AKT1 E17K mutant phosphorylates AKT1S1 (PRAS40),162,cancer
+R-HSA-2400010,AKT inhibitors block AKT membrane recruitment,162,cancer
+R-HSA-2399988,AKT1 E17K mutant phosphorylates NR4A1 (NUR77),162,cancer
+R-HSA-2219536,AKT1 E17K mutant binds PIP2,2394,ovarian cancer
+R-HSA-2219536,AKT1 E17K mutant binds PIP2,162,cancer
+R-HSA-2219536,AKT1 E17K mutant binds PIP2,1612,breast cancer
+R-HSA-2219536,AKT1 E17K mutant binds PIP2,5672,large intestine cancer
+R-HSA-2399985,AKT1 E17K mutant phosphorylates caspase-9,162,cancer
+R-HSA-2399996,AKT1 E17K mutant phosphorylates CREB1,162,cancer
+R-HSA-2399997,AKT1 E17K mutant translocates to the nucleus,162,cancer
+R-HSA-2399966,AKT1 E17K mutant phosphorylates GSK3,162,cancer
+R-HSA-2399999,AKT1 E17K mutant phosphorylates RSK,162,cancer
+R-HSA-2399992,AKT1 E17K mutant phosphorylates forkhead box transcription factors,162,cancer
+R-HSA-2394007,PI3K gain of function mutants phosphorylate PIP2 to PIP3,162,cancer
+R-HSA-2400009,PI3K inhibitors block PI3K catalytic activity,162,cancer
+R-HSA-9651280,RAS GAP mutants aren't stimulated by GAPs,0060233,cardiofaciocutaneous syndrome
+R-HSA-9651280,RAS GAP mutants aren't stimulated by GAPs,162,cancer
+R-HSA-6802834,RAS GTPase mutants don't hydrolyze GTP,162,cancer
+R-HSA-6803233,Dissociation of oncogenic RAS:RAF complex,162,cancer
+R-HSA-6803233,Dissociation of oncogenic RAS:RAF complex,3490,Noonan syndrome
+R-HSA-6802926,Mutant RAS:p-RAF complexes phosphorylate MAP2Ks,162,cancer
+R-HSA-6802925,Mutant RAS:p-RAF complexes bind MAP2Ks and MAPKs,162,cancer
+R-HSA-6802908,RAS mutants bind inactive RAF,162,cancer
+R-HSA-6802924,RAF is phosphorylated downstream of oncogenic RAS ,162,cancer
+R-HSA-6802922,Activated MAP2Ks phosphorylate MAPKs downstream of oncogenic RAS,162,cancer
+R-HSA-6803240,Homo- or heterodimerization of RAF downstream of mutant RAS,162,cancer
+R-HSA-6803240,Homo- or heterodimerization of RAF downstream of mutant RAS,3490,Noonan syndrome
+R-HSA-9652816,Constitutively active MAPK1 mutants are not dephosphorylated by DUSPs,162,cancer
+R-HSA-6802930,Dimerization of BRAF V600E splice variants contributes to BRAF inhibitor resistance,162,cancer
+R-HSA-6802912,High kinase activity BRAF mutants bind MAP2Ks and MAPKs,0060233,cardiofaciocutaneous syndrome
+R-HSA-6802912,High kinase activity BRAF mutants bind MAP2Ks and MAPKs,162,cancer
+R-HSA-6802911,High kinase activity BRAF complexes phosphorylate MAP2Ks,162,cancer
+R-HSA-6802910,Activated MAP2Ks phosphorylate MAPKs downstream of high kinase activity BRAF mutants,162,cancer
+R-HSA-6803227,Dissociation of high activity BRAF complexes,0060233,cardiofaciocutaneous syndrome
+R-HSA-6803227,Dissociation of high activity BRAF complexes,162,cancer
+R-HSA-6802938,Inhibitors bind and inhibit highly active BRAF mutants,0060233,cardiofaciocutaneous syndrome
+R-HSA-6802938,Inhibitors bind and inhibit highly active BRAF mutants,162,cancer
+R-HSA-6802919,RAS:GTP:moderate kinase activity p-RAF complexes phosphorylate MAP2Ks,162,cancer
+R-HSA-6802916,RAF is phosphorylated downstream of moderate kinase activity BRAF mutants,162,cancer
+R-HSA-6802915,Moderate kinase activity BRAF mutants bind RAS:GTP,162,cancer
+R-HSA-6802914,RAS:GTP:moderate kinase activity p-RAF complexes bind MAP2Ks and MAPKs,162,cancer
+R-HSA-6803230,Dissociation of moderate activity BRAF complexes,162,cancer
+R-HSA-8936676,Moderate kinase activity BRAF mutants:RAS:GTP homo/heterodimerize,162,cancer
+R-HSA-6802921,Activated MAP2Ks phosphorylate MAPKs downstream of moderate kinase activity BRAF mutants,162,cancer
+R-HSA-9652165,MAP2K mutants constitutively phosphorylate MAPKs,0060233,cardiofaciocutaneous syndrome
+R-HSA-9652165,MAP2K mutants constitutively phosphorylate MAPKs,162,cancer
+R-HSA-9660538,Mutant MRAS:SHOC2:PPP1CC complexes dephosphorylate inactive RAFs,1107,esophageal carcinoma
+R-HSA-9660538,Mutant MRAS:SHOC2:PPP1CC complexes dephosphorylate inactive RAFs,3490,Noonan syndrome
+R-HSA-9660536,SHOC2 M173I disrupts the SHOC2:MRAS:PP1 complex,3490,Noonan syndrome
+R-HSA-6802918,Activated MAP2Ks phosphorylate MAPKs downstream of inactive BRAF mutants,162,cancer
+R-HSA-8936731,Inactive BRAF mutants:mutant RAS:GTP bind RAF1,162,cancer
+R-HSA-6803234,Dissociation of paradoxically activated RAS:BRAF complexes,162,cancer
+R-HSA-6802943,RAS:GTP:inactive p-RAF complexes phosphorylate MAP2Ks,162,cancer
+R-HSA-6802942,RAS:GTP:p-RAF complexes paradoxically bind MAP2Ks and MAPKs,162,cancer
+R-HSA-6802941,RAF is paradoxically phosphorylated downstream of kinase-inactive RAF,162,cancer
+R-HSA-6802937,Inactive BRAF mutants bind mutant RAS:GTP,162,cancer
+R-HSA-9656211,MAP2Ks and MAPKs bind to the activated mutant RAF1 complex,0050469,Costello syndrome
+R-HSA-9656211,MAP2Ks and MAPKs bind to the activated mutant RAF1 complex,14291,LEOPARD syndrome
+R-HSA-9656211,MAP2Ks and MAPKs bind to the activated mutant RAF1 complex,162,cancer
+R-HSA-9656211,MAP2Ks and MAPKs bind to the activated mutant RAF1 complex,3490,Noonan syndrome
+R-HSA-9656211,MAP2Ks and MAPKs bind to the activated mutant RAF1 complex,11984,hypertrophic cardiomyopathy
+R-HSA-9656209,Dissociation of RAS:RAF1 mutant complex,0050469,Costello syndrome
+R-HSA-9656209,Dissociation of RAS:RAF1 mutant complex,14291,LEOPARD syndrome
+R-HSA-9656209,Dissociation of RAS:RAF1 mutant complex,162,cancer
+R-HSA-9656209,Dissociation of RAS:RAF1 mutant complex,3490,Noonan syndrome
+R-HSA-9656209,Dissociation of RAS:RAF1 mutant complex,11984,hypertrophic cardiomyopathy
+R-HSA-9656215,RAF1 mutant complexes phosphorylate MAP2K dimer,0050469,Costello syndrome
+R-HSA-9656215,RAF1 mutant complexes phosphorylate MAP2K dimer,14291,LEOPARD syndrome
+R-HSA-9656215,RAF1 mutant complexes phosphorylate MAP2K dimer,162,cancer
+R-HSA-9656215,RAF1 mutant complexes phosphorylate MAP2K dimer,3490,Noonan syndrome
+R-HSA-9656215,RAF1 mutant complexes phosphorylate MAP2K dimer,11984,hypertrophic cardiomyopathy
+R-HSA-9656214,MAP2Ks phosphorylate MAPKs downstream of RAF1 mutants,0050469,Costello syndrome
+R-HSA-9656214,MAP2Ks phosphorylate MAPKs downstream of RAF1 mutants,14291,LEOPARD syndrome
+R-HSA-9656214,MAP2Ks phosphorylate MAPKs downstream of RAF1 mutants,162,cancer
+R-HSA-9656214,MAP2Ks phosphorylate MAPKs downstream of RAF1 mutants,3490,Noonan syndrome
+R-HSA-9656214,MAP2Ks phosphorylate MAPKs downstream of RAF1 mutants,11984,hypertrophic cardiomyopathy
+R-HSA-9656213,RAF1 mutants show enhanced heterodimerization with BRAF,0050469,Costello syndrome
+R-HSA-9656213,RAF1 mutants show enhanced heterodimerization with BRAF,14291,LEOPARD syndrome
+R-HSA-9656213,RAF1 mutants show enhanced heterodimerization with BRAF,162,cancer
+R-HSA-9656213,RAF1 mutants show enhanced heterodimerization with BRAF,3490,Noonan syndrome
+R-HSA-9656213,RAF1 mutants show enhanced heterodimerization with BRAF,11984,hypertrophic cardiomyopathy
+R-HSA-9656212,Phosphorylation of RAF1 mutants,0050469,Costello syndrome
+R-HSA-9656212,Phosphorylation of RAF1 mutants,14291,LEOPARD syndrome
+R-HSA-9656212,Phosphorylation of RAF1 mutants,162,cancer
+R-HSA-9656212,Phosphorylation of RAF1 mutants,3490,Noonan syndrome
+R-HSA-9656212,Phosphorylation of RAF1 mutants,11984,hypertrophic cardiomyopathy
+R-HSA-9656207,CR2 RAF1 mutants don't bind YWHAB,0050469,Costello syndrome
+R-HSA-9656207,CR2 RAF1 mutants don't bind YWHAB,14291,LEOPARD syndrome
+R-HSA-9656207,CR2 RAF1 mutants don't bind YWHAB,162,cancer
+R-HSA-9656207,CR2 RAF1 mutants don't bind YWHAB,3490,Noonan syndrome
+R-HSA-6802837,Loss-of-function NF1 variants don't stimulate RAS GTPase activity,8712,neurofibromatosis
+R-HSA-6802837,Loss-of-function NF1 variants don't stimulate RAS GTPase activity,162,cancer
+R-HSA-6802935,MAPKs are phosphorylated downstream of BRAF and RAF fusion dimers,162,cancer
+R-HSA-6802934,p-BRAF and RAF fusion dimers bind MAP2Ks and MAPKs,162,cancer
+R-HSA-6802933,p-BRAF and RAF fusion dimers phosphorylate MAP2Ks,162,cancer
+R-HSA-6802932,Dissociation of BRAF/RAF fusion complex,162,cancer
+R-HSA-6802927,BRAF and RAF fusion mutant dimers are phosphorylated,162,cancer
+R-HSA-5387392,processing defective Hh variants are degraded by the proteasome,4621,holoprosencephaly
+R-HSA-5362450,Hh processing variants bind lectins,4621,holoprosencephaly
+R-HSA-5483238,Hh processing variants are ubiquitinated,4621,holoprosencephaly
+R-HSA-5387386,Hh processing variants are recruited to SEL1:SYVN at the ER membrane,4621,holoprosencephaly
+R-HSA-5358460,HPE SHH variants don't undergo autoproteolytic cleavage,4621,holoprosencephaly
+R-HSA-5387389,Hh processing variants are translocated to the cytosol in a VCP-dependent manner,4621,holoprosencephaly
+R-HSA-5483229,HHAT G287V doesn't palmitoylate Hh-Np,14448,46 XY gonadal dysgenesis
+R-HSA-3642203,Dimeric TGFB1 does not bind TGFBR2 MSI frameshift mutants,162,cancer
+R-HSA-3645780,TGFBR2 KD mutants do not phosphorylate TGFBR1,162,cancer
+R-HSA-3656382,TGFBR2 does not recruit TGFBR1 LBD Mutants,162,cancer
+R-HSA-3656523,An anchoring protein ZFYVE9 (SARA) does not recruit SMAD2/3 to TGFB1:TGFBR2:p-TGFBR1 KD Mutants,162,cancer
+R-HSA-3311014,SMAD4 MH2 Domain Mutants do not bind phosphorylated SMAD2 and SMAD3,162,cancer
+R-HSA-3304394,Activated TGFBR1 cannot phosphorylate SMAD2 and SMAD3 Phosphorylation Motif Mutants,162,cancer
+R-HSA-3315483,Phosphorylated SMAD2/3 MH2 Domain Mutants do not bind SMAD4,162,cancer
+R-HSA-3323184,Defective HLCS does not biotinylate ACACA:Mn2+,0050718,vitamin metabolic disorder
+R-HSA-9035987,Defective HLCS does not biotinylate 6xMCCC1:6xMCCC2,0050718,vitamin metabolic disorder
+R-HSA-9035988,Defective HLCS does not biotinylate PC:Mn2+,0050718,vitamin metabolic disorder
+R-HSA-9035990,Defective HLCS does not biotinylate 6x(PCCA:PCCB),0050718,vitamin metabolic disorder
+R-HSA-3325540,Defective extracellular BTD does not hydrolyse BCTN,0050718,vitamin metabolic disorder
+R-HSA-4225086,Defective mitochondrial BTD does not hydrolyse BCTN,0050718,vitamin metabolic disorder
+R-HSA-3322135,Defective MMAA does not protect MUT,14749,methylmalonic acidemia
+R-HSA-3318576,Defective MMACHC does not reduce Cbl,0050715,methylmalonic aciduria and homocystinuria type cblC
+R-HSA-3318590,Defective MMACHC does not decyanate CNCbl,0050715,methylmalonic aciduria and homocystinuria type cblC
+R-HSA-3318571,Defective MMADHC does not bind MMACHC:B12r,0050716,methylmalonic aciduria and homocystinuria type cblD
+R-HSA-3322971,Defective MUT does not isomerise L-MM-CoA to SUCC-CoA,14749,methylmalonic acidemia
+R-HSA-3299657,Defective TCII does not bind Cbl in the circulation,13382,megaloblastic anemia
+R-HSA-3325546,Defective CD320 does not transport extracellular TCII:Cbl to endosome,14749,methylmalonic acidemia
+R-HSA-3315437,Defective LMBRD1 does not transport lysosomal Cbl to cytosol,0050717,methylmalonic aciduria and homocystinuria type cblF
+R-HSA-3315455,Defective GIF does not bind Cbl,13382,megaloblastic anemia
+R-HSA-3296462,Defective CUBN does not transport GIF:Cbl,13382,megaloblastic anemia
+R-HSA-3296477,Defective AMN does not transport GIF:Cbl,13382,megaloblastic anemia
+R-HSA-5683325,Defective ABCD4 does not transport Cbl from lysosomal lumen to cytosol,14749,methylmalonic acidemia
+R-HSA-5683325,Defective ABCD4 does not transport Cbl from lysosomal lumen to cytosol,9263,homocystinuria
+R-HSA-3318563,Defective MTRR does not convert cob(II)alamin to MeCbl,0050732,methylmalonic aciduria and homocystinuria type cblE
+R-HSA-3322125,Defective MMAB does not transfer adenosyl group from ATP to B12s,14749,methylmalonic acidemia
+R-HSA-3321918,Defective MTR does not transfer CH3 group from MTHF to cob(I)alamin,0050733,methylmalonic aciduria and homocystinuria type cblG
+R-HSA-3322140,Defective MTR does not transfer CH3 group from MeCbl to HCYS,0050733,methylmalonic aciduria and homocystinuria type cblG
+R-HSA-5604975,Defective UGT1A1 does not transfer GlcA from UDP-GlcA to BIL,3803,Crigler-Najjar syndrome
+R-HSA-9036102,Defective UGT1A1 does not transfer GlcA from UDP-GlcA to BMG,3803,Crigler-Najjar syndrome
+R-HSA-5605147,Defective CYP1B1 does not 4-hydroxylate EST17b,1686,glaucoma
+R-HSA-5605147,Defective CYP1B1 does not 4-hydroxylate EST17b,0050593,primary congenital glaucoma
+R-HSA-5605147,Defective CYP1B1 does not 4-hydroxylate EST17b,1067,open-angle glaucoma
+R-HSA-5605147,Defective CYP1B1 does not 4-hydroxylate EST17b,1070,primary open angle glaucoma
+R-HSA-5602901,Defective GSS does not synthesize GSH,655,inherited metabolic disorder
+R-HSA-5579081,Defective ACY1 does not hydrolyse mercapturic acids,3602,toxic encephalopathy
+R-HSA-5602050,Defective CYP26C1 does not 4-hydroxylate 9cRA,3165,skin benign neoplasm
+R-HSA-5602272,Defective CYP4F22 does not 20-hydroxylate TrXA3,1699,congenital ichthyosiform erythroderma
+R-HSA-5603379,TPMT does not transfer CH3 from AdoMet to 6MP,655,inherited metabolic disorder
+R-HSA-5603208,Defective OPLAH does not hydrolyse OPRO,655,inherited metabolic disorder
+R-HSA-5602892,Defective GCLC does not ligate L-Glu to L-Cys,583,hemolytic anemia
+R-HSA-9035960,"Defective CYP27A1 does not 27-hydroxylate 5β-CHOL3α,7α,24(s)-triol",4810,cerebrotendinous xanthomatosis
+R-HSA-5602170,"CYP27A1 does not 27-hydroxylate 5bCHOL3a,7a,12a-triol",4810,cerebrotendinous xanthomatosis
+R-HSA-5579084,Defective AHCY does not hydrolyse AdoHcy,0050544,hypermethioninemia
+R-HSA-5602966,Defective FMO3 does not N-oxidise TMA,655,inherited metabolic disorder
+R-HSA-9036104,Defective UGT1A4 does not transfer GlcA from UDP-GlcA to BMG,3803,Crigler-Najjar syndrome
+R-HSA-5604954,Defective UGT1A4 does not transfer GlcA from UDP-GlcA to BIL,3803,Crigler-Najjar syndrome
+R-HSA-5580292,Defective CYP11B1 does not oxidise 11DCORT,9553,adrenal gland disease
+R-HSA-9035966,Defective GGT1 does not hydrolyse GSH,655,inherited metabolic disorder
+R-HSA-5603297,"Defective SLC35D1 does not transport UDP-GlcA, UDPGlcNAc",0050775,schneckenbecken dysplasia
+R-HSA-5601976,Defective CYP21A2 does not 21-hydroxylate PROG,9553,adrenal gland disease
+R-HSA-5602004,Defective CYP24A1 does not 24-hydroxylate CALTOL,12678,hypercalcemia
+R-HSA-5602242,Defective CYP2U1 does not omega-hydroxylate ARA,2476,hereditary spastic paraplegia
+R-HSA-5600598,Defective CYP11B2 does not oxidise 11DCORST,1701,steroid inherited metabolic disorder
+R-HSA-6785245,Defective CYP11B2 does not oxidise CORST,1701,steroid inherited metabolic disorder
+R-HSA-6785244,Defective CYP11B2 does not oxidise 18HCORST,1701,steroid inherited metabolic disorder
+R-HSA-5602186,Defective CYP27B1 does not hydroxylate CDL,10609,rickets
+R-HSA-5602063,Defective CYP26B1 does not 4-hydroxylate atRA,2340,craniosynostosis
+R-HSA-5603108,Defective MAOA does not oxidatively deaminate 5HT,150,disease of mental health
+R-HSA-5602885,Defective CYP7B1 does not 7-hydroxylate 25OH-CHOL,2476,hereditary spastic paraplegia
+R-HSA-5603275,Defective TBXAS1 does not isomerise PGH2 to TXA2,0080001,bone disease
+R-HSA-5603275,Defective TBXAS1 does not isomerise PGH2 to TXA2,2355,anemia
+R-HSA-5602984,"Defective GGT1 does not hydrolyse glutamate from AFXBO-SG, AFNBO-SG",655,inherited metabolic disorder
+R-HSA-5580269,"Defective CYP11A1 does not cleave 20a,22b-DHCHOL",0050546,congenital adrenal insufficiency
+R-HSA-5602147,Defective CYP2R1 does not 25-hydroxylate vitamin D,10609,rickets
+R-HSA-5603087,Defective MAT1A does not transfer Ado from ATP to L-Met,0050544,hypermethioninemia
+R-HSA-5601849,Defective CYP19A1 does not convert ANDST to E1,3765,pseudohermaphroditism
+R-HSA-5603251,Defective ACTH does not bind MCR2,9553,adrenal gland disease
+R-HSA-5603251,Defective ACTH does not bind MCR2,9970,obesity
+R-HSA-5601843,Defective CYP17A1 does not 17-hydroxylate PREG,9553,adrenal gland disease
+R-HSA-9035954,Defective CYP17A1 does not 17-hydroxylate P4,9553,adrenal gland disease
+R-HSA-9035956,Defective CYP17A1 does not cleave 17aHPROG,9553,adrenal gland disease
+R-HSA-4085027,Defective GFPT1 does not transfer an amino group from L-Gln to F6P to form GlcN6P,0050570,congenital disorder of glycosylation type I
+R-HSA-5609939,Defective PGM1 does not isomerise G6P to G1P,5212,congenital disorder of glycosylation
+R-HSA-4341669,Defective NEU1 does not hydrolyse Neu5Ac from glycoconjugates,3211,lysosomal storage disease
+R-HSA-4719354,Defective DPM3 does not transfer mannose to DOLP to form DOLPman,0050570,congenital disorder of glycosylation type I
+R-HSA-5610036,Defective GALE does not epimerise UDP-Gal to UDP-Glc,9870,galactosemia
+R-HSA-5610026,Defective GALK1 does not phosphorylate Gal,14695,galactokinase deficiency
+R-HSA-4088338,Defective GNE does not hydrolyse UDP-GlcNAc,3659,sialuria
+R-HSA-4088338,Defective GNE does not hydrolyse UDP-GlcNAc,3429,inclusion body myositis
+R-HSA-4088322,Defective GNE does not phosphorylate ManNAc to ManNAc-6-P,3659,sialuria
+R-HSA-4088322,Defective GNE does not phosphorylate ManNAc to ManNAc-6-P,3429,inclusion body myositis
+R-HSA-5610038,Defective GALT does not transfer UMP to Gal1P,9870,galactosemia
+R-HSA-4755545,"Defective DHDDS does not elongate E,E-FPP",10584,retinitis pigmentosa
+R-HSA-3781832,Defective MPI does not  isomerize Fru6P to Man6P,0050570,congenital disorder of glycosylation type I
+R-HSA-4755572,Defective SRD5A3 does not reduce pPNOL to DCHOL,0050570,congenital disorder of glycosylation type I
+R-HSA-4755600,Defective DOLK does not phosphorylate DCHOL,0050570,congenital disorder of glycosylation type I
+R-HSA-4717406,Defective DPM1 does not transfer mannose to DOLP to form DOLPman,0050570,congenital disorder of glycosylation type I
+R-HSA-4719375,Defective DPM2 does not transfer mannose to DOLP to form DOLPman,0050570,congenital disorder of glycosylation type I
+R-HSA-3781926,Defective PMM2 does not isomerise Man6P to Man1P,0050570,congenital disorder of glycosylation type I
+R-HSA-3656230,Defective B4GALT1 does not transfer Gal to the keratan chain,0050571,congenital disorder of glycosylation type II
+R-HSA-9035949,Defective B4GALT1 does not transfer Gal to the N-glycan precursor,0050571,congenital disorder of glycosylation type II
+R-HSA-9035950,Defective B4GALT1 does not transfer Gal to a branch of keratan,0050571,congenital disorder of glycosylation type II
+R-HSA-3656258,Defective ST3GAL3 does not transfer SA to keratan,0060037,developmental disorder of mental health
+R-HSA-3560785,Defective PAPSS2 does not transfer PO4(2-) group from ATP to APS to form PAPS,0080027,spondyloepimetaphyseal dysplasia
+R-HSA-3560794,Defective PAPSS2 does not transfer SO4(2-) group to ATP to form APS,0080027,spondyloepimetaphyseal dysplasia
+R-HSA-3656261,Defective EXT1 (in EXT1:EXT2) does not transfer GlcNAc to the heparan chain,206,hereditary multiple exostoses
+R-HSA-9036283,Defective EXT1 (in EXT1:EXT2) does not transfer GlcNAc to the terminal GlcA residue,206,hereditary multiple exostoses
+R-HSA-9036285,Defective EXT1 (in EXT1:EXT2) does not transfer GlcA to heparan,206,hereditary multiple exostoses
+R-HSA-3656257,Defective EXT1 (in EXT1:EXT2) does not transfer GlcA to heparan,206,hereditary multiple exostoses
+R-HSA-3560789,"Defective SLC26A2 does not cotransport extracellular SO4(2-), H+ to cytosol",0080055,achondrogenesis type IB
+R-HSA-9035983,Defective HEXB does not cleave the terminal GalNAc from keratan sulfate,3321,gangliosidosis GM2
+R-HSA-9035982,Defective HEXB does not cleave the terminal GalNAc from HA fragments,3321,gangliosidosis GM2
+R-HSA-3662344,Defective HEXB does not cleave the terminal GalNAc from DS,3321,gangliosidosis GM2
+R-HSA-4420365,Defective B3GALT6 does not transfer Gal to the tetrasaccharide linker,13359,Ehlers-Danlos syndrome
+R-HSA-4420365,Defective B3GALT6 does not transfer Gal to the tetrasaccharide linker,0080027,spondyloepimetaphyseal dysplasia
+R-HSA-3636919,Defective CHST14 does not transfer SO4(2-) to GalNAc in dermatan or DS,13359,Ehlers-Danlos syndrome
+R-HSA-3595175,Defective CHST3 does not transfer SO4(2-) to chondroitin,0080027,spondyloepimetaphyseal dysplasia
+R-HSA-3656269,Defective CHST6 does not transfer SO4(2-) to GlcNAc residues on keratan-PG,2565,macular corneal dystrophy
+R-HSA-3560802,Defective B3GAT3 does not transfer GlcA to tetrasaccharide linker,14764,Larsen syndrome
+R-HSA-3560802,Defective B3GAT3 does not transfer GlcA to tetrasaccharide linker,1682,congenital heart defect
+R-HSA-3560804,Defective B4GALT7 does not transfer Gal to xylosyl-unit of the tetrasaccharide linker,13359,Ehlers-Danlos syndrome
+R-HSA-9036289,Defective EXT2 (in EXT1:EXT2) does not transfer GlcA to heparan,206,hereditary multiple exostoses
+R-HSA-3656254,Defective EXT2 (in EXT1:EXT2) does not transfer GlcNAc to the heparan chain,206,hereditary multiple exostoses
+R-HSA-9036290,Defective EXT2 (in EXT1:EXT2) does not transfer GlcNAc to heparan,206,hereditary multiple exostoses
+R-HSA-3656267,Defective EXT2 (in EXT1:EXT2) does not transfer GlcA to heparan,206,hereditary multiple exostoses
+R-HSA-9035976,Defective HEXA does not cleave the terminall GalNAc from small HA fragments,3322,gangliosidosis GM1
+R-HSA-9035978,Defective HEXA does not cleave the terminal GalNAc from keratan sulfate,3322,gangliosidosis GM1
+R-HSA-3656259,Defective HEXA does not cleave the terminal GalNAc from DS,3322,gangliosidosis GM1
+R-HSA-3595178,Defective CHSY1 does not transfer GlcA to chondroitin,0050581,brachydactyly
+R-HSA-3595176,Defective CHSY1 does not transfer GalNAc to chondroitin,0050581,brachydactyly
+R-HSA-5615556,Defective POMT2 does not transfer Man from Dol-P-Man to DAG1,0050588,muscular dystrophy-dystroglycanopathy
+R-HSA-5617096,Defective POMGNT1 does not transfer GlcNAc from UDP-GlcNAc to Man-O-Ser-DAG1,0050588,muscular dystrophy-dystroglycanopathy
+R-HSA-5096538,Defective LFNG does not transfer GlcNAc to Pre-NOTCH,0050568,spondylocostal dysostosis
+R-HSA-5096537,Defective GALNT3 does not transfer GalNAc to mucins,0050459,hyperphosphatemia
+R-HSA-6785668,Defective LARGE does not transfer Xyl from UDP-Xyl to GlcA,0050557,congenital muscular dystrophy
+R-HSA-5096532,Defective GALNT12 does not transfer GalNAc to mucins,9256,colorectal cancer
+R-HSA-5615604,Defective POMT1 does not transfer Man from Dol-P-Man to DAG1,0050588,muscular dystrophy-dystroglycanopathy
+R-HSA-6785524,Defective C1GALT1C1 does not bind C1GALT1,305,carcinoma
+R-HSA-6785565,Defective B3GALTL does not transfer glucose to O-fucosyl-proteins,5614,eye disease
+R-HSA-6785565,Defective B3GALTL does not transfer glucose to O-fucosyl-proteins,0050567,orofacial cleft
+R-HSA-4549368,Defective ALG2 does not transfer a second Man to N-glycan precursor,0050570,congenital disorder of glycosylation type I
+R-HSA-4549368,Defective ALG2 does not transfer a second Man to N-glycan precursor,3635,congenital myasthenic syndrome
+R-HSA-4720497,Defective ALG12 does not add mannose to the N-glycan precursor,0050570,congenital disorder of glycosylation type I
+R-HSA-4549382,Defective ALG1 does not transfer the first Man to the N-glycan precursor,0050570,congenital disorder of glycosylation type I
+R-HSA-4793956,Defective B4GALT1 does not add Gal to N-glycan,0050571,congenital disorder of glycosylation type II
+R-HSA-4724291,Defective ALG6 does not add glucose to the N-glycan precursor,0050570,congenital disorder of glycosylation type I
+R-HSA-4549334,Defective DPAGT1 does not transfer GlcNAc to DOLP,0050570,congenital disorder of glycosylation type I
+R-HSA-4793955,Defective MGAT2 does not transfer GlcNAc to N-glycans,0050571,congenital disorder of glycosylation type II
+R-HSA-4793947,Defective MOGS does not cleave glucose from an N-glycosylated protein,0050571,congenital disorder of glycosylation type II
+R-HSA-4724330,Defective ALG8 does not add glucose to the N-glycan precursor,0050570,congenital disorder of glycosylation type I
+R-HSA-9035514,Defective ALG9 does not add the last mannose to the N-glycan precursor,0050570,congenital disorder of glycosylation type I
+R-HSA-4720478,Defective ALG9 does not add the seventh mannose to the N-glycan precursor,0050570,congenital disorder of glycosylation type I
+R-HSA-4570573,Defective RFT1 does not flip the N-glycan precursor,0050570,congenital disorder of glycosylation type I
+R-HSA-4720473,Defective ALG3 does not add mannose to the N-glycan precursor,0050570,congenital disorder of glycosylation type I
+R-HSA-9036008,"Defective MAN1B1 does not hydrolyse a second 1,2-linked mannose (a branch)",0050776,non-specific X-linked mental retardation
+R-HSA-9036011,"Defective MAN1B1 does not hydrolyse 1,2-linked mannose (b branch)",0050776,non-specific X-linked mental retardation
+R-HSA-4793949,"Defective MAN1B1 does not hydrolyse 1,2-linked mannose (a branch)",0050776,non-specific X-linked mental retardation
+R-HSA-9036012,"Defective MAN1B1 does not hydrolyse 1,2-linked mannose (c branch)",0050776,non-specific X-linked mental retardation
+R-HSA-4551297,Defective ALG11 does not transfer Man to the N-glycan precursor,0050570,congenital disorder of glycosylation type I
+R-HSA-5633241,Defective ALG14 does not transfer GlcNAc from UDP-GlcNAc to GlcNAcDOLP,3635,congenital myasthenic syndrome
+R-HSA-9036025,Defective MPDU1 does not promote transfer of Man to (GlcNAc)2 (Man)5 (PP-Dol)1 by ALG3,0050570,congenital disorder of glycosylation type I
+R-HSA-4686998,Defective MPDU1 does not promote transfer of Man to N-glycan precursor (GlcNAc)2 (Man)7 (PP-Dol)1 by ALG12,0050570,congenital disorder of glycosylation type I
+R-HSA-9036021,Defective MPDU1 does not promote transfer of Man to (GlcNAc)2 (Man)6 (PP-Dol)1 by ALG9,0050570,congenital disorder of glycosylation type I
+R-HSA-9036020,Defective MPDU1 does not promote transfer of Man to (GlcNAc)2 (Man)8 (PP-Dol)1 by ALG9,0050570,congenital disorder of glycosylation type I
+R-HSA-880053,2-oxoglutarate + NADPH + H+ => (R)-2-hydroxyglutarate + NADP+ [mutant IDH1],3068,glioblastoma multiforme
+R-HSA-5649483,Defective PAH does not hydroxylate L-Phe to L-Tyr,9281,phenylketonuria
+R-HSA-3274540,Defective G6PC does not hydrolyze glucose 6-phosphate,2749,glycogen storage disease I
+R-HSA-3828061,Defective GYS1 does not transfer glucose to growing glycogen chains,2747,glycogen storage disease
+R-HSA-3878762,Defective GBE1 does not catalyze branch formation in growing glycogen chains (liver),2750,glycogen storage disease IV
+R-HSA-9036729,Defective GAA does not hydrolyze lysosomal glycogen,2752,glycogen storage disease II
+R-HSA-3282876,Defective G6PC3 does not hydrolyze glucose 6-phosphate,0050590,severe congenital neutropenia
+R-HSA-3229118,Defective SLC37A4 does not exchange G6P and Pi across the ER membrane,2749,glycogen storage disease I
+R-HSA-3797226,Defective NHLRC1 does not ubiquitinate EPM2A (laforin) and PPP1R3C (PTG) (type 2B disease),2747,glycogen storage disease
+R-HSA-3791349,Defective EPM2A does not dephosphorylate phosphoglycogen (type 2A disease),2747,glycogen storage disease
+R-HSA-3858506,Defective GYS2 does not transfer glucose to growing glycogen chains,2747,glycogen storage disease
+R-HSA-3814838,Defective GYG1 is not autoglucosyolated,0050579,glycogen storage disease XV
+R-HSA-5662851,Defective DCXR does not reduce L-xylulose to xylitol,2978,carbohydrate metabolic disorder
+R-HSA-2263495,Defective GNS does not hydrolyse 6-sulfate from GlcNAc6S,12801,mucopolysaccharidosis III
+R-HSA-2263444,Defective SGSH does not hydrolyse Heparan sulfate chain(7),12801,mucopolysaccharidosis III
+R-HSA-9036050,Defective SGSH does not hydrolyse Heparan sulfate chain(2),12801,mucopolysaccharidosis III
+R-HSA-9036056,Defective HGSNAT does not acetylate Heparan sulfate chain(3),12801,mucopolysaccharidosis III
+R-HSA-2263492,Defective HGSNAT does not acetylate Heparan chain(1),12801,mucopolysaccharidosis III
+R-HSA-2263490,Defective GALNS does not hydrolyse sulfate from Gal6S in keratan sulfate,12804,mucopolysaccharidosis IV
+R-HSA-9036061,Defective GLB1 does not hydrolyse linker chain(2),12798,mucopolysaccharidosis
+R-HSA-2265534,Defective GLB1 does not hydrolyse a glycosaminoglycan,12798,mucopolysaccharidosis
+R-HSA-2318373,Defective GUSB does not hydrolyse (HA)2,12803,mucopolysaccharidosis VII
+R-HSA-9036068,"Defective GUSB does not hydrolyse GlcA-β1,3-GlcNAc",12803,mucopolysaccharidosis VII
+R-HSA-9036070,Defective GUSB does not hydrolyse CS/HS precursor,12803,mucopolysaccharidosis VII
+R-HSA-2262743,Defective IDS does not hydrolyse dermatan sulfate (Chebi:63517 chain),12799,mucopolysaccharidosis II
+R-HSA-9036046,Defective IDS does not hydrolyse Heparan sulfate chain(5),12799,mucopolysaccharidosis II
+R-HSA-9036077,Defective HYAL1 does not hydrolyse (HA)50,12798,mucopolysaccharidosis
+R-HSA-2318585,Defective HYAL1 does not hydrolyse Chondroitin chains,12798,mucopolysaccharidosis
+R-HSA-2263496,Defective NAGLU does not hydrolyse Heparan sulfate chain(4),12801,mucopolysaccharidosis III
+R-HSA-9036052,Defective NAGLU does not hydrolyse heparan chain(2),12801,mucopolysaccharidosis III
+R-HSA-9036065,Defective ARSB does not hydrolyse DS,12800,mucopolysaccharidosis VI
+R-HSA-2282889,Defective ARSB does not hydrolyse C4S/C6S chains,12800,mucopolysaccharidosis VI
+R-HSA-9036041,Defective IDUA does not hydrolyse the unsulfated alpha-L-iduronosidic link in DS,12802,mucopolysaccharidosis I
+R-HSA-2206299,Defective IDUA does not hydrolyse Heparan sulfate chain(6),12802,mucopolysaccharidosis I
+R-HSA-9036037,Defective IDUA does not hydrolyse Heparan sulfate chain(1),12802,mucopolysaccharidosis I
+R-HSA-5656459,Defective KHK does not phosphorylate beta-D-fructose,2978,carbohydrate metabolic disorder
+R-HSA-5659926,Defective SI does not hydrolyze Suc,9868,intestinal disaccharidase deficiency
+R-HSA-5659879,Defective SI does not hydrolyze iMal,9868,intestinal disaccharidase deficiency
+R-HSA-5659922,Defective SI does not hydrolyze Mal,9868,intestinal disaccharidase deficiency
+R-HSA-5658001,Defective LCT does not hydrolyze Lac,10604,lactose intolerance
+R-HSA-5659899,Defective SI does not hydrolyze maltotriose,9868,intestinal disaccharidase deficiency
+R-HSA-5656438,Defective ALDOB does not cleave Fru 1-P to GA and DHAP,9869,hereditary fructose intolerance syndrome
+R-HSA-5659998,"Defective TALDO1 does not transform Fru(6)P, E4P to SH7P, GA3P",2978,carbohydrate metabolic disorder
+R-HSA-5660013,Defective RPIA does not isomerize RU5P to R5P,2978,carbohydrate metabolic disorder
+R-HSA-5659989,"Defective TALDO1 does not transform SH7P, GA3P to Fru(6)P, E4P",2978,carbohydrate metabolic disorder
+R-HSA-5660015,Defective RPIA does not isomerize R5P to RU5P,2978,carbohydrate metabolic disorder
+R-HSA-5688377,Defective pro-SFTPC does not translocate from ER membrane to multivesicle body,12716,newborn respiratory distress syndrome
+R-HSA-5688377,Defective pro-SFTPC does not translocate from ER membrane to multivesicle body,3082,interstitial lung disease
+R-HSA-5688884,Defective CSF2RB does not bind SFTPs,12120,pulmonary alveolar proteinosis
+R-HSA-5687585,"Defective SLC34A2 does not cotransport HPO4(2-), 3Na+ from extracellular region to cytosol",12117,pulmonary alveolar microlithiasis
+R-HSA-5688025,Defective pro-SFTPB does not translocate from ER membrane to multivesicle body,12716,newborn respiratory distress syndrome
+R-HSA-5688025,Defective pro-SFTPB does not translocate from ER membrane to multivesicle body,3082,interstitial lung disease
+R-HSA-5688397,"Defective ABCA3 does not transport PC, PG from ER membrane to lamellar body",12716,newborn respiratory distress syndrome
+R-HSA-5688397,"Defective ABCA3 does not transport PC, PG from ER membrane to lamellar body",3082,interstitial lung disease
+R-HSA-5687875,Defective SFTPA2 does not translocate from ER membrane to extracellular region,12716,newborn respiratory distress syndrome
+R-HSA-5687875,Defective SFTPA2 does not translocate from ER membrane to extracellular region,0050156,idiopathic pulmonary fibrosis
+R-HSA-5688899,Defective CSF2RA does not bind SFTPs,12716,newborn respiratory distress syndrome
+R-HSA-5688899,Defective CSF2RA does not bind SFTPs,12120,pulmonary alveolar proteinosis
+R-HSA-2466828,Defective RBP4 does not bind atROL,14252,dystrophies primarily involving the retinal pigment epithelium
+R-HSA-2466710,Defective LRAT does not esterify RBP1:atROL and FACYLs to atREs,14791,Leber congenital amaurosis
+R-HSA-2466822,Defective OPN1LW causes BCM,0050679,blue cone monochromacy
+R-HSA-2471670,Defective RDH12 does not reduce atRAL to atROL,10584,retinitis pigmentosa
+R-HSA-2466832,Defective RDH5 does not oxidise 11cROL to 11cRAL and causes RPA,11105,fundus albipunctatus
+R-HSA-2466802,Defective ABCA4 does not transport NRPE from disc membranes,4448,macular degeneration
+R-HSA-2466834,Defective OPN1SW causes tritanopia,11661,blue color blindness
+R-HSA-2466706,Defective OPN1MW causes DCB and BCM,13909,red-green color blindness
+R-HSA-2466706,Defective OPN1MW causes DCB and BCM,0050679,blue cone monochromacy
+R-HSA-2466861,Defective RDH12 does not reduce atRAL to atROL and causes LCA13,14791,Leber congenital amaurosis
+R-HSA-2471660,Defective OPN1LW causes CBP,13910,red color blindness
+R-HSA-2471641,Defective OPN1MW causes COD5,0050572,cone-rod dystrophy
+R-HSA-2467761,A2E is phagocytosed,14252,dystrophies primarily involving the retinal pigment epithelium
+R-HSA-2466764,NRPE condenses with atRAL to form A2PE,14252,dystrophies primarily involving the retinal pigment epithelium
+R-HSA-2466831,A2PE hydrolyses to A2E,14252,dystrophies primarily involving the retinal pigment epithelium
+R-HSA-2466846,atRAL can spontaneously react with PE to form NRPE,14252,dystrophies primarily involving the retinal pigment epithelium
+R-HSA-2467738,A2E translocates to RPE cells,14252,dystrophies primarily involving the retinal pigment epithelium
+R-HSA-2453818,Defective STRA6 does not transport atROL,10629,microphthalmia
+R-HSA-9687377,Defective RB1 does not form a complex with SKP2 and FZR1,162,cancer
+R-HSA-9660615,Defective RB1 does not translocate to the nucleus,162,cancer
+R-HSA-9659782,"Defective RB1 does not bind E2F1,(E2F2,E2F3)",162,cancer
+R-HSA-9645766,p14ARF mutants do not bind C1QBP,162,cancer
+R-HSA-8863014,p25-bound CDK5 phosphorylates CDC25A,10652,Alzheimer's disease
+R-HSA-8863013,CDK5 binds p25,10652,Alzheimer's disease
+R-HSA-8863012,Calpain cleaves p35 to p25,10652,Alzheimer's disease
+R-HSA-8868260,CDK5:p25 phosphorylates GOLGA2,10652,Alzheimer's disease
+R-HSA-8870628,Phosphorylated FOXO3 translocates to the nucleus,10652,Alzheimer's disease
+R-HSA-8863011,p25-bound CDK5 phosphorylates CDC25C,10652,Alzheimer's disease
+R-HSA-8863587,CDK5:p25 translocates to the nucleus,10652,Alzheimer's disease
+R-HSA-8863009,Influx of extracellular calcium,10652,Alzheimer's disease
+R-HSA-8870703,SOD2 (MnSOD) gene expression,10652,Alzheimer's disease
+R-HSA-8870698,FASLG (FasL) gene expression,10652,Alzheimer's disease
+R-HSA-8868567,CDK5:p25 phosphorylates PRDX1,10652,Alzheimer's disease
+R-HSA-8870710,APP gene expression,10652,Alzheimer's disease
+R-HSA-8868340,CDK5:p25 phosphorylates lamin B1,10652,Alzheimer's disease
+R-HSA-8863007,p25-bound CDK5 phosphorylates CDC25B,10652,Alzheimer's disease
+R-HSA-8870558,CDK5:p25 phosphorylates FOXO3,10652,Alzheimer's disease
+R-HSA-8870686,BCL2L11 (BIM) gene expression,10652,Alzheimer's disease
+R-HSA-8868573,CDK5:p25 phosphorylates PRDX2,10652,Alzheimer's disease
+R-HSA-8868666,CDK5:p25 phosphorylates JUN,10652,Alzheimer's disease
+R-HSA-8868344,CDK5:p25 phosphorylates lamin A,10652,Alzheimer's disease
+R-HSA-5577244,MSH2 variant:MSH6-defective DNA mismatch repair,9256,colorectal cancer
+R-HSA-5577259,MSH2 variant:MSH3-defective DNA mismatch repair,9256,colorectal cancer
+R-HSA-5578663,MSH3 variant:MSH2-defective DNA mismatch repair,1380,endometrial cancer
+R-HSA-5632970,MSH6 variant:MSH2-defective DNA mismatch repair,9256,colorectal cancer
+R-HSA-5632958,PMS2 variants-defective DNA mismatch repair,9256,colorectal cancer
+R-HSA-5545484,MLH1 variants-defective DNA mismatch repair,9256,colorectal cancer
+R-HSA-9629245,NEIL3 D132V does not cleave 5-guanidinohydantoin (Gh),417,autoimmune hypersensitivity disease
+R-HSA-9656250,Defective OGG1 mutants do not excise 8-oxoguanine,10652,Alzheimer's disease
+R-HSA-9656250,Defective OGG1 mutants do not excise 8-oxoguanine,162,cancer
+R-HSA-9658813,OGG1 S326C is oxidized,162,cancer
+R-HSA-9656252,Defective OGG1 mutants do not excise FapyG,162,cancer
+R-HSA-9657051,OGG1beta G12E does not translocate to mitochondria,162,cancer
+R-HSA-9656254,Defective OGG1 mutants show decreased binding to 8-oxoguanine,10652,Alzheimer's disease
+R-HSA-9656254,Defective OGG1 mutants show decreased binding to 8-oxoguanine,162,cancer
+R-HSA-9605313,Defective MUTYH mutants do not cleave adenine mispaired with 8-oxoguanine,0050424,familial adenomatous polyposis
+R-HSA-9605313,Defective MUTYH mutants do not cleave adenine mispaired with 8-oxoguanine,9256,colorectal cancer
+R-HSA-9605313,Defective MUTYH mutants do not cleave adenine mispaired with 8-oxoguanine,162,cancer
+R-HSA-9608288,Defective MUTYH mutants do not bind adenine mispaired with 8-oxoguanine,0050424,familial adenomatous polyposis
+R-HSA-9608288,Defective MUTYH mutants do not bind adenine mispaired with 8-oxoguanine,9256,colorectal cancer
+R-HSA-9608288,Defective MUTYH mutants do not bind adenine mispaired with 8-oxoguanine,162,cancer
+R-HSA-9628737,NEIL1 G83D does not cleave DHU,162,cancer
+R-HSA-9628758,NEIL1 G83D does not cleave FapyG,162,cancer
+R-HSA-9628756,NEIL1 G83D does not cleave FapyA,162,cancer
+R-HSA-9629166,Defective NEIL1 variants do not cleave Tg,162,cancer
+R-HSA-9629917,NEIL1 Q282TER does not translocate to the nucleus,162,cancer
+R-HSA-9630043,Defective NTHL1 truncation mutants do not bind thymine glycol (Tg),162,cancer
+R-HSA-9630047,Defective NTHL1 truncation mutants do not bind cytosine glycol (Cg),162,cancer
+R-HSA-9630044,Defective NTHL1 truncation mutants do not bind formamidopyrimidine (FapyA),162,cancer
+R-HSA-9630045,Defective NTHL1 truncation mutants do not bind dihydrouracil (DHU),162,cancer
+R-HSA-9630055,NTHL1 D239Y does not cleave dihydrouracil (DHU),162,cancer
+R-HSA-9630053,NTHL1 D239Y does not cleave thymine glycol (Tg),162,cancer
+R-HSA-9005585,"MECP2 mutants P302R,K304E,K305R,R306C,(R306H) do not bind NCoR/SMRT complex",1206,Rett syndrome
+R-HSA-9022465,"MECP2 mutants R106W, D121G, R133H, S134F, T158M and T158A do not bind to 5mC-DNA",1206,Rett syndrome
+R-HSA-9023461,MECP2 T158A:SIN3A complex does not bind BDNF gene promoter,1206,Rett syndrome
+R-HSA-9005561,"Active PKA, CaMK IV do not phosphorylate MECP2 mutants R306C,(R306H) at T308",1206,Rett syndrome
+R-HSA-9022462,"MECP2 mutants R133C ,D121G, R133H and S134F do not bind 5hmC-DNA",1206,Rett syndrome
+R-HSA-5682311,Defective ABCA12 does not transport lipids from cytosol to extracellular region,1699,congenital ichthyosiform erythroderma
+R-HSA-5678418,Defective ABCC9 (in KCNJ11:ABCC9) does not transport K+ from extracellular region to cytosol,420,hypertrichosis
+R-HSA-5678418,Defective ABCC9 (in KCNJ11:ABCC9) does not transport K+ from extracellular region to cytosol,0050650,familial atrial fibrillation
+R-HSA-5678418,Defective ABCC9 (in KCNJ11:ABCC9) does not transport K+ from extracellular region to cytosol,2256,osteochondrodysplasia
+R-HSA-5678418,Defective ABCC9 (in KCNJ11:ABCC9) does not transport K+ from extracellular region to cytosol,12930,dilated cardiomyopathy
+R-HSA-5679101,Defective ABCG8 (in ABCG5:ABCG8) does not transport sterols from cytosol to extracellular region,3146,lipid metabolism disorder
+R-HSA-5679101,Defective ABCG8 (in ABCG5:ABCG8) does not transport sterols from cytosol to extracellular region,1936,atherosclerosis
+R-HSA-5679101,Defective ABCG8 (in ABCG5:ABCG8) does not transport sterols from cytosol to extracellular region,10211,cholelithiasis
+R-HSA-5678749,Defective ABCB4 does not transport PC from plasma membrane to extracellular region,10211,cholelithiasis
+R-HSA-5678749,Defective ABCB4 does not transport PC from plasma membrane to extracellular region,1852,intrahepatic cholestasis
+R-HSA-5683672,"Defective ABCA3 does not transport PC, PG from ER membrane to lamellar body",12716,newborn respiratory distress syndrome
+R-HSA-5678517,Defective ABCB11 does not transport bile salts from cytosol to extracellular region,1852,intrahepatic cholestasis
+R-HSA-5679145,Defective ABCG5 (in ABCG5:ABCG8) does not transport sterols from cytosol to extracellular region,3146,lipid metabolism disorder
+R-HSA-5679031,"Defective ABCC2 does not transport BMG,BDG from cytosol to extracellular region",12308,Dubin-Johnson syndrome
+R-HSA-5690340,Defective ABCC6 does not transport organic anion from cytosol to extracellular region,2738,pseudoxanthoma elasticum
+R-HSA-5682111,Defective ABCA1 does not transport CHOL from transport vesicle membrane to plasma membrane,1388,Tangier disease
+R-HSA-5678822,Defective CFTR does not transport Cl- from cytosol to extracellular region,1485,cystic fibrosis
+R-HSA-8866854,VCP-catalyzed ATP hydrolysis promotes the translocation of CFTR F508del into the cytosol,1485,cystic fibrosis
+R-HSA-5678992,Ivacaftor:CFTR G551D transports Cl- from cytosol to extracellular region,1485,cystic fibrosis
+R-HSA-8866858,CFTR F508del is degraded by the 26S proteasome,1485,cystic fibrosis
+R-HSA-5679000,Ivacaftor binds CFTR G551D,1485,cystic fibrosis
+R-HSA-8866857,CFTR F508del binds components of the ERAD machinery for ubiquitination and degradation,1485,cystic fibrosis
+R-HSA-8866856,RNF5 and RNF185 ubiquitinate CFTR F508del,1485,cystic fibrosis
+R-HSA-5684043,Defective ABCD1 does not transfer LCFAs from cytosol to peroxisomal matrix,10588,adrenoleukodystrophy
+R-HSA-5683355,Defective ABCB6 does not transport porphyrin from cytosol into mitochondria matrix,10629,microphthalmia
+R-HSA-5683113,"Defective ABCC8 does not form functional KATP channels, causing hyperinsulinemic hypoglycemia",13317,hyperinsulinemic hypoglycemia
+R-HSA-5683209,Activating ABCC8 mutants cause hyperglycemia in permanent neonatal diabetes mellitus (PNDM) and transient neonatal DM (TNDM).,11717,neonatal diabetes mellitus
+R-HSA-5659755,Defective SLC6A18 does not transport Gly from extracellular region to cytosol,9252,amino acid metabolic disorder
+R-HSA-5624256,Defective SLC17A8 does not exchange cytosolic L-Glu for synaptic vesicle H+,0050564,autosomal dominant nonsyndromic deafness
+R-HSA-5625841,"Defective SLC24A1 does not exchange extracellular 4Na+ for cytosolic Ca2+, K+",0050534,congenital stationary night blindness
+R-HSA-5638222,"Defective SLC2A2 does not transport Fru, Gal, Glc from cytosol to extracellular region",447,renal tubular transport disease
+R-HSA-5621425,"Defective AVP mutants do not bind AVPR1A,B",12388,neurohypophyseal diabetes insipidus
+R-HSA-5658195,Defective SLC5A5 does not cotransport Na+ with I- from extracellular region to cytosol,0050328,congenital hypothyroidism
+R-HSA-5651971,"Defective SLC34A3 does not cotransport Pi, 2Na+",0050445,X-linked hypophosphatemia
+R-HSA-5660694,"Variant SLC6A20 does not cotransport L-Pro, Na+ from extracellulare region to cytosol",9252,amino acid metabolic disorder
+R-HSA-5654125,Defective SLC39A4 does not transport Zn2+ from extracellular region to cytosol,0050605,acrodermatitis enteropathica
+R-HSA-5660840,"Defective SLC6A5 does not cotransport Gly, Cl-, Na+ from extracellular region to cytosol",936,brain disease
+R-HSA-5659674,"Variant SLC6A14 cotransports SLC6A14 ligands, Cl-, 2Na+ from extracellular region to cytosol",9970,obesity
+R-HSA-5661188,Defective SLCO2A1 does not transport PGT substrates from extracellular region to cytosol,14283,primary hypertrophic osteoarthropathy
+R-HSA-5661039,Defective SLC9A6 does not exchange Na+ for H+ across the early endosome membrane,0050888,syndromic intellectual disability
+R-HSA-5656248,Defective SLC4A1 does not exchange Cl- for HCO3- (in erythrocytes),12971,hereditary spherocytosis
+R-HSA-5656248,Defective SLC4A1 does not exchange Cl- for HCO3- (in erythrocytes),583,hemolytic anemia
+R-HSA-5656248,Defective SLC4A1 does not exchange Cl- for HCO3- (in erythrocytes),14219,renal tubular acidosis
+R-HSA-5623558,"Defective SLC11A2 does not cotransport Fe2+, H+ from extracellular region to cytosol",0050642,hypochromic microcytic anemia
+R-HSA-5655733,Defective SLC40A1 does not transport Fe2+ from cytosol to extracellular region,2352,hemochromatosis
+R-HSA-5656219,Defective SLC4A4 does not cotransport Na+ with 3HCO3-,14219,renal tubular acidosis
+R-HSA-5626270,"Defective SLC24A4 does not exchange extracellular 4Na+ for cytosolic Ca2+, K+",2187,amelogenesis imperfecta
+R-HSA-5661086,Defective SLC9A9 does not exchange Na+ for H+ across the late endosome membrane,12849,autistic disorder
+R-HSA-5625674,"Defective SLC22A5 does not cotransport CAR, Na+ from extracellular region to cytosol",14365,systemic primary carnitine deficiency disease
+R-HSA-5623051,Defective RHAG does not transport NH4+ from cytosol to extracellular region (rbc),0050641,Rh deficiency syndrome
+R-HSA-5658163,Defective SLC5A2 does not cotransport Glc and Na+ from extracellular region to cytosol,447,renal tubular transport disease
+R-HSA-5632804,SLC2A1 tetramer does not transport Glc from extracellular region to cytosol,2481,infantile epileptic encephalopathy
+R-HSA-5651685,"Defective SLC34A1 does not cotransport Pi, 3Na+",0050336,hypophosphatemia
+R-HSA-5651685,"Defective SLC34A1 does not cotransport Pi, 3Na+",585,nephrolithiasis
+R-HSA-5651685,"Defective SLC34A1 does not cotransport Pi, 3Na+",447,renal tubular transport disease
+R-HSA-9035517,Defective AVP mutants do not bind AVPR2,12388,neurohypophyseal diabetes insipidus
+R-HSA-5653850,"Defective SLC36A2 does not cotransport Gly, L-Pro with H+ from extracellular region to cytosol",9252,amino acid metabolic disorder
+R-HSA-5627870,SLC26A4 does not transport I- from cytosol to extracellular region,12176,goiter
+R-HSA-5627870,SLC26A4 does not transport I- from cytosol to extracellular region,10003,sensorineural hearing loss
+R-HSA-5638209,"Defective SLC2A9 does not transport Fru, Glc, urate",447,renal tubular transport disease
+R-HSA-5659734,"Defective SLC6A19 does not cotransport neutral amino acids, Na+ from extracellular region to cytosol",1060,Hartnup disease
+R-HSA-5658483,"Defective SLC5A7 does not cotransport Cho, Cl-, Na+ from extracellular region to cytosol",2477,motor peripheral neuropathy
+R-HSA-5651697,"Defective SLC34A2 does not cotransport Pi, 3Na+",12117,pulmonary alveolar microlithiasis
+R-HSA-5625574,Defective SLC22A18 does not exchange extracellular organic cations for cytosolic H+,1324,lung cancer
+R-HSA-5625574,Defective SLC22A18 does not exchange extracellular organic cations for cytosolic H+,3247,rhabdomyosarcoma
+R-HSA-5625029,"SLC1A1 does not cotransport L-Glu,L-Asp,D-Asp,H+,3Na+ from extracellular region to cytosol",5419,schizophrenia
+R-HSA-5625029,"SLC1A1 does not cotransport L-Glu,L-Asp,D-Asp,H+,3Na+ from extracellular region to cytosol",9252,amino acid metabolic disorder
+R-HSA-5624211,"Defective SLC16A1 does not cotransport monocarboxylates, H+ from extracellular region to cytosol",655,inherited metabolic disorder
+R-HSA-5625210,Defective SLC22A12 does not exchange extracellular urate for cytosolic LACT,0060158,acquired metabolic disease
+R-HSA-5632871,Defective SLC2A10 does not transport Glc from extracellular region to cytosol,0050645,arterial tortuosity syndrome
+R-HSA-5661198,Defective SLCO1B3 does not transport BIL from extracellular region (blood) to cytosol (hepatocyte),2741,bilirubin metabolic disorder
+R-HSA-5621888,Defective HK1 does not phosphorylate Glc to form G6P,2861,congenital nonspherocytic hemolytic anemia
+R-HSA-5625015,"Defective SLC1A3 does not cotransport L-Glu,L-Asp,D-Asp,H+,3Na+ from extracellular region to cytosol",963,episodic ataxia
+R-HSA-5628807,Defective SLC29A3 does not transport nucleosides from lysosomal lumen to cytosol,3405,histiocytosis
+R-HSA-5655760,Defective SLC40A1 does not transport Fe3+ from extracellular region to cytosol,2352,hemochromatosis
+R-HSA-5621402,Defective CP does not oxidise Fe2+ to Fe3+,0050711,aceruloplasminemia
+R-HSA-5649742,Defective SLC33A1 does not transport Ac-CoA from cytosol to Golgi lumen,1289,neurodegenerative disease
+R-HSA-5649742,Defective SLC33A1 does not transport Ac-CoA from cytosol to Golgi lumen,83,cataract
+R-HSA-5649742,Defective SLC33A1 does not transport Ac-CoA from cytosol to Golgi lumen,10003,sensorineural hearing loss
+R-HSA-5649742,Defective SLC33A1 does not transport Ac-CoA from cytosol to Golgi lumen,2476,hereditary spastic paraplegia
+R-HSA-5624239,"Defective SLC17A5 does not cotransport Neu5Ac, H+ from lysosomal lumen to cytosol",655,inherited metabolic disorder
+R-HSA-5623806,"Defective SLC12A6 does not cotransport K+, Cl- from cytosol to extracellular region",0060053,peripheral neuropathy
+R-HSA-5626356,"Defective SLC24A5 does not exchange cytosolic 4Na+ for Golgi luminal Ca2+, K+",0050632,oculocutaneous albinism
+R-HSA-5651942,Defective SLC35A1 does not exchange CMP-Neu5Ac for CMP,0050571,congenital disorder of glycosylation type II
+R-HSA-5660890,"Defective SLC7A9 (in SLC7A9:SLC3A1) does not exchange L-Arg, CySS-, L-Lys for L-Leu",9266,cystinuria
+R-HSA-5653596,Defective SLC35C1 does not transport UDP-Fuc from cytosol to Golgi lumen,0050571,congenital disorder of glycosylation type II
+R-HSA-5621918,Defective GCK does not phosphorylate Glc to form G6P,0050524,maturity-onset diabetes of the young
+R-HSA-5652099,"Defective SLC35A2 does not exchange UDP-Gal, UDP-GalNAc for UMP",2481,infantile epileptic encephalopathy
+R-HSA-5652099,"Defective SLC35A2 does not exchange UDP-Gal, UDP-GalNAc for UMP",0050571,congenital disorder of glycosylation type II
+R-HSA-5627737,SLC26A3 does not exchange Cl- for HCO3-,0050129,secretory diarrhea
+R-HSA-5623705,"Defective SLC12A3 does not cotransport Cl-, Na+ from extracellular region to cytosol",0050450,Gitelman syndrome
+R-HSA-5660706,"Defective SLC6A3 does not cotransport DA, Na+ from extracellular region to cytosol",1289,neurodegenerative disease
+R-HSA-5653622,Defective SLC35A3 does not exchange UDP-GlcNAc for UMP,0060037,developmental disorder of mental health
+R-HSA-5653622,Defective SLC35A3 does not exchange UDP-GlcNAc for UMP,1826,epilepsy syndrome
+R-HSA-5653622,Defective SLC35A3 does not exchange UDP-GlcNAc for UMP,0050646,distal arthrogryposis
+R-HSA-5660910,"Defective SLC7A7 does not exchange L-Arg for L-Leu, Na+ across the plasma membrane",9252,amino acid metabolic disorder
+R-HSA-5659764,"Defective SLC6A2 does not cotransport NAd, Na+ from extracellular region to cytosol",9252,amino acid metabolic disorder
+R-HSA-5627891,Defective SLC27A4 does not transport LCFAs from extracellular region to cytosol,0050737,autosomal recessive disease
+R-HSA-5625123,"Defective SLC20A2 does not cotransport Pi, Na+ from extracellular region to cytosol",10991,basal ganglia cerebrovascular disease
+R-HSA-5661184,Defective SLCO1B1 does not transport BIL from extracellular region (blood) to cytosol (hepatocyte),2741,bilirubin metabolic disorder
+R-HSA-5623588,"Defective SLC12A1 does not cotransport Na+, K+, 2Cl- from extracellular region to cytosol",445,Bartter disease
+R-HSA-5661474,Defective NPC does not transport GCK1:GKRP from cytosol to nucleoplasm,3113,papillary carcinoma
+R-HSA-5656356,Defective SLC5A1 does not cotransport Glc and Na+,10603,glucose intolerance
+R-HSA-5655702,"Defective SLC3A1 (in SLC7A9:SLC3A1) does not exchange L-Arg, CySS-, L-Lys for L-Leu",9266,cystinuria
+R-HSA-9646295,p14ARF mutant does not translocate to the nucleus,162,cancer
+R-HSA-9630792,p16INK4A mutants do not bind CDK4,162,cancer
+R-HSA-9630795,"p16INK4A mutants do not bind CDK4,CDK6",162,cancer
+R-HSA-5228811,NFKBIA variant is not phosphorylated within IkBA:NF-kappaB,612,primary immunodeficiency disease
+R-HSA-9630921,NFKBIA variant binds NFkB complex,627,severe combined immunodeficiency
+R-HSA-5602712,TICAM1 deficiency blocks TLR3 pathway,612,primary immunodeficiency disease
+R-HSA-5602353,IRAK4 deficiency blocks formation of the MyD88-IRAK4 Myddosome in TLR2/4 pathway,612,primary immunodeficiency disease
+R-HSA-5602672,Defective IRAK4 does not bind MyD88 within the TLR2/4 complex,612,primary immunodeficiency disease
+R-HSA-5262921,Defective IKBKG (NEMO) destabilizes the association of IKBKA:IKBKB:IKBKG (via TLR),612,primary immunodeficiency disease
+R-HSA-5602383,Defective MyD88 does not oligomerize within the activated TLR2/4 complex,612,primary immunodeficiency disease
+R-HSA-5602606,Defective MyD88 does not bind MAL(TIRAP):TLR2/4,612,primary immunodeficiency disease
+R-HSA-5602472,Defective IRAK4 does not form a complex with MyD88 within the TLR5 complex,612,primary immunodeficiency disease
+R-HSA-5602603,IRAK4 deficiency blocks formation of the MyD88-IRAK4 Myddosome in the TLR5 pathway,612,primary immunodeficiency disease
+R-HSA-5228840,Defective IKBKB (IKK2) does not form a complex with IKBKA and IKBKG,627,severe combined immunodeficiency
+R-HSA-5607838,Defective UNC93B1 does not bind TLR3,612,primary immunodeficiency disease
+R-HSA-5602316,Defective MyD88 does not oligomerize within the complex of activated TLR5,612,primary immunodeficiency disease
+R-HSA-5602624,Defective TRAF3 does not transmit the signal,612,primary immunodeficiency disease
+R-HSA-5602549,Defective TLR3 does not bind viral dsRNA,612,primary immunodeficiency disease
+R-HSA-9670014,Factor VIIIa dissociates ,12134,factor VIII deficiency
+R-HSA-9668023,"TPST1,2 transfer SO4(2-) from PAPS to FVIII",12134,factor VIII deficiency
+R-HSA-158137,factor VIII:von Willibrand factor multimer -> factor VIIIa + factor VIIIa B A3 acidic polypeptide + von Willibrand factor multimer,12134,factor VIII deficiency
+R-HSA-5607043,factor VIIIa associates with cell membrane,12134,factor VIII deficiency
+R-HSA-158118,factor VIII + von Willebrand factor multimer -> factor VIII:von Willibrand factor multimer,12134,factor VIII deficiency
+R-HSA-9661625,FVIII is secreted,12134,factor VIII deficiency
+R-HSA-158164,factor X -> factor Xa + factor X activation peptide (VIIIa:IXa catalyst),12134,factor VIII deficiency
+R-HSA-9670673,FIX is secreted,12259,hemophilia B
+R-HSA-158164,factor X -> factor Xa + factor X activation peptide (VIIIa:IXa catalyst),12259,hemophilia B
+R-HSA-158333,factor IX -> factor IXa + factor IX activation peptide (factor XIa catalyst),12259,hemophilia B
+R-HSA-159803,GGCX gamma-carboxylates 3D-F9(29-461) (pro-factor IX),12259,hemophilia B
+R-HSA-158357,factor XIIa binds SERPING1,0060002,C1 inhibitor deficiency
+R-HSA-158399,kallikrein binds SERPING1,0060002,C1 inhibitor deficiency
+R-HSA-9650473,SERPING1 is secreted,0060002,C1 inhibitor deficiency
+R-HSA-158164,factor X -> factor Xa + factor X activation peptide (VIIIa:IXa catalyst),2452,thrombophilia
+R-HSA-186800,PI3K catalyses the phosphorylation of PIP2 to PIP3,162,cancer
+R-HSA-380782,STAT binds to the active receptor,162,cancer
+R-HSA-186826,GRB2:SOS1 complex binds to the active receptor,162,cancer
+R-HSA-186834,SOS-mediated nucleotide exchange on RAS (PDGF receptor:GRB2:SOS),162,cancer
+R-HSA-186773,PDGF dimer binds two receptors simultaneously,162,cancer
+R-HSA-389083,Autophosphorylation of PDGF alpha receptors,162,cancer
+R-HSA-186780,PI3-kinase binds to the active receptor,162,cancer
+R-HSA-9674095,PDGFRs bind type II TKI,162,cancer
+R-HSA-9674093,PDGFRs bind type I TKI,162,cancer
+R-HSA-5654165,p-4Y-PLCG1 dissociates from activated FGFR1,162,cancer
+R-HSA-5654569,Activated FGFR1 binds FRS2,162,cancer
+R-HSA-5654569,Activated FGFR1 binds FRS2,0080006,bone development disease
+R-HSA-5654586,Activated FGFR1:p-FRS binds GRB2:SOS1,162,cancer
+R-HSA-5654586,Activated FGFR1:p-FRS binds GRB2:SOS1,0080006,bone development disease
+R-HSA-5654149,Activated FGFR1 phosphorylates PLCG1,162,cancer
+R-HSA-5654690,FGFR1-associated PI3K phosphorylates PIP2 to PIP3,162,cancer
+R-HSA-5654591,Activated FGFR1:p-FRS2:GRB2:GAB1:PI3KR1 binds PIK3CA,162,cancer
+R-HSA-5654690,FGFR1-associated PI3K phosphorylates PIP2 to PIP3,8552,chronic myeloid leukemia
+R-HSA-190429,Autocatalytic phosphorylation of FGFR1c,162,cancer
+R-HSA-190429,Autocatalytic phosphorylation of FGFR1c,0080006,bone development disease
+R-HSA-190256,FGFR1c binds to FGF,162,cancer
+R-HSA-5654575,Activated FGFR1 phosphorylates FRS2,162,cancer
+R-HSA-5654575,Activated FGFR1 phosphorylates FRS2,0080006,bone development disease
+R-HSA-5654392,Activated FGFR1:p-FRS:GRB2:SOS1 activates RAS nucleotide exchange,162,cancer
+R-HSA-5654392,Activated FGFR1:p-FRS:GRB2:SOS1 activates RAS nucleotide exchange,0080006,bone development disease
+R-HSA-5654591,Activated FGFR1:p-FRS2:GRB2:GAB1:PI3KR1 binds PIK3CA,0080006,bone development disease
+R-HSA-5654690,FGFR1-associated PI3K phosphorylates PIP2 to PIP3,0080006,bone development disease
+R-HSA-5654592,Activated FGFR1:p-FRS2 binds GRB2:GAB1:PIK3R1,162,cancer
+R-HSA-5654592,Activated FGFR1:p-FRS2 binds GRB2:GAB1:PIK3R1,0080006,bone development disease
+R-HSA-5654637,Activated FGFR3:p-FRS2 binds GRB2:GAB1:PIK3R1,162,cancer
+R-HSA-5654408,Activated FGFR3 phosphorylates FRS2,162,cancer
+R-HSA-5654416,Activated FGFR3:pFRS binds GRB2:SOS1,162,cancer
+R-HSA-5654409,Activated FGFR3 binds FRS2,162,cancer
+R-HSA-5654640,Activated FGFR3:p-FRS2:GRB2:GAB1:PI3KR1 binds PIK3CA,162,cancer
+R-HSA-5654413,Activated FGFR3:p-FRS2:GRB2:SOS1 activates RAS nucleotide exchange,162,cancer
+R-HSA-5654705,FGFR3-associated PI3K phosphorylates PIP2 to PIP3,162,cancer
+R-HSA-5654408,Activated FGFR3 phosphorylates FRS2,0080006,bone development disease
+R-HSA-5654640,Activated FGFR3:p-FRS2:GRB2:GAB1:PI3KR1 binds PIK3CA,0080006,bone development disease
+R-HSA-5654637,Activated FGFR3:p-FRS2 binds GRB2:GAB1:PIK3R1,0080006,bone development disease
+R-HSA-5654409,Activated FGFR3 binds FRS2,0080006,bone development disease
+R-HSA-5654416,Activated FGFR3:pFRS binds GRB2:SOS1,0080006,bone development disease
+R-HSA-5654148,p-4Y-PLCG1 dissociates from activated FGFR3,162,cancer
+R-HSA-5654148,p-4Y-PLCG1 dissociates from activated FGFR3,0080006,bone development disease
+R-HSA-5654224,Activated FGFR3 binds PLCG1,162,cancer
+R-HSA-5654224,Activated FGFR3 binds PLCG1,0080006,bone development disease
+R-HSA-5654413,Activated FGFR3:p-FRS2:GRB2:SOS1 activates RAS nucleotide exchange,0080006,bone development disease
+R-HSA-5654222,Activated FGFR3 phosphorylates PLCG1,162,cancer
+R-HSA-5654222,Activated FGFR3 phosphorylates PLCG1,0080006,bone development disease
+R-HSA-5654705,FGFR3-associated PI3K phosphorylates PIP2 to PIP3,0080006,bone development disease
+R-HSA-5654397,Activated FGFR2 phosphorylates FRS2,162,cancer
+R-HSA-5654397,Activated FGFR2 phosphorylates FRS2,0080006,bone development disease
+R-HSA-5654147,Activated FGFR2 phosphorylates PLCG1,162,cancer
+R-HSA-5654147,Activated FGFR2 phosphorylates PLCG1,0080006,bone development disease
+R-HSA-5654615,Activated FGFR2:pFRS binds GRB2:SOS1,162,cancer
+R-HSA-5654615,Activated FGFR2:pFRS binds GRB2:SOS1,0080006,bone development disease
+R-HSA-5654159,Activated FGFR2 binds PLCG1,162,cancer
+R-HSA-5654159,Activated FGFR2 binds PLCG1,0080006,bone development disease
+R-HSA-5654157,p-4Y-PLCG1 dissociates from activated FGFR2,162,cancer
+R-HSA-5654157,p-4Y-PLCG1 dissociates from activated FGFR2,0080006,bone development disease
+R-HSA-5654614,Activated FGFR2:p-FRS2:GRB2:GAB1:PI3KR1 binds PIK3CA,162,cancer
+R-HSA-5654614,Activated FGFR2:p-FRS2:GRB2:GAB1:PI3KR1 binds PIK3CA,0080006,bone development disease
+R-HSA-5654399,Activated FGFR2 binds FRS2,162,cancer
+R-HSA-5654399,Activated FGFR2 binds FRS2,0080006,bone development disease
+R-HSA-5654701,FGFR2-associated PI3K phosphorylates PIP2 to PIP3,162,cancer
+R-HSA-5654701,FGFR2-associated PI3K phosphorylates PIP2 to PIP3,0080006,bone development disease
+R-HSA-5654612,Activated FGFR2:p-FRS2 binds GRB2:GAB1:PIK3R1,162,cancer
+R-HSA-5654612,Activated FGFR2:p-FRS2 binds GRB2:GAB1:PIK3R1,0080006,bone development disease
+R-HSA-5654618,Activated FGFR2:p-FRS2:GRB2:SOS1 activates RAS nucleotide exchange,162,cancer
+R-HSA-5654618,Activated FGFR2:p-FRS2:GRB2:SOS1 activates RAS nucleotide exchange,0080006,bone development disease
+R-HSA-5654422,Activated FGFR4 binds FRS2,162,cancer
+R-HSA-5654422,Activated FGFR4 binds FRS2,0080006,bone development disease
+R-HSA-5654418,Activated FGFR4 phosphorylates FRS2,162,cancer
+R-HSA-5654418,Activated FGFR4 phosphorylates FRS2,0080006,bone development disease
+R-HSA-5654664,Activated FGFR4:p-FRS binds GRB2:SOS1,162,cancer
+R-HSA-5654664,Activated FGFR4:p-FRS binds GRB2:SOS1,0080006,bone development disease
+R-HSA-5654662,Activated FGFR4:p-FRS2:GRB2:GAB1:PI3KR1 binds PIK3CA,162,cancer
+R-HSA-5654662,Activated FGFR4:p-FRS2:GRB2:GAB1:PI3KR1 binds PIK3CA,0080006,bone development disease
+R-HSA-190265,FGFR4 binds to FGF,162,cancer
+R-HSA-190265,FGFR4 binds to FGF,1612,breast cancer
+R-HSA-190326,Autocatalytic phosphorylation of FGFR4,162,cancer
+R-HSA-190326,Autocatalytic phosphorylation of FGFR4,1612,breast cancer
+R-HSA-190265,FGFR4 binds to FGF,3247,rhabdomyosarcoma
+R-HSA-190326,Autocatalytic phosphorylation of FGFR4,3247,rhabdomyosarcoma
+R-HSA-5654663,Activated FGFR4:p-FRS2:GRB2:SOS1 activates RAS nucleotide exchange,162,cancer
+R-HSA-5654663,Activated FGFR4:p-FRS2:GRB2:SOS1 activates RAS nucleotide exchange,0080006,bone development disease
+R-HSA-5654717,FGFR4-associated PI3K phosphorylates PIP2 to PIP3,162,cancer
+R-HSA-5654717,FGFR4-associated PI3K phosphorylates PIP2 to PIP3,0080006,bone development disease
+R-HSA-5654659,Activated FGFR4:p-FRS2 binds GRB2:GAB1:PIK3R1,162,cancer
+R-HSA-5654659,Activated FGFR4:p-FRS2 binds GRB2:GAB1:PIK3R1,0080006,bone development disease
+R-HSA-5654163,Activated FGFR4 binds PLCG1,162,cancer
+R-HSA-5654163,Activated FGFR4 binds PLCG1,0080006,bone development disease
+R-HSA-5654151,Activated FGFR4 phosphorylates PLCG1,162,cancer
+R-HSA-5654151,Activated FGFR4 phosphorylates PLCG1,0080006,bone development disease
+R-HSA-5654169,p-4Y-PLCG1 dissociates from activated FGFR4,162,cancer
+R-HSA-5654169,p-4Y-PLCG1 dissociates from activated FGFR4,0080006,bone development disease
+R-HSA-9681375,KIT binds ripretinib,162,cancer
+R-HSA-9681375,KIT binds ripretinib,9253,gastrointestinal stromal tumor
+R-HSA-9669893,KIT binds type I TKIs,162,cancer
+R-HSA-9669854,KIT binds type II TKIs,162,cancer
+R-HSA-1433418,Phosphorylation of JAK2,162,cancer
+R-HSA-1433514,Synthesis of PIP3 from PIP2 by PI3K,162,cancer
+R-HSA-1470010,Dimerization of STATs,162,cancer
+R-HSA-1433456,Recruitment of STATs,162,cancer
+R-HSA-1433471,Activation of RAS by p-KIT bound SOS1,162,cancer
+R-HSA-1470012,Disassociation and translocation of STATs to the nucleus,162,cancer
+R-HSA-205262,Direct recruitment of PI3K to p-KIT,162,cancer
+R-HSA-205205,Interaction of Src family kinases with p-KIT,162,cancer
+R-HSA-1433451,JAK2 binds to p-KIT,162,cancer
+R-HSA-205286,GRB2:SOS interacts with p-KIT,162,cancer
+R-HSA-1470009,Phosphorylation of STATs,162,cancer
+R-HSA-3769401,DKK and KRM bind LRP5/6,162,cancer
+R-HSA-3769401,DKK and KRM bind LRP5/6,1540,parathyroid carcinoma
+R-HSA-3769401,DKK and KRM bind LRP5/6,1612,breast cancer
+R-HSA-195287,Phosphorylation of phospho-(Ser45 ) at Thr 41 by GSK-3,8552,chronic myeloid leukemia
+R-HSA-5334050,TCF7L2/TCF7L1 bind CTBP1 to repress WNT target genes,9256,colorectal cancer
+R-HSA-195287,Phosphorylation of phospho-(Ser45 ) at Thr 41 by GSK-3,162,cancer
+R-HSA-195300,"Phosphorylation of phospho-(Ser45,Thr41,Ser37) at Ser33 by GSK-3",162,cancer
+R-HSA-195283,"Phosphorylation of phospho- (Ser45, Thr41) beta-catenin  at Ser37 by GSK-3",162,cancer
+R-HSA-195318,Phosphorylation of beta-catenin at Ser45 by CK1 alpha,162,cancer
+R-HSA-5246693,APC is K63-polyubiquitinated,9256,colorectal cancer
+R-HSA-195251,Assembly of the destruction complex,9256,colorectal cancer
+R-HSA-195251,Assembly of the destruction complex,162,cancer
+R-HSA-195251,Assembly of the destruction complex,263,kidney cancer
+R-HSA-195251,Assembly of the destruction complex,2154,nephroblastoma
+R-HSA-5251557,Expression of AMER1 gene,263,kidney cancer
+R-HSA-5251557,Expression of AMER1 gene,2154,nephroblastoma
+R-HSA-4641249,"ZNRF3,RNF43 binds the FZD:LRP5/6 receptor complex",1793,pancreatic cancer
+R-HSA-5251555,Expression of AXIN1 gene,684,hepatocellular carcinoma
+R-HSA-195251,Assembly of the destruction complex,684,hepatocellular carcinoma
+R-HSA-1980041,NOTCH1 binds DLL4,162,cancer
+R-HSA-1980041,NOTCH1 binds DLL4,715,T-cell leukemia
+R-HSA-1980044,NOTCH1 binds JAG2,162,cancer
+R-HSA-1980044,NOTCH1 binds JAG2,715,T-cell leukemia
+R-HSA-1980039,NOTCH1 binds DLL1,162,cancer
+R-HSA-1980039,NOTCH1 binds DLL1,715,T-cell leukemia
+R-HSA-1980042,NOTCH1 binds JAG1,162,cancer
+R-HSA-1980042,NOTCH1 binds JAG1,715,T-cell leukemia
+R-HSA-1980074,Ubiquitination of DLL/JAG ligands upon binding to NOTCH1,162,cancer
+R-HSA-1980074,Ubiquitination of DLL/JAG ligands upon binding to NOTCH1,715,T-cell leukemia
+R-HSA-1912394,NICD1 in complex with RBPJ (CSL) recruits MAML,162,cancer
+R-HSA-1912394,NICD1 in complex with RBPJ (CSL) recruits MAML,715,T-cell leukemia
+R-HSA-1912385,Phosphorylated NICD1 binds FBXW7,162,cancer
+R-HSA-1912385,Phosphorylated NICD1 binds FBXW7,715,T-cell leukemia
+R-HSA-1980078,NOTCH1 stimulates HES5 transcription,162,cancer
+R-HSA-1980078,NOTCH1 stimulates HES5 transcription,715,T-cell leukemia
+R-HSA-4396371,NOTCH1 Coactivator Complex binds MYC promoter,162,cancer
+R-HSA-4396371,NOTCH1 Coactivator Complex binds MYC promoter,715,T-cell leukemia
+R-HSA-1912391,NICD1 is phosphorylated by CDK8,162,cancer
+R-HSA-1912391,NICD1 is phosphorylated by CDK8,715,T-cell leukemia
+R-HSA-4396347,NOTCH1 Coactivator Complex binds HES1 promoter,162,cancer
+R-HSA-4396347,NOTCH1 Coactivator Complex binds HES1 promoter,715,T-cell leukemia
+R-HSA-157632,Complex of NOTCH1 with its ligand is cleaved to produce NEXT1,162,cancer
+R-HSA-157632,Complex of NOTCH1 with its ligand is cleaved to produce NEXT1,715,T-cell leukemia
+R-HSA-4396382,NOTCH1 Coactivator Complex binds promoters of HEY genes,162,cancer
+R-HSA-4396382,NOTCH1 Coactivator Complex binds promoters of HEY genes,715,T-cell leukemia
+R-HSA-1980047,NOTCH1 stimulates HES1 transcription,162,cancer
+R-HSA-1980047,NOTCH1 stimulates HES1 transcription,715,T-cell leukemia
+R-HSA-4396379,NOTCH1 Coactivator Complex binds HES5 promoter,162,cancer
+R-HSA-4396379,NOTCH1 Coactivator Complex binds HES5 promoter,715,T-cell leukemia
+R-HSA-1980065,NOTCH1 stimulates HEY transcription,162,cancer
+R-HSA-1980065,NOTCH1 stimulates HEY transcription,715,T-cell leukemia
+R-HSA-1912388,NICD1 displaces co-repressor complex from RBPJ (CSL),162,cancer
+R-HSA-1912388,NICD1 displaces co-repressor complex from RBPJ (CSL),715,T-cell leukemia
+R-HSA-1980067,NOTCH1 stimulates MYC transcription,162,cancer
+R-HSA-1980067,NOTCH1 stimulates MYC transcription,715,T-cell leukemia
+R-HSA-1912393,MAML in complex with NICD1 recruits CDK8,162,cancer
+R-HSA-1912393,MAML in complex with NICD1 recruits CDK8,715,T-cell leukemia
+R-HSA-157353,NEXT1 is cleaved to produce NICD1,162,cancer
+R-HSA-157353,NEXT1 is cleaved to produce NICD1,715,T-cell leukemia
+R-HSA-157926,NICD1 traffics to nucleus,162,cancer
+R-HSA-157926,NICD1 traffics to nucleus,715,T-cell leukemia
+R-HSA-1250486,Recruitment of GRB2:SOS1 to p-SHC1 in complex with phosphorylated ERBB2 heterodimers,162,cancer
+R-HSA-1250488,GRB2:SOS1 complex binds phosphorylated EGFR:ERBB2 heterodimer,162,cancer
+R-HSA-1963589,"ERBB2 forms heterodimers with ligand-activated ERBB receptors: EGFR, ERBB3 and ERBB4",162,cancer
+R-HSA-9665726,ERBB2 binds pertuzumab,162,cancer
+R-HSA-9652264,ERBB2 binds TKIs,162,cancer
+R-HSA-1963578,SHC1 binds phosphorylated ERBB2 heterodimers,162,cancer
+R-HSA-1250463,RAS guanyl-nucleotide exchange mediated by SOS1 in complex with GRB2 and p-SHC1:Phosphorylated ERBB2 heterodimers,162,cancer
+R-HSA-1250498,RAS guanyl-nucleotide exchange mediated by SOS1 in complex with GRB2 and phosphorylated EGFR:ERBB2 heterodimers.,162,cancer
+R-HSA-1251944,PLCG1 binds to p-ERBB2:p-EGFR,162,cancer
+R-HSA-1250195,SHC1 phosphorylation by ERBB2 heterodimers,162,cancer
+R-HSA-1251922,PLCG1 phosphorylation by p-EGFR:p-ERBB2,162,cancer
+R-HSA-1963582,Trans-autophosphorylation of ERBB2 heterodimers,162,cancer
+R-HSA-1306957,PIP2 to PIP3 conversion by PI3K bound to GRB2:GAB1 in complex with phosphorylated heterodimer of ERBB2 and EGFR,162,cancer
+R-HSA-1306965,Binding of PI3K to GRB2:GAB1 in complex with phosphorylated heterodimer of ERBB2 and EGFR.,162,cancer
+R-HSA-1250189,Binding of PI3K to ERBB2:p-ERBB3 heterodimer,162,cancer
+R-HSA-1250462,PIP2 to PIP3 conversion by PI3K bound to phosphorylated heterodimer of ERBB2 and ERBB3,162,cancer
+R-HSA-1306963,Binding of GRB2:GAB1 to p-ERBB2:p-EGFR,162,cancer
+R-HSA-177925,SHC1 binds to the phosphorylated EGF receptor:ligand complex,162,cancer
+R-HSA-177943,GRB2:SOS1 complex binds to EGF:EGFR complex,162,cancer
+R-HSA-177939,"PI3K converts phosphatidylinositol-4,5-bisphosphate (PIP2) to phosphatidylinositol-3,4,5-trisphosphate (PIP3)",162,cancer
+R-HSA-177938,SOS1-mediated nucleotide exchange of RAS (EGF:EGFR:GRB2:SOS1),162,cancer
+R-HSA-177927,PI3K binds to EGF:EGFR:GRB2:GAB1,162,cancer
+R-HSA-183055,Binding of CBL to EGFR,162,cancer
+R-HSA-212713,Active PLC-gamma1 dissociates from EGFR,162,cancer
+R-HSA-177933,SHC1 phosphorylation by phosphorylated EGFR,162,cancer
+R-HSA-177941,GRB2:GAB1 binds to phosphorylated EGFR,162,cancer
+R-HSA-212706,Phospholipase C-gamma1 binds to the activated EGF receptor,162,cancer
+R-HSA-177942,EGFR binds EGF ligand,162,cancer
+R-HSA-182993,Ubiquitination of stimulated EGFR (CBL),162,cancer
+R-HSA-177922,EGFR dimerization,162,cancer
+R-HSA-177945,SOS1-mediated nucleotide exchange of RAS (EGF:EGFR:SHC1:GRB2:SOS1),162,cancer
+R-HSA-212710,EGFR activates PLC-gamma1 by phosphorylation,162,cancer
+R-HSA-182969,Phosphorylation of CBL (EGFR:CBL),162,cancer
+R-HSA-177936,GRB2:SOS1 binds to phosphorylated SHC1 in complex with EGFR,162,cancer
+R-HSA-177934,EGFR autophosphorylation,162,cancer
+R-HSA-199456,PTEN dephosphorylates PIP3,162,cancer
+R-HSA-198347,AKT phosphorylates BAD,162,cancer
+R-HSA-198613,AKT phosphorylates p21Cip1 and p27Kip1,162,cancer
+R-HSA-198611,AKT phosphorylates IKKalpha,162,cancer
+R-HSA-198599,AKT phosphorylates MDM2,162,cancer
+R-HSA-198609,"AKT phosphorylates TSC2, inhibiting it",162,cancer
+R-HSA-200143,AKT phosphorylates AKT1S1 (PRAS40),162,cancer
+R-HSA-199863,AKT can phosphorylate NR4A1 (NUR77),162,cancer
+R-HSA-198621,AKT phosphorylates caspase-9,162,cancer
+R-HSA-199298,AKT phosphorylates CREB1,162,cancer
+R-HSA-198298,AKT translocates to the nucleus,162,cancer
+R-HSA-198371,AKT phosphorylates GSK3,162,cancer
+R-HSA-199839,AKT can phosphorylate RSK,162,cancer
+R-HSA-199299,AKT phosphorylates FOXO transcription factors,162,cancer
+R-HSA-2316434,PI3K phosphorylates PIP2 to PIP3,162,cancer
+R-HSA-5658435,RAS GAPs bind RAS:GTP,0060233,cardiofaciocutaneous syndrome
+R-HSA-5658435,RAS GAPs bind RAS:GTP,162,cancer
+R-HSA-9649736,RAS intrinsic GTPase activity hydrolyzes GTP to GDP,162,cancer
+R-HSA-5672980,Dissociation of RAS:RAF complex,162,cancer
+R-HSA-5672980,Dissociation of RAS:RAF complex,3490,Noonan syndrome
+R-HSA-5672978,RAF phosphorylates MAP2K dimer,162,cancer
+R-HSA-5672972,MAP2Ks and MAPKs bind to the activated RAF complex,162,cancer
+R-HSA-5672950,"""Activator"" RAF:YWHAB dimer binds RAS:GTP",162,cancer
+R-HSA-5672969,Phosphorylation of RAF,162,cancer
+R-HSA-5672973,MAP2Ks phosphorylate MAPKs,162,cancer
+R-HSA-5672966,RAS:GTP:'activator' RAF homo/heterodimerizes with other RAF monomers,162,cancer
+R-HSA-5672966,RAS:GTP:'activator' RAF homo/heterodimerizes with other RAF monomers,3490,Noonan syndrome
+R-HSA-5675376,Cytosolic DUSPs dephosphorylate MAPKs,162,cancer
+R-HSA-5672972,MAP2Ks and MAPKs bind to the activated RAF complex,0060233,cardiofaciocutaneous syndrome
+R-HSA-5672980,Dissociation of RAS:RAF complex,0060233,cardiofaciocutaneous syndrome
+R-HSA-9658445,MRAS:SHOC2:PPP1CC dephosphorylates inactive RAFs,1107,esophageal carcinoma
+R-HSA-9658445,MRAS:SHOC2:PPP1CC dephosphorylates inactive RAFs,3490,Noonan syndrome
+R-HSA-5672972,MAP2Ks and MAPKs bind to the activated RAF complex,0050469,Costello syndrome
+R-HSA-5672972,MAP2Ks and MAPKs bind to the activated RAF complex,14291,LEOPARD syndrome
+R-HSA-5672972,MAP2Ks and MAPKs bind to the activated RAF complex,3490,Noonan syndrome
+R-HSA-5672972,MAP2Ks and MAPKs bind to the activated RAF complex,11984,hypertrophic cardiomyopathy
+R-HSA-5672980,Dissociation of RAS:RAF complex,0050469,Costello syndrome
+R-HSA-5672980,Dissociation of RAS:RAF complex,14291,LEOPARD syndrome
+R-HSA-5672980,Dissociation of RAS:RAF complex,11984,hypertrophic cardiomyopathy
+R-HSA-5672978,RAF phosphorylates MAP2K dimer,0050469,Costello syndrome
+R-HSA-5672978,RAF phosphorylates MAP2K dimer,14291,LEOPARD syndrome
+R-HSA-5672978,RAF phosphorylates MAP2K dimer,3490,Noonan syndrome
+R-HSA-5672978,RAF phosphorylates MAP2K dimer,11984,hypertrophic cardiomyopathy
+R-HSA-5672973,MAP2Ks phosphorylate MAPKs,0050469,Costello syndrome
+R-HSA-5672973,MAP2Ks phosphorylate MAPKs,14291,LEOPARD syndrome
+R-HSA-5672973,MAP2Ks phosphorylate MAPKs,3490,Noonan syndrome
+R-HSA-5672973,MAP2Ks phosphorylate MAPKs,11984,hypertrophic cardiomyopathy
+R-HSA-5672966,RAS:GTP:'activator' RAF homo/heterodimerizes with other RAF monomers,0050469,Costello syndrome
+R-HSA-5672966,RAS:GTP:'activator' RAF homo/heterodimerizes with other RAF monomers,14291,LEOPARD syndrome
+R-HSA-5672966,RAS:GTP:'activator' RAF homo/heterodimerizes with other RAF monomers,11984,hypertrophic cardiomyopathy
+R-HSA-5672969,Phosphorylation of RAF,0050469,Costello syndrome
+R-HSA-5672969,Phosphorylation of RAF,14291,LEOPARD syndrome
+R-HSA-5672969,Phosphorylation of RAF,3490,Noonan syndrome
+R-HSA-5672969,Phosphorylation of RAF,11984,hypertrophic cardiomyopathy
+R-HSA-5672951,Inactive RAFs bind YWHAB,0050469,Costello syndrome
+R-HSA-5672951,Inactive RAFs bind YWHAB,14291,LEOPARD syndrome
+R-HSA-5672951,Inactive RAFs bind YWHAB,162,cancer
+R-HSA-5672951,Inactive RAFs bind YWHAB,3490,Noonan syndrome
+R-HSA-5658231,RAS GAPs stimulate RAS GTPase activity,8712,neurofibromatosis
+R-HSA-5658231,RAS GAPs stimulate RAS GTPase activity,162,cancer
+R-HSA-5358340,Autoproteolytic cleavage of Hh precursors,4621,holoprosencephaly
+R-HSA-5358343,HHAT palmitoylates Hh N-terminal fragment,14448,46 XY gonadal dysgenesis
+R-HSA-170861,Dimeric TGF-beta-1 binds to the receptor,162,cancer
+R-HSA-170843,TGFBR2 phosphorylates TGFBR1,162,cancer
+R-HSA-170846,TGFBR2 recruits TGFBR1,162,cancer
+R-HSA-170835,"An anchoring protein, ZFYVE9 (SARA), recruits SMAD2/3",162,cancer
+R-HSA-170847,Phosphorylated SMAD2 and SMAD3 form a complex with SMAD4,162,cancer
+R-HSA-170868,Activated type I receptor phosphorylates SMAD2/3 directly,162,cancer
+R-HSA-2993814,HLCS biotinylates ACACA:Mn2+,0050718,vitamin metabolic disorder
+R-HSA-2993799,HLCS biotinylates 6xMCCC1:6xMCCC2,0050718,vitamin metabolic disorder
+R-HSA-2993802,HLCS biotinylates PC:Mn2+,0050718,vitamin metabolic disorder
+R-HSA-2993447,HLCS biotinylates 6x(PCCA:PCCB),0050718,vitamin metabolic disorder
+R-HSA-3076905,Extracellular BTD hydrolyses BCTN,0050718,vitamin metabolic disorder
+R-HSA-4167509,Mitochondrial BTD hydrolyses BCTN,0050718,vitamin metabolic disorder
+R-HSA-3159259,MMAA:MUT binds AdoCbl,14749,methylmalonic acidemia
+R-HSA-3095889,MMACHC reduces Cbl,0050715,methylmalonic aciduria and homocystinuria type cblC
+R-HSA-3149519,MMACHC decyanates CNCbl,0050715,methylmalonic aciduria and homocystinuria type cblC
+R-HSA-3149494,MMACHC:cob(II)alamin binds MMADHC,0050716,methylmalonic aciduria and homocystinuria type cblD
+R-HSA-71010,MUT isomerises L-MM-CoA to SUCC-CoA,14749,methylmalonic acidemia
+R-HSA-3000074,TCII binds Cbl in the circulation,13382,megaloblastic anemia
+R-HSA-3000122,CD320 transports extracellular TCII:Cbl to endosome,14749,methylmalonic acidemia
+R-HSA-3000238,LMBRD1 transports lysosomal Cbl to cytosol,0050717,methylmalonic aciduria and homocystinuria type cblF
+R-HSA-3000120,GIF binds Cbl,13382,megaloblastic anemia
+R-HSA-3000103,CUBN:AMN binds GIF:Cbl,13382,megaloblastic anemia
+R-HSA-5223313,ABCD4 may transport Cbl from lysosomal lumen to cytosol,14749,methylmalonic acidemia
+R-HSA-5223313,ABCD4 may transport Cbl from lysosomal lumen to cytosol,9263,homocystinuria
+R-HSA-3149518,MTRR reduces cob(II)alamin to meCbl,0050732,methylmalonic aciduria and homocystinuria type cblE
+R-HSA-3159253,MMAB transfers adenosyl group from ATP to cob(I)alamin,14749,methylmalonic acidemia
+R-HSA-3149539,MTR transfers CH3 group from MTHF to cob(I)alamin,0050733,methylmalonic aciduria and homocystinuria type cblG
+R-HSA-174374,MTR transfers CH3 from MeCbl to HCYS,0050733,methylmalonic aciduria and homocystinuria type cblG
+R-HSA-9632039,UGT1A1 transfers GlcA from UDP-GlcA to BIL to form BMG,3803,Crigler-Najjar syndrome
+R-HSA-9632038,UGT1A1 tetramer transfers GlcA from UDP-GlcA to BMG to form BDG,3803,Crigler-Najjar syndrome
+R-HSA-211951,CYP1B1 4-hydroxylates EST17b,1686,glaucoma
+R-HSA-211951,CYP1B1 4-hydroxylates EST17b,0050593,primary congenital glaucoma
+R-HSA-211951,CYP1B1 4-hydroxylates EST17b,1067,open-angle glaucoma
+R-HSA-211951,CYP1B1 4-hydroxylates EST17b,1070,primary open angle glaucoma
+R-HSA-174394,GSS:Mg2+ dimer synthesizes GSH,655,inherited metabolic disorder
+R-HSA-5433074,ACY1:Zn2+ dimer hydrolyses mercapturic acids,3602,toxic encephalopathy
+R-HSA-211923,CYP26C1 4-hydroxylates 9cRA,3165,skin benign neoplasm
+R-HSA-5602295,CYP4F22 20-hydroxylates TrXA3,1699,congenital ichthyosiform erythroderma
+R-HSA-158609,TPMT transfers CH3 from AdoMet to 6MP,655,inherited metabolic disorder
+R-HSA-1247935,OPLAH hydrolyses OPRO to L-Glu,655,inherited metabolic disorder
+R-HSA-174367,GCL ligates L-Glu to L-Cys,583,hemolytic anemia
+R-HSA-193792,"CYP27A1 27-hydroxylates 5β-CHOL3α,7α,24(s)-triol",4810,cerebrotendinous xanthomatosis
+R-HSA-191999,"CYP27A1 27-hydroxylates 5bCHOL3a,7a,12a-triol",4810,cerebrotendinous xanthomatosis
+R-HSA-174401,AHCY:NAD+ tetramer hydrolyses AdoHcy,0050544,hypermethioninemia
+R-HSA-139970,FMO3:FAD N-oxidises TMA to TMAO,655,inherited metabolic disorder
+R-HSA-159179,UGT1A4 transfers GlcA from UDP-GlcA to BMG to form BDG,3803,Crigler-Najjar syndrome
+R-HSA-159194,UGT1A4 transfers GlcA from UDP-GlcA to BIL to form BMG,3803,Crigler-Najjar syndrome
+R-HSA-193997,CYP11B1 oxidises 11DCORT,9553,adrenal gland disease
+R-HSA-8943279,GGT dimers hydrolyse GSH,655,inherited metabolic disorder
+R-HSA-174368,"SLC35D1 hexamer transports UDP-GlcA, UDP-GlcNAc from cytosol to endoplasmic reticulum lumen",0050775,schneckenbecken dysplasia
+R-HSA-193964,CYP21A2 21-hydroxylates PROG,9553,adrenal gland disease
+R-HSA-211950,CYP24A1 24-hydroxylates CTL,12678,hypercalcemia
+R-HSA-211960,CYP2U1 19-hydroxylates ARA,2476,hereditary spastic paraplegia
+R-HSA-194017,CYP11B2 oxidises 11DCORST to CORST,1701,steroid inherited metabolic disorder
+R-HSA-193995,CYP11B2 18-hydroxylates CORST to 18HCORST,1701,steroid inherited metabolic disorder
+R-HSA-193965,CYP11B2 oxidises 18HCORST to ALDO,1701,steroid inherited metabolic disorder
+R-HSA-209868,"CYP27B1 hydroxylates 25(OH)D to 1,25(OH)2D",10609,rickets
+R-HSA-212007,"CYP26A1,B1 4-hydroxylate atRA",2340,craniosynostosis
+R-HSA-141186,MAOA:FAD oxidatively deaminates of 5HT,150,disease of mental health
+R-HSA-192065,CYP7B1 7-hydroxylates 25OH-CHOL,2476,hereditary spastic paraplegia
+R-HSA-76500,TBXAS1 isomerises PGH2 to TXA2,0080001,bone disease
+R-HSA-76500,TBXAS1 isomerises PGH2 to TXA2,2355,anemia
+R-HSA-5433072,"GGTs hydrolyse glutamate from AFXBO-SG, AFNBO-SG",655,inherited metabolic disorder
+R-HSA-193101,"CYP11A1 cleaves 20a,22b-DHCHOL",0050546,congenital adrenal insufficiency
+R-HSA-209845,CYP2R1 25-hydroxylates VD3 to 25(OH)D,10609,rickets
+R-HSA-174391,MAT1A multimers transfer Ado from ATP to L-Met,0050544,hypermethioninemia
+R-HSA-193060,CYP19A1 hydroxylates ANDST to E1,3765,pseudohermaphroditism
+R-HSA-388605,POMC(138-176) binds MC2R,9553,adrenal gland disease
+R-HSA-388605,POMC(138-176) binds MC2R,9970,obesity
+R-HSA-193068,CYP17A1 17-hydroxylates PREG,9553,adrenal gland disease
+R-HSA-193072,CYP17A1 17-hydroxylates P4,9553,adrenal gland disease
+R-HSA-193099,CYP17A1 cleaves 17aHPROG to ANDST,9553,adrenal gland disease
+R-HSA-449715,"GFPT1,2 transfer an amino group from L-Gln to F6P to form GlcN6P",0050570,congenital disorder of glycosylation type I
+R-HSA-9638127,PGM1:Mg2+ isomerises G6P to G1P,5212,congenital disorder of glycosylation
+R-HSA-4084999,NEU1 hydrolyses Neu5Ac from glycoconjugates,3211,lysosomal storage disease
+R-HSA-162721,dolichyl phosphate + GDP-alpha-D-mannose -> dolichyl phosphate D-mannose,0050570,congenital disorder of glycosylation type I
+R-HSA-70369,GALE:NAD+ dimer reversibly epimerises UDP-Gal to UDP-Glc,9870,galactosemia
+R-HSA-70355,GALK1 phosphorylates Gal to Gal1P,14695,galactokinase deficiency
+R-HSA-4085021,GNE hydrolyzes/epimerises UDP-GlcNAc to ManNAc and UDP,3659,sialuria
+R-HSA-4085021,GNE hydrolyzes/epimerises UDP-GlcNAc to ManNAc and UDP,3429,inclusion body myositis
+R-HSA-4085028,GNE phosphorylates ManNAc to ManNAc-6-P,3659,sialuria
+R-HSA-4085028,GNE phosphorylates ManNAc to ManNAc-6-P,3429,inclusion body myositis
+R-HSA-70361,GALT transfers UMP from UDP-Glc to Gal1P to form UDP-Gal,9870,galactosemia
+R-HSA-4419978,"DHDDS:NUS1 elongates E,E-FPP with (n)IPPP to form pPPP",10584,retinitis pigmentosa
+R-HSA-532549,MPI isomerises Fru6P to Man6P,0050570,congenital disorder of glycosylation type I
+R-HSA-4419979,SRD5A3 reduces pPNOL to DCHOL,0050570,congenital disorder of glycosylation type I
+R-HSA-446195,DOLK phosphorylates DCHOL to DOLP,0050570,congenital disorder of glycosylation type I
+R-HSA-446201,"PMM1,2 isomerise Man6P to Man1P",0050570,congenital disorder of glycosylation type I
+R-HSA-2046265,B4GALTs transfer Gal to the keratan chain,0050571,congenital disorder of glycosylation type II
+R-HSA-2025723,B4GALTs transfer Gal to the N-glycan precursor,0050571,congenital disorder of glycosylation type II
+R-HSA-2046298,B4GALTs transfer Gal to a branch of keratan,0050571,congenital disorder of glycosylation type II
+R-HSA-2046285,The keratan chain can be capped by N-acetylneuraminic acid,0060037,developmental disorder of mental health
+R-HSA-174389,"PAPSS1,2 transfer PO4(2-) group from ATP to APS to form PAPS",0080027,spondyloepimetaphyseal dysplasia
+R-HSA-174392,"PAPSS1,2 transfer SO4(2-) group to ATP to form APS",0080027,spondyloepimetaphyseal dysplasia
+R-HSA-2022851,EXT1:EXT2 transfer GlcNAc to the heparan chain,206,hereditary multiple exostoses
+R-HSA-2022919,EXT1:EXT2 transfers GlcNAc to the terminal GlcA residue,206,hereditary multiple exostoses
+R-HSA-2022856,EXT1:EXT2 transfers GlcNAc to heparan,206,hereditary multiple exostoses
+R-HSA-2076392,EXT1:EXT2 transfers GlcA to heparan,206,hereditary multiple exostoses
+R-HSA-427555,"SLC26A1,2 cotransport SO4(2-), H+ from extracellular region to cytosol",0080055,achondrogenesis type IB
+R-HSA-9638078,HEXB cleaves the terminal GalNAc from keratan sulfate,3321,gangliosidosis GM2
+R-HSA-9638076,HEXB cleaves the terminal GalNAc from small HA fragments,3321,gangliosidosis GM2
+R-HSA-9638075,HEXB cleaves the terminal GalNAc from DS,3321,gangliosidosis GM2
+R-HSA-1889978,B3GALT6 transfers Gal to the tetrasaccharide linker,13359,Ehlers-Danlos syndrome
+R-HSA-1889978,B3GALT6 transfers Gal to the tetrasaccharide linker,0080027,spondyloepimetaphyseal dysplasia
+R-HSA-2022063,CHST14 transfers SO4(2-) to GalNAc in dermatan or DS,13359,Ehlers-Danlos syndrome
+R-HSA-2018682,"CHST3,7 transfer SO4(2-) to position 6 of GalNAc on chondroitin chains",0080027,spondyloepimetaphyseal dysplasia
+R-HSA-2046222,"CHST2,5,6 transfer SO4(2-) to GlcNAc residues on keratan-PG to form KSPG",2565,macular corneal dystrophy
+R-HSA-9638064,B3GAT3 dimer transfers GlcA to tetrasaccharide linker,14764,Larsen syndrome
+R-HSA-9638064,B3GAT3 dimer transfers GlcA to tetrasaccharide linker,1682,congenital heart defect
+R-HSA-1889981,B4GALT7 transfers Gal group to xylosyl-unit of the tetrasaccharide linker,13359,Ehlers-Danlos syndrome
+R-HSA-2162225,HEXA cleaves the terminal GalNAc from small HA fragments,3322,gangliosidosis GM1
+R-HSA-1638053,HEXA cleaves the terminal GalNAc from keratan sulfate,3322,gangliosidosis GM1
+R-HSA-2105001,HEXA cleaves the terminal GalNAc from DS,3322,gangliosidosis GM1
+R-HSA-9632034,CHSY1 transfers GlcA to chondroitin,0050581,brachydactyly
+R-HSA-9632033,CHSY1 transfers GalNAc to chondroitin,0050581,brachydactyly
+R-HSA-5615637,POMT1:POMT2 transfers Man from Dol-P-Man to DAG1(30-653),0050588,muscular dystrophy-dystroglycanopathy
+R-HSA-5617037,POMGNT1 transfers GlcNAc from UDP-GlcNAc to Man-O-Ser-DAG1,0050588,muscular dystrophy-dystroglycanopathy
+R-HSA-1912355,Glycosylation of Pre-NOTCH by FRINGE,0050568,spondylocostal dysostosis
+R-HSA-913675,GALNTs transfer GalNAc from UDP-GalNAc to mucins to form Tn antigens,0050459,hyperphosphatemia
+R-HSA-9638090,B4GAT1:LARGE transfers Xyl from UDP-Xyl to GlcA-Xyl-GlcA,0050557,congenital muscular dystrophy
+R-HSA-913675,GALNTs transfer GalNAc from UDP-GalNAc to mucins to form Tn antigens,9256,colorectal cancer
+R-HSA-1964505,C1GALT1 transfers Galactose to the Tn antigen forming Core 1 glycoproteins (T antigens),305,carcinoma
+R-HSA-5173005,B3GALTL transfers glucose to O-fucosyl-proteins,5614,eye disease
+R-HSA-5173005,B3GALTL transfers glucose to O-fucosyl-proteins,0050567,orofacial cleft
+R-HSA-446208,Addition of a second mannose to the N-glycan precursor by ALG2,0050570,congenital disorder of glycosylation type I
+R-HSA-446208,Addition of a second mannose to the N-glycan precursor by ALG2,3635,congenital myasthenic syndrome
+R-HSA-446198,ALG12 transfers Man to N-glycan precursor (GlcNAc)2 (Man)7 (PP-Dol)1,0050570,congenital disorder of glycosylation type I
+R-HSA-446218,Addition of the first mannose to the N-glycan precursor by ALG1,0050570,congenital disorder of glycosylation type I
+R-HSA-975919,Addition of galactose by beta 4-galactosyltransferases,0050571,congenital disorder of glycosylation type II
+R-HSA-446202,Addition of the first glucose to the N-glycan precursor by ALG6,0050570,congenital disorder of glycosylation type I
+R-HSA-446191,Addition of N-acetyl-D-glucosamine to Dolichyl phosphate,0050570,congenital disorder of glycosylation type I
+R-HSA-975829,"Addition of a GlcNAc on the alpha 1,4 branch by MGAT2",0050571,congenital disorder of glycosylation type II
+R-HSA-532678,Trimming of the first glucose by by mannosyl-oligosaccharide glucosidase,0050571,congenital disorder of glycosylation type II
+R-HSA-446189,Addition of a second glucose to the N-glycan precursor by ALG8,0050570,congenital disorder of glycosylation type I
+R-HSA-446216,ALG9 transfers Man to N-glycan precursor (GlcNAc)2 (Man)8 (PP-Dol)1,0050570,congenital disorder of glycosylation type I
+R-HSA-446215,ALG9 transfers Man to N-glycan precursor (GlcNAc)2 (Man)6 (PP-Dol)1,0050570,congenital disorder of glycosylation type I
+R-HSA-446212,Flipping of the N-glycan precursor to inside the ER,0050570,congenital disorder of glycosylation type I
+R-HSA-446188,ALG3 transfers Man to N-glycan precursor (GlcNAc)2 (Man)5 (PP-Dol)1,0050570,congenital disorder of glycosylation type I
+R-HSA-901036,"MAN1B1 hydrolyses a second 1,2-linked mannose (a branch)",0050776,non-specific X-linked mental retardation
+R-HSA-901074,"MAN1B1,EDEM2 hydrolyse 1,2-linked mannose (b branch)",0050776,non-specific X-linked mental retardation
+R-HSA-901024,"MAN1B1 hydrolyses 1,2-linked mannose (a branch)",0050776,non-specific X-linked mental retardation
+R-HSA-901039,"MAN1B1 hydrolyses 1,2-linked mannose (c branch)",0050776,non-specific X-linked mental retardation
+R-HSA-446187,ALG11 transfers the fourth and fifth Man to the N-glycan precursor,0050570,congenital disorder of glycosylation type I
+R-HSA-446207,ALG13:ALG14 transfers GlcNAc from UDP-GlcNAc to GlcNAcDOLP,3635,congenital myasthenic syndrome
+R-HSA-71118,PAH:Fe2+ tetramer hydroxylates L-Phe to L-Tyr,9281,phenylketonuria
+R-HSA-71825,G6PC hydrolyzes glucose 6-phosphate to form glucose and orthophosphate (liver),2749,glycogen storage disease I
+R-HSA-3322001,GYS1 catalyzes the polyglucosylation of oligoGlc-GYG1,2747,glycogen storage disease
+R-HSA-3322016,GBE1 catalyzes branch formation in polyGlc-GYG2 complexed with GYS2-a,2750,glycogen storage disease IV
+R-HSA-9036727,GAA hydrolyzes lysosomal glycogen,2752,glycogen storage disease II
+R-HSA-3262512,G6PC3 hydrolyzes glucose 6-phosphate to form glucose and orthophosphate (ubiquitous),0050590,severe congenital neutropenia
+R-HSA-198513,Cytosolic glucose 6-phosphate is exchanged for orthophosphate from the endoplasmic reticulum lumen by SLC37A4,2749,glycogen storage disease I
+R-HSA-3781009,NHLRC1 mediated ubiquitination of EPM2A and PPP1RC3 associated with glycogen-GYG1,2747,glycogen storage disease
+R-HSA-3781018,EPM2A dimer dephosphorylates phosphoglycogen-GYG1,2747,glycogen storage disease
+R-HSA-3322009,GYS2 catalyzes the polyglucosylation of oligoGlc-GYG2,2747,glycogen storage disease
+R-HSA-3322025,Autoglucosylation of GYG1 complexed with GYS1-a,0050579,glycogen storage disease XV
+R-HSA-5661240,DCXR tetramer reduces L-xylulose to xylitol,2978,carbohydrate metabolic disorder
+R-HSA-1638032,N-acetylglucosamine 6-sulfatase (GNS) hydrolyses 6-sulfate groups of the N-acetyl-D-glucosamine 6-sulfate units of keratan sulfate,12801,mucopolysaccharidosis III
+R-HSA-2090043,SGSH hydrolyses Heparan sulfate chain(7),12801,mucopolysaccharidosis III
+R-HSA-1678708,SGSH hydrolyses Heparan sulfate chain(2),12801,mucopolysaccharidosis III
+R-HSA-1678660,HGSNAT oligomer acetylates Heparan sulfate chain(3),12801,mucopolysaccharidosis III
+R-HSA-2090085,HGSNAT oligomer acetylates Heparan chain(1),12801,mucopolysaccharidosis III
+R-HSA-1630304,GALNS oligomer hydrolyses sulfate from Gal6S in keratan sulfate,12804,mucopolysaccharidosis IV
+R-HSA-2090079,GLB1 hydrolyses linker chain(2),12798,mucopolysaccharidosis
+R-HSA-1630306,GLB1 hydrolyses a glycosaminoglycan,12798,mucopolysaccharidosis
+R-HSA-2162227,GUSB tetramer hydrolyses (HA)2,12803,mucopolysaccharidosis VII
+R-HSA-2162226,"GUSB tetramer hydrolyses GlcA-β1,3-GlcNAc",12803,mucopolysaccharidosis VII
+R-HSA-1678854,GUSB tetramer hydrolyses CS/HS precursor,12803,mucopolysaccharidosis VII
+R-HSA-1793182,IDS hydrolyses dermatan sulfate (Chebi:63517 chain),12799,mucopolysaccharidosis II
+R-HSA-1678650,IDS hydrolyses Heparan sulfate chain(5),12799,mucopolysaccharidosis II
+R-HSA-2160874,HYAL1 hydrolyses (HA)50,12798,mucopolysaccharidosis
+R-HSA-1793209,HYAL1 hydrolyses Chondroitin chains,12798,mucopolysaccharidosis
+R-HSA-1678742,NAGLU hydrolyses Heparan sulfate chain(4),12801,mucopolysaccharidosis III
+R-HSA-2090038,NAGLU hydrolyses heparan chain(2),12801,mucopolysaccharidosis III
+R-HSA-1606789,ARSB hydrolyses DS,12800,mucopolysaccharidosis VI
+R-HSA-1793207,ARSB hydrolyses C4S/C6S chains,12800,mucopolysaccharidosis VI
+R-HSA-1793186,IDUA) hydrolyses the unsulfated alpha-L-iduronosidic link in DS,12802,mucopolysaccharidosis I
+R-HSA-2090037,IDUA hydrolyses Heparan sulfate chain(6),12802,mucopolysaccharidosis I
+R-HSA-1678716,IDUA hydrolyses Heparan sulfate chain(1),12802,mucopolysaccharidosis I
+R-HSA-70333,KHK dimer phosphorylates Fru to Fru 1-P,2978,carbohydrate metabolic disorder
+R-HSA-189069,sucrose + H2O => glucose + fructose,9868,intestinal disaccharidase deficiency
+R-HSA-5659861,isomaltose + H2O => 2 D-glucose (sucrase-isomaltase),9868,intestinal disaccharidase deficiency
+R-HSA-191108,maltose + H2O => 2 D-glucose (sucrase-isomaltase),9868,intestinal disaccharidase deficiency
+R-HSA-189062,lactose + H2O => D-glucose + D-galactose,10604,lactose intolerance
+R-HSA-191101,maltotriose + H2O => maltose + D-glucose (sucrase-isomaltase),9868,intestinal disaccharidase deficiency
+R-HSA-70342,ALDOB tetramer cleaves Fru-1-P to GA and DHAP,9869,hereditary fructose intolerance syndrome
+R-HSA-163764,D-fructose 6-phosphate + D-erythrose 4-phosphate  <=>  sedoheptulose 7-phosphate + D-glyceraldehyde 3-phosphate,2978,carbohydrate metabolic disorder
+R-HSA-71306,D-ribulose 5-phosphate <=> ribose 5-phosphate,2978,carbohydrate metabolic disorder
+R-HSA-71334,sedoheptulose 7-phosphate + D-glyceraldehyde 3-phosphate <=> D-erythrose 4-phosphate + D-fructose 6-phosphate,2978,carbohydrate metabolic disorder
+R-HSA-177784,ribose 5-phosphate <=> D-ribulose 5-phosphate,2978,carbohydrate metabolic disorder
+R-HSA-5684868,pro-SFTPC translocates from ER membrane to multivesicle body,12716,newborn respiratory distress syndrome
+R-HSA-5684868,pro-SFTPC translocates from ER membrane to multivesicle body,3082,interstitial lung disease
+R-HSA-5686335,CSF2RA:CSF2RB binds SFTPs,12120,pulmonary alveolar proteinosis
+R-HSA-427656,"SLC34A1,2 cotransports HPO4(2-), 3Na+ from extracellular region to cytosol",12117,pulmonary alveolar microlithiasis
+R-HSA-9624789,pro-SFTPB translocates from ER membrane to multivesicle body,12716,newborn respiratory distress syndrome
+R-HSA-9624789,pro-SFTPB translocates from ER membrane to multivesicle body,3082,interstitial lung disease
+R-HSA-5683714,"ABCA3 transports PC, PG from ER membrane to lamellar body",12716,newborn respiratory distress syndrome
+R-HSA-5683714,"ABCA3 transports PC, PG from ER membrane to lamellar body",3082,interstitial lung disease
+R-HSA-5685649,SFTPAs translocate from ER membrane to extracellular region,12716,newborn respiratory distress syndrome
+R-HSA-5685649,SFTPAs translocate from ER membrane to extracellular region,0050156,idiopathic pulmonary fibrosis
+R-HSA-5686335,CSF2RA:CSF2RB binds SFTPs,12716,newborn respiratory distress syndrome
+R-HSA-2404135,RBP4 binds atROL,14252,dystrophies primarily involving the retinal pigment epithelium
+R-HSA-2453855,LRAT esterifies RBP1:atROL and FACYLs to atREs,14791,Leber congenital amaurosis
+R-HSA-2465924,OPN1LW binds 11cRAL,0050679,blue cone monochromacy
+R-HSA-2464822,RDH12 reduces atRAL to atROL,10584,retinitis pigmentosa
+R-HSA-2454081,RDH5 oxidises 11cROL to 11cRAL,11105,fundus albipunctatus
+R-HSA-2466749,ABCA4 transports NRPE from photoreceptor outer segment membrane to cytosol,4448,macular degeneration
+R-HSA-9656891,OPN1SW binds 11cRAL,11661,blue color blindness
+R-HSA-9656893,OPN1MW binds 11cRAL,13909,red-green color blindness
+R-HSA-9656893,OPN1MW binds 11cRAL,0050679,blue cone monochromacy
+R-HSA-2464822,RDH12 reduces atRAL to atROL,14791,Leber congenital amaurosis
+R-HSA-2465924,OPN1LW binds 11cRAL,13910,red color blindness
+R-HSA-9656893,OPN1MW binds 11cRAL,0050572,cone-rod dystrophy
+R-HSA-2453863,STRA6 transports atROL from extracellular region to cytosol,10629,microphthalmia
+R-HSA-9686980,RB1 recruits APC/C:Cdh1 complex to SKP2,162,cancer
+R-HSA-9659820,RB1 translocates to the nucleus,162,cancer
+R-HSA-9018017,RB1 binds and inhibits E2F1/2/3:DP1/2 complexes,162,cancer
+R-HSA-9645694,p14ARF binds C1QBP,162,cancer
+R-HSA-5444516,Formation of MSH2:MSH6 Complex,9256,colorectal cancer
+R-HSA-5444511,Formation of MSH2:MSH3 Complex,9256,colorectal cancer
+R-HSA-5444511,Formation of MSH2:MSH3 Complex,1380,endometrial cancer
+R-HSA-5444523,Formation of MSH1:PMS2 Complex,9256,colorectal cancer
+R-HSA-9629470,NEIL3 cleaves 5-guanidinohydantoin,417,autoimmune hypersensitivity disease
+R-HSA-110243,Excision of 8-oxoguanine by OGG1 glycosylase,10652,Alzheimer's disease
+R-HSA-110243,Excision of 8-oxoguanine by OGG1 glycosylase,162,cancer
+R-HSA-110244,Excision of FapyG by OGG1 glycosylase,162,cancer
+R-HSA-9656947,OGG1beta translocates to mitochondria,162,cancer
+R-HSA-110235,OGG1 glycosylase mediated recognition and binding of an 8-oxoguanine opposite to a cytosine,10652,Alzheimer's disease
+R-HSA-110235,OGG1 glycosylase mediated recognition and binding of an 8-oxoguanine opposite to a cytosine,162,cancer
+R-HSA-110246,Cleavage of adenine mispaired with 8-oxoguanine by MUTYH,0050424,familial adenomatous polyposis
+R-HSA-110246,Cleavage of adenine mispaired with 8-oxoguanine by MUTYH,9256,colorectal cancer
+R-HSA-110246,Cleavage of adenine mispaired with 8-oxoguanine by MUTYH,162,cancer
+R-HSA-110237,MUTYH mediated recognition and binding of an adenine opposite to an 8-oxoguanine,0050424,familial adenomatous polyposis
+R-HSA-110237,MUTYH mediated recognition and binding of an adenine opposite to an 8-oxoguanine,9256,colorectal cancer
+R-HSA-110237,MUTYH mediated recognition and binding of an adenine opposite to an 8-oxoguanine,162,cancer
+R-HSA-5649658,NEIL1 cleaves DHU from damaged DNA,162,cancer
+R-HSA-5649664,NEIL1 cleaves FapyG from damaged DNA,162,cancer
+R-HSA-5649673,NEIL1 cleaves FapyA from damaged DNA,162,cancer
+R-HSA-9629149,NEIL1 cleaves thymine glycol from damaged DNA,162,cancer
+R-HSA-9629918,NEIL1 translocates to the nucleus,162,cancer
+R-HSA-110211,NTHL1 glycosylase mediated recognition and binding of thymine glycol,162,cancer
+R-HSA-110208,NTHL1 glycosylase mediated recognition and binding of cytosine glycol,162,cancer
+R-HSA-110213,NTHL1 glycosylase mediated recognition and binding of formamidopyrimidine (FapyA),162,cancer
+R-HSA-110212,NTHL1 glycosylase mediated recognition and binding of dihydrouracil,162,cancer
+R-HSA-110227,Cleavage of dihydrouracil by NTHL1 glycosylase,162,cancer
+R-HSA-110224,Cleavage of thymine glycol by NTHL1 glycosylase  ,162,cancer
+R-HSA-8986939,MECP2 binds the NCoR/SMRT complex,1206,Rett syndrome
+R-HSA-9022456,MECP2 binds 5mC-DNA,1206,Rett syndrome
+R-HSA-9006050,MECP2:SIN3A complex binds the promoter of the BDNF gene,1206,Rett syndrome
+R-HSA-8986937,MECP2 is phosphorylated at T308,1206,Rett syndrome
+R-HSA-9022453,MECP2 binds 5hmC-DNA,1206,Rett syndrome
+R-HSA-5682285,ABCA12 transports lipids from cytosol to extracellular region,1699,congenital ichthyosiform erythroderma
+R-HSA-5678261,KCNJ11:ABCC9 transports K+ from extracellular region to cytosol,420,hypertrichosis
+R-HSA-5678261,KCNJ11:ABCC9 transports K+ from extracellular region to cytosol,0050650,familial atrial fibrillation
+R-HSA-5678261,KCNJ11:ABCC9 transports K+ from extracellular region to cytosol,2256,osteochondrodysplasia
+R-HSA-5678261,KCNJ11:ABCC9 transports K+ from extracellular region to cytosol,12930,dilated cardiomyopathy
+R-HSA-265783,ABCG5:ABCG8 transports sterols from cytosol to extracellular region,3146,lipid metabolism disorder
+R-HSA-265783,ABCG5:ABCG8 transports sterols from cytosol to extracellular region,1936,atherosclerosis
+R-HSA-265783,ABCG5:ABCG8 transports sterols from cytosol to extracellular region,10211,cholelithiasis
+R-HSA-5678706,ABCB4 transports PC from plasma membrane to extracellular region,10211,cholelithiasis
+R-HSA-5678706,ABCB4 transports PC from plasma membrane to extracellular region,1852,intrahepatic cholestasis
+R-HSA-193362,ABCB11 transports bile salts from cytosol to extracellular region,1852,intrahepatic cholestasis
+R-HSA-5679041,"ABCC2 transports BMG,BDG from cytosol to extracellular region",12308,Dubin-Johnson syndrome
+R-HSA-1454916,The ABCC family mediates organic anion transport,2738,pseudoxanthoma elasticum
+R-HSA-216723,4xPALM-C-p-2S-ABCA1 tetramer transports CHOL from transport vesicle membrane to plasma membrane,1388,Tangier disease
+R-HSA-5678863,CFTR transports Cl- from cytosol to extracellular region,1485,cystic fibrosis
+R-HSA-8866542,VCP-catalyzed ATP hydrolysis promotes the translocation of misfolded CFTR into the cytosol,1485,cystic fibrosis
+R-HSA-8866553,misfolded CFTR is degraded by the 26S proteasome,1485,cystic fibrosis
+R-HSA-8866551,CFTR binds components of the ERAD machinery for ubiquitination and degradation,1485,cystic fibrosis
+R-HSA-8866546,RNF5 and RNF185 ubiquitinate misfolded CFTR,1485,cystic fibrosis
+R-HSA-382575,ABCD1-3 dimers transfer LCFAs from cytosol to peroxisomal matrix,10588,adrenoleukodystrophy
+R-HSA-1369065,ABCB6 transports porphyrin from cytosol to mitchondrial matrix,10629,microphthalmia
+R-HSA-265682,"KCNJ11 tetramer:ABCC8 tetramer binds 4xATP, closing the channel",13317,hyperinsulinemic hypoglycemia
+R-HSA-351963,SLC6A18 transports Gly from extracellular region to cytosol,9252,amino acid metabolic disorder
+R-HSA-428052,"SLC17A6,7,8 exchange cytosolic L-Glu for synaptic vesicle H+",0050564,autosomal dominant nonsyndromic deafness
+R-HSA-2514891,"SLC24A1 exchanges 4Na+ for Ca2+, K+",0050534,congenital stationary night blindness
+R-HSA-189242,"SLC2A2 tetramer transports Fru, Gal, Glc from cytosol to extracellular region",447,renal tubular transport disease
+R-HSA-388468,"AVP(20-28) binds AVPR1A,B",12388,neurohypophyseal diabetes insipidus
+R-HSA-429591,SLC5A5 cotransports Na+ with I- from extracellular region to cytosol,0050328,congenital hypothyroidism
+R-HSA-427645,"SLC34A3 cotransports Pi, 2Na+",0050445,X-linked hypophosphatemia
+R-HSA-352052,"SLC6A20 cotransports L-Pro, Na+ from the extracellular region to cytosol",9252,amino acid metabolic disorder
+R-HSA-442422,SLC39A1-4 transports Zn2+ from extracellular region to cytosol,0050605,acrodermatitis enteropathica
+R-HSA-444120,"SLC6A5,9 cotransport Gly, Cl-, Na+ from extracellular region to cytosol",936,brain disease
+R-HSA-375487,"SLC6A14 cotransports SLC6A14 ligands, Cl-, 2Na+ from extracellular region to cytosol",9970,obesity
+R-HSA-879528,SLCO2A1 transports PGT substrates from extracellular region to cytosol,14283,primary hypertrophic osteoarthropathy
+R-HSA-425983,"SLC9A6,7 exchange Na+ for H+ across the early endosome membrane",0050888,syndromic intellectual disability
+R-HSA-1237038,SLC4A1 exchanges cytosolic HCO3- for extracellular Cl-,12971,hereditary spherocytosis
+R-HSA-1237038,SLC4A1 exchanges cytosolic HCO3- for extracellular Cl-,583,hemolytic anemia
+R-HSA-1237038,SLC4A1 exchanges cytosolic HCO3- for extracellular Cl-,14219,renal tubular acidosis
+R-HSA-435349,"SLC11A2 cotransports Fe2+, H+ from extracellular region to cytosol",0050642,hypochromic microcytic anemia
+R-HSA-904830,SLC40A1:CP:6Cu2+ transports Fe2+ from cytosol to extracellular region,2352,hemochromatosis
+R-HSA-8878664,SLC4A4 cotransports Na+ with 3HCO3-,14219,renal tubular acidosis
+R-HSA-425678,"SLC24A1-4 exchange extracellular 4Na+ for cytosolic Ca2+, K+",2187,amelogenesis imperfecta
+R-HSA-425965,SLC9A9 exchanges Na+ for H+ across the late endosome membrane,12849,autistic disorder
+R-HSA-549297,"SLC22A4, 5,15,16 cotransport CAR, Na+ from extracellular region to cytosol",14365,systemic primary carnitine deficiency disease
+R-HSA-444416,RHAG transports NH4+ from cytosol to extracellular region (red blood cells),0050641,Rh deficiency syndrome
+R-HSA-429613,"SLC5As, NAGLT1 cotransport Glc and Na+ from extracellular region to cytosol",447,renal tubular transport disease
+R-HSA-5339524,GLUT1 (SLC2A1) tetramer transports Glc from extracellular region to cytosol,2481,infantile epileptic encephalopathy
+R-HSA-427656,"SLC34A1,2 cotransports HPO4(2-), 3Na+ from extracellular region to cytosol",0050336,hypophosphatemia
+R-HSA-427656,"SLC34A1,2 cotransports HPO4(2-), 3Na+ from extracellular region to cytosol",585,nephrolithiasis
+R-HSA-427656,"SLC34A1,2 cotransports HPO4(2-), 3Na+ from extracellular region to cytosol",447,renal tubular transport disease
+R-HSA-392263,AVP(20-28) binds AVPR2,12388,neurohypophyseal diabetes insipidus
+R-HSA-375405,"SLC36A2 cotransports Gly, L-Pro with H+ from extracellular region to cytosol",9252,amino acid metabolic disorder
+R-HSA-5627802,SLC26A4 transports I- from cytosol to extracellular region,12176,goiter
+R-HSA-5627802,SLC26A4 transports I- from cytosol to extracellular region,10003,sensorineural hearing loss
+R-HSA-429036,"SLC2A9 transports Fru, Glc, urate",447,renal tubular transport disease
+R-HSA-375473,"SLC6A19 cotransports neutral amino acids, Na+ from extracellular region to cytosol",1060,Hartnup disease
+R-HSA-429594,"SLC5A7 cotransports Cho, Cl-, Na+ from extracellular region to cytosol",2477,motor peripheral neuropathy
+R-HSA-597628,SLC22A18 exchanges extracellular organic cations for cytosolic H+,1324,lung cancer
+R-HSA-597628,SLC22A18 exchanges extracellular organic cations for cytosolic H+,3247,rhabdomyosarcoma
+R-HSA-428015,"SLC1A1,2,3,6,7 cotransport L-Glu,L-Asp,D-Asp,H+,3Na+ from extracellular region to cytosol",5419,schizophrenia
+R-HSA-428015,"SLC1A1,2,3,6,7 cotransport L-Glu,L-Asp,D-Asp,H+,3Na+ from extracellular region to cytosol",9252,amino acid metabolic disorder
+R-HSA-9645220,"SLC16A1:BSG cotransports monocarboxylates, H+ from extracellular region to cytosol",655,inherited metabolic disorder
+R-HSA-561253,SLC22A12 exchanges extracellular urate for cytosolic LACT,0060158,acquired metabolic disease
+R-HSA-429094,"SLC2A6,8,10,12 transport Glc from extracellular region to cytosol",0050645,arterial tortuosity syndrome
+R-HSA-9661799,SLCO1B3 transports BIL from extracellular region (blood) to cytosol (hepatocyte),2741,bilirubin metabolic disorder
+R-HSA-70420,"HK1,2,3,GCK phosphorylate Glc to form G6P",2861,congenital nonspherocytic hemolytic anemia
+R-HSA-428015,"SLC1A1,2,3,6,7 cotransport L-Glu,L-Asp,D-Asp,H+,3Na+ from extracellular region to cytosol",963,episodic ataxia
+R-HSA-727749,SLC29A3 transports nucleosides from lysosomal lumen to cytosol,3405,histiocytosis
+R-HSA-442368,SLC40A1:HEPH:6Cu2+ transports Fe2+ from cytosol to extracellular region,2352,hemochromatosis
+R-HSA-917891,SLC40A1:CP:6Cu2+ oxidises Fe2+ to Fe3+,0050711,aceruloplasminemia
+R-HSA-727759,SLC33A1 transports Ac-CoA from cytosol to Golgi lumen,1289,neurodegenerative disease
+R-HSA-727759,SLC33A1 transports Ac-CoA from cytosol to Golgi lumen,83,cataract
+R-HSA-727759,SLC33A1 transports Ac-CoA from cytosol to Golgi lumen,10003,sensorineural hearing loss
+R-HSA-727759,SLC33A1 transports Ac-CoA from cytosol to Golgi lumen,2476,hereditary spastic paraplegia
+R-HSA-428585,"SLC17A5 cotransports Neu5Ac, H+ from lysosomal lumen to cytosol",655,inherited metabolic disorder
+R-HSA-426155,"SLC12A4,5,6,7 cotransport K+, Cl- from cytosol to extracellular region",0060053,peripheral neuropathy
+R-HSA-5626316,"SLC24A5 exchanges cytosolic 4Na+ for Golgi luminal Ca2+, K+",0050632,oculocutaneous albinism
+R-HSA-727807,SLC35A1 exchanges CMP-Neu5Ac for CMP,0050571,congenital disorder of glycosylation type II
+R-HSA-379432,"SLC7A9:SLC3A1 exchanges L-Arg, CySS-, L-Lys for L-Leu",9266,cystinuria
+R-HSA-742345,SLC35C1 transport UDP-Fuc from cytosol to Golgi lumen,0050571,congenital disorder of glycosylation type II
+R-HSA-70420,"HK1,2,3,GCK phosphorylate Glc to form G6P",0050524,maturity-onset diabetes of the young
+R-HSA-735702,"SLC35A2 exchanges UDP-Gal, UDP-GalNAc for UMP",2481,infantile epileptic encephalopathy
+R-HSA-735702,"SLC35A2 exchanges UDP-Gal, UDP-GalNAc for UMP",0050571,congenital disorder of glycosylation type II
+R-HSA-427666,"SLC26A3,6 exchange Cl- for HCO3-",0050129,secretory diarrhea
+R-HSA-426130,"SLC12A3 cotransports Cl-, Na+ from extracellular region to cytosol",0050450,Gitelman syndrome
+R-HSA-379393,"SLC6A3 cotransports DA, Na+ from extracellular region to cytosol",1289,neurodegenerative disease
+R-HSA-741450,SLC35A3 exchanges UDP-GlcNAc for UMP,0060037,developmental disorder of mental health
+R-HSA-741450,SLC35A3 exchanges UDP-GlcNAc for UMP,1826,epilepsy syndrome
+R-HSA-741450,SLC35A3 exchanges UDP-GlcNAc for UMP,0050646,distal arthrogryposis
+R-HSA-379415,"SLC7A7:SLC3A2 exchanges L-Arg for L-Leu, Na+ across the plasma membrane",9252,amino acid metabolic disorder
+R-HSA-443997,"SLC6A2 cotransports NAd, Na+ from extracellular region to cytosol",9252,amino acid metabolic disorder
+R-HSA-879585,"SLC27A1,4,6 transport LCFAs from extracellular region to cytosol",0050737,autosomal recessive disease
+R-HSA-427605,"SLC20A1,2 cotransport Pi, Na+ from extracellular region to cytosol",10991,basal ganglia cerebrovascular disease
+R-HSA-9661397,SLCO1B1 transports BIL from extracellular region (blood) to cytosol (hepatocyte),2741,bilirubin metabolic disorder
+R-HSA-426086,"SLC12A1,2 cotransports Na+, K+, 2Cl- from extracellular region to cytosol",445,Bartter disease
+R-HSA-170796,NPC transports GCK1:GKRP from cytosol to nucleoplasm,3113,papillary carcinoma
+R-HSA-429613,"SLC5As, NAGLT1 cotransport Glc and Na+ from extracellular region to cytosol",10603,glucose intolerance
+R-HSA-9645672,p14ARF translocates to the nucleus,162,cancer
+R-HSA-182594,Association of INK4 family proteins with CDK4/6,162,cancer
+R-HSA-168140,Phospho-IKK Complex phosphorylates NFkB inhibitor within the NFkB inhibitor:NFkB complex,612,primary immunodeficiency disease
+R-HSA-9630923,NFkB inhibitor binds NFkB complex,627,severe combined immunodeficiency
+R-HSA-168929,Viral dsRNA:TLR3 recruits TRIF (TICAM1),612,primary immunodeficiency disease
+R-HSA-166082,IRAK4 binds to the activated TLR receptor:TIRAP:MyD88 complex,612,primary immunodeficiency disease
+R-HSA-5609665,"IKBKA, IKBKB and IKBKG form IKK complex",612,primary immunodeficiency disease
+R-HSA-937079,MyD88 oligomerization within the complex of activated TLR:TIRAP:MyD88,612,primary immunodeficiency disease
+R-HSA-166072,MyD88 forms a complex with TIRAP:activated TLR2/4,612,primary immunodeficiency disease
+R-HSA-975873,IRAK4 binds to MyD88 bound to the activated TLR5 or 10 receptor,612,primary immunodeficiency disease
+R-HSA-5609665,"IKBKA, IKBKB and IKBKG form IKK complex",627,severe combined immunodeficiency
+R-HSA-1678921,Full-length TLR3/7/8/9 binds to UNC93B1,612,primary immunodeficiency disease
+R-HSA-975880,MyD88 oligomerization within the complex of activated TLR:MyD88,612,primary immunodeficiency disease
+R-HSA-9013992,TRAF3 binds to TRIF:activated TLR3 complex,612,primary immunodeficiency disease
+R-HSA-168092,Viral dsRNA binds the Toll-Like Receptor 3 (TLR3),612,primary immunodeficiency disease
