@@ -1,0 +1,11 @@
+PathwayName,StartPathwayName,StartPoint,EndPathwayName,EndPoint
+Digestion and absorption,Digestion of dietary lipid,"=HYPERLINK(""https://reactome.org/content/detail/R-HSA-192430"",""Digestion of triacylglycerols by extracellular CEL (bile salt-dependent lipase)"")",Intestinal lipid absorption,"=HYPERLINK(""https://reactome.org/content/detail/R-HSA-265443"",""NPC1L1-mediated cholesterol uptake"")"
+Digestion and absorption,Digestion of dietary lipid,"=HYPERLINK(""https://reactome.org/content/detail/R-HSA-192475"",""Digestion of triacylglycerols by extracellular pancreatic lipase-related protein 2"")",Digestion of dietary lipid,"=HYPERLINK(""https://reactome.org/content/detail/R-HSA-192425"",""Digestion of monoacylglycerols by extracellular CEL (bile salt-dependent lipase)"")"
+Digestion and absorption,Digestion of dietary lipid,"=HYPERLINK(""https://reactome.org/content/detail/R-HSA-192422"",""Digestion of triacylglycerols by extracellular PTL:colipase"")",,
+Digestion and absorption,Digestion of dietary carbohydrate,"=HYPERLINK(""https://reactome.org/content/detail/R-HSA-191114"",""Digestion of branched starch (amylopectin) by extracellular amylase"")",,
+Digestion and absorption,Digestion of dietary carbohydrate,"=HYPERLINK(""https://reactome.org/content/detail/R-HSA-189062"",""lactose + H2O => D-glucose + D-galactose"")",,
+Digestion and absorption,Digestion of dietary lipid,"=HYPERLINK(""https://reactome.org/content/detail/R-HSA-192417"",""Digestion of cholesterol esters by extracellular CEL (bile salt-dependent lipase)"")",,
+Digestion and absorption,Digestion of dietary lipid,"=HYPERLINK(""https://reactome.org/content/detail/R-HSA-8979996"",""LIPs hydrolyze TG to DAG and LCFA"")",,
+Digestion and absorption,Digestion of dietary carbohydrate,"=HYPERLINK(""https://reactome.org/content/detail/R-HSA-188979"",""Digestion of linear starch (amylose) by extracellular amylase"")",,
+Digestion and absorption,Digestion of dietary carbohydrate,"=HYPERLINK(""https://reactome.org/content/detail/R-HSA-189069"",""sucrose + H2O => glucose + fructose"")",,
+Digestion and absorption,Digestion of dietary carbohydrate,"=HYPERLINK(""https://reactome.org/content/detail/R-HSA-188985"",""trehalose + H2O => 2 D-glucose"")",,
