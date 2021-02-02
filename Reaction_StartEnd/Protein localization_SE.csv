@@ -1,12 +1,12 @@
-PathwayName,StartPathwayName,StartPoint,EndPathwayName,EndPoint
-Protein localization,Mitochondrial protein import,"=HYPERLINK(""https://reactome.org/content/detail/R-HSA-1268022"",""TOMM40 complex translocates proteins from the cytosol to the mitochondrial intermembrane space"")",TYSND1 cleaves peroxisomal proteins,"=HYPERLINK(""https://reactome.org/content/detail/R-HSA-9033490"",""TYSND1 cleaves PHYH"")"
-Protein localization,Peroxisomal protein import,"=HYPERLINK(""https://reactome.org/content/detail/R-HSA-9033233"",""PEX5S,L binds cargo proteins containing PTS1"")",Insertion of tail-anchored proteins into the endoplasmic reticulum membrane,"=HYPERLINK(""https://reactome.org/content/detail/R-HSA-9617596"",""BAG6:GET4:UBL4A binds mislocalized membrane protein:SGTA and ASNA1:ATP"")"
-Protein localization,,,Mitochondrial protein import,"=HYPERLINK(""https://reactome.org/content/detail/R-HSA-1307802"",""MIA40:ERV1 (CHCHD4:GFER) oxidizes cysteine residues to cystine disulfide bonds"")"
-Protein localization,,,Mitochondrial protein import,"=HYPERLINK(""https://reactome.org/content/detail/R-HSA-8986181"",""PITRM1 proteolyzes mitochondrial targeting peptides (presequences)"")"
-Protein localization,,,TYSND1 cleaves peroxisomal proteins,"=HYPERLINK(""https://reactome.org/content/detail/R-HSA-9033530"",""TYSND1 cleaves HSD17B4"")"
-Protein localization,,,TYSND1 cleaves peroxisomal proteins,"=HYPERLINK(""https://reactome.org/content/detail/R-HSA-9033520"",""TYSND1 cleaves TYSND1"")"
-Protein localization,,,Mitochondrial protein import,"=HYPERLINK(""https://reactome.org/content/detail/R-HSA-1268025"",""SAM50 complex inserts proteins into mitochondrial outer membrane"")"
-Protein localization,,,TYSND1 cleaves peroxisomal proteins,"=HYPERLINK(""https://reactome.org/content/detail/R-HSA-9033529"",""TYSND1 cleaves ACAA1"")"
-Protein localization,,,TYSND1 cleaves peroxisomal proteins,"=HYPERLINK(""https://reactome.org/content/detail/R-HSA-9033506"",""TYSND1 cleaves AGPS"")"
-Protein localization,,,TYSND1 cleaves peroxisomal proteins,"=HYPERLINK(""https://reactome.org/content/detail/R-HSA-9033515"",""TYSND1 cleaves ACOX1"")"
-Protein localization,,,TYSND1 cleaves peroxisomal proteins,"=HYPERLINK(""https://reactome.org/content/detail/R-HSA-9033524"",""TYSND1 cleaves SCP2"")"
+PathwayName,StartPathwayName,StartPoint,StartPoint_in_Path?,EndPathwayName,EndPoint,EndPoint_in_Path?
+Protein localization,Peroxisomal protein import,"=HYPERLINK(""https://reactome.org/content/detail/R-HSA-9033233"",""PEX5S,L binds cargo proteins containing PTS1"")",Yes,TYSND1 cleaves peroxisomal proteins,"=HYPERLINK(""https://reactome.org/content/detail/R-HSA-9033529"",""TYSND1 cleaves ACAA1"")",Yes
+Protein localization,Mitochondrial protein import,"=HYPERLINK(""https://reactome.org/content/detail/R-HSA-1268022"",""TOMM40 complex translocates proteins from the cytosol to the mitochondrial intermembrane space"")",Yes,Mitochondrial protein import,"=HYPERLINK(""https://reactome.org/content/detail/R-HSA-1268025"",""SAM50 complex inserts proteins into mitochondrial outer membrane"")",Yes
+Protein localization,,,,TYSND1 cleaves peroxisomal proteins,"=HYPERLINK(""https://reactome.org/content/detail/R-HSA-9033520"",""TYSND1 cleaves TYSND1"")",Yes
+Protein localization,,,,Insertion of tail-anchored proteins into the endoplasmic reticulum membrane,"=HYPERLINK(""https://reactome.org/content/detail/R-HSA-9617596"",""BAG6:GET4:UBL4A binds mislocalized membrane protein:SGTA and ASNA1:ATP"")",No
+Protein localization,,,,TYSND1 cleaves peroxisomal proteins,"=HYPERLINK(""https://reactome.org/content/detail/R-HSA-9033506"",""TYSND1 cleaves AGPS"")",Yes
+Protein localization,,,,TYSND1 cleaves peroxisomal proteins,"=HYPERLINK(""https://reactome.org/content/detail/R-HSA-9033490"",""TYSND1 cleaves PHYH"")",Yes
+Protein localization,,,,TYSND1 cleaves peroxisomal proteins,"=HYPERLINK(""https://reactome.org/content/detail/R-HSA-9033524"",""TYSND1 cleaves SCP2"")",Yes
+Protein localization,,,,TYSND1 cleaves peroxisomal proteins,"=HYPERLINK(""https://reactome.org/content/detail/R-HSA-9033515"",""TYSND1 cleaves ACOX1"")",Yes
+Protein localization,,,,TYSND1 cleaves peroxisomal proteins,"=HYPERLINK(""https://reactome.org/content/detail/R-HSA-9033530"",""TYSND1 cleaves HSD17B4"")",Yes
+Protein localization,,,,Mitochondrial protein import,"=HYPERLINK(""https://reactome.org/content/detail/R-HSA-1307802"",""MIA40:ERV1 (CHCHD4:GFER) oxidizes cysteine residues to cystine disulfide bonds"")",Yes
+Protein localization,,,,Mitochondrial protein import,"=HYPERLINK(""https://reactome.org/content/detail/R-HSA-8986181"",""PITRM1 proteolyzes mitochondrial targeting peptides (presequences)"")",Yes
