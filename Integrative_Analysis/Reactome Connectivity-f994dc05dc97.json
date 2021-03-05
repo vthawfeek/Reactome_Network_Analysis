@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "reactome-connectivity",
+  "private_key_id": "f994dc05dc971a2ec6351a5aa68407bfcff96f0f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDRUy75YrrLwfGo\n5ts3ld7Cv/4um6bYKlQFLjDPxTLwnYE0brjqmlcy/+Pf8GAdEI4MXaTK1S4XvcIS\n7zyst/BR5NW1K4LQhpL9YisXCf1KCkAZ5x9+YyTvdrpYbo5FV+xdKObDajYcooaU\nztojO0a6htjLb8yNtk6koY+97K3W8lOZGGvYZHyjqSW/URaoSD7j0Mz3tWiMHmkM\nzgByRjLhSsL/A6ZRjgVbxHgDdeCWufyg+d6fZPohUfI1UVRgPpAOMixORWJ/GJZy\nnGP8KXDlAzfDJBu0OD7a/sG6ef4wR2JTQE9xpdF55FizDtQFg8PpNcZU9z03aIUG\nVrWPWhMXAgMBAAECggEAFVrlKfAWmn74xoB20N7rUPcBWYPrq5X16Glj9W5q2f1X\nlx/MobKJPty4RLpjM9PiigRrsX26LBXh3Minaf+B9vjfjJIZ0GhKSqtfNgSA4LLX\nA01++wfmVr/IFwmAXjawGHj5wenuB1HVZQ0NWBbOCm2DZI3NUo/MyiLpZTjmK01y\nMXSYxm+g7lCXrPVYNkGZsHLvMPVVqaPGIxDYtPAF6S6ZehkV9rtUYsmBgiHcsR7D\nVe2hBw/Slh2FNlF45HPPTpkVXIf/HBqMQ+8Wzlc6rewQx+6K1Sd7lIjT8fvDxc3T\nyaLxjb9x63/GlV3Bk3fMi+iOIbrv/9pzo1MJv/SO8QKBgQD7SsOxACZKCB2q1tGC\nLkZbQZSYx2eE8WQ7HCzmBfo+VJ9JSWIcR5JWHRn2BHkumDbMrLGMVcN32Ae7bSRL\nYNDGMOmWnqAjhfEZ6RsXQ7fGQ1gDr3TW7Ws182XnTW0axvsowEZ/6A3+teszQEr7\nSyABMt8yKX1Pnhy5pUK55oHwVQKBgQDVPyNnpDsop5X4vjAzUIJjl/MpjGhI4TNV\nkz4/9FkEghUgswF9Lk7hyCCn/heegXtIR4/2NunP3LLEw3p8U7baY71KgFhMhhIb\navmm3+FayxGjRKTTJYQHJImYibObmQVn7J7d+/ZVS3ODv6Lhy0LBRLsfwq0+5PAS\n1cHGF/JxuwKBgQD7KGiamgmq6J2uSHKx6EpNnyhD4tkmWJXTNn/xj3vjnHRvrTaw\nCSDLjN6Ls0DjPyNWQixalMV/HJ3tyFIEPMmtrOlqrzRjDNZDDWcUQ4yETn7DgDQJ\nNNZ438K0AgDQSJxyyGouIOML9wsS+Gl47Ecaq5vE6Q7j6qXPLsuYPjkU2QKBgAzO\nnfG7i1IFvpwR0BNE4o/YsGHubNTzsYGSNkrhAfejWGF+XriF73bf7hYozIJYhG7y\n3VKMOb6iIppuowyUeobjNpsi2iq+YpgC9Ltw9rfdOlHz7XJA7oz/RMREgOT3a7uy\nGlh6qXC191oSSFYHPxscZaCisIT2evSmodyj04vBAoGAdTjdlBB9zg30BVku+gPF\n91T5ALxJ1ZnnCzjg7w+x7NXIoXuSdXKXQf6hX3DHsk61zTWhtGDbzXGyFGyaLU5u\nQQ6+nKmgSKLiK26bCPT6Vi6DrMDqOUDD9l/zOp7ofAUlu5OspLRfeRbPSwjBlkub\nW/YD4A+OG+6KCDCLn1uVtqE=\n-----END PRIVATE KEY-----\n",
+  "client_email": "thawfeek-varusai@reactome-connectivity.iam.gserviceaccount.com",
+  "client_id": "112333865555814959811",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/thawfeek-varusai%40reactome-connectivity.iam.gserviceaccount.com"
+}

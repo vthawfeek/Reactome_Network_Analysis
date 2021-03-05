@@ -1,10 +1,29 @@
-PathwayName,StartPathwayName,StartPoint,StartPoint_in_Path?,StartPath_ID,EndPathwayName,EndPoint,EndPoint_in_Path?,EndPath_ID
-DNA Replication,CDC6 association with the ORC:origin complex,"=HYPERLINK(""https://reactome.org/content/detail/R-HSA-68637"",""CDC6 protein is synthesized under the control of E2F transcription factors"")",Yes,4,CDT1 association with the CDC6:ORC:origin complex,"=HYPERLINK(""https://reactome.org/content/detail/R-HSA-68825"",""Ubiquitinated geminin is degraded by the proteasome"")",Yes,[2]
-DNA Replication,CDT1 association with the CDC6:ORC:origin complex,"=HYPERLINK(""https://reactome.org/content/detail/R-HSA-68712"",""The geminin component of geminin:Cdt1 complexes is ubiquitinated, releasing Cdt1"")",Yes,2,Orc1 removal from chromatin,"=HYPERLINK(""https://reactome.org/content/detail/R-HSA-68948"",""Ubiquitinated Orc1 is degraded by the proteasome"")",Yes,"[4, 2, 3]"
-DNA Replication,Assembly of the ORC complex at the origin of replication,"=HYPERLINK(""https://reactome.org/content/detail/R-HSA-68595"",""Orc3 associates with Orc2 constitutively bound at origins of replication"")",Yes,3,CDK-mediated phosphorylation and removal of Cdc6,"=HYPERLINK(""https://reactome.org/content/detail/R-HSA-69016"",""Ubiquitinated Cdc6 is degraded by the proteasome"")",Yes,[4]
-DNA Replication,Unwinding of DNA,"=HYPERLINK(""https://reactome.org/content/detail/R-HSA-176956"",""Formation of GINS complex"")",Yes,1,Activation of the pre-replicative complex,"=HYPERLINK(""https://reactome.org/content/detail/R-HSA-68954"",""Mcm2-7 is phosphorylated by DDK"")",Yes,"[4, 2, 3]"
-DNA Replication,,,,,Processive synthesis on the lagging strand,"=HYPERLINK(""https://reactome.org/content/detail/R-HSA-69173"",""Joining of adjacent Okazaki fragments"")",Yes,"[4, 2, 3]"
-DNA Replication,,,,,Activation of the pre-replicative complex,"=HYPERLINK(""https://reactome.org/content/detail/R-HSA-69299"",""Cdt1 associates with geminin"")",Yes,"[4, 2, 3]"
-DNA Replication,,,,,Unwinding of DNA,"=HYPERLINK(""https://reactome.org/content/detail/R-HSA-169461"",""MCM8 mediated fork unwinding"")",Yes,"[4, 2, 3, 1]"
-DNA Replication,,,,,Unwinding of DNA,"=HYPERLINK(""https://reactome.org/content/detail/R-HSA-176942"",""Multiple proteins are localized at replication fork"")",Yes,[1]
-DNA Replication,,,,,Unwinding of DNA,"=HYPERLINK(""https://reactome.org/content/detail/R-HSA-169468"",""MCM2-7 mediated fork unwinding"")",Yes,"[4, 2, 3]"
+PathwayName,StartPathwayName,StartPoint,StartPoint_in_Path?,StartPath_ID,StartPoint_Count,EndPathwayName,EndPoint,EndPoint_in_Path?,EndPath_ID,EndPoint_Count,Longest_Short_Path
+DNA Replication,Unwinding of DNA,"=HYPERLINK(""https://reactome.org/content/detail/R-HSA-176956"",""Formation of GINS complex"")",Yes,1,2,Orc1 removal from chromatin,"=HYPERLINK(""https://reactome.org/content/detail/R-HSA-68948"",""Ubiquitinated Orc1 is degraded by the proteasome"")",Yes,"[3, 4, 2]",3,Orc3 associates with Orc2 constitutively bound at origins of replication
+DNA Replication,CDT1 association with the CDC6:ORC:origin complex,"=HYPERLINK(""https://reactome.org/content/detail/R-HSA-68712"",""The geminin component of geminin:Cdt1 complexes is ubiquitinated, releasing Cdt1"")",Yes,3,7,Unwinding of DNA,"=HYPERLINK(""https://reactome.org/content/detail/R-HSA-169461"",""MCM8 mediated fork unwinding"")",Yes,"[1, 3, 4, 2]",4,Orc5 associates with Orc3:Orc2:origin complexes
+DNA Replication,CDC6 association with the ORC:origin complex,"=HYPERLINK(""https://reactome.org/content/detail/R-HSA-68637"",""CDC6 protein is synthesized under the control of E2F transcription factors"")",Yes,4,7,Unwinding of DNA,"=HYPERLINK(""https://reactome.org/content/detail/R-HSA-169468"",""MCM2-7 mediated fork unwinding"")",Yes,"[3, 4, 2]",3,Orc4 associates with Orc5:Orc3:Orc2:origin complexes
+DNA Replication,Assembly of the ORC complex at the origin of replication,"=HYPERLINK(""https://reactome.org/content/detail/R-HSA-68595"",""Orc3 associates with Orc2 constitutively bound at origins of replication"")",Yes,2,6,CDK-mediated phosphorylation and removal of Cdc6,"=HYPERLINK(""https://reactome.org/content/detail/R-HSA-69016"",""Ubiquitinated Cdc6 is degraded by the proteasome"")",Yes,[4],1,Orc1 associates with Orc4:Orc5:Orc3:Orc2:origin complexes
+DNA Replication,,,,,-,Processive synthesis on the lagging strand,"=HYPERLINK(""https://reactome.org/content/detail/R-HSA-69173"",""Joining of adjacent Okazaki fragments"")",Yes,"[3, 4, 2]",3,"Orc6 associates with Orc1:Orc4:Orc5:Orc3:Orc2:origin complexes, forming ORC:origin complexes"
+DNA Replication,,,,,-,CDT1 association with the CDC6:ORC:origin complex,"=HYPERLINK(""https://reactome.org/content/detail/R-HSA-68825"",""Ubiquitinated geminin is degraded by the proteasome"")",Yes,[3],1,Association of MCM8 with ORC:origin complex
+DNA Replication,,,,,-,Activation of the pre-replicative complex,"=HYPERLINK(""https://reactome.org/content/detail/R-HSA-68954"",""Mcm2-7 is phosphorylated by DDK"")",Yes,"[3, 4, 2]",3,CDC6 association with ORC:origin complexes mediated by MCM8
+DNA Replication,,,,,-,Activation of the pre-replicative complex,"=HYPERLINK(""https://reactome.org/content/detail/R-HSA-69299"",""Cdt1 associates with geminin"")",Yes,"[3, 4, 2]",3,Free CDT1 associates with CDC6:ORC:origin complexes
+DNA Replication,,,,,-,Unwinding of DNA,"=HYPERLINK(""https://reactome.org/content/detail/R-HSA-176942"",""Multiple proteins are localized at replication fork"")",Yes,[1],1,"Mcm2-7 associates with the Cdt1:CDC6:ORC:origin complex, forming the pre-replicative complex (preRC)"
+DNA Replication,,,,,-,,,,,,"Mcm10 associates with the pre-replicative complex, stabilizing Mcm2-7"
+DNA Replication,,,,,-,,,,,,Cdt1 is displaced from the pre-replicative complex.
+DNA Replication,,,,,-,,,,,,CDK and DDK associate with the Mcm10:pre-replicative complex
+DNA Replication,,,,,-,,,,,,Cdc45 associates with the pre-replicative complex at the origin
+DNA Replication,,,,,-,,,,,,DNA Replication Factor A (RPA) associates with the pre-replicative complex at the origin
+DNA Replication,,,,,-,,,,,,DNA polymerase alpha:primase binds at the origin
+DNA Replication,,,,,-,,,,,,The primase component of DNA polymerase:primase synthesizes a 6-10 nucleotide RNA primer at the origin
+DNA Replication,,,,,-,,,,,,The polymerase component of DNA polymerase alpha:primase synthesizes a 20-nucleotide primer at the origin
+DNA Replication,,,,,-,,,,,,RFC binding displaces Pol Alpha
+DNA Replication,,,,,-,,,,,,Loading of PCNA - Sliding Clamp Formation
+DNA Replication,,,,,-,,,,,,RFC dissociates after sliding clamp formation
+DNA Replication,,,,,-,,,,,,Formation of Processive Complex
+DNA Replication,,,,,-,,,,,,Formation of Okazaki fragments
+DNA Replication,,,,,-,,,,,,Formation of the Flap Intermediate
+DNA Replication,,,,,-,,,,,,RPA binds to the Flap
+DNA Replication,,,,,-,,,,,,Recruitment of Dna2 endonuclease
+DNA Replication,,,,,-,,,,,,Removal of RNA primer and dissociation of RPA and Dna2
+DNA Replication,,,,,-,,,,,,Removal of remaining Flap
+DNA Replication,,,,,-,,,,,,Joining of adjacent Okazaki fragments
