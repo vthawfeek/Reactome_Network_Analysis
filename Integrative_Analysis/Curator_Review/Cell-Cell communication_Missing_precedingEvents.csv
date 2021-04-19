@@ -1,2 +1,2 @@
-First_Reaction,Second_Reaction,Second_Reaction_Author,SBGN_Status,Cyclic?,Expected_Release,Review_Status,Approved/Rejected,Reasons_for_Rejection,Other_Comments
-"=HYPERLINK(""https://reactome.org/content/detail/R-HSA-391157"",""p-4Y-SIRPA:CD47 binds SKAP2"")","=HYPERLINK(""https://reactome.org/content/detail/R-HSA-391151"",""p-4Y-SIRPA:CD47:SKAP2 binds FYB"")","Garapati, P V",Same,False,,,,,
+First_Reaction_Name,First_Reaction_ID,Second_Reaction_Name,Second_Reaction_ID,Second_Reaction_Author,ReactionsInSameDiagram?,IsCyclic?,Approved/Rejected,Reasons_for_Rejection,Other_Comments
+"=HYPERLINK(""https://reactome.org/content/detail/R-HSA-391157"",""p-4Y-SIRPA:CD47 binds SKAP2"")",391157,"=HYPERLINK(""https://reactome.org/content/detail/R-HSA-391151"",""p-4Y-SIRPA:CD47:SKAP2 binds FYB"")",391151,"Garapati, P V",Yes,False,,,
